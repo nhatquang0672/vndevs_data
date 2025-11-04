@@ -1,0 +1,6 @@
+[{"id":10010,"rewardId":1001,"boxType":0,"reward":[{"number":1,"resId":101801},{"number":1,"resId":101710}]},
+{"id":10011,"rewardId":1001,"boxType":1,"reward":[{"number":10,"resId":4},{"number":2,"resId":101710}]},
+{"id":10012,"rewardId":1001,"boxType":2,"reward":[{"number":20,"resId":4},{"number":3,"resId":101710}]},
+{"id":10013,"rewardId":1002,"boxType":0,"reward":[{"number":1,"resId":101801},{"number":1,"resId":101710}]},
+{"id":10014,"rewardId":1002,"boxType":1,"reward":[{"number":10,"resId":4},{"number":2,"resId":101710}]},
+{"id":10015,"rewardId":1002,"boxType":2,"reward":[{"number":20,"resId":4},{"number":3,"resId":101710}]}]

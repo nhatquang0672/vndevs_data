@@ -1,0 +1,6 @@
+[{"id":1,"range":[1,1],"reward":[{"number":2000,"quality":0,"resId":4},{"number":1,"quality":6,"resId":201100}]},
+{"id":2,"range":[2,2],"reward":[{"number":1500,"quality":0,"resId":4},{"number":1,"quality":5,"resId":201100}]},
+{"id":3,"range":[3,3],"reward":[{"number":1000,"quality":0,"resId":4},{"number":1,"quality":4,"resId":201100}]},
+{"id":4,"range":[4,10],"reward":[{"number":800,"quality":0,"resId":4},{"number":2,"quality":3,"resId":201100}]},
+{"id":5,"range":[11,20],"reward":[{"number":500,"quality":0,"resId":4},{"number":1,"quality":3,"resId":201100}]},
+{"id":6,"range":[21,50],"reward":[{"number":100,"quality":0,"resId":4},{"number":1000,"quality":0,"resId":2}]}]

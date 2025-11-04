@@ -1,0 +1,10 @@
+[{"resId":11001,"page":0,"process":20,"reward":11010},
+{"resId":11002,"page":0,"process":40,"reward":11020},
+{"resId":11003,"page":0,"process":60,"reward":11030},
+{"resId":11004,"page":0,"process":80,"reward":11040},
+{"resId":11005,"page":0,"process":100,"reward":11050},
+{"resId":21001,"page":1,"process":20,"reward":12010},
+{"resId":21002,"page":1,"process":40,"reward":12020},
+{"resId":21003,"page":1,"process":60,"reward":12030},
+{"resId":21004,"page":1,"process":80,"reward":12040},
+{"resId":21005,"page":1,"process":100,"reward":12050}]

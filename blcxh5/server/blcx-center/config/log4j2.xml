@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="INFO">
+    <Appenders>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />
+        </Console>
+        <RollingFile name="RollingFile" fileName="log/log.log"
+                     filePattern="log/log.log.%d{yyyy-MM-dd}_%i" immediateFlush="true">
+            <PatternLayout>
+                <Pattern>%d{yy-MM-dd HH:mm:ss,SSS} %z %t %-5p %M %c{1}[%LL] - %m%n
+                </Pattern>
+            </PatternLayout>
+            <Policies>
+                <TimeBasedTriggeringPolicy />
+                <SizeBasedTriggeringPolicy size="100 MB" />
+            </Policies>
+        </RollingFile>
+        <RollingFile name="trackLogger"
+                     fileName="track/track.log"
+                     filePattern="track/track.log.%d{yyyy-MM-dd}_%i"
+                     immediateFlush="true">
+            <PatternLayout>
+                <Pattern>%m%n
+                </Pattern>
+            </PatternLayout>
+            <Policies>
+                <TimeBasedTriggeringPolicy />
+                <SizeBasedTriggeringPolicy size="1000 MB" />
+            </Policies>
+        </RollingFile>
+
+        <RollingFile name="clientLogger"
+                     fileName="clientLog/log.log"
+                     filePattern="clientLog/log.log.%d{yyyy-MM-dd}_%i"
+                     immediateFlush="true">
+            <PatternLayout>
+                <Pattern>%m%n
+                </Pattern>
+            </PatternLayout>
+            <Policies>
+                <TimeBasedTriggeringPolicy />
+                <SizeBasedTriggeringPolicy size="1000 MB" />
+            </Policies>
+        </RollingFile>
+
+    </Appenders>
+
+    <Loggers>
+        <Logger name="TrackRouter" additivity="false" level="INFO">
+            <!--<appender-ref ref="sendCodeFile" level="INFO" /> -->
+            <AppenderRef ref="trackLogger" level="INFO" />
+        </Logger>
+        <Logger name="ClientLogRouter" additivity="false" level="INFO">
+            <!--<appender-ref ref="sendCodeFile" level="INFO" /> -->
+            <AppenderRef ref="clientLogger" level="INFO" />
+        </Logger>
+        <Root level="info">
+            <AppenderRef ref="RollingFile" />
+            <AppenderRef ref="Console" />
+        </Root>
+    </Loggers>
+</Configuration>

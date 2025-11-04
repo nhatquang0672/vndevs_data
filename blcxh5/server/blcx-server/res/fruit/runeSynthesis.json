@@ -1,0 +1,12 @@
+[{"resId":1,"quality":1,"phase":0,"needQuality":0,"needPhase":0,"number":0},
+{"resId":2,"quality":2,"phase":0,"needQuality":1,"needPhase":0,"number":3},
+{"resId":3,"quality":3,"phase":0,"needQuality":2,"needPhase":0,"number":3},
+{"resId":4,"quality":4,"phase":0,"needQuality":3,"needPhase":0,"number":3},
+{"resId":5,"quality":4,"phase":1,"needQuality":4,"needPhase":0,"number":2},
+{"resId":6,"quality":4,"phase":2,"needQuality":4,"needPhase":1,"number":2},
+{"resId":7,"quality":5,"phase":0,"needQuality":4,"needPhase":2,"number":2},
+{"resId":8,"quality":5,"phase":1,"needQuality":5,"needPhase":0,"number":2},
+{"resId":9,"quality":5,"phase":2,"needQuality":5,"needPhase":1,"number":2},
+{"resId":10,"quality":5,"phase":3,"needQuality":5,"needPhase":2,"number":2},
+{"resId":11,"quality":6,"phase":0,"needQuality":5,"needPhase":3,"number":2},
+{"resId":12,"quality":6,"phase":1,"needQuality":6,"needPhase":0,"number":2}]

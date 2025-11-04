@@ -1,0 +1,169 @@
+Error: Unable to access jarfile blcx-server.-jar
+Error: Unable to access jarfile blcx-server.-jar
+WARNING: sun.reflect.Reflection.getCallerClass is not supported. This will impact performance.
+22:19:37.536 [main] INFO  com.xkhy.blcx.BlcxServerMain - 根目录：/home/server/blcx-server/
+22:19:37.537 [main] INFO  com.xkhy.blcx.BlcxServerMain - 运行目录：/home/server/blcx-server
+22:19:37.537 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【Properties】.......................start
+22:19:37.540 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【Properties】.......................end
+22:19:37.541 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【热部署】.......................start
+22:19:37.542 [main] ERROR com.cca.core.config.print.SystemPrintStream - java.lang.Exception: 为了支持热更新，请在JVM 启动参数中设置 -Djdk.attach.allowAttachSelf=true
+22:19:37.543 [main] ERROR com.cca.core.config.print.SystemPrintStream - 	at org.cca.agent.AgentManage.init(AgentManage.java:39)
+22:19:37.543 [main] ERROR com.cca.core.config.print.SystemPrintStream - 	at org.cca.agent.AgentManage.init(AgentManage.java:106)
+22:19:37.543 [main] ERROR com.cca.core.config.print.SystemPrintStream - 	at com.xkhy.blcx.BlcxServerMain.lambda$init$11(BlcxServerMain.java:218)
+22:19:37.543 [main] ERROR com.cca.core.config.print.SystemPrintStream - 	at com.xkhy.blcx.BlcxServerMain.initItem(BlcxServerMain.java:201)
+22:19:37.543 [main] ERROR com.cca.core.config.print.SystemPrintStream - 	at com.xkhy.blcx.BlcxServerMain.init(BlcxServerMain.java:217)
+22:19:37.543 [main] ERROR com.cca.core.config.print.SystemPrintStream - 	at com.xkhy.blcx.BlcxServerMain.start(BlcxServerMain.java:81)
+22:19:37.543 [main] ERROR com.cca.core.config.print.SystemPrintStream - 	at com.xkhy.blcx.BlcxServerMain.main(BlcxServerMain.java:77)
+22:19:37.549 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【热部署】.......................end
+22:19:37.550 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【操作类型】.......................start
+22:19:37.550 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【操作类型】.......................end
+22:19:37.551 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【数据库连接池】.......................start
+22:19:37.567 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+22:19:38.150 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+22:19:38.151 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+22:19:38.194 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+22:19:38.194 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【数据库连接池】.......................end
+22:19:38.194 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【资源配置】.......................start
+22:19:38.195 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON=============
+2025-02-18 22:19:38,214 main WARN No Log4j 2 configuration file found. Using default configuration (logging only errors to the console), or user programmatically provided configurations. Set system property 'log4j2.debug' to show Log4j 2 internal initialization logging. See https://logging.apache.org/log4j/2.x/manual/configuration.html for instructions on how to configure Log4j 2
+22:19:38.534 [main] ERROR com.cca.core.service.json.loader.GeneralJsonLoader - 
+java.lang.Exception: 类[com.xkhy.blcx.domain.res.res.item.ItemRes]字段[useType]在[item.json]中没有,如果不是json录入字段可以加transient修饰符
+	at com.cca.core.service.json.loader.GeneralJsonLoader.checkClass(GeneralJsonLoader.java:341) ~[blcx-server.jar:?]
+	at com.cca.core.service.json.loader.GeneralJsonLoader.valueToObject(GeneralJsonLoader.java:526) ~[blcx-server.jar:?]
+	at com.cca.core.service.json.loader.GeneralJsonLoader.valueToMap(GeneralJsonLoader.java:421) ~[blcx-server.jar:?]
+	at com.cca.core.service.json.loader.JsonDataManager.loadItem(JsonDataManager.java:78) ~[blcx-server.jar:?]
+	at com.cca.core.service.json.loader.JsonDataManager.loadAll(JsonDataManager.java:22) ~[blcx-server.jar:?]
+	at com.xkhy.blcx.domain.res.ResLoaderManager.loadAll(ResLoaderManager.java:46) ~[blcx-server.jar:?]
+	at com.xkhy.blcx.BlcxServerMain.lambda$init$14(BlcxServerMain.java:233) ~[blcx-server.jar:?]
+	at com.xkhy.blcx.BlcxServerMain.initItem(BlcxServerMain.java:201) ~[blcx-server.jar:?]
+	at com.xkhy.blcx.BlcxServerMain.init(BlcxServerMain.java:232) ~[blcx-server.jar:?]
+	at com.xkhy.blcx.BlcxServerMain.start(BlcxServerMain.java:81) ~[blcx-server.jar:?]
+	at com.xkhy.blcx.BlcxServerMain.main(BlcxServerMain.java:77) ~[blcx-server.jar:?]
+22:19:38.534 [main] ERROR com.cca.core.service.json.loader.GeneralJsonLoader - 
+java.lang.Exception: 类[com.xkhy.blcx.domain.res.res.item.ItemRes]字段[effects]在[item.json]中没有,如果不是json录入字段可以加transient修饰符
+	at com.cca.core.service.json.loader.GeneralJsonLoader.checkClass(GeneralJsonLoader.java:341) ~[blcx-server.jar:?]
+	at com.cca.core.service.json.loader.GeneralJsonLoader.valueToObject(GeneralJsonLoader.java:526) ~[blcx-server.jar:?]
+	at com.cca.core.service.json.loader.GeneralJsonLoader.valueToMap(GeneralJsonLoader.java:421) ~[blcx-server.jar:?]
+	at com.cca.core.service.json.loader.JsonDataManager.loadItem(JsonDataManager.java:78) ~[blcx-server.jar:?]
+	at com.cca.core.service.json.loader.JsonDataManager.loadAll(JsonDataManager.java:22) ~[blcx-server.jar:?]
+	at com.xkhy.blcx.domain.res.ResLoaderManager.loadAll(ResLoaderManager.java:46) ~[blcx-server.jar:?]
+	at com.xkhy.blcx.BlcxServerMain.lambda$init$14(BlcxServerMain.java:233) ~[blcx-server.jar:?]
+	at com.xkhy.blcx.BlcxServerMain.initItem(BlcxServerMain.java:201) ~[blcx-server.jar:?]
+	at com.xkhy.blcx.BlcxServerMain.init(BlcxServerMain.java:232) ~[blcx-server.jar:?]
+	at com.xkhy.blcx.BlcxServerMain.start(BlcxServerMain.java:81) ~[blcx-server.jar:?]
+	at com.xkhy.blcx.BlcxServerMain.main(BlcxServerMain.java:77) ~[blcx-server.jar:?]
+22:19:39.380 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON需要【1185】毫秒=============
+22:19:39.384 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON=============
+22:19:39.392 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON需要【8】毫秒=============
+22:19:39.393 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON=============
+22:19:39.405 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON需要【12】毫秒=============
+22:19:39.404 [main] ERROR com.xkhy.blcx.domain.res.DefaultJsonLoader - 
+java.lang.Exception: 类[com.xkhy.blcx.domain.res.res.activity.DailyRechargePlanRes]字段[name]在[dailyRechargePlan.json]中没有,如果不是json录入字段可以加transient修饰符
+	at com.cca.core.service.json.loader.GeneralJsonLoader.checkClass(GeneralJsonLoader.java:341) ~[blcx-server.jar:?]
+	at com.xkhy.blcx.domain.res.DefaultJsonLoader.valueToObject(DefaultJsonLoader.java:189) ~[blcx-server.jar:?]
+	at com.xkhy.blcx.domain.res.DefaultJsonLoader.valueToMap(DefaultJsonLoader.java:114) ~[blcx-server.jar:?]
+	at com.xkhy.blcx.domain.res.ResJsonDataManager.loadItem(ResJsonDataManager.java:107) ~[blcx-server.jar:?]
+	at com.xkhy.blcx.domain.res.ResJsonDataManager.loadAll(ResJsonDataManager.java:38) ~[blcx-server.jar:?]
+	at com.xkhy.blcx.domain.res.ResLoaderManager.loadAll(ResLoaderManager.java:78) ~[blcx-server.jar:?]
+	at com.xkhy.blcx.domain.res.ResManagerCollection.loadAll(ResManagerCollection.java:61) ~[blcx-server.jar:?]
+	at com.xkhy.blcx.BlcxServerMain.lambda$init$14(BlcxServerMain.java:234) ~[blcx-server.jar:?]
+	at com.xkhy.blcx.BlcxServerMain.initItem(BlcxServerMain.java:201) ~[blcx-server.jar:?]
+	at com.xkhy.blcx.BlcxServerMain.init(BlcxServerMain.java:232) ~[blcx-server.jar:?]
+	at com.xkhy.blcx.BlcxServerMain.start(BlcxServerMain.java:81) ~[blcx-server.jar:?]
+	at com.xkhy.blcx.BlcxServerMain.main(BlcxServerMain.java:77) ~[blcx-server.jar:?]
+22:19:39.413 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON=============
+22:19:39.417 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON需要【4】毫秒=============
+22:19:39.417 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON=============
+22:19:39.420 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON需要【3】毫秒=============
+22:19:39.420 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON=============
+22:19:39.423 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON需要【3】毫秒=============
+22:19:39.424 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON=============
+22:19:39.430 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON需要【6】毫秒=============
+22:19:39.434 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON=============
+22:19:39.439 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON需要【5】毫秒=============
+22:19:39.440 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【资源配置】.......................end
+22:19:39.440 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【后台礼包码】.......................start
+22:19:39.464 [main] INFO  com.xkhy.blcx.domain.model.game.backgroundGiftCode.dao.BackgroundGiftCodeDao - 
+java.sql.SQLSyntaxErrorException: Table 'blcx_game.backgroundgiftcode' doesn't exist
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.StatementImpl.executeQuery(StatementImpl.java:1200) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.pool.ProxyStatement.executeQuery(ProxyStatement.java:110) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.pool.HikariProxyStatement.executeQuery(HikariProxyStatement.java) ~[blcx-server.jar:?]
+	at com.cca.core.model.db.AbstractDao.selectList(AbstractDao.java:30) ~[blcx-server.jar:?]
+	at com.xkhy.blcx.BlcxServerMain.lambda$init$15(BlcxServerMain.java:239) ~[blcx-server.jar:?]
+	at com.xkhy.blcx.BlcxServerMain.initItem(BlcxServerMain.java:201) ~[blcx-server.jar:?]
+	at com.xkhy.blcx.BlcxServerMain.init(BlcxServerMain.java:238) ~[blcx-server.jar:?]
+	at com.xkhy.blcx.BlcxServerMain.start(BlcxServerMain.java:81) ~[blcx-server.jar:?]
+	at com.xkhy.blcx.BlcxServerMain.main(BlcxServerMain.java:77) ~[blcx-server.jar:?]
+22:19:39.465 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【后台礼包码】.......................end
+22:19:39.465 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【敏感字库初始化】.......................start
+22:19:39.766 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【敏感字库初始化】.......................end
+22:19:39.767 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【全服邮件】.......................start
+22:19:39.774 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【全服邮件】.......................end
+22:19:39.774 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【任务监听】.......................start
+22:19:39.780 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【任务监听】.......................end
+22:19:39.780 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【任务系统】.......................start
+22:19:41.774 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【任务系统】.......................end
+22:19:41.775 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【红点系统】.......................start
+22:19:42.752 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【红点系统】.......................end
+22:19:42.752 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【功能入口显示系统】.......................start
+22:19:43.738 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【功能入口显示系统】.......................end
+22:19:43.739 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【事件系统】.......................start
+22:19:44.714 [main] INFO  com.xkhy.blcx.service.system.event.EventDispatcher - 事件监听初始化完成
+22:19:44.714 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【事件系统】.......................end
+22:19:44.714 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【副本数据】.......................start
+22:19:44.767 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【副本数据】.......................end
+22:19:44.767 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【奇遇大厅】.......................start
+22:19:44.771 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【奇遇大厅】.......................end
+22:19:44.772 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【游戏日志】.......................start
+22:19:44.773 [main] INFO  com.xkhy.blcx.domain.collection.LogCollection - 日志保存线程启动
+22:19:44.774 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【游戏日志】.......................end
+22:19:46.836 [main] INFO  com.hazelcast.config.ClasspathXmlConfig - Configuring Hazelcast from 'config/cluster.xml'.
+22:19:47.315 [main] INFO  com.xkhy.blcx.BlcxServerMain - 
+import com.cca.core.network.server.EventRouter;
+public class BlcxServer5EventRouter {
+	private static final String BLCX_SERVER_5 = "BLCX_SERVER_5";
+	public static final EventRouter BATTLE_LOG = new EventRouter(BLCX_SERVER_5, 937878288);
+	public static final EventRouter CHANGE_NAME_LOG = new EventRouter(BLCX_SERVER_5, 2026954093);
+	public static final EventRouter COIN_LOG = new EventRouter(BLCX_SERVER_5, 1030045111);
+	public static final EventRouter END_LOG = new EventRouter(BLCX_SERVER_5, 954777457);
+	public static final EventRouter ENERGY_LOG = new EventRouter(BLCX_SERVER_5, 1122947392);
+	public static final EventRouter EQUIP_LOG = new EventRouter(BLCX_SERVER_5, 919747428);
+	public static final EventRouter EXP_LOG = new EventRouter(BLCX_SERVER_5, 1160437713);
+	public static final EventRouter FRIEND_ADD = new EventRouter(BLCX_SERVER_5, 1424931809);
+	public static final EventRouter FRIEND_APPLY = new EventRouter(BLCX_SERVER_5, 1201361100);
+	public static final EventRouter FRIEND_BLACK = new EventRouter(BLCX_SERVER_5, 1366218051);
+	public static final EventRouter FRIEND_DETAIL = new EventRouter(BLCX_SERVER_5, 1603970657);
+	public static final EventRouter FRIEND_LIKE = new EventRouter(BLCX_SERVER_5, 1434136795);
+	public static final EventRouter FRIEND_MESSAGE_UPDATE = new EventRouter(BLCX_SERVER_5, 742285362);
+	public static final EventRouter FRIEND_ONLINE_UPDATE = new EventRouter(BLCX_SERVER_5, 1674424682);
+	public static final EventRouter FRIEND_REFUSE = new EventRouter(BLCX_SERVER_5, 1962786690);
+	public static final EventRouter FRIEND_REMOVE = new EventRouter(BLCX_SERVER_5, 934482418);
+	public static final EventRouter FRIEND_SEARCH = new EventRouter(BLCX_SERVER_5, 1180166294);
+	public static final EventRouter FRIEND_SEND_END = new EventRouter(BLCX_SERVER_5, 177534863);
+	public static final EventRouter GEM_LOG = new EventRouter(BLCX_SERVER_5, 1867279613);
+	public static final EventRouter ITEM_LOG = new EventRouter(BLCX_SERVER_5, 1943137483);
+	public static final EventRouter LEVEL_LOG = new EventRouter(BLCX_SERVER_5, 759113032);
+	public static final EventRouter LOGIN_LOG = new EventRouter(BLCX_SERVER_5, 1610185117);
+	public static final EventRouter LOGIN_OUT_LOG = new EventRouter(BLCX_SERVER_5, 244752861);
+	public static final EventRouter MAIL_LOG = new EventRouter(BLCX_SERVER_5, 1031761041);
+	public static final EventRouter RECHARGE = new EventRouter(BLCX_SERVER_5, 2142189842);
+	public static final EventRouter ROLE_ATTR_UPDATE = new EventRouter(BLCX_SERVER_5, 906489816);
+	public static final EventRouter ROLE_ITEM_UPDATE = new EventRouter(BLCX_SERVER_5, 2024654278);
+	public static final EventRouter RUNE_LOG = new EventRouter(BLCX_SERVER_5, 1114042866);
+	public static final EventRouter SELECT_ROLE = new EventRouter(BLCX_SERVER_5, 1663035386);
+	public static final EventRouter SEND_GIFT_CODE = new EventRouter(BLCX_SERVER_5, 1281286419);
+	public static final EventRouter SEND_MAIL = new EventRouter(BLCX_SERVER_5, 423171545);
+	public static final EventRouter SEND_RANK_REWARD = new EventRouter(BLCX_SERVER_5, 1764021723);
+}
+22:19:47.319 [vert.x-worker-thread-0] WARN  com.hazelcast.instance.impl.HazelcastInstanceFactory - Hazelcast is starting in a Java modular environment (Java 9 and newer) but without proper access to required Java packages. Use additional Java arguments to provide Hazelcast access to Java internal API. The internal API access is used to get the best performance results. Arguments to be used:
+ --add-modules java.se --add-exports java.base/jdk.internal.ref=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/java.nio=ALL-UNNAMED --add-opens java.base/sun.nio.ch=ALL-UNNAMED --add-opens java.management/sun.management=ALL-UNNAMED --add-opens jdk.management/com.sun.management.internal=ALL-UNNAMED
+22:19:47.358 [vert.x-worker-thread-0] INFO  com.hazelcast.instance.AddressPicker - [LOCAL] [BLCX] [4.2.6] Interfaces is disabled, trying to pick one address from TCP-IP config addresses: [10.21.210.122]
+22:19:47.359 [vert.x-worker-thread-0] WARN  com.hazelcast.instance.AddressPicker - [LOCAL] [BLCX] [4.2.6] Could not find a matching address to start with! Picking one of non-loopback addresses.
+22:19:47.381 [vert.x-worker-thread-0] INFO  com.hazelcast.system - [10.0.12.10]:5702 [BLCX] [4.2.6] Hazelcast 4.2.6 (20221125 - 622d299) starting at [10.0.12.10]:5702
+22:19:47.751 [vert.x-worker-thread-0] INFO  com.hazelcast.instance.impl.Node - [10.0.12.10]:5702 [BLCX] [4.2.6] Using TCP/IP discovery
+22:19:47.752 [vert.x-worker-thread-0] WARN  com.hazelcast.cp.CPSubsystem - [10.0.12.10]:5702 [BLCX] [4.2.6] CP Subsystem is not enabled. CP data structures will operate in UNSAFE mode! Please note that UNSAFE mode will not provide strong consistency guarantees.
+22:19:47.926 [vert.x-worker-thread-0] INFO  com.hazelcast.internal.diagnostics.Diagnostics - [10.0.12.10]:5702 [BLCX] [4.2.6] Diagnostics disabled. To enable add -Dhazelcast.diagnostics.enabled=true to the JVM arguments.
+22:19:47.930 [vert.x-worker-thread-0] INFO  com.hazelcast.core.LifecycleService - [10.0.12.10]:5702 [BLCX] [4.2.6] [10.0.12.10]:5702 is STARTING

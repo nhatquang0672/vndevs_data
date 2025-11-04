@@ -1,0 +1,11 @@
+[{"resId":10001,"targetType":18,"param":{"count":1},"addUp":0,"weight":0,"fixed":1,"reward":21010},
+{"resId":10002,"targetType":20,"param":{"count":1},"addUp":0,"weight":0,"fixed":1,"reward":21010},
+{"resId":10003,"targetType":24,"param":{"count":1},"addUp":0,"weight":0,"fixed":1,"reward":21010},
+{"resId":10004,"targetType":1,"param":{"count":1},"addUp":0,"weight":3,"fixed":0,"reward":21010},
+{"resId":10005,"targetType":30,"param":{"count":1},"addUp":0,"weight":2,"fixed":0,"reward":21020},
+{"resId":10006,"targetType":23,"param":{"count":2},"addUp":0,"weight":2,"fixed":0,"reward":21020},
+{"resId":10007,"targetType":13,"param":{"count":3},"addUp":0,"weight":3,"fixed":0,"reward":21020},
+{"resId":10008,"targetType":22,"param":{"count":1},"addUp":0,"weight":3,"fixed":0,"reward":21020},
+{"resId":10009,"targetType":2,"param":{"count":1},"addUp":0,"weight":2,"fixed":0,"reward":21010},
+{"resId":10010,"targetType":27,"param":{"count":1},"addUp":0,"weight":2,"fixed":0,"reward":21010},
+{"resId":10011,"targetType":17,"param":{"count":1},"addUp":0,"weight":2,"fixed":0,"reward":21010}]

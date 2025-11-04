@@ -1,0 +1,4 @@
+[{"resId":1,"count":1,"trigger":"RechargeCountEvent","heroId":400004},
+{"resId":2,"count":2,"trigger":"BattleWinEvent","heroId":400006},
+{"resId":3,"count":2,"trigger":"RoleLoginEvent","heroId":400002},
+{"resId":4,"count":6,"trigger":"BattleWinEvent","heroId":400003}]

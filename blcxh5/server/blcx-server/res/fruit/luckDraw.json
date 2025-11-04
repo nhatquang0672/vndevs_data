@@ -1,0 +1,2 @@
+[{"id":1,"type":3,"reward":[3001],"number":999,"bigPrize":10,"extraItems":[{"number":80,"resId":2}],"cdTime":24,"firstReward":{"number":1,"quality":1,"resId":201100},"costItem":[{"number":1,"resId":100201}],"costGem":[{"number":80,"resId":4}]},
+{"id":2,"type":4,"reward":[3002],"number":999,"bigPrize":10,"extraItems":[{"number":300,"resId":2}],"cdTime":96,"firstReward":{"number":1,"quality":2,"resId":201100},"costItem":[{"number":1,"resId":100202}],"costGem":[]}]

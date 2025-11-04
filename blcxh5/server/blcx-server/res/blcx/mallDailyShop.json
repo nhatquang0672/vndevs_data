@@ -1,0 +1,7 @@
+[{"id":1,"contentIds":[1001],"isFirstFree":0,"buyLimitNum":3,"cycle":1,"cdTimes":5},
+{"id":2,"contentIds":[1003],"isFirstFree":1,"buyLimitNum":1,"cycle":1,"cdTimes":0},
+{"id":3,"contentIds":[1004],"isFirstFree":1,"buyLimitNum":1,"cycle":1,"cdTimes":0},
+{"id":4,"contentIds":[1003],"isFirstFree":1,"buyLimitNum":1,"cycle":1,"cdTimes":0},
+{"id":5,"contentIds":[1003],"isFirstFree":1,"buyLimitNum":1,"cycle":1,"cdTimes":0},
+{"id":7,"contentIds":[1005],"isFirstFree":1,"buyLimitNum":1,"cycle":1,"cdTimes":0},
+{"id":6,"contentIds":[1004],"isFirstFree":1,"buyLimitNum":1,"cycle":1,"cdTimes":0}]

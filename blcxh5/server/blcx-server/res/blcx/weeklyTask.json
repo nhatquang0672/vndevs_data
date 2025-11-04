@@ -1,0 +1,6 @@
+[{"resId":20001,"targetType":5,"param":{"count":150000},"addUp":0,"weight":0,"fixed":1,"reward":31010},
+{"resId":20002,"targetType":25,"param":{"count":20},"addUp":0,"weight":0,"fixed":1,"reward":31010},
+{"resId":20003,"targetType":11,"param":{"count":3},"addUp":0,"weight":0,"fixed":1,"reward":31010},
+{"resId":20004,"targetType":2,"param":{"count":10},"addUp":0,"weight":3,"fixed":0,"reward":31010},
+{"resId":20005,"targetType":31,"param":{"count":2},"addUp":0,"weight":0,"fixed":1,"reward":31010},
+{"resId":20006,"targetType":30,"param":{"count":20},"addUp":0,"weight":2,"fixed":0,"reward":31010}]

@@ -1,0 +1,11 @@
+[{"order":1,"mainQuality":1,"mainPhase":0,"targetQuality":2,"targetPhase":0,"tlMaterial":[{"phase":0,"quality":1,"type":1},{"phase":0,"quality":1,"type":1}]},
+{"order":2,"mainQuality":2,"mainPhase":0,"targetQuality":3,"targetPhase":0,"tlMaterial":[{"phase":0,"quality":2,"type":1},{"phase":0,"quality":2,"type":1}]},
+{"order":3,"mainQuality":3,"mainPhase":0,"targetQuality":4,"targetPhase":0,"tlMaterial":[{"phase":0,"quality":3,"type":1},{"phase":0,"quality":3,"type":1}]},
+{"order":4,"mainQuality":4,"mainPhase":0,"targetQuality":4,"targetPhase":1,"tlMaterial":[{"phase":0,"quality":4,"type":2}]},
+{"order":5,"mainQuality":4,"mainPhase":1,"targetQuality":4,"targetPhase":2,"tlMaterial":[{"phase":0,"quality":4,"type":2},{"phase":0,"quality":4,"type":2}]},
+{"order":6,"mainQuality":4,"mainPhase":2,"targetQuality":5,"targetPhase":0,"tlMaterial":[{"phase":2,"quality":4,"type":1}]},
+{"order":7,"mainQuality":5,"mainPhase":0,"targetQuality":5,"targetPhase":1,"tlMaterial":[{"phase":0,"quality":5,"type":2}]},
+{"order":8,"mainQuality":5,"mainPhase":1,"targetQuality":5,"targetPhase":2,"tlMaterial":[{"phase":0,"quality":5,"type":2}]},
+{"order":9,"mainQuality":5,"mainPhase":2,"targetQuality":5,"targetPhase":3,"tlMaterial":[{"phase":0,"quality":5,"type":2}]},
+{"order":10,"mainQuality":5,"mainPhase":3,"targetQuality":6,"targetPhase":0,"tlMaterial":[{"phase":0,"quality":5,"type":1},{"phase":0,"quality":5,"type":1}]},
+{"order":11,"mainQuality":6,"mainPhase":0,"targetQuality":6,"targetPhase":1,"tlMaterial":[{"phase":0,"quality":6,"type":2}]}]

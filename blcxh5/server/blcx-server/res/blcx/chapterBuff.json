@@ -1,0 +1,6 @@
+[{"resId":1,"title":"狂暴","desc":"怪物获得加速效果","buffId":220001},
+{"resId":2,"title":"诅咒","desc":"战斗中出现道具和经验概率降低","buffId":220002},
+{"resId":3,"title":"魔化","desc":"怪物生命，攻击增强","buffId":220003},
+{"resId":4,"title":"夜行","desc":"进入血月暗夜","buffId":220004},
+{"resId":5,"title":"双生","desc":"每次出现两个妖王","buffId":220005},
+{"resId":6,"title":"封印","desc":"减少一个技能槽位","buffId":220006}]

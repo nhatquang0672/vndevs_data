@@ -1,0 +1,4 @@
+[{"key":"reviveCostCoinResId","value":100101,"desc":"复活消耗复活币resId"},
+{"key":"reviveCostCoinNumber","value":1,"desc":"复活消耗复活币数量"},
+{"key":"reviveCostGemResId","value":4,"desc":"复活消耗砖石resId"},
+{"key":"reviveCostGemNumber","value":80,"desc":"复活消耗砖石数量"}]

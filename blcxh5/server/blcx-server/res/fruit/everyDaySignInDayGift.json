@@ -1,0 +1,7 @@
+[{"day":1,"reward":[{"number":1,"quality":4,"resId":100101}]},
+{"day":2,"reward":[{"number":50,"quality":4,"resId":4}]},
+{"day":3,"reward":[{"number":1,"quality":4,"resId":100101}]},
+{"day":4,"reward":[{"number":50,"quality":4,"resId":4}]},
+{"day":5,"reward":[{"number":1,"quality":4,"resId":100101}]},
+{"day":6,"reward":[{"number":50,"quality":4,"resId":4}]},
+{"day":7,"reward":[{"number":100,"quality":4,"resId":4},{"number":6,"quality":3,"resId":101801},{"number":1,"quality":4,"resId":100202},{"number":1,"quality":4,"resId":100101}]}]

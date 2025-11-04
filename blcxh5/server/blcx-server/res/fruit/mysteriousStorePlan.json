@@ -1,0 +1,11 @@
+[{"resId":1,"plan":1,"limit":5,"price":200,"rewardList":[{"number":1,"resId":101804}]},
+{"resId":2,"plan":1,"limit":3,"price":50,"rewardList":[{"number":1,"resId":101803}]},
+{"resId":3,"plan":1,"limit":1,"price":188,"rewardList":[{"number":45,"resId":1}]},
+{"resId":4,"plan":1,"limit":1,"price":288,"rewardList":[{"number":15,"resId":101710}]},
+{"resId":5,"plan":1,"limit":1,"price":888,"rewardList":[{"number":12,"resId":101721}]},
+{"resId":6,"plan":1,"limit":2,"price":1888,"rewardList":[{"number":8,"resId":101731}]},
+{"resId":7,"plan":1,"limit":2,"price":1080,"rewardList":[{"number":5,"resId":100202}]},
+{"resId":8,"plan":1,"limit":3,"price":1080,"rewardList":[{"number":8,"resId":101200},{"number":5000,"resId":2}]},
+{"resId":9,"plan":1,"limit":3,"price":1080,"rewardList":[{"number":3,"resId":101300},{"number":5000,"resId":2}]},
+{"resId":10,"plan":1,"limit":3,"price":288,"rewardList":[{"number":50,"resId":101000},{"number":5000,"resId":2}]},
+{"resId":11,"plan":1,"limit":3,"price":288,"rewardList":[{"number":6,"resId":100101},{"number":5000,"resId":2}]}]

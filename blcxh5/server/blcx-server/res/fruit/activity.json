@@ -1,0 +1,5 @@
+[{"resId":100101,"belond":4,"icon":"图标_修炼_七日活动","sort":1,"type":1001,"plan":1,"name":"七日活动"},
+{"resId":100301,"belond":4,"icon":"图标_修炼_新人签到","sort":2,"type":1003,"plan":1,"name":"新人签到"},
+{"resId":100501,"belond":4,"icon":"图标_修炼_新人签到","sort":3,"type":1005,"plan":1,"name":"每日充值"},
+{"resId":100601,"belond":4,"icon":"图标_修炼_新人签到","sort":4,"type":1006,"plan":1,"name":"神秘礼包"},
+{"resId":100701,"belond":4,"icon":"图标_修炼_新人签到","sort":4,"type":1007,"plan":1,"name":"消费送礼"}]

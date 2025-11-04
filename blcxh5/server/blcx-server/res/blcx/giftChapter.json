@@ -1,0 +1,3 @@
+[{"giftId":1001,"title":"新手礼包","originPrice":72,"price":12},
+{"giftId":1001,"title":"第一章礼包","originPrice":72,"price":12,"condiction":"[FinishChapter:1]"},
+{"giftId":1001,"title":"第二章礼包","originPrice":72,"price":12,"condiction":"[FinishChapter:2]"}]

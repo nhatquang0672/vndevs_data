@@ -1,0 +1,7 @@
+[{"id":1,"key":"game_error","name":"错误","english":"Error"},
+{"id":2,"key":"dimond_is_not_enough","name":"钻石不足"},
+{"id":3,"key":"role_verifiction_code_error","name":"验证码错误"},
+{"id":4,"key":"role_updte_the_dt_error","name":"更新数据出错"},
+{"id":5,"key":"tech_is_leveling_up","name":"科技%s正在升级"},
+{"id":6,"key":"msg_CmdRoleOfflineBroMsg_type_1","name":"您的账号已在别处登录"},
+{"id":7,"key":"msg_CmdRoleOfflineBroMsg_type_2","name":"网络链接已断开，请稍后重试"}]

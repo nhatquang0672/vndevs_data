@@ -1,0 +1,8 @@
+[{"resId":1,"code":"blcx666","time":"2040-9-9 23:59:59","reward":[]},
+{"resId":2,"code":"blcx999","time":"2040-9-9 23:59:59","reward":[]},
+{"resId":3,"code":"ylsx666","time":"45949.9999884259","reward":[{"number":1,"quality":4,"resId":100202},{"number":1,"quality":3,"resId":100201},{"number":1,"quality":4,"resId":100101},{"number":10000,"quality":3,"resId":2}]},
+{"resId":4,"code":"vip666","time":"45949.9999884259","reward":[{"number":100,"quality":4,"resId":4}]},
+{"resId":5,"code":"vip888","time":"45949.9999884259","reward":[{"number":50,"quality":4,"resId":4},{"number":8888,"quality":3,"resId":2}]},
+{"resId":6,"code":"yyds666","time":"45949.9999884259","reward":[{"number":100,"quality":4,"resId":4},{"number":1,"quality":4,"resId":100101},{"number":10,"quality":3,"resId":1}]},
+{"resId":7,"code":"vip999","time":"45949.9999884259","reward":[{"number":50,"quality":4,"resId":4},{"number":5000,"quality":3,"resId":2}]},
+{"resId":8,"code":"vip777","time":"45949.9999884259","reward":[{"number":3,"quality":3,"resId":100201}]}]
