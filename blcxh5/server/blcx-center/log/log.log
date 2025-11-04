@@ -1,0 +1,152 @@
+25-11-04 15:08:02,253 %z main INFO   BlcxCenterMain[L] - 根目录：/Users/quangtran/works/self/projects/vndevs_data/blcxh5/server/blcx-center/
+25-11-04 15:08:02,253 %z main INFO   BlcxCenterMain[L] - 运行目录：/Users/quangtran/works/self/projects/vndevs_data/blcxh5/server/blcx-center
+25-11-04 15:08:02,253 %z main INFO   BlcxCenterMain[L] - 初始化【Properties】.......................start
+25-11-04 15:08:02,255 %z main INFO   BlcxCenterMain[L] - 初始化【Properties】.......................end
+25-11-04 15:08:02,255 %z main INFO   BlcxCenterMain[L] - 初始化【热部署】.......................start
+25-11-04 15:08:02,257 %z main ERROR  SystemPrintStream[L] - java.lang.Exception: 为了支持热更新，请在JVM 启动参数中设置 -Djdk.attach.allowAttachSelf=true
+25-11-04 15:08:02,257 %z main ERROR  SystemPrintStream[L] - 	at org.cca.agent.AgentManage.init(AgentManage.java:39)
+25-11-04 15:08:02,257 %z main ERROR  SystemPrintStream[L] - 	at org.cca.agent.AgentManage.init(AgentManage.java:106)
+25-11-04 15:08:02,257 %z main ERROR  SystemPrintStream[L] - 	at com.xkhy.blcx.BlcxCenterMain.lambda$init$4(BlcxCenterMain.java:169)
+25-11-04 15:08:02,257 %z main ERROR  SystemPrintStream[L] - 	at com.xkhy.blcx.BlcxCenterMain.initItem(BlcxCenterMain.java:146)
+25-11-04 15:08:02,257 %z main ERROR  SystemPrintStream[L] - 	at com.xkhy.blcx.BlcxCenterMain.init(BlcxCenterMain.java:168)
+25-11-04 15:08:02,257 %z main ERROR  SystemPrintStream[L] - 	at com.xkhy.blcx.BlcxCenterMain.start(BlcxCenterMain.java:90)
+25-11-04 15:08:02,257 %z main ERROR  SystemPrintStream[L] - 	at com.xkhy.blcx.BlcxCenterMain.main(BlcxCenterMain.java:57)
+25-11-04 15:08:02,261 %z main INFO   BlcxCenterMain[L] - 初始化【热部署】.......................end
+25-11-04 15:08:02,261 %z main INFO   BlcxCenterMain[L] - 初始化【数据库连接池】.......................start
+25-11-04 15:08:02,273 %z main INFO   HikariDataSource[L] - HikariPool-1 - Starting...
+25-11-04 15:08:02,591 %z main INFO   HikariDataSource[L] - HikariPool-1 - Start completed.
+25-11-04 15:08:02,591 %z main INFO   BlcxCenterMain[L] - 初始化【数据库连接池】.......................end
+25-11-04 15:08:02,591 %z main INFO   BlcxCenterMain[L] - 初始化【获取开服时间】.......................start
+25-11-04 15:08:02,618 %z main ERROR  SystemPrintStream[L] - java.text.ParseException: Unparseable date: "1739770222"
+25-11-04 15:08:02,618 %z main ERROR  SystemPrintStream[L] - 	at java.base/java.text.DateFormat.parse(DateFormat.java:403)
+25-11-04 15:08:02,618 %z main ERROR  SystemPrintStream[L] - 	at com.xkhy.blcx.config.CoreConfig.initStartDate(CoreConfig.java:66)
+25-11-04 15:08:02,618 %z main ERROR  SystemPrintStream[L] - 	at com.xkhy.blcx.BlcxCenterMain.lambda$init$6(BlcxCenterMain.java:179)
+25-11-04 15:08:02,618 %z main ERROR  SystemPrintStream[L] - 	at com.xkhy.blcx.BlcxCenterMain.initItem(BlcxCenterMain.java:146)
+25-11-04 15:08:02,618 %z main ERROR  SystemPrintStream[L] - 	at com.xkhy.blcx.BlcxCenterMain.init(BlcxCenterMain.java:178)
+25-11-04 15:08:02,618 %z main ERROR  SystemPrintStream[L] - 	at com.xkhy.blcx.BlcxCenterMain.start(BlcxCenterMain.java:90)
+25-11-04 15:08:02,618 %z main ERROR  SystemPrintStream[L] - 	at com.xkhy.blcx.BlcxCenterMain.main(BlcxCenterMain.java:57)
+25-11-04 15:08:02,620 %z main INFO   CoreConfig[L] - 开服时间[1739770222] startDate[0]
+25-11-04 15:08:02,620 %z main INFO   BlcxCenterMain[L] - 初始化【获取开服时间】.......................end
+25-11-04 15:08:02,620 %z main INFO   BlcxCenterMain[L] - 初始化【CenterCollection】.......................start
+25-11-04 15:08:02,621 %z main INFO   CenterCollection[L] - initServerNode.........................
+25-11-04 15:08:02,628 %z main INFO   CenterCollection[L] - 服务器节点数量[20]
+25-11-04 15:08:02,631 %z main INFO   CenterCollection[L] - serverNodeMap[1].........一区.....127.0.0.1:9506
+25-11-04 15:08:02,631 %z main INFO   CenterCollection[L] - serverNodeMap[2].........一区.....127.0.0.1:9506
+25-11-04 15:08:02,631 %z main INFO   CenterCollection[L] - serverNodeMap[3].........一区.....127.0.0.1:9506
+25-11-04 15:08:02,631 %z main INFO   CenterCollection[L] - serverNodeMap[4].........一区.....127.0.0.1:9506
+25-11-04 15:08:02,631 %z main INFO   CenterCollection[L] - serverNodeMap[5].........一区.....127.0.0.1:9506
+25-11-04 15:08:02,631 %z main INFO   CenterCollection[L] - serverNodeMap[6].........一区.....127.0.0.1:9506
+25-11-04 15:08:02,631 %z main INFO   CenterCollection[L] - serverNodeMap[7].........一区.....127.0.0.1:9506
+25-11-04 15:08:02,631 %z main INFO   CenterCollection[L] - serverNodeMap[8].........一区.....127.0.0.1:9506
+25-11-04 15:08:02,631 %z main INFO   CenterCollection[L] - serverNodeMap[9].........一区.....127.0.0.1:9506
+25-11-04 15:08:02,631 %z main INFO   CenterCollection[L] - serverNodeMap[10].........一区.....127.0.0.1:9506
+25-11-04 15:08:02,631 %z main INFO   CenterCollection[L] - serverNodeMap[11].........一区.....127.0.0.1:9506
+25-11-04 15:08:02,631 %z main INFO   CenterCollection[L] - serverNodeMap[12].........一区.....127.0.0.1:9506
+25-11-04 15:08:02,631 %z main INFO   CenterCollection[L] - serverNodeMap[13].........一区.....127.0.0.1:9506
+25-11-04 15:08:02,631 %z main INFO   CenterCollection[L] - serverNodeMap[14].........一区.....127.0.0.1:9506
+25-11-04 15:08:02,631 %z main INFO   CenterCollection[L] - serverNodeMap[15].........一区.....127.0.0.1:9506
+25-11-04 15:08:02,631 %z main INFO   CenterCollection[L] - serverNodeMap[16].........一区.....127.0.0.1:9506
+25-11-04 15:08:02,631 %z main INFO   CenterCollection[L] - serverNodeMap[17].........一区.....127.0.0.1:9506
+25-11-04 15:08:02,631 %z main INFO   CenterCollection[L] - serverNodeMap[18].........一区.....127.0.0.1:9506
+25-11-04 15:08:02,631 %z main INFO   CenterCollection[L] - serverNodeMap[19].........一区.....127.0.0.1:9506
+25-11-04 15:08:02,631 %z main INFO   CenterCollection[L] - serverNodeMap[20].........一区.....127.0.0.1:9506
+25-11-04 15:08:02,659 %z main INFO   BlcxCenterMain[L] - 初始化【CenterCollection】.......................end
+25-11-04 15:08:02,659 %z main INFO   BlcxCenterMain[L] - 初始化【json资源加载】.......................start
+25-11-04 15:08:02,660 %z main INFO   ResLoaderManager[L] - 加载JSON=============
+25-11-04 15:08:02,769 %z main INFO   ResLoaderManager[L] - 加载JSON需要【109】毫秒=============
+25-11-04 15:08:02,769 %z main INFO   BlcxCenterMain[L] - 初始化【json资源加载】.......................end
+25-11-04 15:08:02,769 %z main INFO   BlcxCenterMain[L] - 初始化【SdkManager】.......................start
+25-11-04 15:08:03,383 %z main INFO   SdkManager[L] - 初始化 SDK[4]com.xkhy.blcx.sdk.xh.XHSDK@21fff664
+25-11-04 15:08:03,383 %z main INFO   SdkManager[L] - 初始化 SDK[6]com.xkhy.blcx.sdk.wlmz.WuLinMenZhuWeiXinSDK@6079cf5
+25-11-04 15:08:03,383 %z main INFO   SdkManager[L] - 初始化 SDK[3]com.xkhy.blcx.sdk.jiyin.JiYinWeiXinSDK@1e6308a9
+25-11-04 15:08:03,383 %z main INFO   SdkManager[L] - 初始化 SDK[0]com.xkhy.blcx.sdk.internal.InternalSDK@30cecdca
+25-11-04 15:08:03,383 %z main INFO   SdkManager[L] - 初始化 SDK[1]com.xkhy.blcx.sdk.jiyin.JiYinAndroidSDK@6edc4161
+25-11-04 15:08:03,383 %z main INFO   SdkManager[L] - 初始化 SDK[2]com.xkhy.blcx.sdk.jiyin.JiYinIosSDK@5486887b
+25-11-04 15:08:03,383 %z main INFO   SdkManager[L] - 初始化 SDK[5]com.xkhy.blcx.sdk.huolang.HuoLangAndroidSDK@5226e402
+25-11-04 15:08:03,383 %z main INFO   BlcxCenterMain[L] - 初始化【SdkManager】.......................end
+25-11-04 15:08:03,384 %z main INFO   BlcxCenterMain[L] - 初始化【推荐好友初始化】.......................start
+25-11-04 15:08:03,443 %z main INFO   PlayerService[L] - 更新推荐好友缓存完成，数量：1，总耗时：59ms，数据库IO耗时：55ms，数据库数据封装耗时：3ms
+25-11-04 15:08:03,444 %z main INFO   BlcxCenterMain[L] - 初始化【推荐好友初始化】.......................end
+25-11-04 15:08:03,444 %z main INFO   BlcxCenterMain[L] - 初始化【排行榜初始化】.......................start
+25-11-04 15:08:03,477 %z main INFO   RankService[L] - 玩法排行-战力排行榜初始化完成，排行榜玩家数量：20，总耗时：32ms，数据库IO耗时：30ms，数据库数据封装耗时：0ms
+25-11-04 15:08:03,496 %z main INFO   RankService[L] - 玩法排行-功德排行榜初始化完成，排行榜玩家数量：20，总耗时：19ms，数据库IO耗时：18ms，数据库数据封装耗时：1ms
+25-11-04 15:08:03,516 %z main INFO   RankService[L] - 玩法排行-人气排行榜初始化完成，排行榜玩家数量：20，总耗时：20ms，数据库IO耗时：18ms，数据库数据封装耗时：2ms
+25-11-04 15:08:03,516 %z main INFO   BlcxCenterMain[L] - 初始化【排行榜初始化】.......................end
+25-11-04 15:08:06,049 %z main WARN   DnsServerAddressStreamProviders[L] - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+25-11-04 15:08:06,082 %z main INFO   BlcxCenterMain[L] - 
+import com.cca.core.network.server.EventRouter;
+public class BlcxCenterEventRouter {
+	private static final String BLCX_CENTER = "BLCX_CENTER";
+	public static final EventRouter DEPLOYMENT_LOG_EVENT_HANDLER = new EventRouter(BLCX_CENTER, 913546711);
+	public static final EventRouter GET_RANK = new EventRouter(BLCX_CENTER, 1328454156);
+	public static final EventRouter GET_SUGGEST_FRIEND = new EventRouter(BLCX_CENTER, 1500426884);
+	public static final EventRouter HOST_NODE_MESSAGE_EVENT_HANDLER = new EventRouter(BLCX_CENTER, 923701945);
+	public static final EventRouter PLAYER_UPDATE = new EventRouter(BLCX_CENTER, 1907748425);
+	public static final EventRouter SERVER_INFO = new EventRouter(BLCX_CENTER, 117015376);
+	public static final EventRouter START_DATE = new EventRouter(BLCX_CENTER, 406733379);
+}
+25-11-04 15:08:06,087 %z vert.x-worker-thread-0 WARN   HazelcastInstanceFactory[L] - Hazelcast is starting in a Java modular environment (Java 9 and newer) but without proper access to required Java packages. Use additional Java arguments to provide Hazelcast access to Java internal API. The internal API access is used to get the best performance results. Arguments to be used:
+ --add-modules java.se --add-exports java.base/jdk.internal.ref=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/java.nio=ALL-UNNAMED --add-opens java.base/sun.nio.ch=ALL-UNNAMED --add-opens java.management/sun.management=ALL-UNNAMED --add-opens jdk.management/com.sun.management.internal=ALL-UNNAMED
+25-11-04 15:08:06,115 %z vert.x-worker-thread-0 INFO   system[L] - [192.168.1.9]:5701 [dev] [4.2.6] Hazelcast 4.2.6 (20221125 - 622d299) starting at [192.168.1.9]:5701
+25-11-04 15:08:06,246 %z vert.x-worker-thread-0 INFO   DiscoveryService[L] - [192.168.1.9]:5701 [dev] [4.2.6] No discovery strategy is applicable for auto-detection
+25-11-04 15:08:06,274 %z vert.x-worker-thread-0 INFO   Node[L] - [192.168.1.9]:5701 [dev] [4.2.6] Using Multicast discovery
+25-11-04 15:08:06,276 %z vert.x-worker-thread-0 WARN   CPSubsystem[L] - [192.168.1.9]:5701 [dev] [4.2.6] CP Subsystem is not enabled. CP data structures will operate in UNSAFE mode! Please note that UNSAFE mode will not provide strong consistency guarantees.
+25-11-04 15:08:06,354 %z vert.x-worker-thread-0 INFO   Diagnostics[L] - [192.168.1.9]:5701 [dev] [4.2.6] Diagnostics disabled. To enable add -Dhazelcast.diagnostics.enabled=true to the JVM arguments.
+25-11-04 15:08:06,358 %z vert.x-worker-thread-0 INFO   LifecycleService[L] - [192.168.1.9]:5701 [dev] [4.2.6] [192.168.1.9]:5701 is STARTING
+25-11-04 15:08:09,413 %z vert.x-worker-thread-0 INFO   ClusterService[L] - [192.168.1.9]:5701 [dev] [4.2.6] 
+
+Members {size:1, ver:1} [
+	Member [192.168.1.9]:5701 - f23ebef8-aeb6-44b8-b8fb-6bb909aa3200 this
+]
+
+25-11-04 15:08:09,427 %z vert.x-worker-thread-0 INFO   LifecycleService[L] - [192.168.1.9]:5701 [dev] [4.2.6] [192.168.1.9]:5701 is STARTED
+25-11-04 15:08:09,470 %z vert.x-worker-thread-1 INFO   PartitionStateManager[L] - [192.168.1.9]:5701 [dev] [4.2.6] Initializing cluster partition table arrangement...
+25-11-04 15:08:09,499 %z vert.x-eventloop-thread-0 INFO   ActuatorSystem[L] - 界面访问地址:http://127.0.0.1:9503/actuator/ui
+25-11-04 15:08:10,154 %z vert.x-eventloop-thread-0 INFO   SqliteHelper[L] - 初始化数据库完成
+25-11-04 15:08:10,169 %z vert.x-eventloop-thread-0 INFO   SqliteHelper[L] - 初始化数据库完成
+25-11-04 15:08:10,178 %z vert.x-eventloop-thread-0 INFO   SqliteHelper[L] - 初始化数据库完成
+25-11-04 15:08:10,183 %z vert.x-eventloop-thread-0 INFO   SqliteHelper[L] - 初始化数据库完成
+25-11-04 15:08:10,187 %z vert.x-eventloop-thread-0 INFO   ActuatorConfigs[L] - 登录密码：{actuator=9mEHFZ}
+25-11-04 15:08:10,836 %z vert.x-eventloop-thread-2 INFO   HttpVerticle[L] - HTTP server started on port 9503
+25-11-04 15:08:10,836 %z vert.x-eventloop-thread-0 INFO   JsonEventBusServer[L] - 消费地址[ACTUATOR]监听
+25-11-04 15:08:10,837 %z vert.x-eventloop-thread-0 INFO   JsonEventBusServer[L] - 消费地址[BLCX_CENTER]监听
+25-11-04 15:08:10,838 %z vert.x-eventloop-thread-0 INFO   ActuatorHttpVertxServer[L] - com.cca.actuator.server.actuator.ActuatorHttpVertxServer --> 部署成功
+25-11-04 15:08:10,838 %z vert.x-eventloop-thread-0 INFO   BlcxCenterMain[L] - 初始化【充值通知】.......................start
+25-11-04 15:08:10,838 %z vert.x-eventloop-thread-0 INFO   BlcxCenterMain[L] - 初始化【充值通知】.......................end
+25-11-04 15:08:13,040 %z vertx-blocked-thread-checker WARN   BlockedThreadChecker[L] - Thread Thread[#89,vert.x-eventloop-thread-0,5,main] has been blocked for 2204 ms, time limit is 2000 ms
+25-11-04 15:08:14,042 %z vertx-blocked-thread-checker WARN   BlockedThreadChecker[L] - Thread Thread[#89,vert.x-eventloop-thread-0,5,main] has been blocked for 3206 ms, time limit is 2000 ms
+25-11-04 15:08:15,047 %z vertx-blocked-thread-checker WARN   BlockedThreadChecker[L] - Thread Thread[#89,vert.x-eventloop-thread-0,5,main] has been blocked for 4211 ms, time limit is 2000 ms
+25-11-04 15:08:15,843 %z vert.x-eventloop-thread-0 INFO   BlcxCenterMain[L] - 当前进程的PID为：85921
+25-11-04 15:08:15,862 %z vert.x-eventloop-thread-0 INFO   BlcxCenterMain[L] - 初始化【线程池服务】.......................start
+25-11-04 15:08:15,941 %z vert.x-eventloop-thread-0 INFO   WorkerExecutorService[L] - 下一次执行每小时PerHourTenWorker任务时间：2025-11-04 16:00:00
+25-11-04 15:08:15,942 %z vert.x-eventloop-thread-0 INFO   BlcxCenterMain[L] - 初始化【线程池服务】.......................end
+25-11-04 15:08:15,942 %z vert.x-eventloop-thread-0 INFO   BlcxCenterMain[L] - 启动成功 》》》》》》》》》》》》》》》》》》》》》》》》》》》》》
+25-11-04 15:08:43,054 %z hz.charming_turing.IO.thread-in-0 INFO   TcpServerConnection[L] - [192.168.1.9]:5701 [dev] [4.2.6] Initialized new cluster connection between /192.168.1.9:5701 and /192.168.1.9:56232
+25-11-04 15:08:49,076 %z hz.charming_turing.priority-generic-operation.thread-0 INFO   ClusterService[L] - [192.168.1.9]:5701 [dev] [4.2.6] 
+
+Members {size:2, ver:2} [
+	Member [192.168.1.9]:5701 - f23ebef8-aeb6-44b8-b8fb-6bb909aa3200 this
+	Member [192.168.1.9]:5702 - f177735c-f23b-4b48-91d7-71e766e021a4
+]
+
+25-11-04 15:08:49,076 %z hz.charming_turing.event-5 INFO   ActuatorHttpVertxServer$1[L] - 监听到节点加入:MembershipEvent {member=Member [192.168.1.9]:5702 - f177735c-f23b-4b48-91d7-71e766e021a4, type=added, members=[Member [192.168.1.9]:5701 - f23ebef8-aeb6-44b8-b8fb-6bb909aa3200 this, Member [192.168.1.9]:5702 - f177735c-f23b-4b48-91d7-71e766e021a4]}
+25-11-04 15:08:49,346 %z hz.charming_turing.migration INFO   MigrationManager[L] - [192.168.1.9]:5701 [dev] [4.2.6] Repartitioning cluster data. Migration tasks count: 271
+25-11-04 15:08:49,449 %z hz.charming_turing.migration INFO   MigrationManager[L] - [192.168.1.9]:5701 [dev] [4.2.6] All migration tasks have been completed. (repartitionTime=Tue Nov 04 15:08:49 GMT+07:00 2025, plannedMigrations=271, completedMigrations=271, remainingMigrations=0, totalCompletedMigrations=271)
+25-11-04 15:08:55,359 %z vert.x-eventloop-thread-0 INFO   JsonEventBusServer[L] - 收到消息
+25-11-04 15:08:55,363 %z vert.x-eventloop-thread-0 INFO   JsonEventBusServer[L] - 收到消息code[1328454156] = com.xkhy.blcx.event.rank.GetRankEvent@4eb1c69
+25-11-04 15:08:55,377 %z vert.x-eventloop-thread-0 INFO   JsonEventBusServer[L] - 收到消息
+25-11-04 15:08:55,377 %z vert.x-eventloop-thread-0 INFO   JsonEventBusServer[L] - 收到消息code[1500426884] = com.xkhy.blcx.event.friend.GetSuggestFriendEvent@18460128
+25-11-04 15:08:55,379 %z vert.x-eventloop-thread-0 INFO   JsonEventBusServer[L] - 收到消息
+25-11-04 15:08:55,379 %z vert.x-eventloop-thread-0 INFO   JsonEventBusServer[L] - 收到消息code[406733379] = com.xkhy.blcx.event.system.StartDateEvent@4487c0c2
+25-11-04 15:08:55,379 %z vert.x-eventloop-thread-0 INFO   JsonEventBusServer[L] - 收到消息
+25-11-04 15:08:55,379 %z vert.x-eventloop-thread-0 INFO   JsonEventBusServer[L] - 收到消息code[117015376] = com.xkhy.blcx.event.system.ServerInfoEvent@44924587
+25-11-04 15:09:05,798 %z vert.x-eventloop-thread-2 INFO   LoginRouter[L] - 登录请求, platform:0 code:2    sdk=com.xkhy.blcx.sdk.internal.InternalSDK@30cecdca
+25-11-04 15:13:50,239 %z vert.x-eventloop-thread-2 INFO   LoginRouter[L] - 登录请求, platform:0 code:2    sdk=com.xkhy.blcx.sdk.internal.InternalSDK@30cecdca
+25-11-04 15:18:43,138 %z vert.x-eventloop-thread-2 INFO   LoginRouter[L] - 登录请求, platform:0 code:14    sdk=com.xkhy.blcx.sdk.internal.InternalSDK@30cecdca
+25-11-04 15:19:05,315 %z vert.x-eventloop-thread-2 INFO   LoginRouter[L] - 登录请求, platform:0 code:2    sdk=com.xkhy.blcx.sdk.internal.InternalSDK@30cecdca
+25-11-04 15:20:00,314 %z vert.x-eventloop-thread-0 INFO   JsonEventBusServer[L] - 收到消息
+25-11-04 15:20:00,315 %z vert.x-eventloop-thread-0 INFO   JsonEventBusServer[L] - 收到消息code[1500426884] = com.xkhy.blcx.event.friend.GetSuggestFriendEvent@18460128
+25-11-04 15:20:00,318 %z vert.x-eventloop-thread-0 INFO   JsonEventBusServer[L] - 收到消息
+25-11-04 15:20:00,318 %z vert.x-eventloop-thread-0 INFO   JsonEventBusServer[L] - 收到消息code[1328454156] = com.xkhy.blcx.event.rank.GetRankEvent@4eb1c69
+25-11-04 15:38:59,555 %z hz.charming_turing.IO.thread-in-0 INFO   TcpServerConnection[L] - [192.168.1.9]:5701 [dev] [4.2.6] Connection[id=1, /192.168.1.9:5701->/192.168.1.9:56232, qualifier=null, endpoint=[192.168.1.9]:5702, alive=false, connectionType=MEMBER, planeIndex=0] closed. Reason: Connection closed by the other side
+25-11-04 15:38:59,560 %z hz.charming_turing.cached.thread-1 INFO   TcpServerConnector[L] - [192.168.1.9]:5701 [dev] [4.2.6] Connecting to /192.168.1.9:5702, timeout: 10000, bind-any: true

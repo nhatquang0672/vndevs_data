@@ -1,89 +1,350 @@
-Error: Unable to access jarfile blcx-server.-jar
-Error: Unable to access jarfile blcx-server.-jar
 WARNING: sun.reflect.Reflection.getCallerClass is not supported. This will impact performance.
-22:19:37.536 [main] INFO  com.xkhy.blcx.BlcxServerMain - 根目录：/home/server/blcx-server/
-22:19:37.537 [main] INFO  com.xkhy.blcx.BlcxServerMain - 运行目录：/home/server/blcx-server
-22:19:37.537 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【Properties】.......................start
-22:19:37.540 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【Properties】.......................end
-22:19:37.541 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【热部署】.......................start
-22:19:37.542 [main] ERROR com.cca.core.config.print.SystemPrintStream - java.lang.Exception: 为了支持热更新，请在JVM 启动参数中设置 -Djdk.attach.allowAttachSelf=true
-22:19:37.543 [main] ERROR com.cca.core.config.print.SystemPrintStream - 	at org.cca.agent.AgentManage.init(AgentManage.java:39)
-22:19:37.543 [main] ERROR com.cca.core.config.print.SystemPrintStream - 	at org.cca.agent.AgentManage.init(AgentManage.java:106)
-22:19:37.543 [main] ERROR com.cca.core.config.print.SystemPrintStream - 	at com.xkhy.blcx.BlcxServerMain.lambda$init$11(BlcxServerMain.java:218)
-22:19:37.543 [main] ERROR com.cca.core.config.print.SystemPrintStream - 	at com.xkhy.blcx.BlcxServerMain.initItem(BlcxServerMain.java:201)
-22:19:37.543 [main] ERROR com.cca.core.config.print.SystemPrintStream - 	at com.xkhy.blcx.BlcxServerMain.init(BlcxServerMain.java:217)
-22:19:37.543 [main] ERROR com.cca.core.config.print.SystemPrintStream - 	at com.xkhy.blcx.BlcxServerMain.start(BlcxServerMain.java:81)
-22:19:37.543 [main] ERROR com.cca.core.config.print.SystemPrintStream - 	at com.xkhy.blcx.BlcxServerMain.main(BlcxServerMain.java:77)
-22:19:37.549 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【热部署】.......................end
-22:19:37.550 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【操作类型】.......................start
-22:19:37.550 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【操作类型】.......................end
-22:19:37.551 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【数据库连接池】.......................start
-22:19:37.567 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
-22:19:38.150 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
-22:19:38.151 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
-22:19:38.194 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
-22:19:38.194 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【数据库连接池】.......................end
-22:19:38.194 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【资源配置】.......................start
-22:19:38.195 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON=============
-2025-02-18 22:19:38,214 main WARN No Log4j 2 configuration file found. Using default configuration (logging only errors to the console), or user programmatically provided configurations. Set system property 'log4j2.debug' to show Log4j 2 internal initialization logging. See https://logging.apache.org/log4j/2.x/manual/configuration.html for instructions on how to configure Log4j 2
-22:19:38.534 [main] ERROR com.cca.core.service.json.loader.GeneralJsonLoader - 
-java.lang.Exception: 类[com.xkhy.blcx.domain.res.res.item.ItemRes]字段[useType]在[item.json]中没有,如果不是json录入字段可以加transient修饰符
-	at com.cca.core.service.json.loader.GeneralJsonLoader.checkClass(GeneralJsonLoader.java:341) ~[blcx-server.jar:?]
-	at com.cca.core.service.json.loader.GeneralJsonLoader.valueToObject(GeneralJsonLoader.java:526) ~[blcx-server.jar:?]
-	at com.cca.core.service.json.loader.GeneralJsonLoader.valueToMap(GeneralJsonLoader.java:421) ~[blcx-server.jar:?]
-	at com.cca.core.service.json.loader.JsonDataManager.loadItem(JsonDataManager.java:78) ~[blcx-server.jar:?]
-	at com.cca.core.service.json.loader.JsonDataManager.loadAll(JsonDataManager.java:22) ~[blcx-server.jar:?]
-	at com.xkhy.blcx.domain.res.ResLoaderManager.loadAll(ResLoaderManager.java:46) ~[blcx-server.jar:?]
-	at com.xkhy.blcx.BlcxServerMain.lambda$init$14(BlcxServerMain.java:233) ~[blcx-server.jar:?]
+10:55:25.605 [main] INFO  com.xkhy.blcx.BlcxServerMain - 根目录：/Users/quangtran/works/self/projects/vndevs_data/blcxh5/server/blcx-server/
+10:55:25.605 [main] INFO  com.xkhy.blcx.BlcxServerMain - 运行目录：/Users/quangtran/works/self/projects/vndevs_data/blcxh5/server/blcx-server
+10:55:25.605 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【Properties】.......................start
+10:55:25.607 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【Properties】.......................end
+10:55:25.607 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【热部署】.......................start
+10:55:25.609 [main] ERROR com.cca.core.config.print.SystemPrintStream - java.lang.Exception: 为了支持热更新，请在JVM 启动参数中设置 -Djdk.attach.allowAttachSelf=true
+10:55:25.609 [main] ERROR com.cca.core.config.print.SystemPrintStream - 	at org.cca.agent.AgentManage.init(AgentManage.java:39)
+10:55:25.609 [main] ERROR com.cca.core.config.print.SystemPrintStream - 	at org.cca.agent.AgentManage.init(AgentManage.java:106)
+10:55:25.609 [main] ERROR com.cca.core.config.print.SystemPrintStream - 	at com.xkhy.blcx.BlcxServerMain.lambda$init$11(BlcxServerMain.java:218)
+10:55:25.609 [main] ERROR com.cca.core.config.print.SystemPrintStream - 	at com.xkhy.blcx.BlcxServerMain.initItem(BlcxServerMain.java:201)
+10:55:25.609 [main] ERROR com.cca.core.config.print.SystemPrintStream - 	at com.xkhy.blcx.BlcxServerMain.init(BlcxServerMain.java:217)
+10:55:25.609 [main] ERROR com.cca.core.config.print.SystemPrintStream - 	at com.xkhy.blcx.BlcxServerMain.start(BlcxServerMain.java:81)
+10:55:25.609 [main] ERROR com.cca.core.config.print.SystemPrintStream - 	at com.xkhy.blcx.BlcxServerMain.main(BlcxServerMain.java:77)
+10:55:25.613 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【热部署】.......................end
+10:55:25.613 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【操作类型】.......................start
+10:55:25.614 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【操作类型】.......................end
+10:55:25.614 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【数据库连接池】.......................start
+10:55:25.626 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+10:55:26.695 [main] ERROR com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Exception during pool initialization.
+com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:836) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:456) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:197) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:364) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:476) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:561) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.HikariDataSource.<init>(HikariDataSource.java:81) ~[blcx-server.jar:?]
+	at com.xkhy.blcx.config.HikariDBConfig.init(HikariDBConfig.java:30) ~[blcx-server.jar:?]
+	at com.xkhy.blcx.config.HikariDBConfig.init(HikariDBConfig.java:21) ~[blcx-server.jar:?]
+	at com.xkhy.blcx.BlcxServerMain.lambda$init$13(BlcxServerMain.java:228) ~[blcx-server.jar:?]
 	at com.xkhy.blcx.BlcxServerMain.initItem(BlcxServerMain.java:201) ~[blcx-server.jar:?]
-	at com.xkhy.blcx.BlcxServerMain.init(BlcxServerMain.java:232) ~[blcx-server.jar:?]
+	at com.xkhy.blcx.BlcxServerMain.init(BlcxServerMain.java:227) ~[blcx-server.jar:?]
 	at com.xkhy.blcx.BlcxServerMain.start(BlcxServerMain.java:81) ~[blcx-server.jar:?]
 	at com.xkhy.blcx.BlcxServerMain.main(BlcxServerMain.java:77) ~[blcx-server.jar:?]
-22:19:38.534 [main] ERROR com.cca.core.service.json.loader.GeneralJsonLoader - 
-java.lang.Exception: 类[com.xkhy.blcx.domain.res.res.item.ItemRes]字段[effects]在[item.json]中没有,如果不是json录入字段可以加transient修饰符
-	at com.cca.core.service.json.loader.GeneralJsonLoader.checkClass(GeneralJsonLoader.java:341) ~[blcx-server.jar:?]
-	at com.cca.core.service.json.loader.GeneralJsonLoader.valueToObject(GeneralJsonLoader.java:526) ~[blcx-server.jar:?]
-	at com.cca.core.service.json.loader.GeneralJsonLoader.valueToMap(GeneralJsonLoader.java:421) ~[blcx-server.jar:?]
-	at com.cca.core.service.json.loader.JsonDataManager.loadItem(JsonDataManager.java:78) ~[blcx-server.jar:?]
-	at com.cca.core.service.json.loader.JsonDataManager.loadAll(JsonDataManager.java:22) ~[blcx-server.jar:?]
-	at com.xkhy.blcx.domain.res.ResLoaderManager.loadAll(ResLoaderManager.java:46) ~[blcx-server.jar:?]
-	at com.xkhy.blcx.BlcxServerMain.lambda$init$14(BlcxServerMain.java:233) ~[blcx-server.jar:?]
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:485) ~[?:?]
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61) ~[blcx-server.jar:?]
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105) ~[blcx-server.jar:?]
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151) ~[blcx-server.jar:?]
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167) ~[blcx-server.jar:?]
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:91) ~[blcx-server.jar:?]
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:144) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:956) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:826) ~[blcx-server.jar:?]
+	... 17 more
+Caused by: java.net.ConnectException: Connection refused
+	at sun.nio.ch.Net.pollConnect(Native Method) ~[?:?]
+	at sun.nio.ch.Net.pollConnectNow(Net.java:682) ~[?:?]
+	at sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:549) ~[?:?]
+	at sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:592) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327) ~[?:?]
+	at java.net.Socket.connect(Socket.java:760) ~[?:?]
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:155) ~[blcx-server.jar:?]
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:65) ~[blcx-server.jar:?]
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:144) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:956) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:826) ~[blcx-server.jar:?]
+	... 17 more
+10:55:26.697 [main] ERROR com.xkhy.blcx.config.HikariDBConfig - 
+com.zaxxer.hikari.pool.HikariPool$PoolInitializationException: Failed to initialize pool: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at com.zaxxer.hikari.pool.HikariPool.throwPoolInitializationException(HikariPool.java:596) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:582) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.HikariDataSource.<init>(HikariDataSource.java:81) ~[blcx-server.jar:?]
+	at com.xkhy.blcx.config.HikariDBConfig.init(HikariDBConfig.java:30) ~[blcx-server.jar:?]
+	at com.xkhy.blcx.config.HikariDBConfig.init(HikariDBConfig.java:21) ~[blcx-server.jar:?]
+	at com.xkhy.blcx.BlcxServerMain.lambda$init$13(BlcxServerMain.java:228) ~[blcx-server.jar:?]
 	at com.xkhy.blcx.BlcxServerMain.initItem(BlcxServerMain.java:201) ~[blcx-server.jar:?]
-	at com.xkhy.blcx.BlcxServerMain.init(BlcxServerMain.java:232) ~[blcx-server.jar:?]
+	at com.xkhy.blcx.BlcxServerMain.init(BlcxServerMain.java:227) ~[blcx-server.jar:?]
 	at com.xkhy.blcx.BlcxServerMain.start(BlcxServerMain.java:81) ~[blcx-server.jar:?]
 	at com.xkhy.blcx.BlcxServerMain.main(BlcxServerMain.java:77) ~[blcx-server.jar:?]
-22:19:39.380 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON需要【1185】毫秒=============
-22:19:39.384 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON=============
-22:19:39.392 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON需要【8】毫秒=============
-22:19:39.393 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON=============
-22:19:39.405 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON需要【12】毫秒=============
-22:19:39.404 [main] ERROR com.xkhy.blcx.domain.res.DefaultJsonLoader - 
-java.lang.Exception: 类[com.xkhy.blcx.domain.res.res.activity.DailyRechargePlanRes]字段[name]在[dailyRechargePlan.json]中没有,如果不是json录入字段可以加transient修饰符
-	at com.cca.core.service.json.loader.GeneralJsonLoader.checkClass(GeneralJsonLoader.java:341) ~[blcx-server.jar:?]
-	at com.xkhy.blcx.domain.res.DefaultJsonLoader.valueToObject(DefaultJsonLoader.java:189) ~[blcx-server.jar:?]
-	at com.xkhy.blcx.domain.res.DefaultJsonLoader.valueToMap(DefaultJsonLoader.java:114) ~[blcx-server.jar:?]
-	at com.xkhy.blcx.domain.res.ResJsonDataManager.loadItem(ResJsonDataManager.java:107) ~[blcx-server.jar:?]
-	at com.xkhy.blcx.domain.res.ResJsonDataManager.loadAll(ResJsonDataManager.java:38) ~[blcx-server.jar:?]
-	at com.xkhy.blcx.domain.res.ResLoaderManager.loadAll(ResLoaderManager.java:78) ~[blcx-server.jar:?]
-	at com.xkhy.blcx.domain.res.ResManagerCollection.loadAll(ResManagerCollection.java:61) ~[blcx-server.jar:?]
-	at com.xkhy.blcx.BlcxServerMain.lambda$init$14(BlcxServerMain.java:234) ~[blcx-server.jar:?]
+Caused by: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:836) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:456) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:197) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:364) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:476) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:561) ~[blcx-server.jar:?]
+	... 9 more
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:485) ~[?:?]
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61) ~[blcx-server.jar:?]
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105) ~[blcx-server.jar:?]
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151) ~[blcx-server.jar:?]
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167) ~[blcx-server.jar:?]
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:91) ~[blcx-server.jar:?]
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:144) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:956) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:826) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:456) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:197) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:364) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:476) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:561) ~[blcx-server.jar:?]
+	... 9 more
+Caused by: java.net.ConnectException: Connection refused
+	at sun.nio.ch.Net.pollConnect(Native Method) ~[?:?]
+	at sun.nio.ch.Net.pollConnectNow(Net.java:682) ~[?:?]
+	at sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:549) ~[?:?]
+	at sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:592) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327) ~[?:?]
+	at java.net.Socket.connect(Socket.java:760) ~[?:?]
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:155) ~[blcx-server.jar:?]
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:65) ~[blcx-server.jar:?]
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:144) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:956) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:826) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:456) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:197) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:364) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:476) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:561) ~[blcx-server.jar:?]
+	... 9 more
+10:55:26.707 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+10:55:27.715 [main] ERROR com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Exception during pool initialization.
+com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:836) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:456) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:197) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:364) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:476) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:561) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.HikariDataSource.<init>(HikariDataSource.java:81) ~[blcx-server.jar:?]
+	at com.xkhy.blcx.config.HikariDBConfig.init(HikariDBConfig.java:47) ~[blcx-server.jar:?]
+	at com.xkhy.blcx.config.HikariDBConfig.init(HikariDBConfig.java:21) ~[blcx-server.jar:?]
+	at com.xkhy.blcx.BlcxServerMain.lambda$init$13(BlcxServerMain.java:228) ~[blcx-server.jar:?]
 	at com.xkhy.blcx.BlcxServerMain.initItem(BlcxServerMain.java:201) ~[blcx-server.jar:?]
-	at com.xkhy.blcx.BlcxServerMain.init(BlcxServerMain.java:232) ~[blcx-server.jar:?]
+	at com.xkhy.blcx.BlcxServerMain.init(BlcxServerMain.java:227) ~[blcx-server.jar:?]
 	at com.xkhy.blcx.BlcxServerMain.start(BlcxServerMain.java:81) ~[blcx-server.jar:?]
 	at com.xkhy.blcx.BlcxServerMain.main(BlcxServerMain.java:77) ~[blcx-server.jar:?]
-22:19:39.413 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON=============
-22:19:39.417 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON需要【4】毫秒=============
-22:19:39.417 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON=============
-22:19:39.420 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON需要【3】毫秒=============
-22:19:39.420 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON=============
-22:19:39.423 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON需要【3】毫秒=============
-22:19:39.424 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON=============
-22:19:39.430 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON需要【6】毫秒=============
-22:19:39.434 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON=============
-22:19:39.439 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON需要【5】毫秒=============
-22:19:39.440 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【资源配置】.......................end
-22:19:39.440 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【后台礼包码】.......................start
-22:19:39.464 [main] INFO  com.xkhy.blcx.domain.model.game.backgroundGiftCode.dao.BackgroundGiftCodeDao - 
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:485) ~[?:?]
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61) ~[blcx-server.jar:?]
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105) ~[blcx-server.jar:?]
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151) ~[blcx-server.jar:?]
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167) ~[blcx-server.jar:?]
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:91) ~[blcx-server.jar:?]
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:144) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:956) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:826) ~[blcx-server.jar:?]
+	... 17 more
+Caused by: java.net.ConnectException: Connection refused
+	at sun.nio.ch.Net.pollConnect(Native Method) ~[?:?]
+	at sun.nio.ch.Net.pollConnectNow(Net.java:682) ~[?:?]
+	at sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:549) ~[?:?]
+	at sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:592) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327) ~[?:?]
+	at java.net.Socket.connect(Socket.java:760) ~[?:?]
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:155) ~[blcx-server.jar:?]
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:65) ~[blcx-server.jar:?]
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:144) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:956) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:826) ~[blcx-server.jar:?]
+	... 17 more
+10:55:27.715 [main] ERROR com.xkhy.blcx.config.HikariDBConfig - 
+com.zaxxer.hikari.pool.HikariPool$PoolInitializationException: Failed to initialize pool: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at com.zaxxer.hikari.pool.HikariPool.throwPoolInitializationException(HikariPool.java:596) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:582) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.HikariDataSource.<init>(HikariDataSource.java:81) ~[blcx-server.jar:?]
+	at com.xkhy.blcx.config.HikariDBConfig.init(HikariDBConfig.java:47) ~[blcx-server.jar:?]
+	at com.xkhy.blcx.config.HikariDBConfig.init(HikariDBConfig.java:21) ~[blcx-server.jar:?]
+	at com.xkhy.blcx.BlcxServerMain.lambda$init$13(BlcxServerMain.java:228) ~[blcx-server.jar:?]
+	at com.xkhy.blcx.BlcxServerMain.initItem(BlcxServerMain.java:201) ~[blcx-server.jar:?]
+	at com.xkhy.blcx.BlcxServerMain.init(BlcxServerMain.java:227) ~[blcx-server.jar:?]
+	at com.xkhy.blcx.BlcxServerMain.start(BlcxServerMain.java:81) ~[blcx-server.jar:?]
+	at com.xkhy.blcx.BlcxServerMain.main(BlcxServerMain.java:77) ~[blcx-server.jar:?]
+Caused by: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:836) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:456) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:197) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:364) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:476) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:561) ~[blcx-server.jar:?]
+	... 9 more
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:485) ~[?:?]
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61) ~[blcx-server.jar:?]
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105) ~[blcx-server.jar:?]
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151) ~[blcx-server.jar:?]
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167) ~[blcx-server.jar:?]
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:91) ~[blcx-server.jar:?]
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:144) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:956) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:826) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:456) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:197) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:364) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:476) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:561) ~[blcx-server.jar:?]
+	... 9 more
+Caused by: java.net.ConnectException: Connection refused
+	at sun.nio.ch.Net.pollConnect(Native Method) ~[?:?]
+	at sun.nio.ch.Net.pollConnectNow(Net.java:682) ~[?:?]
+	at sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:549) ~[?:?]
+	at sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:592) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327) ~[?:?]
+	at java.net.Socket.connect(Socket.java:760) ~[?:?]
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:155) ~[blcx-server.jar:?]
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:65) ~[blcx-server.jar:?]
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:144) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:956) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:826) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:456) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:197) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:364) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:476) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:561) ~[blcx-server.jar:?]
+	... 9 more
+10:55:27.716 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【数据库连接池】.......................end
+10:55:27.718 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【资源配置】.......................start
+10:55:27.721 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON=============
+2025-11-04 10:55:27,736 main WARN No Log4j 2 configuration file found. Using default configuration (logging only errors to the console), or user programmatically provided configurations. Set system property 'log4j2.debug' to show Log4j 2 internal initialization logging. See https://logging.apache.org/log4j/2.x/manual/configuration.html for instructions on how to configure Log4j 2
+10:55:28.184 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON需要【463】毫秒=============
+10:55:28.186 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON=============
+10:55:28.192 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON需要【6】毫秒=============
+10:55:28.193 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON=============
+10:55:28.200 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON需要【7】毫秒=============
+10:55:28.204 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON=============
+10:55:28.206 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON需要【2】毫秒=============
+10:55:28.206 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON=============
+10:55:28.208 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON需要【2】毫秒=============
+10:55:28.208 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON=============
+10:55:28.209 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON需要【1】毫秒=============
+10:55:28.210 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON=============
+10:55:28.214 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON需要【4】毫秒=============
+10:55:28.216 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON=============
+10:55:28.218 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON需要【2】毫秒=============
+10:55:28.219 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【资源配置】.......................end
+10:55:28.219 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【后台礼包码】.......................start
+10:55:28.221 [main] ERROR com.cca.core.config.print.SystemPrintStream - Exception in thread "main" 
+10:55:28.221 [main] ERROR com.cca.core.config.print.SystemPrintStream - java.lang.NullPointerException: Cannot invoke "com.zaxxer.hikari.HikariDataSource.getConnection()" because "com.xkhy.blcx.config.HikariDBConfig.gameDataSource" is null
+10:55:28.221 [main] ERROR com.cca.core.config.print.SystemPrintStream - 	at com.xkhy.blcx.config.HikariDBConfig.getGameConnection(HikariDBConfig.java:110)
+10:55:28.221 [main] ERROR com.cca.core.config.print.SystemPrintStream - 	at com.xkhy.blcx.domain.db.GameCommonDao.getConnection(GameCommonDao.java:14)
+10:55:28.221 [main] ERROR com.cca.core.config.print.SystemPrintStream - 	at com.cca.core.model.db.AbstractDao.selectList(AbstractDao.java:25)
+10:55:28.221 [main] ERROR com.cca.core.config.print.SystemPrintStream - 	at com.xkhy.blcx.BlcxServerMain.lambda$init$15(BlcxServerMain.java:239)
+10:55:28.221 [main] ERROR com.cca.core.config.print.SystemPrintStream - 	at com.xkhy.blcx.BlcxServerMain.initItem(BlcxServerMain.java:201)
+10:55:28.221 [main] ERROR com.cca.core.config.print.SystemPrintStream - 	at com.xkhy.blcx.BlcxServerMain.init(BlcxServerMain.java:238)
+10:55:28.221 [main] ERROR com.cca.core.config.print.SystemPrintStream - 	at com.xkhy.blcx.BlcxServerMain.start(BlcxServerMain.java:81)
+10:55:28.221 [main] ERROR com.cca.core.config.print.SystemPrintStream - 	at com.xkhy.blcx.BlcxServerMain.main(BlcxServerMain.java:77)
+WARNING: sun.reflect.Reflection.getCallerClass is not supported. This will impact performance.
+10:56:30.303 [main] INFO  com.xkhy.blcx.BlcxServerMain - 根目录：/Users/quangtran/works/self/projects/vndevs_data/blcxh5/server/blcx-server/
+10:56:30.303 [main] INFO  com.xkhy.blcx.BlcxServerMain - 运行目录：/Users/quangtran/works/self/projects/vndevs_data/blcxh5/server/blcx-server
+10:56:30.304 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【Properties】.......................start
+10:56:30.306 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【Properties】.......................end
+10:56:30.306 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【热部署】.......................start
+10:56:30.308 [main] ERROR com.cca.core.config.print.SystemPrintStream - java.lang.Exception: 为了支持热更新，请在JVM 启动参数中设置 -Djdk.attach.allowAttachSelf=true
+10:56:30.308 [main] ERROR com.cca.core.config.print.SystemPrintStream - 	at org.cca.agent.AgentManage.init(AgentManage.java:39)
+10:56:30.308 [main] ERROR com.cca.core.config.print.SystemPrintStream - 	at org.cca.agent.AgentManage.init(AgentManage.java:106)
+10:56:30.308 [main] ERROR com.cca.core.config.print.SystemPrintStream - 	at com.xkhy.blcx.BlcxServerMain.lambda$init$11(BlcxServerMain.java:218)
+10:56:30.308 [main] ERROR com.cca.core.config.print.SystemPrintStream - 	at com.xkhy.blcx.BlcxServerMain.initItem(BlcxServerMain.java:201)
+10:56:30.308 [main] ERROR com.cca.core.config.print.SystemPrintStream - 	at com.xkhy.blcx.BlcxServerMain.init(BlcxServerMain.java:217)
+10:56:30.308 [main] ERROR com.cca.core.config.print.SystemPrintStream - 	at com.xkhy.blcx.BlcxServerMain.start(BlcxServerMain.java:81)
+10:56:30.308 [main] ERROR com.cca.core.config.print.SystemPrintStream - 	at com.xkhy.blcx.BlcxServerMain.main(BlcxServerMain.java:77)
+10:56:30.312 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【热部署】.......................end
+10:56:30.312 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【操作类型】.......................start
+10:56:30.313 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【操作类型】.......................end
+10:56:30.313 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【数据库连接池】.......................start
+10:56:30.324 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+10:56:30.611 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+10:56:30.612 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+10:56:30.642 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+10:56:30.642 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【数据库连接池】.......................end
+10:56:30.642 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【资源配置】.......................start
+10:56:30.643 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON=============
+2025-11-04 10:56:30,649 main WARN No Log4j 2 configuration file found. Using default configuration (logging only errors to the console), or user programmatically provided configurations. Set system property 'log4j2.debug' to show Log4j 2 internal initialization logging. See https://logging.apache.org/log4j/2.x/manual/configuration.html for instructions on how to configure Log4j 2
+10:56:31.129 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON需要【486】毫秒=============
+10:56:31.131 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON=============
+10:56:31.138 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON需要【7】毫秒=============
+10:56:31.139 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON=============
+10:56:31.146 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON需要【7】毫秒=============
+10:56:31.150 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON=============
+10:56:31.152 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON需要【2】毫秒=============
+10:56:31.152 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON=============
+10:56:31.154 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON需要【2】毫秒=============
+10:56:31.154 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON=============
+10:56:31.156 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON需要【2】毫秒=============
+10:56:31.156 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON=============
+10:56:31.161 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON需要【5】毫秒=============
+10:56:31.162 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON=============
+10:56:31.166 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON需要【4】毫秒=============
+10:56:31.166 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【资源配置】.......................end
+10:56:31.167 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【后台礼包码】.......................start
+10:56:31.201 [main] INFO  com.xkhy.blcx.domain.model.game.backgroundGiftCode.dao.BackgroundGiftCodeDao - 
 java.sql.SQLSyntaxErrorException: Table 'blcx_game.backgroundgiftcode' doesn't exist
 	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120) ~[blcx-server.jar:?]
 	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97) ~[blcx-server.jar:?]
@@ -97,73 +358,346 @@ java.sql.SQLSyntaxErrorException: Table 'blcx_game.backgroundgiftcode' doesn't e
 	at com.xkhy.blcx.BlcxServerMain.init(BlcxServerMain.java:238) ~[blcx-server.jar:?]
 	at com.xkhy.blcx.BlcxServerMain.start(BlcxServerMain.java:81) ~[blcx-server.jar:?]
 	at com.xkhy.blcx.BlcxServerMain.main(BlcxServerMain.java:77) ~[blcx-server.jar:?]
-22:19:39.465 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【后台礼包码】.......................end
-22:19:39.465 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【敏感字库初始化】.......................start
-22:19:39.766 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【敏感字库初始化】.......................end
-22:19:39.767 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【全服邮件】.......................start
-22:19:39.774 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【全服邮件】.......................end
-22:19:39.774 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【任务监听】.......................start
-22:19:39.780 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【任务监听】.......................end
-22:19:39.780 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【任务系统】.......................start
-22:19:41.774 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【任务系统】.......................end
-22:19:41.775 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【红点系统】.......................start
-22:19:42.752 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【红点系统】.......................end
-22:19:42.752 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【功能入口显示系统】.......................start
-22:19:43.738 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【功能入口显示系统】.......................end
-22:19:43.739 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【事件系统】.......................start
-22:19:44.714 [main] INFO  com.xkhy.blcx.service.system.event.EventDispatcher - 事件监听初始化完成
-22:19:44.714 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【事件系统】.......................end
-22:19:44.714 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【副本数据】.......................start
-22:19:44.767 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【副本数据】.......................end
-22:19:44.767 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【奇遇大厅】.......................start
-22:19:44.771 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【奇遇大厅】.......................end
-22:19:44.772 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【游戏日志】.......................start
-22:19:44.773 [main] INFO  com.xkhy.blcx.domain.collection.LogCollection - 日志保存线程启动
-22:19:44.774 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【游戏日志】.......................end
-22:19:46.836 [main] INFO  com.hazelcast.config.ClasspathXmlConfig - Configuring Hazelcast from 'config/cluster.xml'.
-22:19:47.315 [main] INFO  com.xkhy.blcx.BlcxServerMain - 
+10:56:31.201 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【后台礼包码】.......................end
+10:56:31.201 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【敏感字库初始化】.......................start
+10:56:31.303 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【敏感字库初始化】.......................end
+10:56:31.303 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【全服邮件】.......................start
+10:56:31.337 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【全服邮件】.......................end
+10:56:31.338 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【任务监听】.......................start
+10:56:31.342 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【任务监听】.......................end
+10:56:31.342 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【任务系统】.......................start
+10:56:32.471 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【任务系统】.......................end
+10:56:32.471 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【红点系统】.......................start
+10:56:33.027 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【红点系统】.......................end
+10:56:33.027 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【功能入口显示系统】.......................start
+10:56:33.582 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【功能入口显示系统】.......................end
+10:56:33.582 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【事件系统】.......................start
+10:56:34.142 [main] INFO  com.xkhy.blcx.service.system.event.EventDispatcher - 事件监听初始化完成
+10:56:34.142 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【事件系统】.......................end
+10:56:34.143 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【副本数据】.......................start
+10:56:34.181 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【副本数据】.......................end
+10:56:34.181 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【奇遇大厅】.......................start
+10:56:34.183 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【奇遇大厅】.......................end
+10:56:34.183 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【游戏日志】.......................start
+10:56:34.183 [main] INFO  com.xkhy.blcx.domain.collection.LogCollection - 日志保存线程启动
+10:56:34.183 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【游戏日志】.......................end
+10:56:40.519 [main] WARN  io.netty.resolver.dns.DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+10:56:40.548 [main] INFO  com.xkhy.blcx.BlcxServerMain - 
 import com.cca.core.network.server.EventRouter;
-public class BlcxServer5EventRouter {
-	private static final String BLCX_SERVER_5 = "BLCX_SERVER_5";
-	public static final EventRouter BATTLE_LOG = new EventRouter(BLCX_SERVER_5, 937878288);
-	public static final EventRouter CHANGE_NAME_LOG = new EventRouter(BLCX_SERVER_5, 2026954093);
-	public static final EventRouter COIN_LOG = new EventRouter(BLCX_SERVER_5, 1030045111);
-	public static final EventRouter END_LOG = new EventRouter(BLCX_SERVER_5, 954777457);
-	public static final EventRouter ENERGY_LOG = new EventRouter(BLCX_SERVER_5, 1122947392);
-	public static final EventRouter EQUIP_LOG = new EventRouter(BLCX_SERVER_5, 919747428);
-	public static final EventRouter EXP_LOG = new EventRouter(BLCX_SERVER_5, 1160437713);
-	public static final EventRouter FRIEND_ADD = new EventRouter(BLCX_SERVER_5, 1424931809);
-	public static final EventRouter FRIEND_APPLY = new EventRouter(BLCX_SERVER_5, 1201361100);
-	public static final EventRouter FRIEND_BLACK = new EventRouter(BLCX_SERVER_5, 1366218051);
-	public static final EventRouter FRIEND_DETAIL = new EventRouter(BLCX_SERVER_5, 1603970657);
-	public static final EventRouter FRIEND_LIKE = new EventRouter(BLCX_SERVER_5, 1434136795);
-	public static final EventRouter FRIEND_MESSAGE_UPDATE = new EventRouter(BLCX_SERVER_5, 742285362);
-	public static final EventRouter FRIEND_ONLINE_UPDATE = new EventRouter(BLCX_SERVER_5, 1674424682);
-	public static final EventRouter FRIEND_REFUSE = new EventRouter(BLCX_SERVER_5, 1962786690);
-	public static final EventRouter FRIEND_REMOVE = new EventRouter(BLCX_SERVER_5, 934482418);
-	public static final EventRouter FRIEND_SEARCH = new EventRouter(BLCX_SERVER_5, 1180166294);
-	public static final EventRouter FRIEND_SEND_END = new EventRouter(BLCX_SERVER_5, 177534863);
-	public static final EventRouter GEM_LOG = new EventRouter(BLCX_SERVER_5, 1867279613);
-	public static final EventRouter ITEM_LOG = new EventRouter(BLCX_SERVER_5, 1943137483);
-	public static final EventRouter LEVEL_LOG = new EventRouter(BLCX_SERVER_5, 759113032);
-	public static final EventRouter LOGIN_LOG = new EventRouter(BLCX_SERVER_5, 1610185117);
-	public static final EventRouter LOGIN_OUT_LOG = new EventRouter(BLCX_SERVER_5, 244752861);
-	public static final EventRouter MAIL_LOG = new EventRouter(BLCX_SERVER_5, 1031761041);
-	public static final EventRouter RECHARGE = new EventRouter(BLCX_SERVER_5, 2142189842);
-	public static final EventRouter ROLE_ATTR_UPDATE = new EventRouter(BLCX_SERVER_5, 906489816);
-	public static final EventRouter ROLE_ITEM_UPDATE = new EventRouter(BLCX_SERVER_5, 2024654278);
-	public static final EventRouter RUNE_LOG = new EventRouter(BLCX_SERVER_5, 1114042866);
-	public static final EventRouter SELECT_ROLE = new EventRouter(BLCX_SERVER_5, 1663035386);
-	public static final EventRouter SEND_GIFT_CODE = new EventRouter(BLCX_SERVER_5, 1281286419);
-	public static final EventRouter SEND_MAIL = new EventRouter(BLCX_SERVER_5, 423171545);
-	public static final EventRouter SEND_RANK_REWARD = new EventRouter(BLCX_SERVER_5, 1764021723);
+public class BlcxServer1EventRouter {
+	private static final String BLCX_SERVER_1 = "BLCX_SERVER_1";
+	public static final EventRouter BATTLE_LOG = new EventRouter(BLCX_SERVER_1, 937878288);
+	public static final EventRouter CHANGE_NAME_LOG = new EventRouter(BLCX_SERVER_1, 2026954093);
+	public static final EventRouter COIN_LOG = new EventRouter(BLCX_SERVER_1, 1030045111);
+	public static final EventRouter END_LOG = new EventRouter(BLCX_SERVER_1, 954777457);
+	public static final EventRouter ENERGY_LOG = new EventRouter(BLCX_SERVER_1, 1122947392);
+	public static final EventRouter EQUIP_LOG = new EventRouter(BLCX_SERVER_1, 919747428);
+	public static final EventRouter EXP_LOG = new EventRouter(BLCX_SERVER_1, 1160437713);
+	public static final EventRouter FRIEND_ADD = new EventRouter(BLCX_SERVER_1, 1424931809);
+	public static final EventRouter FRIEND_APPLY = new EventRouter(BLCX_SERVER_1, 1201361100);
+	public static final EventRouter FRIEND_BLACK = new EventRouter(BLCX_SERVER_1, 1366218051);
+	public static final EventRouter FRIEND_DETAIL = new EventRouter(BLCX_SERVER_1, 1603970657);
+	public static final EventRouter FRIEND_LIKE = new EventRouter(BLCX_SERVER_1, 1434136795);
+	public static final EventRouter FRIEND_MESSAGE_UPDATE = new EventRouter(BLCX_SERVER_1, 742285362);
+	public static final EventRouter FRIEND_ONLINE_UPDATE = new EventRouter(BLCX_SERVER_1, 1674424682);
+	public static final EventRouter FRIEND_REFUSE = new EventRouter(BLCX_SERVER_1, 1962786690);
+	public static final EventRouter FRIEND_REMOVE = new EventRouter(BLCX_SERVER_1, 934482418);
+	public static final EventRouter FRIEND_SEARCH = new EventRouter(BLCX_SERVER_1, 1180166294);
+	public static final EventRouter FRIEND_SEND_END = new EventRouter(BLCX_SERVER_1, 177534863);
+	public static final EventRouter GEM_LOG = new EventRouter(BLCX_SERVER_1, 1867279613);
+	public static final EventRouter ITEM_LOG = new EventRouter(BLCX_SERVER_1, 1943137483);
+	public static final EventRouter LEVEL_LOG = new EventRouter(BLCX_SERVER_1, 759113032);
+	public static final EventRouter LOGIN_LOG = new EventRouter(BLCX_SERVER_1, 1610185117);
+	public static final EventRouter LOGIN_OUT_LOG = new EventRouter(BLCX_SERVER_1, 244752861);
+	public static final EventRouter MAIL_LOG = new EventRouter(BLCX_SERVER_1, 1031761041);
+	public static final EventRouter RECHARGE = new EventRouter(BLCX_SERVER_1, 2142189842);
+	public static final EventRouter ROLE_ATTR_UPDATE = new EventRouter(BLCX_SERVER_1, 906489816);
+	public static final EventRouter ROLE_ITEM_UPDATE = new EventRouter(BLCX_SERVER_1, 2024654278);
+	public static final EventRouter RUNE_LOG = new EventRouter(BLCX_SERVER_1, 1114042866);
+	public static final EventRouter SELECT_ROLE = new EventRouter(BLCX_SERVER_1, 1663035386);
+	public static final EventRouter SEND_GIFT_CODE = new EventRouter(BLCX_SERVER_1, 1281286419);
+	public static final EventRouter SEND_MAIL = new EventRouter(BLCX_SERVER_1, 423171545);
+	public static final EventRouter SEND_RANK_REWARD = new EventRouter(BLCX_SERVER_1, 1764021723);
 }
-22:19:47.319 [vert.x-worker-thread-0] WARN  com.hazelcast.instance.impl.HazelcastInstanceFactory - Hazelcast is starting in a Java modular environment (Java 9 and newer) but without proper access to required Java packages. Use additional Java arguments to provide Hazelcast access to Java internal API. The internal API access is used to get the best performance results. Arguments to be used:
+10:56:40.552 [vert.x-worker-thread-0] WARN  com.hazelcast.instance.impl.HazelcastInstanceFactory - Hazelcast is starting in a Java modular environment (Java 9 and newer) but without proper access to required Java packages. Use additional Java arguments to provide Hazelcast access to Java internal API. The internal API access is used to get the best performance results. Arguments to be used:
  --add-modules java.se --add-exports java.base/jdk.internal.ref=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/java.nio=ALL-UNNAMED --add-opens java.base/sun.nio.ch=ALL-UNNAMED --add-opens java.management/sun.management=ALL-UNNAMED --add-opens jdk.management/com.sun.management.internal=ALL-UNNAMED
-22:19:47.358 [vert.x-worker-thread-0] INFO  com.hazelcast.instance.AddressPicker - [LOCAL] [BLCX] [4.2.6] Interfaces is disabled, trying to pick one address from TCP-IP config addresses: [10.21.210.122]
-22:19:47.359 [vert.x-worker-thread-0] WARN  com.hazelcast.instance.AddressPicker - [LOCAL] [BLCX] [4.2.6] Could not find a matching address to start with! Picking one of non-loopback addresses.
-22:19:47.381 [vert.x-worker-thread-0] INFO  com.hazelcast.system - [10.0.12.10]:5702 [BLCX] [4.2.6] Hazelcast 4.2.6 (20221125 - 622d299) starting at [10.0.12.10]:5702
-22:19:47.751 [vert.x-worker-thread-0] INFO  com.hazelcast.instance.impl.Node - [10.0.12.10]:5702 [BLCX] [4.2.6] Using TCP/IP discovery
-22:19:47.752 [vert.x-worker-thread-0] WARN  com.hazelcast.cp.CPSubsystem - [10.0.12.10]:5702 [BLCX] [4.2.6] CP Subsystem is not enabled. CP data structures will operate in UNSAFE mode! Please note that UNSAFE mode will not provide strong consistency guarantees.
-22:19:47.926 [vert.x-worker-thread-0] INFO  com.hazelcast.internal.diagnostics.Diagnostics - [10.0.12.10]:5702 [BLCX] [4.2.6] Diagnostics disabled. To enable add -Dhazelcast.diagnostics.enabled=true to the JVM arguments.
-22:19:47.930 [vert.x-worker-thread-0] INFO  com.hazelcast.core.LifecycleService - [10.0.12.10]:5702 [BLCX] [4.2.6] [10.0.12.10]:5702 is STARTING
+10:56:40.583 [vert.x-worker-thread-0] INFO  com.hazelcast.system - [192.168.1.9]:5701 [dev] [4.2.6] Hazelcast 4.2.6 (20221125 - 622d299) starting at [192.168.1.9]:5701
+10:56:40.694 [vert.x-worker-thread-0] INFO  com.hazelcast.spi.discovery.integration.DiscoveryService - [192.168.1.9]:5701 [dev] [4.2.6] No discovery strategy is applicable for auto-detection
+10:56:40.720 [vert.x-worker-thread-0] INFO  com.hazelcast.instance.impl.Node - [192.168.1.9]:5701 [dev] [4.2.6] Using Multicast discovery
+10:56:40.722 [vert.x-worker-thread-0] WARN  com.hazelcast.cp.CPSubsystem - [192.168.1.9]:5701 [dev] [4.2.6] CP Subsystem is not enabled. CP data structures will operate in UNSAFE mode! Please note that UNSAFE mode will not provide strong consistency guarantees.
+10:56:40.801 [vert.x-worker-thread-0] INFO  com.hazelcast.internal.diagnostics.Diagnostics - [192.168.1.9]:5701 [dev] [4.2.6] Diagnostics disabled. To enable add -Dhazelcast.diagnostics.enabled=true to the JVM arguments.
+10:56:40.803 [vert.x-worker-thread-0] INFO  com.hazelcast.core.LifecycleService - [192.168.1.9]:5701 [dev] [4.2.6] [192.168.1.9]:5701 is STARTING
+10:56:44.349 [vert.x-worker-thread-0] INFO  com.hazelcast.internal.cluster.ClusterService - [192.168.1.9]:5701 [dev] [4.2.6] 
+
+Members {size:1, ver:1} [
+	Member [192.168.1.9]:5701 - 06fa41f5-ae9a-4949-a432-496ec4f87a7f this
+]
+
+10:56:44.361 [vert.x-worker-thread-0] INFO  com.hazelcast.core.LifecycleService - [192.168.1.9]:5701 [dev] [4.2.6] [192.168.1.9]:5701 is STARTED
+10:56:44.407 [vert.x-worker-thread-1] INFO  com.hazelcast.internal.partition.impl.PartitionStateManager - [192.168.1.9]:5701 [dev] [4.2.6] Initializing cluster partition table arrangement...
+10:56:44.435 [vert.x-eventloop-thread-2] INFO  com.cca.core.network.server.tcp.websocket.WebSocketVerticle - WebSocket server started on port 9506
+10:56:44.436 [vert.x-eventloop-thread-0] INFO  com.cca.core.network.event.JsonEventBusServer - 消费地址[BLCX_SERVER_1]监听
+10:56:44.437 [vert.x-eventloop-thread-0] INFO  com.cca.core.network.server.tcp.websocket.WebSocketVertxServer - com.cca.core.network.server.tcp.websocket.WebSocketVertxServer --> 部署成功
+10:56:44.437 [vert.x-eventloop-thread-0] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【获取开服时间】.......................start
+10:56:44.440 [vert.x-eventloop-thread-0] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【获取开服时间】.......................end
+10:56:44.440 [vert.x-eventloop-thread-0] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【获取server列表信息】.......................start
+10:56:44.440 [vert.x-eventloop-thread-0] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【获取server列表信息】.......................end
+10:56:44.440 [vert.x-eventloop-thread-0] INFO  com.xkhy.blcx.BlcxServerMain - 当前进程的PID为：32360
+10:56:44.454 [vert.x-eventloop-thread-0] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【线程池服务】.......................start
+10:56:44.540 [vert.x-eventloop-thread-0] INFO  com.xkhy.blcx.common.executor.impl.WorkerExecutorService - 定时任务器执行周期[OneMinuteWorker]任务下次执行时间[2025-11-04 10:56:44],周期[60]秒
+10:56:44.540 [vert.x-eventloop-thread-0] INFO  com.xkhy.blcx.common.executor.impl.WorkerExecutorService - 下次执行10分钟时间：2025-11-04 11:00:00
+10:56:44.541 [vert.x-eventloop-thread-0] INFO  com.xkhy.blcx.common.executor.impl.WorkerExecutorService - 下一次执行每小时PerHourZeroWorker任务时间：2025-11-04 11:00:00
+10:56:44.541 [vert.x-eventloop-thread-0] INFO  com.xkhy.blcx.common.executor.impl.WorkerExecutorService - 下一次执行每小时PerHourTwentyWorker任务时间：2025-11-04 11:20:00
+10:56:44.541 [vert.x-eventloop-thread-0] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【线程池服务】.......................end
+10:56:44.542 [vert.x-eventloop-thread-0] INFO  com.xkhy.blcx.BlcxServerMain - 启动成功 》》》》》》》》》》》》》》》》》》》》》》》》》》》》》
+10:56:44.543 [vert.x-eventloop-thread-0] ERROR com.xkhy.blcx.BlcxServerMain - 获取开服时间错误
+io.vertx.core.eventbus.ReplyException: No handlers for address BLCX_CENTER
+	at io.vertx.core.eventbus.impl.EventBusImpl.deliverMessageLocally(EventBusImpl.java:384) ~[blcx-server.jar:?]
+	at io.vertx.core.eventbus.impl.EventBusImpl.sendLocally(EventBusImpl.java:341) ~[blcx-server.jar:?]
+	at io.vertx.core.eventbus.impl.EventBusImpl.sendOrPub(EventBusImpl.java:329) ~[blcx-server.jar:?]
+	at io.vertx.core.eventbus.impl.clustered.ClusteredEventBus.sendToNode(ClusteredEventBus.java:335) ~[blcx-server.jar:?]
+	at io.vertx.core.eventbus.impl.clustered.ClusteredEventBus.lambda$sendOrPub$5(ClusteredEventBus.java:207) ~[blcx-server.jar:?]
+	at io.vertx.core.impl.future.FutureImpl$3.onSuccess(FutureImpl.java:141) ~[blcx-server.jar:?]
+	at io.vertx.core.impl.future.FutureBase.emitSuccess(FutureBase.java:60) ~[blcx-server.jar:?]
+	at io.vertx.core.impl.future.FutureImpl.tryComplete(FutureImpl.java:211) ~[blcx-server.jar:?]
+	at io.vertx.core.impl.future.PromiseImpl.tryComplete(PromiseImpl.java:23) ~[blcx-server.jar:?]
+	at io.vertx.core.impl.future.PromiseImpl.onSuccess(PromiseImpl.java:49) ~[blcx-server.jar:?]
+	at io.vertx.core.impl.future.FutureImpl$ListenerArray.onSuccess(FutureImpl.java:262) ~[blcx-server.jar:?]
+	at io.vertx.core.impl.future.FutureBase.emitSuccess(FutureBase.java:60) ~[blcx-server.jar:?]
+	at io.vertx.core.impl.future.FutureImpl.tryComplete(FutureImpl.java:211) ~[blcx-server.jar:?]
+	at io.vertx.core.impl.future.PromiseImpl.tryComplete(PromiseImpl.java:23) ~[blcx-server.jar:?]
+	at io.vertx.core.spi.cluster.impl.DefaultNodeSelector.lambda$selectForSend$0(DefaultNodeSelector.java:43) ~[blcx-server.jar:?]
+	at io.vertx.core.spi.cluster.impl.selector.Selectors.lambda$withSelector$1(Selectors.java:49) ~[blcx-server.jar:?]
+	at io.vertx.core.impl.future.FutureImpl$3.onSuccess(FutureImpl.java:141) ~[blcx-server.jar:?]
+	at io.vertx.core.impl.future.FutureImpl$ListenerArray.onSuccess(FutureImpl.java:262) ~[blcx-server.jar:?]
+	at io.vertx.core.impl.future.FutureBase.emitSuccess(FutureBase.java:60) ~[blcx-server.jar:?]
+	at io.vertx.core.impl.future.FutureImpl.tryComplete(FutureImpl.java:211) ~[blcx-server.jar:?]
+	at io.vertx.core.impl.future.PromiseImpl.tryComplete(PromiseImpl.java:23) ~[blcx-server.jar:?]
+	at io.vertx.core.Promise.complete(Promise.java:66) ~[blcx-server.jar:?]
+	at io.vertx.core.spi.cluster.impl.selector.Selectors.dataReceived(Selectors.java:85) ~[blcx-server.jar:?]
+	at io.vertx.core.spi.cluster.impl.selector.Selectors.lambda$initialize$2(Selectors.java:64) ~[blcx-server.jar:?]
+	at io.vertx.core.impl.future.FutureImpl$3.onSuccess(FutureImpl.java:141) ~[blcx-server.jar:?]
+	at io.vertx.core.impl.future.FutureBase.emitSuccess(FutureBase.java:60) ~[blcx-server.jar:?]
+	at io.vertx.core.impl.future.FutureImpl.tryComplete(FutureImpl.java:211) ~[blcx-server.jar:?]
+	at io.vertx.core.impl.future.PromiseImpl.tryComplete(PromiseImpl.java:23) ~[blcx-server.jar:?]
+	at io.vertx.core.impl.future.PromiseImpl.onSuccess(PromiseImpl.java:49) ~[blcx-server.jar:?]
+	at io.vertx.core.impl.future.FutureBase.lambda$emitSuccess$0(FutureBase.java:54) ~[blcx-server.jar:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[blcx-server.jar:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[blcx-server.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[blcx-server.jar:?]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:569) ~[blcx-server.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[blcx-server.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[blcx-server.jar:?]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[blcx-server.jar:?]
+	at java.lang.Thread.run(Thread.java:1575) ~[?:?]
+10:56:44.543 [vert.x-eventloop-thread-3] ERROR com.xkhy.blcx.event.BlcxCenterEventRouter - No handlers for address BLCX_CENTER
+10:56:44.544 [gameTask_GameExecutorTask-2-2] WARN  com.xkhy.blcx.service.friends.FriendsNoticeService - 从center拉取推荐好友列表请求超时
+10:56:44.544 [vert.x-eventloop-thread-4] ERROR com.xkhy.blcx.event.BlcxCenterEventRouter - No handlers for address BLCX_CENTER
+10:56:44.544 [gameTask_GameExecutorTask-2-3] WARN  com.xkhy.blcx.service.rank.RankService - 从center拉取排行榜数据请求超时
+10:56:44.544 [vert.x-eventloop-thread-0] ERROR com.xkhy.blcx.BlcxServerMain - 获取server列表信息错误
+io.vertx.core.eventbus.ReplyException: No handlers for address BLCX_CENTER
+	at io.vertx.core.eventbus.impl.EventBusImpl.deliverMessageLocally(EventBusImpl.java:384) ~[blcx-server.jar:?]
+	at io.vertx.core.eventbus.impl.EventBusImpl.sendLocally(EventBusImpl.java:341) ~[blcx-server.jar:?]
+	at io.vertx.core.eventbus.impl.EventBusImpl.sendOrPub(EventBusImpl.java:329) ~[blcx-server.jar:?]
+	at io.vertx.core.eventbus.impl.clustered.ClusteredEventBus.sendToNode(ClusteredEventBus.java:335) ~[blcx-server.jar:?]
+	at io.vertx.core.eventbus.impl.clustered.ClusteredEventBus.lambda$sendOrPub$5(ClusteredEventBus.java:207) ~[blcx-server.jar:?]
+	at io.vertx.core.impl.future.FutureImpl$3.onSuccess(FutureImpl.java:141) ~[blcx-server.jar:?]
+	at io.vertx.core.impl.future.FutureBase.emitSuccess(FutureBase.java:60) ~[blcx-server.jar:?]
+	at io.vertx.core.impl.future.FutureImpl.tryComplete(FutureImpl.java:211) ~[blcx-server.jar:?]
+	at io.vertx.core.impl.future.PromiseImpl.tryComplete(PromiseImpl.java:23) ~[blcx-server.jar:?]
+	at io.vertx.core.impl.future.PromiseImpl.onSuccess(PromiseImpl.java:49) ~[blcx-server.jar:?]
+	at io.vertx.core.impl.future.FutureImpl$ListenerArray.onSuccess(FutureImpl.java:262) ~[blcx-server.jar:?]
+	at io.vertx.core.impl.future.FutureBase.lambda$emitSuccess$0(FutureBase.java:54) ~[blcx-server.jar:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[blcx-server.jar:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[blcx-server.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[blcx-server.jar:?]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:569) ~[blcx-server.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[blcx-server.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[blcx-server.jar:?]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[blcx-server.jar:?]
+	at java.lang.Thread.run(Thread.java:1575) ~[?:?]
+WARNING: sun.reflect.Reflection.getCallerClass is not supported. This will impact performance.
+15:08:32.566 [main] INFO  com.xkhy.blcx.BlcxServerMain - 根目录：/Users/quangtran/works/self/projects/vndevs_data/blcxh5/server/blcx-server/
+15:08:32.566 [main] INFO  com.xkhy.blcx.BlcxServerMain - 运行目录：/Users/quangtran/works/self/projects/vndevs_data/blcxh5/server/blcx-server
+15:08:32.566 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【Properties】.......................start
+15:08:32.569 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【Properties】.......................end
+15:08:32.569 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【热部署】.......................start
+15:08:32.570 [main] ERROR com.cca.core.config.print.SystemPrintStream - java.lang.Exception: 为了支持热更新，请在JVM 启动参数中设置 -Djdk.attach.allowAttachSelf=true
+15:08:32.570 [main] ERROR com.cca.core.config.print.SystemPrintStream - 	at org.cca.agent.AgentManage.init(AgentManage.java:39)
+15:08:32.570 [main] ERROR com.cca.core.config.print.SystemPrintStream - 	at org.cca.agent.AgentManage.init(AgentManage.java:106)
+15:08:32.570 [main] ERROR com.cca.core.config.print.SystemPrintStream - 	at com.xkhy.blcx.BlcxServerMain.lambda$init$11(BlcxServerMain.java:218)
+15:08:32.570 [main] ERROR com.cca.core.config.print.SystemPrintStream - 	at com.xkhy.blcx.BlcxServerMain.initItem(BlcxServerMain.java:201)
+15:08:32.570 [main] ERROR com.cca.core.config.print.SystemPrintStream - 	at com.xkhy.blcx.BlcxServerMain.init(BlcxServerMain.java:217)
+15:08:32.570 [main] ERROR com.cca.core.config.print.SystemPrintStream - 	at com.xkhy.blcx.BlcxServerMain.start(BlcxServerMain.java:81)
+15:08:32.570 [main] ERROR com.cca.core.config.print.SystemPrintStream - 	at com.xkhy.blcx.BlcxServerMain.main(BlcxServerMain.java:77)
+15:08:32.573 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【热部署】.......................end
+15:08:32.574 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【操作类型】.......................start
+15:08:32.574 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【操作类型】.......................end
+15:08:32.574 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【数据库连接池】.......................start
+15:08:32.586 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+15:08:32.830 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+15:08:32.831 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+15:08:32.861 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+15:08:32.861 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【数据库连接池】.......................end
+15:08:32.862 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【资源配置】.......................start
+15:08:32.862 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON=============
+2025-11-04 15:08:32,870 main WARN No Log4j 2 configuration file found. Using default configuration (logging only errors to the console), or user programmatically provided configurations. Set system property 'log4j2.debug' to show Log4j 2 internal initialization logging. See https://logging.apache.org/log4j/2.x/manual/configuration.html for instructions on how to configure Log4j 2
+15:08:33.362 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON需要【500】毫秒=============
+15:08:33.364 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON=============
+15:08:33.371 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON需要【7】毫秒=============
+15:08:33.372 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON=============
+15:08:33.379 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON需要【7】毫秒=============
+15:08:33.383 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON=============
+15:08:33.385 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON需要【2】毫秒=============
+15:08:33.386 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON=============
+15:08:33.388 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON需要【3】毫秒=============
+15:08:33.388 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON=============
+15:08:33.389 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON需要【1】毫秒=============
+15:08:33.389 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON=============
+15:08:33.394 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON需要【5】毫秒=============
+15:08:33.395 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON=============
+15:08:33.403 [main] INFO  com.xkhy.blcx.domain.res.ResLoaderManager - 加载JSON需要【8】毫秒=============
+15:08:33.403 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【资源配置】.......................end
+15:08:33.403 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【后台礼包码】.......................start
+15:08:33.434 [main] INFO  com.xkhy.blcx.domain.model.game.backgroundGiftCode.dao.BackgroundGiftCodeDao - 
+java.sql.SQLSyntaxErrorException: Table 'blcx_game.backgroundgiftcode' doesn't exist
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[blcx-server.jar:?]
+	at com.mysql.cj.jdbc.StatementImpl.executeQuery(StatementImpl.java:1200) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.pool.ProxyStatement.executeQuery(ProxyStatement.java:110) ~[blcx-server.jar:?]
+	at com.zaxxer.hikari.pool.HikariProxyStatement.executeQuery(HikariProxyStatement.java) ~[blcx-server.jar:?]
+	at com.cca.core.model.db.AbstractDao.selectList(AbstractDao.java:30) ~[blcx-server.jar:?]
+	at com.xkhy.blcx.BlcxServerMain.lambda$init$15(BlcxServerMain.java:239) ~[blcx-server.jar:?]
+	at com.xkhy.blcx.BlcxServerMain.initItem(BlcxServerMain.java:201) ~[blcx-server.jar:?]
+	at com.xkhy.blcx.BlcxServerMain.init(BlcxServerMain.java:238) ~[blcx-server.jar:?]
+	at com.xkhy.blcx.BlcxServerMain.start(BlcxServerMain.java:81) ~[blcx-server.jar:?]
+	at com.xkhy.blcx.BlcxServerMain.main(BlcxServerMain.java:77) ~[blcx-server.jar:?]
+15:08:33.435 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【后台礼包码】.......................end
+15:08:33.435 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【敏感字库初始化】.......................start
+15:08:33.536 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【敏感字库初始化】.......................end
+15:08:33.536 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【全服邮件】.......................start
+15:08:33.543 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【全服邮件】.......................end
+15:08:33.543 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【任务监听】.......................start
+15:08:33.546 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【任务监听】.......................end
+15:08:33.546 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【任务系统】.......................start
+15:08:34.679 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【任务系统】.......................end
+15:08:34.679 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【红点系统】.......................start
+15:08:35.232 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【红点系统】.......................end
+15:08:35.233 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【功能入口显示系统】.......................start
+15:08:35.791 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【功能入口显示系统】.......................end
+15:08:35.791 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【事件系统】.......................start
+15:08:36.342 [main] INFO  com.xkhy.blcx.service.system.event.EventDispatcher - 事件监听初始化完成
+15:08:36.342 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【事件系统】.......................end
+15:08:36.342 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【副本数据】.......................start
+15:08:36.367 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【副本数据】.......................end
+15:08:36.367 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【奇遇大厅】.......................start
+15:08:36.369 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【奇遇大厅】.......................end
+15:08:36.369 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【游戏日志】.......................start
+15:08:36.370 [main] INFO  com.xkhy.blcx.domain.collection.LogCollection - 日志保存线程启动
+15:08:36.370 [main] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【游戏日志】.......................end
+15:08:42.657 [main] WARN  io.netty.resolver.dns.DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+15:08:42.684 [main] INFO  com.xkhy.blcx.BlcxServerMain - 
+import com.cca.core.network.server.EventRouter;
+public class BlcxServer1EventRouter {
+	private static final String BLCX_SERVER_1 = "BLCX_SERVER_1";
+	public static final EventRouter BATTLE_LOG = new EventRouter(BLCX_SERVER_1, 937878288);
+	public static final EventRouter CHANGE_NAME_LOG = new EventRouter(BLCX_SERVER_1, 2026954093);
+	public static final EventRouter COIN_LOG = new EventRouter(BLCX_SERVER_1, 1030045111);
+	public static final EventRouter END_LOG = new EventRouter(BLCX_SERVER_1, 954777457);
+	public static final EventRouter ENERGY_LOG = new EventRouter(BLCX_SERVER_1, 1122947392);
+	public static final EventRouter EQUIP_LOG = new EventRouter(BLCX_SERVER_1, 919747428);
+	public static final EventRouter EXP_LOG = new EventRouter(BLCX_SERVER_1, 1160437713);
+	public static final EventRouter FRIEND_ADD = new EventRouter(BLCX_SERVER_1, 1424931809);
+	public static final EventRouter FRIEND_APPLY = new EventRouter(BLCX_SERVER_1, 1201361100);
+	public static final EventRouter FRIEND_BLACK = new EventRouter(BLCX_SERVER_1, 1366218051);
+	public static final EventRouter FRIEND_DETAIL = new EventRouter(BLCX_SERVER_1, 1603970657);
+	public static final EventRouter FRIEND_LIKE = new EventRouter(BLCX_SERVER_1, 1434136795);
+	public static final EventRouter FRIEND_MESSAGE_UPDATE = new EventRouter(BLCX_SERVER_1, 742285362);
+	public static final EventRouter FRIEND_ONLINE_UPDATE = new EventRouter(BLCX_SERVER_1, 1674424682);
+	public static final EventRouter FRIEND_REFUSE = new EventRouter(BLCX_SERVER_1, 1962786690);
+	public static final EventRouter FRIEND_REMOVE = new EventRouter(BLCX_SERVER_1, 934482418);
+	public static final EventRouter FRIEND_SEARCH = new EventRouter(BLCX_SERVER_1, 1180166294);
+	public static final EventRouter FRIEND_SEND_END = new EventRouter(BLCX_SERVER_1, 177534863);
+	public static final EventRouter GEM_LOG = new EventRouter(BLCX_SERVER_1, 1867279613);
+	public static final EventRouter ITEM_LOG = new EventRouter(BLCX_SERVER_1, 1943137483);
+	public static final EventRouter LEVEL_LOG = new EventRouter(BLCX_SERVER_1, 759113032);
+	public static final EventRouter LOGIN_LOG = new EventRouter(BLCX_SERVER_1, 1610185117);
+	public static final EventRouter LOGIN_OUT_LOG = new EventRouter(BLCX_SERVER_1, 244752861);
+	public static final EventRouter MAIL_LOG = new EventRouter(BLCX_SERVER_1, 1031761041);
+	public static final EventRouter RECHARGE = new EventRouter(BLCX_SERVER_1, 2142189842);
+	public static final EventRouter ROLE_ATTR_UPDATE = new EventRouter(BLCX_SERVER_1, 906489816);
+	public static final EventRouter ROLE_ITEM_UPDATE = new EventRouter(BLCX_SERVER_1, 2024654278);
+	public static final EventRouter RUNE_LOG = new EventRouter(BLCX_SERVER_1, 1114042866);
+	public static final EventRouter SELECT_ROLE = new EventRouter(BLCX_SERVER_1, 1663035386);
+	public static final EventRouter SEND_GIFT_CODE = new EventRouter(BLCX_SERVER_1, 1281286419);
+	public static final EventRouter SEND_MAIL = new EventRouter(BLCX_SERVER_1, 423171545);
+	public static final EventRouter SEND_RANK_REWARD = new EventRouter(BLCX_SERVER_1, 1764021723);
+}
+15:08:42.689 [vert.x-worker-thread-0] WARN  com.hazelcast.instance.impl.HazelcastInstanceFactory - Hazelcast is starting in a Java modular environment (Java 9 and newer) but without proper access to required Java packages. Use additional Java arguments to provide Hazelcast access to Java internal API. The internal API access is used to get the best performance results. Arguments to be used:
+ --add-modules java.se --add-exports java.base/jdk.internal.ref=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/java.nio=ALL-UNNAMED --add-opens java.base/sun.nio.ch=ALL-UNNAMED --add-opens java.management/sun.management=ALL-UNNAMED --add-opens jdk.management/com.sun.management.internal=ALL-UNNAMED
+15:08:42.715 [vert.x-worker-thread-0] INFO  com.hazelcast.system - [192.168.1.9]:5702 [dev] [4.2.6] Hazelcast 4.2.6 (20221125 - 622d299) starting at [192.168.1.9]:5702
+15:08:42.840 [vert.x-worker-thread-0] INFO  com.hazelcast.spi.discovery.integration.DiscoveryService - [192.168.1.9]:5702 [dev] [4.2.6] No discovery strategy is applicable for auto-detection
+15:08:42.867 [vert.x-worker-thread-0] INFO  com.hazelcast.instance.impl.Node - [192.168.1.9]:5702 [dev] [4.2.6] Using Multicast discovery
+15:08:42.869 [vert.x-worker-thread-0] WARN  com.hazelcast.cp.CPSubsystem - [192.168.1.9]:5702 [dev] [4.2.6] CP Subsystem is not enabled. CP data structures will operate in UNSAFE mode! Please note that UNSAFE mode will not provide strong consistency guarantees.
+15:08:42.949 [vert.x-worker-thread-0] INFO  com.hazelcast.internal.diagnostics.Diagnostics - [192.168.1.9]:5702 [dev] [4.2.6] Diagnostics disabled. To enable add -Dhazelcast.diagnostics.enabled=true to the JVM arguments.
+15:08:42.951 [vert.x-worker-thread-0] INFO  com.hazelcast.core.LifecycleService - [192.168.1.9]:5702 [dev] [4.2.6] [192.168.1.9]:5702 is STARTING
+15:08:43.041 [vert.x-worker-thread-0] INFO  com.hazelcast.internal.cluster.impl.MulticastJoiner - [192.168.1.9]:5702 [dev] [4.2.6] Trying to join to discovered node: [192.168.1.9]:5701
+15:08:43.055 [hz.nifty_turing.IO.thread-in-0] INFO  com.hazelcast.internal.server.tcp.TcpServerConnection - [192.168.1.9]:5702 [dev] [4.2.6] Initialized new cluster connection between /192.168.1.9:56232 and /192.168.1.9:5701
+15:08:49.083 [hz.nifty_turing.priority-generic-operation.thread-0] INFO  com.hazelcast.internal.cluster.ClusterService - [192.168.1.9]:5702 [dev] [4.2.6] 
+
+Members {size:2, ver:2} [
+	Member [192.168.1.9]:5701 - f23ebef8-aeb6-44b8-b8fb-6bb909aa3200
+	Member [192.168.1.9]:5702 - f177735c-f23b-4b48-91d7-71e766e021a4 this
+]
+
+15:08:50.090 [vert.x-worker-thread-0] INFO  com.hazelcast.core.LifecycleService - [192.168.1.9]:5702 [dev] [4.2.6] [192.168.1.9]:5702 is STARTED
+15:08:50.133 [vert.x-eventloop-thread-2] INFO  com.cca.core.network.server.tcp.websocket.WebSocketVerticle - WebSocket server started on port 9506
+15:08:50.133 [vert.x-eventloop-thread-0] INFO  com.cca.core.network.event.JsonEventBusServer - 消费地址[BLCX_SERVER_1]监听
+15:08:50.135 [vert.x-eventloop-thread-0] INFO  com.cca.core.network.server.tcp.websocket.WebSocketVertxServer - com.cca.core.network.server.tcp.websocket.WebSocketVertxServer --> 部署成功
+15:08:50.135 [vert.x-eventloop-thread-0] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【获取开服时间】.......................start
+15:08:50.137 [vert.x-eventloop-thread-0] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【获取开服时间】.......................end
+15:08:50.137 [vert.x-eventloop-thread-0] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【获取server列表信息】.......................start
+15:08:50.138 [vert.x-eventloop-thread-0] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【获取server列表信息】.......................end
+15:08:52.659 [vertx-blocked-thread-checker] WARN  io.vertx.core.impl.BlockedThreadChecker - Thread Thread[#95,vert.x-eventloop-thread-0,5,main] has been blocked for 2525 ms, time limit is 2000 ms
+15:08:53.659 [vertx-blocked-thread-checker] WARN  io.vertx.core.impl.BlockedThreadChecker - Thread Thread[#95,vert.x-eventloop-thread-0,5,main] has been blocked for 3525 ms, time limit is 2000 ms
+15:08:54.661 [vertx-blocked-thread-checker] WARN  io.vertx.core.impl.BlockedThreadChecker - Thread Thread[#95,vert.x-eventloop-thread-0,5,main] has been blocked for 4527 ms, time limit is 2000 ms
+15:08:55.146 [vert.x-eventloop-thread-0] INFO  com.xkhy.blcx.BlcxServerMain - 当前进程的PID为：86390
+15:08:55.172 [vert.x-eventloop-thread-0] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【线程池服务】.......................start
+15:08:55.268 [vert.x-eventloop-thread-0] INFO  com.xkhy.blcx.common.executor.impl.WorkerExecutorService - 定时任务器执行周期[OneMinuteWorker]任务下次执行时间[2025-11-04 15:08:55],周期[60]秒
+15:08:55.268 [vert.x-eventloop-thread-0] INFO  com.xkhy.blcx.common.executor.impl.WorkerExecutorService - 下次执行10分钟时间：2025-11-04 15:10:00
+15:08:55.268 [vert.x-eventloop-thread-0] INFO  com.xkhy.blcx.common.executor.impl.WorkerExecutorService - 下一次执行每小时PerHourZeroWorker任务时间：2025-11-04 16:00:00
+15:08:55.269 [vert.x-eventloop-thread-0] INFO  com.xkhy.blcx.common.executor.impl.WorkerExecutorService - 下一次执行每小时PerHourTwentyWorker任务时间：2025-11-04 15:20:00
+15:08:55.269 [vert.x-eventloop-thread-0] INFO  com.xkhy.blcx.BlcxServerMain - 初始化【线程池服务】.......................end
+15:08:55.270 [vert.x-eventloop-thread-0] INFO  com.xkhy.blcx.BlcxServerMain - 启动成功 》》》》》》》》》》》》》》》》》》》》》》》》》》》》》
+15:08:55.404 [vert.x-acceptor-thread-0] INFO  com.xkhy.blcx.session.GameSessionFactory - 创建新的Session【java.nio.channels.SocketChannel[connected local=/192.168.1.9:56235 remote=/192.168.1.9:56243]】======
+15:08:55.413 [vert.x-eventloop-thread-0] INFO  com.xkhy.blcx.BlcxServerMain - 获取开服时间 = 0
+15:08:55.415 [gameTask_GameExecutorTask-2-2] INFO  com.xkhy.blcx.service.friends.FriendsNoticeService - 从center拉取推荐好友列表，拉取数量：1
+15:08:55.415 [vert.x-eventloop-thread-0] INFO  com.xkhy.blcx.BlcxServerMain - 获取server列表信息 = {1=1, 2=2, 3=3, 4=4, 5=5, 6=6, 7=7, 8=8, 9=9, 10=10, 11=11, 12=12, 13=13, 14=14, 15=15, 16=16, 17=17, 18=18, 19=19, 20=20}
+15:08:55.421 [gameTask_GameExecutorTask-2-3] INFO  com.xkhy.blcx.service.rank.RankService - 从center拉取排行榜数据
+15:09:05.830 [vert.x-acceptor-thread-0] INFO  com.xkhy.blcx.session.GameSessionFactory - 创建新的Session【java.nio.channels.SocketChannel[connected local=/127.0.0.1:9506 remote=/127.0.0.1:56290]】======
+15:09:36.381 [日志保存线程] INFO  com.xkhy.blcx.domain.collection.LogCollection - 保存日志............................. 一次性批量保存[5],当前剩余队列[0]
+15:09:55.291 [vert.x-eventloop-thread-0] INFO  com.cca.core.network.event.JsonEventBusServer - 收到消息
+15:09:55.291 [vert.x-eventloop-thread-0] INFO  com.cca.core.network.event.JsonEventBusServer - 收到消息code[1674424682] = com.xkhy.blcx.event.friend.FriendOnlineUpdateEvent@a6e4897
+15:10:00.274 [vert.x-eventloop-thread-0] INFO  com.cca.core.network.event.JsonEventBusServer - 收到消息
+15:10:00.274 [vert.x-eventloop-thread-0] INFO  com.cca.core.network.event.JsonEventBusServer - 收到消息code[742285362] = com.xkhy.blcx.event.friend.FriendMessageUpdateEvent@511f5b1d
+15:13:50.263 [vert.x-acceptor-thread-0] INFO  com.xkhy.blcx.session.GameSessionFactory - 创建新的Session【java.nio.channels.SocketChannel[connected local=/127.0.0.1:9506 remote=/127.0.0.1:56575]】======
+15:13:55.274 [vert.x-eventloop-thread-0] INFO  com.cca.core.network.event.JsonEventBusServer - 收到消息
+15:13:55.274 [vert.x-eventloop-thread-0] INFO  com.cca.core.network.event.JsonEventBusServer - 收到消息code[1674424682] = com.xkhy.blcx.event.friend.FriendOnlineUpdateEvent@a6e4897
+15:14:36.446 [日志保存线程] INFO  com.xkhy.blcx.domain.collection.LogCollection - 保存日志............................. 一次性批量保存[80],当前剩余队列[0]
+15:14:55.275 [vert.x-eventloop-thread-0] INFO  com.cca.core.network.event.JsonEventBusServer - 收到消息
+15:14:55.275 [vert.x-eventloop-thread-0] INFO  com.cca.core.network.event.JsonEventBusServer - 收到消息code[1674424682] = com.xkhy.blcx.event.friend.FriendOnlineUpdateEvent@a6e4897
+15:18:43.180 [vert.x-acceptor-thread-0] INFO  com.xkhy.blcx.session.GameSessionFactory - 创建新的Session【java.nio.channels.SocketChannel[connected local=/127.0.0.1:9506 remote=/127.0.0.1:56771]】======
+15:19:05.357 [vert.x-acceptor-thread-0] INFO  com.xkhy.blcx.session.GameSessionFactory - 创建新的Session【java.nio.channels.SocketChannel[connected local=/127.0.0.1:9506 remote=/127.0.0.1:56848]】======
+15:19:11.855 [vert.x-eventloop-thread-2] INFO  com.cca.core.config.print.SystemPrintStream - true
+15:19:14.962 [vert.x-eventloop-thread-2] INFO  com.cca.core.config.print.SystemPrintStream - true
+15:19:17.241 [vert.x-eventloop-thread-2] INFO  com.cca.core.config.print.SystemPrintStream - true
+15:19:19.404 [vert.x-eventloop-thread-2] INFO  com.cca.core.config.print.SystemPrintStream - true
+15:19:36.522 [日志保存线程] INFO  com.xkhy.blcx.domain.collection.LogCollection - 保存日志............................. 一次性批量保存[18],当前剩余队列[0]
+15:19:55.273 [vert.x-eventloop-thread-0] INFO  com.cca.core.network.event.JsonEventBusServer - 收到消息
+15:19:55.273 [vert.x-eventloop-thread-0] INFO  com.cca.core.network.event.JsonEventBusServer - 收到消息code[1674424682] = com.xkhy.blcx.event.friend.FriendOnlineUpdateEvent@a6e4897
+15:20:00.284 [vert.x-eventloop-thread-0] INFO  com.cca.core.network.event.JsonEventBusServer - 收到消息
+15:20:00.284 [vert.x-eventloop-thread-0] INFO  com.cca.core.network.event.JsonEventBusServer - 收到消息code[742285362] = com.xkhy.blcx.event.friend.FriendMessageUpdateEvent@511f5b1d
+15:20:00.317 [gameTask_GameExecutorTask-2-8] INFO  com.xkhy.blcx.service.friends.FriendsNoticeService - 从center拉取推荐好友列表，拉取数量：1
+15:20:00.320 [gameTask_GameExecutorTask-2-8] INFO  com.xkhy.blcx.service.rank.RankService - 从center拉取排行榜数据
+15:20:36.537 [日志保存线程] INFO  com.xkhy.blcx.domain.collection.LogCollection - 保存日志............................. 一次性批量保存[1],当前剩余队列[0]
