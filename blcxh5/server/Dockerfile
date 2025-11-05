@@ -16,4 +16,4 @@ RUN chmod +x /app/start.sh /app/stop.sh
 EXPOSE 9053 9056
 
 # Default command
-CMD ["/app/start.sh"]
+# CMD ["/app/start.sh"]

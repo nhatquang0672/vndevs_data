@@ -1,6 +1,6 @@
 #!/bin/bash
 
-HOSTNAME="localhost"
+HOSTNAME="127.0.0.1"
 PORT="3306"
 USERNAME="root"
 PASSWORD="123456"
@@ -9,92 +9,16 @@ DB1="blcx_center"
 DB2="blcx_game"
 DB3="blcx_log"
 
-
-
 #创建数据库
 sql1="create database ${DB1} DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci;"
 sql2="create database ${DB2} DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci;"
 sql3="create database ${DB3} DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci;"
 
-
-
-
 mysql -h${HOSTNAME} -P${PORT} -u${USERNAME} -p${PASSWORD} -e "${sql1}"
 mysql -h${HOSTNAME} -P${PORT} -u${USERNAME} -p${PASSWORD} -e "${sql2}"
 mysql -h${HOSTNAME} -P${PORT} -u${USERNAME} -p${PASSWORD} -e "${sql3}"
 
-
-
-
 #还原数据库
-mysql -u${USERNAME} -p${PASSWORD} ${DB1} < /home/sql/blcx_center.sql
-mysql -u${USERNAME} -p${PASSWORD} ${DB2} < /home/sql/blcx_game.sql
-mysql -u${USERNAME} -p${PASSWORD} ${DB3} < /home/sql/blcx_log.sql
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 源 码 屋 w w w . 5 1 b o s h a o . c o m
-
-
-
-
+mysql -h${HOSTNAME} -P${PORT} -u${USERNAME} -p${PASSWORD} ${DB1} < /root/sql/blcx_center.sql
+mysql -h${HOSTNAME} -P${PORT} -u${USERNAME} -p${PASSWORD} ${DB2} < /root/sql/blcx_game.sql
+mysql -h${HOSTNAME} -P${PORT} -u${USERNAME} -p${PASSWORD} ${DB3} < /root/sql/blcx_log.sql
