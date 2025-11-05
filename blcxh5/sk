@@ -19,6 +19,6 @@ mysql -h${HOSTNAME} -P${PORT} -u${USERNAME} -p${PASSWORD} -e "${sql2}"
 mysql -h${HOSTNAME} -P${PORT} -u${USERNAME} -p${PASSWORD} -e "${sql3}"
 
 #还原数据库
-mysql -h${HOSTNAME} -P${PORT} -u${USERNAME} -p${PASSWORD} ${DB1} < /root/sql/blcx_center.sql
-mysql -h${HOSTNAME} -P${PORT} -u${USERNAME} -p${PASSWORD} ${DB2} < /root/sql/blcx_game.sql
-mysql -h${HOSTNAME} -P${PORT} -u${USERNAME} -p${PASSWORD} ${DB3} < /root/sql/blcx_log.sql
+mysql -h${HOSTNAME} -P${PORT} -u${USERNAME} -p${PASSWORD} ${DB1} < /home/sql/blcx_center.sql
+mysql -h${HOSTNAME} -P${PORT} -u${USERNAME} -p${PASSWORD} ${DB2} < /home/sql/blcx_game.sql
+mysql -h${HOSTNAME} -P${PORT} -u${USERNAME} -p${PASSWORD} ${DB3} < /home/sql/blcx_log.sql
