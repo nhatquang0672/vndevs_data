@@ -5,7 +5,9 @@ FROM amazoncorretto:17.0.17
 WORKDIR /app
 
 # Copy your apps
-COPY blcx-center blcx-server start.sh stop.sh /app/
+COPY blcx-center /app/blcx-center
+COPY blcx-server /app/blcx-server
+COPY start.sh stop.sh /app/
 
 # Make scripts executable
 RUN chmod +x /app/start.sh /app/stop.sh
