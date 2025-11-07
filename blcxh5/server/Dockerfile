@@ -1,24 +1,19 @@
-# Use lightweight official OpenJDK 17 image
-FROM openjdk:17.0.1-jdk-slim
+# Use Amazon Corretto 17 (JDK)
+FROM amazoncorretto:17.0.17
 
-# Set environment variables
-ENV TZ=Asia/Ho_Chi_Minh
-ENV APP_HOME=/app
+# Set working directory
+WORKDIR /app
 
-# Create working directory
-WORKDIR $APP_HOME
-
-# Copy your project files (both backends + scripts)
-COPY blcx-server ./blcx-server
-COPY blcx-center ./blcx-center
-COPY start.sh .
-COPY stop.sh .
+# Copy your apps
+COPY blcx-center /app/blcx-center
+COPY blcx-server /app/blcx-server
+COPY start.sh stop.sh /app/
 
 # Make scripts executable
-RUN chmod +x start.sh stop.sh
+RUN chmod +x /app/start.sh /app/stop.sh
 
-# Expose default ports (optional — change to your actual ports)
-EXPOSE 8080 8081
+# Expose ports (adjust these if your .jar uses others)
+EXPOSE 9053 9056
 
-# Set default command
-CMD ["./start.sh"]
+# Default command
+CMD ["/app/start.sh"]
