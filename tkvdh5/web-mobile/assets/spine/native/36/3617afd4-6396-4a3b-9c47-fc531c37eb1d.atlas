@@ -1,0 +1,181 @@
+
+chiyou.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chiyou_0
+  rotate: true
+  xy: 228, 338
+  size: 88, 147
+  orig: 88, 147
+  offset: 0, 0
+  index: -1
+chiyou_1
+  rotate: true
+  xy: 377, 364
+  size: 62, 54
+  orig: 62, 54
+  offset: 0, 0
+  index: -1
+chiyou_10
+  rotate: true
+  xy: 437, 372
+  size: 55, 63
+  orig: 55, 63
+  offset: 0, 0
+  index: -1
+chiyou_11
+  rotate: false
+  xy: 227, 167
+  size: 83, 76
+  orig: 83, 76
+  offset: 0, 0
+  index: -1
+chiyou_12
+  rotate: false
+  xy: 312, 155
+  size: 43, 32
+  orig: 43, 32
+  offset: 0, 0
+  index: -1
+chiyou_13
+  rotate: true
+  xy: 433, 278
+  size: 92, 77
+  orig: 92, 77
+  offset: 0, 0
+  index: -1
+chiyou_14
+  rotate: true
+  xy: 367, 173
+  size: 37, 48
+  orig: 37, 48
+  offset: 0, 0
+  index: -1
+chiyou_15
+  rotate: false
+  xy: 426, 131
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+chiyou_16
+  rotate: false
+  xy: 377, 297
+  size: 46, 65
+  orig: 46, 65
+  offset: 0, 0
+  index: -1
+chiyou_17
+  rotate: true
+  xy: 367, 257
+  size: 38, 60
+  orig: 38, 60
+  offset: 0, 0
+  index: -1
+chiyou_18
+  rotate: false
+  xy: 394, 143
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+chiyou_19
+  rotate: false
+  xy: 357, 146
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+chiyou_2
+  rotate: true
+  xy: 429, 158
+  size: 118, 80
+  orig: 118, 80
+  offset: 0, 0
+  index: -1
+chiyou_20
+  rotate: false
+  xy: 367, 212
+  size: 52, 43
+  orig: 52, 43
+  offset: 0, 0
+  index: -1
+chiyou_21
+  rotate: false
+  xy: 2, 133
+  size: 112, 85
+  orig: 112, 85
+  offset: 0, 0
+  index: -1
+chiyou_22
+  rotate: true
+  xy: 151, 213
+  size: 91, 74
+  orig: 91, 74
+  offset: 0, 0
+  index: -1
+chiyou_23
+  rotate: false
+  xy: 2, 306
+  size: 224, 204
+  orig: 224, 204
+  offset: 0, 0
+  index: -1
+chiyou_3
+  rotate: false
+  xy: 116, 155
+  size: 22, 63
+  orig: 22, 63
+  offset: 0, 0
+  index: -1
+chiyou_4
+  rotate: true
+  xy: 350, 220
+  size: 23, 15
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+chiyou_5
+  rotate: false
+  xy: 350, 205
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+chiyou_6
+  rotate: true
+  xy: 437, 429
+  size: 81, 65
+  orig: 81, 65
+  offset: 0, 0
+  index: -1
+chiyou_7
+  rotate: false
+  xy: 2, 220
+  size: 147, 84
+  orig: 147, 84
+  offset: 0, 0
+  index: -1
+chiyou_8
+  rotate: true
+  xy: 228, 245
+  size: 91, 137
+  orig: 91, 137
+  offset: 0, 0
+  index: -1
+chiyou_9
+  rotate: false
+  xy: 312, 189
+  size: 36, 54
+  orig: 36, 54
+  offset: 0, 0
+  index: -1
+touying
+  rotate: false
+  xy: 228, 428
+  size: 207, 82
+  orig: 207, 82
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+effect_bahuangbishi.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/ui_15
+  rotate: false
+  xy: 2, 369
+  size: 503, 136
+  orig: 600, 250
+  offset: 49, 55
+  index: -1
+images/zi_28
+  rotate: false
+  xy: 2, 223
+  size: 327, 144
+  orig: 500, 250
+  offset: 86, 49
+  index: -1

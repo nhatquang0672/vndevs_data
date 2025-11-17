@@ -1,0 +1,62 @@
+
+effect_hit_mon46.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: false
+  xy: 717, 748
+  size: 240, 227
+  orig: 500, 500
+  offset: 138, 139
+  index: -1
+images/0_00001
+  rotate: true
+  xy: 2, 474
+  size: 283, 298
+  orig: 500, 500
+  offset: 127, 105
+  index: -1
+images/0_00002
+  rotate: true
+  xy: 302, 429
+  size: 325, 329
+  orig: 500, 500
+  offset: 102, 98
+  index: -1
+images/0_00004
+  rotate: true
+  xy: 633, 407
+  size: 339, 342
+  orig: 500, 500
+  offset: 97, 92
+  index: -1
+images/0_00006
+  rotate: false
+  xy: 472, 756
+  size: 243, 219
+  orig: 500, 500
+  offset: 158, 171
+  index: -1
+images/0_00008
+  rotate: false
+  xy: 220, 759
+  size: 250, 216
+  orig: 500, 500
+  offset: 164, 173
+  index: -1
+images/0_00010
+  rotate: false
+  xy: 100, 864
+  size: 118, 111
+  orig: 500, 500
+  offset: 172, 193
+  index: -1
+images/0_00012
+  rotate: false
+  xy: 2, 884
+  size: 96, 91
+  orig: 500, 500
+  offset: 179, 202
+  index: -1

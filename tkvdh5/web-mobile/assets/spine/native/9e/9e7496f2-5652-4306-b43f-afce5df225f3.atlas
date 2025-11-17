@@ -1,0 +1,55 @@
+
+effect_chushou1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: false
+  xy: 139, 775
+  size: 134, 93
+  orig: 600, 600
+  offset: 181, 391
+  index: -1
+images/0_00001
+  rotate: false
+  xy: 275, 665
+  size: 307, 203
+  orig: 600, 600
+  offset: 177, 289
+  index: -1
+images/0_00002
+  rotate: false
+  xy: 262, 382
+  size: 307, 281
+  orig: 600, 600
+  offset: 180, 200
+  index: -1
+images/0_00004
+  rotate: false
+  xy: 571, 345
+  size: 297, 290
+  orig: 600, 600
+  offset: 188, 181
+  index: -1
+images/0_00006
+  rotate: false
+  xy: 2, 497
+  size: 258, 276
+  orig: 600, 600
+  offset: 211, 178
+  index: -1
+images/0_00008
+  rotate: true
+  xy: 584, 637
+  size: 231, 273
+  orig: 600, 600
+  offset: 221, 180
+  index: -1
+images/0_00010
+  rotate: false
+  xy: 2, 801
+  size: 135, 67
+  orig: 600, 600
+  offset: 280, 197
+  index: -1

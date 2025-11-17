@@ -1,0 +1,13 @@
+
+effect_atk_xingcai.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0
+  rotate: false
+  xy: 2, 3
+  size: 120, 119
+  orig: 176, 176
+  offset: 30, 28
+  index: -1

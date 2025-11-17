@@ -1,0 +1,13 @@
+
+effect_atk_mon2.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0
+  rotate: false
+  xy: 2, 2
+  size: 52, 52
+  orig: 128, 128
+  offset: 38, 38
+  index: -1

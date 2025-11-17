@@ -1,0 +1,167 @@
+
+shouling_daqilin.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daqilin_0
+  rotate: true
+  xy: 116, 473
+  size: 25, 69
+  orig: 25, 75
+  offset: 0, 6
+  index: -1
+daqilin_1
+  rotate: true
+  xy: 457, 461
+  size: 37, 38
+  orig: 45, 38
+  offset: 8, 0
+  index: -1
+daqilin_10
+  rotate: false
+  xy: 187, 471
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+daqilin_11
+  rotate: true
+  xy: 324, 468
+  size: 30, 81
+  orig: 30, 81
+  offset: 0, 0
+  index: -1
+daqilin_12
+  rotate: true
+  xy: 214, 376
+  size: 49, 84
+  orig: 49, 84
+  offset: 0, 0
+  index: -1
+daqilin_13
+  rotate: false
+  xy: 2, 488
+  size: 21, 10
+  orig: 21, 12
+  offset: 0, 2
+  index: -1
+daqilin_14
+  rotate: false
+  xy: 25, 488
+  size: 10, 10
+  orig: 10, 11
+  offset: 0, 1
+  index: -1
+daqilin_15
+  rotate: true
+  xy: 300, 360
+  size: 62, 120
+  orig: 62, 120
+  offset: 0, 0
+  index: -1
+daqilin_16
+  rotate: false
+  xy: 131, 275
+  size: 122, 99
+  orig: 122, 99
+  offset: 0, 0
+  index: -1
+daqilin_17
+  rotate: true
+  xy: 2, 442
+  size: 38, 57
+  orig: 38, 57
+  offset: 0, 0
+  index: -1
+daqilin_18
+  rotate: false
+  xy: 2, 308
+  size: 127, 77
+  orig: 127, 77
+  offset: 0, 0
+  index: -1
+daqilin_19
+  rotate: false
+  xy: 61, 440
+  size: 86, 31
+  orig: 86, 31
+  offset: 0, 0
+  index: -1
+daqilin_2
+  rotate: true
+  xy: 218, 470
+  size: 28, 55
+  orig: 28, 55
+  offset: 0, 0
+  index: -1
+daqilin_20
+  rotate: true
+  xy: 430, 354
+  size: 105, 68
+  orig: 105, 68
+  offset: 0, 0
+  index: -1
+daqilin_21
+  rotate: true
+  xy: 273, 427
+  size: 39, 64
+  orig: 39, 64
+  offset: 0, 0
+  index: -1
+daqilin_3
+  rotate: true
+  xy: 117, 387
+  size: 44, 95
+  orig: 44, 95
+  offset: 0, 0
+  index: -1
+daqilin_4
+  rotate: true
+  xy: 74, 475
+  size: 23, 40
+  orig: 23, 40
+  offset: 0, 0
+  index: -1
+daqilin_5
+  rotate: false
+  xy: 339, 424
+  size: 89, 41
+  orig: 89, 41
+  offset: 0, 0
+  index: -1
+daqilin_6
+  rotate: true
+  xy: 149, 433
+  size: 35, 122
+  orig: 35, 122
+  offset: 0, 0
+  index: -1
+daqilin_7
+  rotate: true
+  xy: 275, 470
+  size: 28, 47
+  orig: 28, 47
+  offset: 0, 0
+  index: -1
+daqilin_8
+  rotate: true
+  xy: 37, 482
+  size: 16, 35
+  orig: 16, 35
+  offset: 0, 0
+  index: -1
+daqilin_9
+  rotate: false
+  xy: 407, 467
+  size: 48, 31
+  orig: 48, 31
+  offset: 0, 0
+  index: -1
+touying
+  rotate: false
+  xy: 2, 394
+  size: 113, 44
+  orig: 115, 46
+  offset: 1, 1
+  index: -1

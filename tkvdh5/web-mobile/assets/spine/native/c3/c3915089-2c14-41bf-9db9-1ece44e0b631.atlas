@@ -1,0 +1,195 @@
+
+dapengmingwang.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dapengmingwang_0
+  rotate: false
+  xy: 180, 299
+  size: 16, 14
+  orig: 16, 16
+  offset: 0, 1
+  index: -1
+dapengmingwang_1
+  rotate: false
+  xy: 204, 24
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+dapengmingwang_10
+  rotate: false
+  xy: 210, 280
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+dapengmingwang_11
+  rotate: false
+  xy: 180, 315
+  size: 63, 45
+  orig: 63, 45
+  offset: 0, 0
+  index: -1
+dapengmingwang_12
+  rotate: true
+  xy: 96, 17
+  size: 44, 51
+  orig: 44, 51
+  offset: 0, 0
+  index: -1
+dapengmingwang_13
+  rotate: false
+  xy: 44, 17
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+dapengmingwang_14
+  rotate: false
+  xy: 210, 156
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+dapengmingwang_15
+  rotate: false
+  xy: 149, 26
+  size: 21, 35
+  orig: 21, 35
+  offset: 0, 0
+  index: -1
+dapengmingwang_16
+  rotate: true
+  xy: 179, 73
+  size: 46, 24
+  orig: 46, 24
+  offset: 0, 0
+  index: -1
+dapengmingwang_17
+  rotate: false
+  xy: 204, 46
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+dapengmingwang_18
+  rotate: true
+  xy: 2, 2
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+dapengmingwang_19
+  rotate: false
+  xy: 243, 31
+  size: 18, 35
+  orig: 18, 35
+  offset: 0, 0
+  index: -1
+dapengmingwang_2
+  rotate: false
+  xy: 303, 51
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+dapengmingwang_20
+  rotate: false
+  xy: 210, 244
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+dapengmingwang_21
+  rotate: false
+  xy: 179, 121
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+dapengmingwang_22
+  rotate: false
+  xy: 2, 39
+  size: 92, 26
+  orig: 92, 26
+  offset: 0, 0
+  index: -1
+dapengmingwang_23
+  rotate: false
+  xy: 2, 296
+  size: 176, 209
+  orig: 326, 209
+  offset: 0, 0
+  index: -1
+dapengmingwang_23_01
+  rotate: true
+  xy: 2, 151
+  size: 143, 206
+  orig: 326, 209
+  offset: 183, 3
+  index: -1
+dapengmingwang_24
+  rotate: false
+  xy: 99, 63
+  size: 78, 86
+  orig: 193, 112
+  offset: 0, 0
+  index: -1
+dapengmingwang_25
+  rotate: true
+  xy: 2, 67
+  size: 82, 95
+  orig: 193, 112
+  offset: 111, 17
+  index: -1
+dapengmingwang_3
+  rotate: false
+  xy: 172, 14
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+dapengmingwang_4
+  rotate: true
+  xy: 210, 68
+  size: 83, 91
+  orig: 83, 91
+  offset: 0, 0
+  index: -1
+dapengmingwang_6
+  rotate: true
+  xy: 180, 362
+  size: 143, 175
+  orig: 143, 175
+  offset: 0, 0
+  index: -1
+dapengmingwang_7
+  rotate: true
+  xy: 303, 74
+  size: 77, 91
+  orig: 77, 91
+  offset: 0, 0
+  index: -1
+dapengmingwang_8
+  rotate: true
+  xy: 210, 188
+  size: 54, 29
+  orig: 54, 29
+  offset: 0, 0
+  index: -1
+dapengmingwang_9
+  rotate: false
+  xy: 179, 37
+  size: 23, 34
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+touying
+  rotate: true
+  xy: 245, 153
+  size: 207, 82
+  orig: 207, 82
+  offset: 0, 0
+  index: -1

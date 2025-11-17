@@ -1,0 +1,55 @@
+
+s-egui.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s-egu--6
+  rotate: false
+  xy: 75, 70
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+s-egu-1
+  rotate: false
+  xy: 102, 39
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+s-egu-2
+  rotate: false
+  xy: 103, 100
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+s-egu-3
+  rotate: true
+  xy: 75, 41
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+s-egu-4
+  rotate: true
+  xy: 75, 98
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+s-egu-5
+  rotate: false
+  xy: 2, 34
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+s-egui
+  rotate: false
+  xy: 2, 60
+  size: 71, 66
+  orig: 71, 66
+  offset: 0, 0
+  index: -1

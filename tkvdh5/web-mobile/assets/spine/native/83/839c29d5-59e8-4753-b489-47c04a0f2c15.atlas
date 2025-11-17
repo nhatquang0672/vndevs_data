@@ -1,0 +1,13 @@
+
+zw-kaiduan.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zw-kaiduan
+  rotate: false
+  xy: 2, 2
+  size: 132, 166
+  orig: 132, 166
+  offset: 0, 0
+  index: -1

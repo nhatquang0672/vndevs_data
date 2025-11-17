@@ -1,0 +1,118 @@
+
+effect_xianlv_lvdan.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1/0_00000
+  rotate: false
+  xy: 361, 411
+  size: 122, 97
+  orig: 400, 400
+  offset: 152, 164
+  index: -1
+images/1/0_00002
+  rotate: true
+  xy: 318, 189
+  size: 117, 95
+  orig: 400, 400
+  offset: 154, 168
+  index: -1
+images/1/0_00004
+  rotate: false
+  xy: 286, 5
+  size: 111, 91
+  orig: 400, 400
+  offset: 155, 174
+  index: -1
+images/1/0_00006
+  rotate: false
+  xy: 399, 6
+  size: 105, 90
+  orig: 400, 400
+  offset: 156, 176
+  index: -1
+images/1/0_00008
+  rotate: true
+  xy: 214, 407
+  size: 101, 145
+  orig: 400, 400
+  offset: 158, 122
+  index: -1
+images/1/0_00010
+  rotate: true
+  xy: 214, 308
+  size: 97, 152
+  orig: 400, 400
+  offset: 159, 116
+  index: -1
+images/1/0_00012
+  rotate: false
+  xy: 240, 151
+  size: 76, 155
+  orig: 400, 400
+  offset: 177, 114
+  index: -1
+images/1/0_00014
+  rotate: false
+  xy: 118, 2
+  size: 74, 155
+  orig: 400, 400
+  offset: 177, 115
+  index: -1
+images/1/0_00016
+  rotate: false
+  xy: 2, 4
+  size: 87, 150
+  orig: 400, 400
+  offset: 153, 121
+  index: -1
+images/1/0_00018
+  rotate: true
+  xy: 318, 98
+  size: 89, 125
+  orig: 400, 400
+  offset: 150, 129
+  index: -1
+images/1/0_00020
+  rotate: false
+  xy: 194, 30
+  size: 90, 119
+  orig: 400, 400
+  offset: 148, 134
+  index: -1
+images/1/0_00022
+  rotate: true
+  xy: 2, 156
+  size: 113, 114
+  orig: 400, 400
+  offset: 147, 138
+  index: -1
+images/1/0_00024
+  rotate: false
+  xy: 118, 159
+  size: 120, 110
+  orig: 400, 400
+  offset: 146, 142
+  index: -1
+images/1/0_00026
+  rotate: true
+  xy: 415, 190
+  size: 123, 90
+  orig: 400, 400
+  offset: 147, 162
+  index: -1
+images/1/0_00028
+  rotate: false
+  xy: 368, 315
+  size: 124, 94
+  orig: 400, 400
+  offset: 149, 164
+  index: -1
+images/2
+  rotate: false
+  xy: 2, 271
+  size: 210, 237
+  orig: 400, 400
+  offset: 95, 81
+  index: -1

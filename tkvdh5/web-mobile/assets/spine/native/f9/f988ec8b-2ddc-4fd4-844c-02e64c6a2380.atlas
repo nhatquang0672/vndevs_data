@@ -1,0 +1,13 @@
+
+zw-yugan.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zw-yugan
+  rotate: false
+  xy: 2, 33
+  size: 176, 145
+  orig: 176, 145
+  offset: 0, 0
+  index: -1

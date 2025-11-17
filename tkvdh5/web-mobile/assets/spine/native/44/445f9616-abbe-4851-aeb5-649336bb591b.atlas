@@ -1,0 +1,146 @@
+
+shouling_qingyanxuanmu.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+niu_0
+  rotate: false
+  xy: 2, 2
+  size: 45, 98
+  orig: 45, 98
+  offset: 0, 0
+  index: -1
+niu_1
+  rotate: true
+  xy: 180, 5
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+niu_10
+  rotate: false
+  xy: 140, 158
+  size: 34, 68
+  orig: 34, 68
+  offset: 0, 0
+  index: -1
+niu_11
+  rotate: false
+  xy: 92, 20
+  size: 50, 87
+  orig: 51, 87
+  offset: 0, 0
+  index: -1
+niu_12
+  rotate: false
+  xy: 2, 362
+  size: 115, 147
+  orig: 117, 210
+  offset: 2, 0
+  index: -1
+niu_13
+  rotate: false
+  xy: 96, 279
+  size: 54, 81
+  orig: 54, 81
+  offset: 0, 0
+  index: -1
+niu_14
+  rotate: false
+  xy: 144, 43
+  size: 35, 66
+  orig: 35, 66
+  offset: 0, 0
+  index: -1
+niu_15
+  rotate: false
+  xy: 140, 111
+  size: 28, 45
+  orig: 31, 45
+  offset: 0, 0
+  index: -1
+niu_16
+  rotate: true
+  xy: 176, 171
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+niu_17
+  rotate: true
+  xy: 170, 121
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+niu_18
+  rotate: false
+  xy: 49, 13
+  size: 41, 94
+  orig: 41, 94
+  offset: 0, 0
+  index: -1
+niu_19
+  rotate: true
+  xy: 176, 198
+  size: 28, 22
+  orig: 28, 22
+  offset: 0, 0
+  index: -1
+niu_2
+  rotate: false
+  xy: 107, 7
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+niu_3
+  rotate: false
+  xy: 92, 3
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+niu_5
+  rotate: true
+  xy: 2, 217
+  size: 143, 92
+  orig: 146, 92
+  offset: 3, 0
+  index: -1
+niu_6
+  rotate: true
+  xy: 125, 228
+  size: 49, 65
+  orig: 49, 65
+  offset: 0, 0
+  index: -1
+niu_7
+  rotate: true
+  xy: 48, 109
+  size: 106, 90
+  orig: 110, 90
+  offset: 4, 0
+  index: -1
+niu_8
+  rotate: false
+  xy: 144, 4
+  size: 34, 37
+  orig: 34, 40
+  offset: 0, 3
+  index: -1
+niu_9
+  rotate: true
+  xy: 96, 227
+  size: 50, 27
+  orig: 50, 27
+  offset: 0, 0
+  index: -1
+touying
+  rotate: true
+  xy: 2, 102
+  size: 113, 44
+  orig: 115, 46
+  offset: 1, 1
+  index: -1

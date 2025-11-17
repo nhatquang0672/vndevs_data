@@ -1,0 +1,27 @@
+
+x-linghunyu.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+x-linghunyu
+  rotate: true
+  xy: 2, 2
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+x-linghunyu-1
+  rotate: false
+  xy: 2, 36
+  size: 77, 79
+  orig: 77, 79
+  offset: 0, 0
+  index: -1
+x-linghunyu-2
+  rotate: false
+  xy: 37, 12
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1

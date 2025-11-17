@@ -1,0 +1,13 @@
+
+zw-donghaimingzhu.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zw-donghaimingzhu
+  rotate: false
+  xy: 2, 2
+  size: 108, 109
+  orig: 108, 109
+  offset: 0, 0
+  index: -1

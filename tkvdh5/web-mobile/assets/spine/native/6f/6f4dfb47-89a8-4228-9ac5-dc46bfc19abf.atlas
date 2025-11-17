@@ -1,0 +1,20 @@
+
+z-luofeiyu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z-luofeiyu
+  rotate: false
+  xy: 2, 74
+  size: 153, 106
+  orig: 153, 106
+  offset: 0, 0
+  index: -1
+z-luofeiyu-yuqi
+  rotate: true
+  xy: 157, 144
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1

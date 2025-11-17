@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>做个游戏</title>
+    </head>
+<body>
+
+<div class="navbar"  align="center"  >
+        <span style="color: #fff;font-size: 16px;">当前账号：<%=user.account%></span>
+</div>
+
+
+<div class="divleft">
+        <div class="left_wrap">
+                <div class="left_nav">
+                    <ul>
+                        <li class="left_nav-list">
+                            <%for (const key in menu) {%>
+                            <h2><div></div>
+                                <%=key%>
+                                <i></i>
+                            </h2>
+                            <div class="left_hide">
+                                <%for (const key2 in menu[key]) {%>
+                                    <h5>
+                                    <form action="<%=key2%>/<%=token%>" method="POST">
+                                        <button  class="button" type="submit" ><%=menu[key][key2].name%></button>
+                                    </form>
+                                    </h5>
+                                <%}%>
+                            </div>
+                            <%}%>
+                        </li>
+                        
+                        
+                    </ul>
+                </div>
+            </div>
+            <script>
+               
+                var aList = document.querySelectorAll('.left_nav-list h2');    //依次获取需要h2，.hide,i标签
+                
+                var aHide = document.querySelectorAll('.left_hide');
+                var oIcon = document.querySelectorAll('.left_nav-list i');
+                var lastIndex = 0;    //自定义变量监控点击后的下标
+                for(var i=0;i<aList.length;i++){
+                   aList[i].index = i;  //自定义属性保存下标
+                   aList[i].onclick = function() {
+                       //判断是否二次点击同一栏
+                       if(aHide[this.index].style.height == '0px' ){
+                           //设置当前样式
+                           aHide[this.index].style.height = "100%";
+                           aList[this.index].className = 'on';            //点击后为h2添加class = 'on'
+                           oIcon[this.index].className = 'on';
+                       }else{
+                           aHide[this.index].style.height = '0';
+                           aList[this.index].className = '';
+                           oIcon[this.index].className = '';
+                       }
+                       lastIndex = this.index; // 保存当前下标
+                   }
+                }
+            </script>
+        </div>
+<div style="display: none">
+        <input  id="win" name="win" value="<%=win%>">
+</div>
+<div class="divright" >
+        <table border="0" cellspacing="0" cellpadding="0" align="center">
+                <tr>
+                  <td align="center" class="biaoti" height="60">添加区服信息</td>
+                </tr>
+                <tr>
+                </tr>
+        </table>
+
+        <table border="0" cellspacing="1" cellpadding="4" bgcolor="#cccccc" class="tabtop13" align="center" style="width: 40%;">
+
+        <form   action="/s_qufu/addSave/<%=token%>" method="POST">
+
+        <tr>
+            <th>区服ID:</th>
+            <td><input  id="sid" name="sid" value=""></td>
+        </tr>
+        <tr>
+            <th>名 字:</th>
+            <td><input  id="name" name="name" value=""></td>
+        </tr>
+        <tr>
+            <th>开服时间:</th>
+            <td><input  type = "datetime-local"  id="openAt" name="openAt" value=""></td>
+        </tr>
+        <tr>
+            <th>状 态:</th>
+            <td><select name="status" id="status">
+                    <option value="1">新服</option>
+                    <option value="2">拥挤</option>
+                    <option value="3">爆满</option>
+                    <option value="4">维护</option>
+                </select></td>
+        </tr>
+        <tr>
+            <th>合服ID:</th>
+            <td><input  id="heid" name="heid" value=""></td>
+        </tr>
+        <tr>
+            <th>锁服(0|1锁):</th>
+            <td><input  id="suofu" name="suofu" value=""></td>
+        </tr>
+        <tr>
+            <th>操 作:</th>
+            <td><button  type="submit"   class="form-submit"  >保&nbsp;&nbsp;存</button></td>
+        </tr>
+        </form>
+    </table>
+</div>
+
+</body>
+<script>
+        window.onload = function(){
+            let _win =  document.getElementById("win").value
+            if(_win){
+                let win = JSON.parse(_win)
+                alert(win.msg)
+            }
+        }
+</script>
+
+
+<style>
+
+* {
+    margin: 0;
+	padding: 0;
+    box-sizing: border-box;
+}
+
+.left_wrap{
+    height: 100%;
+    width: 97%;
+    background-color: #363a45;
+    text-align: center;
+    color: #fff;
+}
+.left_nav{
+    width: 100%;
+    margin: 10px 5px;
+}
+.left_nav-list h2{
+    position:relative;
+    padding: 15px 0;
+    background-color: #3889d4;
+    font-size: 15px;
+}
+.left_nav-list h2:hover{
+    background-color: RoyalBlue;
+    color: #cdcdcd;
+}
+.left_nav-list h2.on{                    /*设置h2点击后类on属性，点击后h2颜色变化*/
+    background-color: RoyalBlue;
+}
+.left_nav-list i{
+    position:absolute;
+    right: 10px;
+    top: 16px;
+    border: 8px solid transparent;
+    border-top-color: #fff;
+    transform-origin: 1px 7px;   /*设置小三角旋转基点*/
+    transition: .8s;    /*旋转过渡时间*/
+}
+.left_nav-list i.on{               /*设置点击后添加的类on属性（小三角旋转角度）*/
+    transform: rotate(90deg);   
+}
+.left_hide{
+    height: 100%;
+    overflow: hidden;
+    margin-bottom: 5px;
+    /* transition: 1s; */
+}
+.left_hide h5{
+    padding: 10px 0;
+    background-color: #282c3a;
+    border-bottom: 1px solid #42495d;
+}
+.left_hide h5:hover{
+background-color: #03B9FA;
+}
+/* body 样式 */
+body {
+    font-family: Arial;
+    margin: 0;
+}
+/* 导航 */
+.navbar {
+    overflow: hidden;
+    background-color: #4f4f4f;
+    height:40px;
+}
+/* 导航栏样式 */
+.navbar a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+/* 右侧链接*/
+.navbar a.right {
+    float: right;
+}
+/* 鼠标移动到链接的颜色 */
+.navbar a:hover {
+    background-color: rgb(221, 221, 221);
+    color:  #ddd;
+}
+.form-submit{
+    width:100px;
+    height:40px;
+    margin-top:20px;
+}
+/* 列容器 */
+.divleft{
+    float:left; 
+    width:10%;
+    min-height: 100vh;
+    background-color: #4f4f4f;
+}
+.divright{ float:right; width:88%; }
+/* 导航 */
+.navbarleft {
+    overflow: hidden;
+    background-color: #4f4f4f;
+}
+/* 导航栏样式 */
+.navbarleft a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+}
+/* 鼠标移动到链接的颜色 */
+.navbarleft a:hover {
+    background-color: #00A2E9;
+    color: red;
+}
+.button {
+    background-color: #363a45;
+    border: none;
+    color: white;
+    /* padding: 15px 32px; */
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    /* margin: 4px 2px; */
+    cursor: pointer;
+    width:97%;
+    height:100%;
+}
+
+.buttonTable {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    cursor: pointer;
+    width:100%;
+    height:40px;
+}
+
+/* CSS Document */
+.tabtop13 {
+	margin-top: 13px;
+}
+.tabtop13 td{
+	background-color:#ffffff;
+	height:25px;
+	line-height:150%;
+}
+.biaoti{
+	font-family: 微软雅黑;
+	font-size: 26px;
+	font-weight: bold;
+	border-bottom:1px dashed #CCCCCC;
+	color: #255e95;
+    width:88%;
+}
+
+
+
+</style>
+</html>
+
+

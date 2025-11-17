@@ -1,0 +1,20 @@
+
+x-ciweidiaoyu.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+x-ciweidiaoyu
+  rotate: false
+  xy: 2, 49
+  size: 102, 77
+  orig: 102, 77
+  offset: 0, 0
+  index: -1
+x-ciweidiaoyu-yuqi
+  rotate: false
+  xy: 106, 100
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1

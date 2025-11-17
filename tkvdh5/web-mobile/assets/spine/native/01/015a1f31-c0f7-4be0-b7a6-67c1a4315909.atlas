@@ -1,0 +1,146 @@
+
+zhongkui.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+touying
+  rotate: false
+  xy: 2, 425
+  size: 207, 82
+  orig: 207, 82
+  offset: 0, 0
+  index: -1
+zhongkui_0
+  rotate: true
+  xy: 388, 252
+  size: 60, 62
+  orig: 60, 62
+  offset: 0, 0
+  index: -1
+zhongkui_1
+  rotate: false
+  xy: 211, 421
+  size: 142, 86
+  orig: 142, 86
+  offset: 0, 0
+  index: -1
+zhongkui_10
+  rotate: true
+  xy: 290, 310
+  size: 36, 31
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+zhongkui_11
+  rotate: false
+  xy: 210, 290
+  size: 78, 56
+  orig: 78, 56
+  offset: 0, 0
+  index: -1
+zhongkui_12
+  rotate: true
+  xy: 2, 296
+  size: 127, 131
+  orig: 127, 131
+  offset: 0, 0
+  index: -1
+zhongkui_13
+  rotate: true
+  xy: 455, 292
+  size: 46, 50
+  orig: 46, 50
+  offset: 0, 0
+  index: -1
+zhongkui_14
+  rotate: false
+  xy: 135, 364
+  size: 74, 59
+  orig: 74, 59
+  offset: 0, 0
+  index: -1
+zhongkui_15
+  rotate: true
+  xy: 135, 272
+  size: 34, 69
+  orig: 34, 69
+  offset: 0, 0
+  index: -1
+zhongkui_16
+  rotate: true
+  xy: 347, 314
+  size: 96, 106
+  orig: 96, 106
+  offset: 0, 0
+  index: -1
+zhongkui_17
+  rotate: true
+  xy: 324, 324
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+zhongkui_18
+  rotate: true
+  xy: 455, 340
+  size: 70, 52
+  orig: 70, 52
+  offset: 0, 0
+  index: -1
+zhongkui_2
+  rotate: false
+  xy: 135, 308
+  size: 73, 54
+  orig: 73, 55
+  offset: 0, 0
+  index: -1
+zhongkui_3
+  rotate: false
+  xy: 452, 255
+  size: 45, 35
+  orig: 45, 36
+  offset: 0, 0
+  index: -1
+zhongkui_4
+  rotate: false
+  xy: 324, 360
+  size: 21, 17
+  orig: 22, 17
+  offset: 1, 0
+  index: -1
+zhongkui_5
+  rotate: true
+  xy: 498, 493
+  size: 14, 9
+  orig: 17, 11
+  offset: 3, 2
+  index: -1
+zhongkui_6
+  rotate: true
+  xy: 355, 412
+  size: 95, 141
+  orig: 95, 141
+  offset: 0, 0
+  index: -1
+zhongkui_7
+  rotate: false
+  xy: 324, 379
+  size: 21, 40
+  orig: 21, 40
+  offset: 0, 0
+  index: -1
+zhongkui_8
+  rotate: false
+  xy: 211, 348
+  size: 111, 71
+  orig: 111, 71
+  offset: 0, 0
+  index: -1
+zhongkui_9
+  rotate: true
+  xy: 323, 272
+  size: 40, 63
+  orig: 40, 63
+  offset: 0, 0
+  index: -1

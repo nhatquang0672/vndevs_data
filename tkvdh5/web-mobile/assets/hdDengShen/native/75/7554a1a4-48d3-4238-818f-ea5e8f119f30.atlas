@@ -1,0 +1,158 @@
+
+effect_bahuangjiang.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: false
+  xy: 91, 922
+  size: 92, 88
+  orig: 264, 264
+  offset: 86, 85
+  index: -1
+images/0_00002
+  rotate: false
+  xy: 597, 879
+  size: 140, 131
+  orig: 264, 264
+  offset: 60, 63
+  index: -1
+images/0_00004
+  rotate: false
+  xy: 2, 784
+  size: 150, 136
+  orig: 264, 264
+  offset: 55, 61
+  index: -1
+images/0_00006
+  rotate: false
+  xy: 154, 767
+  size: 154, 139
+  orig: 264, 264
+  offset: 53, 60
+  index: -1
+images/0_00009
+  rotate: false
+  xy: 467, 737
+  size: 156, 140
+  orig: 264, 264
+  offset: 52, 59
+  index: -1
+images/0_00012
+  rotate: false
+  xy: 310, 741
+  size: 155, 139
+  orig: 264, 264
+  offset: 53, 61
+  index: -1
+images/0_00015
+  rotate: false
+  xy: 739, 877
+  size: 151, 133
+  orig: 264, 264
+  offset: 56, 68
+  index: -1
+images/0_00018
+  rotate: false
+  xy: 447, 882
+  size: 148, 128
+  orig: 264, 264
+  offset: 58, 71
+  index: -1
+images/0_00021
+  rotate: false
+  xy: 312, 888
+  size: 133, 122
+  orig: 264, 264
+  offset: 68, 76
+  index: -1
+images/0_00024
+  rotate: false
+  xy: 185, 908
+  size: 125, 102
+  orig: 264, 264
+  offset: 73, 92
+  index: -1
+images/0_00027
+  rotate: true
+  xy: 2, 924
+  size: 86, 87
+  orig: 264, 264
+  offset: 75, 95
+  index: -1
+images/1
+  rotate: true
+  xy: 391, 254
+  size: 316, 385
+  orig: 316, 385
+  offset: 0, 0
+  index: -1
+images/2
+  rotate: true
+  xy: 2, 103
+  size: 319, 386
+  orig: 319, 386
+  offset: 0, 0
+  index: -1
+images/3
+  rotate: true
+  xy: 2, 424
+  size: 315, 387
+  orig: 315, 389
+  offset: 0, 0
+  index: -1
+images/8
+  rotate: true
+  xy: 625, 572
+  size: 303, 385
+  orig: 303, 385
+  offset: 0, 0
+  index: -1
+
+effect_bahuangjiang2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/4
+  rotate: true
+  xy: 2, 93
+  size: 345, 385
+  orig: 347, 385
+  offset: 1, 0
+  index: -1
+images/6
+  rotate: true
+  xy: 389, 433
+  size: 342, 386
+  orig: 342, 386
+  offset: 0, 0
+  index: -1
+images/7
+  rotate: true
+  xy: 2, 440
+  size: 335, 385
+  orig: 335, 386
+  offset: 0, 1
+  index: -1
+images/9
+  rotate: true
+  xy: 389, 84
+  size: 347, 385
+  orig: 347, 385
+  offset: 0, 0
+  index: -1
+
+effect_bahuangjiang3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/5
+  rotate: false
+  xy: 2, 2
+  size: 360, 385
+  orig: 360, 385
+  offset: 0, 0
+  index: -1

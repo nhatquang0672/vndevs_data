@@ -1,0 +1,55 @@
+
+s-lanhuanzhangyu.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s-lanhuanzhangyu
+  rotate: false
+  xy: 82, 91
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+s-lanhuanzhangyu-1
+  rotate: true
+  xy: 45, 78
+  size: 46, 35
+  orig: 46, 50
+  offset: 0, 0
+  index: -1
+s-lanhuanzhangyu-2
+  rotate: true
+  xy: 2, 20
+  size: 48, 29
+  orig: 48, 34
+  offset: 0, 5
+  index: -1
+s-lanhuanzhangyu-3
+  rotate: true
+  xy: 33, 20
+  size: 48, 27
+  orig: 48, 27
+  offset: 0, 0
+  index: -1
+s-lanhuanzhangyu-4
+  rotate: false
+  xy: 2, 70
+  size: 41, 54
+  orig: 41, 77
+  offset: 0, 23
+  index: -1
+s-lanhuanzhangyu-5
+  rotate: false
+  xy: 82, 59
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+s-lanhuanzhangyu-6
+  rotate: true
+  xy: 62, 18
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1

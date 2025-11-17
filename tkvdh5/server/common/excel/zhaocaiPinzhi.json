@@ -1,0 +1,6 @@
+[
+  {"pinzhi":"4","prob":3000,"limit":4},
+  {"pinzhi":"3","prob":3000,"limit":3},
+  {"pinzhi":"2","prob":2000,"limit":2},
+  {"pinzhi":"1","prob":2000,"limit":1}
+]

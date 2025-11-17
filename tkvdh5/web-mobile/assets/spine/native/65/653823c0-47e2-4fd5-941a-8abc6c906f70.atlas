@@ -1,0 +1,76 @@
+
+effect_xuanyun.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: false
+  xy: 2, 416
+  size: 163, 66
+  orig: 264, 176
+  offset: 52, 53
+  index: -1
+images/0_00015
+  rotate: false
+  xy: 2, 416
+  size: 163, 66
+  orig: 264, 176
+  offset: 52, 53
+  index: -1
+images/0_00003
+  rotate: false
+  xy: 167, 344
+  size: 147, 71
+  orig: 264, 176
+  offset: 59, 50
+  index: -1
+images/0_00018
+  rotate: false
+  xy: 167, 344
+  size: 147, 71
+  orig: 264, 176
+  offset: 59, 50
+  index: -1
+images/0_00006
+  rotate: false
+  xy: 326, 415
+  size: 156, 67
+  orig: 264, 176
+  offset: 56, 55
+  index: -1
+images/0_00021
+  rotate: false
+  xy: 326, 415
+  size: 156, 67
+  orig: 264, 176
+  offset: 56, 55
+  index: -1
+images/0_00009
+  rotate: false
+  xy: 167, 417
+  size: 157, 65
+  orig: 264, 176
+  offset: 55, 63
+  index: -1
+images/0_00024
+  rotate: false
+  xy: 167, 417
+  size: 157, 65
+  orig: 264, 176
+  offset: 55, 63
+  index: -1
+images/0_00027
+  rotate: false
+  xy: 2, 344
+  size: 126, 70
+  orig: 264, 176
+  offset: 55, 58
+  index: -1
+images/0_00012
+  rotate: false
+  xy: 2, 344
+  size: 126, 70
+  orig: 264, 176
+  offset: 55, 58
+  index: -1

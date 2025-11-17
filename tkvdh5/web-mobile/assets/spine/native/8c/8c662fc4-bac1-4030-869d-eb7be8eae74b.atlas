@@ -1,0 +1,83 @@
+
+shouling_xuanshe.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+touying
+  rotate: false
+  xy: 90, 210
+  size: 113, 44
+  orig: 115, 46
+  offset: 1, 1
+  index: -1
+xuanshe_0
+  rotate: true
+  xy: 146, 74
+  size: 63, 41
+  orig: 63, 41
+  offset: 0, 0
+  index: -1
+xuanshe_1
+  rotate: false
+  xy: 74, 14
+  size: 70, 59
+  orig: 70, 59
+  offset: 0, 0
+  index: -1
+xuanshe_2
+  rotate: false
+  xy: 146, 20
+  size: 34, 52
+  orig: 34, 52
+  offset: 0, 0
+  index: -1
+xuanshe_3
+  rotate: true
+  xy: 2, 70
+  size: 95, 70
+  orig: 95, 70
+  offset: 0, 0
+  index: -1
+xuanshe_4
+  rotate: false
+  xy: 205, 237
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+xuanshe_5
+  rotate: false
+  xy: 146, 2
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+xuanshe_6
+  rotate: false
+  xy: 2, 6
+  size: 70, 62
+  orig: 70, 62
+  offset: 0, 0
+  index: -1
+xuanshe_7
+  rotate: false
+  xy: 74, 75
+  size: 70, 62
+  orig: 70, 62
+  offset: 0, 0
+  index: -1
+xuanshe_8
+  rotate: true
+  xy: 90, 139
+  size: 69, 86
+  orig: 69, 86
+  offset: 0, 0
+  index: -1
+xuanshe_9
+  rotate: false
+  xy: 2, 167
+  size: 86, 87
+  orig: 86, 87
+  offset: 0, 0
+  index: -1

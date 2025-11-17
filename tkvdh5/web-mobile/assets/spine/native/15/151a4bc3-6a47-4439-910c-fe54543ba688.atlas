@@ -1,0 +1,13 @@
+
+effect_xianfa_atk_85.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0
+  rotate: false
+  xy: 2, 38
+  size: 184, 148
+  orig: 352, 264
+  offset: 84, 61
+  index: -1

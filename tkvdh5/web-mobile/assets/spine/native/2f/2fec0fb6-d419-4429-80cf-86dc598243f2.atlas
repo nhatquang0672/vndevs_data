@@ -1,0 +1,20 @@
+
+z-zhongtouyu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z-zhongtouyu
+  rotate: false
+  xy: 2, 90
+  size: 149, 91
+  orig: 149, 91
+  offset: 0, 0
+  index: -1
+z-zhongtouyu-yuqi
+  rotate: true
+  xy: 153, 149
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1

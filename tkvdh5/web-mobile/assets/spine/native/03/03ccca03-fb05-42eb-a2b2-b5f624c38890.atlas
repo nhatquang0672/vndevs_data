@@ -1,0 +1,13 @@
+
+s-jiguanhaixing.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s-jiguanhaixing
+  rotate: false
+  xy: 2, 2
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1

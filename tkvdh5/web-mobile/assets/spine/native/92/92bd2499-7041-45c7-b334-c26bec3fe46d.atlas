@@ -1,0 +1,20 @@
+
+z-diaoyu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z-diaoyu
+  rotate: false
+  xy: 2, 87
+  size: 149, 87
+  orig: 149, 87
+  offset: 0, 0
+  index: -1
+z-diaoyu-yuqi
+  rotate: true
+  xy: 153, 137
+  size: 37, 21
+  orig: 37, 21
+  offset: 0, 0
+  index: -1

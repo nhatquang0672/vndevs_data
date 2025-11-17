@@ -1,0 +1,76 @@
+
+effect_xianlv_hecheng.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: false
+  xy: 2, 2
+  size: 159, 217
+  orig: 600, 600
+  offset: 219, 253
+  index: -1
+images/0_00002
+  rotate: true
+  xy: 378, 501
+  size: 165, 223
+  orig: 600, 600
+  offset: 215, 251
+  index: -1
+images/0_00004
+  rotate: true
+  xy: 2, 221
+  size: 166, 232
+  orig: 600, 600
+  offset: 215, 250
+  index: -1
+images/0_00006
+  rotate: true
+  xy: 134, 501
+  size: 165, 242
+  orig: 600, 600
+  offset: 215, 249
+  index: -1
+images/0_00008
+  rotate: true
+  xy: 327, 75
+  size: 157, 254
+  orig: 600, 600
+  offset: 218, 247
+  index: -1
+images/0_00010
+  rotate: false
+  xy: 394, 234
+  size: 147, 265
+  orig: 600, 600
+  offset: 227, 246
+  index: -1
+images/0_00012
+  rotate: false
+  xy: 2, 389
+  size: 130, 277
+  orig: 600, 600
+  offset: 240, 245
+  index: -1
+images/0_00014
+  rotate: true
+  xy: 134, 390
+  size: 109, 258
+  orig: 600, 600
+  offset: 252, 264
+  index: -1
+images/0_00016
+  rotate: false
+  xy: 236, 188
+  size: 89, 200
+  orig: 600, 600
+  offset: 258, 296
+  index: -1
+images/0_00018
+  rotate: false
+  xy: 163, 130
+  size: 22, 89
+  orig: 600, 600
+  offset: 305, 355
+  index: -1

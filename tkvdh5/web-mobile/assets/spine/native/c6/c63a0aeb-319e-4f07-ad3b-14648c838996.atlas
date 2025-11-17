@@ -1,0 +1,111 @@
+
+effect_zbk05.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: false
+  xy: 2, 404
+  size: 96, 96
+  orig: 150, 150
+  offset: 27, 27
+  index: -1
+images/0_00002
+  rotate: true
+  xy: 100, 404
+  size: 96, 97
+  orig: 150, 150
+  offset: 27, 26
+  index: -1
+images/0_00004
+  rotate: true
+  xy: 397, 305
+  size: 97, 98
+  orig: 150, 150
+  offset: 26, 26
+  index: -1
+images/0_00006
+  rotate: false
+  xy: 202, 206
+  size: 98, 98
+  orig: 150, 150
+  offset: 26, 26
+  index: -1
+images/0_00008
+  rotate: false
+  xy: 302, 205
+  size: 98, 98
+  orig: 150, 150
+  offset: 26, 26
+  index: -1
+images/0_00010
+  rotate: false
+  xy: 402, 205
+  size: 98, 98
+  orig: 150, 150
+  offset: 26, 26
+  index: -1
+images/0_00012
+  rotate: false
+  xy: 2, 207
+  size: 98, 97
+  orig: 150, 150
+  offset: 26, 27
+  index: -1
+images/0_00014
+  rotate: false
+  xy: 102, 207
+  size: 98, 97
+  orig: 150, 150
+  offset: 26, 27
+  index: -1
+images/0_00016
+  rotate: false
+  xy: 199, 404
+  size: 98, 96
+  orig: 150, 150
+  offset: 26, 27
+  index: -1
+images/0_00018
+  rotate: false
+  xy: 299, 404
+  size: 97, 96
+  orig: 150, 150
+  offset: 26, 27
+  index: -1
+images/0_00020
+  rotate: false
+  xy: 398, 404
+  size: 97, 96
+  orig: 150, 150
+  offset: 26, 27
+  index: -1
+images/0_00022
+  rotate: false
+  xy: 2, 306
+  size: 97, 96
+  orig: 150, 150
+  offset: 26, 27
+  index: -1
+images/0_00024
+  rotate: false
+  xy: 101, 306
+  size: 97, 96
+  orig: 150, 150
+  offset: 26, 27
+  index: -1
+images/0_00026
+  rotate: false
+  xy: 200, 306
+  size: 97, 96
+  orig: 150, 150
+  offset: 26, 27
+  index: -1
+images/0_00028
+  rotate: false
+  xy: 299, 306
+  size: 96, 96
+  orig: 150, 150
+  offset: 27, 27
+  index: -1

@@ -1,0 +1,222 @@
+
+fuxing.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1/0_00003
+  rotate: false
+  xy: 1154, 257
+  size: 589, 403
+  orig: 800, 800
+  offset: 108, 259
+  index: -1
+images/1/0_00005
+  rotate: false
+  xy: 938, 835
+  size: 568, 361
+  orig: 800, 800
+  offset: 104, 301
+  index: -1
+images/1/0_00007
+  rotate: false
+  xy: 1508, 662
+  size: 472, 377
+  orig: 800, 800
+  offset: 148, 283
+  index: -1
+images/1/0_00009
+  rotate: false
+  xy: 810, 1539
+  size: 409, 282
+  orig: 800, 800
+  offset: 194, 348
+  index: -1
+images/1/0_00011
+  rotate: false
+  xy: 521, 1862
+  size: 236, 164
+  orig: 800, 800
+  offset: 315, 378
+  index: -1
+images/1/0_00013
+  rotate: false
+  xy: 133, 1898
+  size: 156, 128
+  orig: 800, 800
+  offset: 341, 402
+  index: -1
+images/1/0_00015
+  rotate: false
+  xy: 2, 1900
+  size: 129, 126
+  orig: 800, 800
+  offset: 352, 385
+  index: -1
+images/2/0_00029
+  rotate: false
+  xy: 945, 1823
+  size: 310, 203
+  orig: 800, 800
+  offset: 245, 319
+  index: -1
+images/2/0_00030
+  rotate: false
+  xy: 470, 1253
+  size: 447, 284
+  orig: 800, 800
+  offset: 179, 277
+  index: -1
+images/2/0_00031
+  rotate: false
+  xy: 1553, 1041
+  size: 467, 292
+  orig: 800, 800
+  offset: 169, 270
+  index: -1
+images/2/0_00032
+  rotate: false
+  xy: 461, 897
+  size: 475, 299
+  orig: 800, 800
+  offset: 165, 268
+  index: -1
+images/2/0_00034
+  rotate: false
+  xy: 2, 1311
+  size: 466, 283
+  orig: 800, 800
+  offset: 173, 268
+  index: -1
+images/2/0_00036
+  rotate: false
+  xy: 2, 1609
+  size: 393, 257
+  orig: 800, 800
+  offset: 207, 297
+  index: -1
+images/3/0_00001
+  rotate: false
+  xy: 1489, 1771
+  size: 423, 255
+  orig: 800, 800
+  offset: 211, 351
+  index: -1
+images/3/0_00002
+  rotate: true
+  xy: 1693, 1335
+  size: 434, 333
+  orig: 800, 800
+  offset: 204, 305
+  index: -1
+images/3/0_00003
+  rotate: false
+  xy: 2, 966
+  size: 457, 343
+  orig: 800, 800
+  offset: 194, 296
+  index: -1
+images/3/0_00005
+  rotate: false
+  xy: 2, 500
+  size: 521, 395
+  orig: 800, 800
+  offset: 150, 286
+  index: -1
+images/3/0_00011
+  rotate: false
+  xy: 2, 23
+  size: 625, 413
+  orig: 800, 800
+  offset: 90, 279
+  index: -1
+images/3/0_00015
+  rotate: false
+  xy: 525, 438
+  size: 627, 395
+  orig: 800, 800
+  offset: 83, 283
+  index: -1
+images/3/0_00017
+  rotate: false
+  xy: 919, 1198
+  size: 632, 288
+  orig: 800, 800
+  offset: 81, 317
+  index: -1
+images/3/0_00019
+  rotate: false
+  xy: 1221, 1488
+  size: 470, 281
+  orig: 800, 800
+  offset: 242, 318
+  index: -1
+images/3/0_00021
+  rotate: false
+  xy: 397, 1596
+  size: 411, 260
+  orig: 800, 800
+  offset: 241, 337
+  index: -1
+images/glow01
+  rotate: false
+  xy: 1257, 1796
+  size: 230, 230
+  orig: 256, 256
+  offset: 13, 13
+  index: -1
+images/pz
+  rotate: false
+  xy: 291, 1868
+  size: 228, 158
+  orig: 400, 300
+  offset: 86, 71
+  index: -1
+images/wan
+  rotate: false
+  xy: 759, 1858
+  size: 184, 168
+  orig: 300, 300
+  offset: 57, 67
+  index: -1
+
+fuxing2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1/0_00000
+  rotate: false
+  xy: 2, 1001
+  size: 575, 428
+  orig: 800, 800
+  offset: 109, 225
+  index: -1
+images/1/0_00001
+  rotate: false
+  xy: 1259, 1433
+  size: 590, 416
+  orig: 800, 800
+  offset: 100, 234
+  index: -1
+images/3/0_00007
+  rotate: false
+  xy: 1259, 1000
+  size: 560, 431
+  orig: 800, 800
+  offset: 120, 280
+  index: -1
+images/3/0_00009
+  rotate: false
+  xy: 661, 1410
+  size: 596, 439
+  orig: 800, 800
+  offset: 101, 277
+  index: -1
+images/3/0_00013
+  rotate: false
+  xy: 2, 1431
+  size: 657, 418
+  orig: 800, 800
+  offset: 82, 280
+  index: -1

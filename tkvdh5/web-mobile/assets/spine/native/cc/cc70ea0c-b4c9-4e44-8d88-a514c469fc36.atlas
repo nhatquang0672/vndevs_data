@@ -1,0 +1,41 @@
+
+effect_xianfa_atk_82.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: true
+  xy: 151, 89
+  size: 243, 145
+  orig: 440, 440
+  offset: 118, 144
+  index: -1
+images/0_00001
+  rotate: true
+  xy: 298, 82
+  size: 250, 140
+  orig: 440, 440
+  offset: 115, 150
+  index: -1
+images/0_00002
+  rotate: false
+  xy: 250, 334
+  size: 240, 156
+  orig: 440, 440
+  offset: 123, 145
+  index: -1
+images/0_00003
+  rotate: false
+  xy: 2, 337
+  size: 246, 153
+  orig: 440, 440
+  offset: 115, 145
+  index: -1
+images/0_00004
+  rotate: true
+  xy: 2, 87
+  size: 248, 147
+  orig: 440, 440
+  offset: 118, 151
+  index: -1

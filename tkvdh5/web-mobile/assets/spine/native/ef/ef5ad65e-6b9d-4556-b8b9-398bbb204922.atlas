@@ -1,0 +1,13 @@
+
+zw-shichuanmijuan.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zw-shichuanmijuan
+  rotate: false
+  xy: 2, 9
+  size: 121, 114
+  orig: 121, 114
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+d-xianlingdianman.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d-xianlingdianman-1
+  rotate: false
+  xy: 2, 118
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+d-xianlingdianman-2
+  rotate: false
+  xy: 2, 152
+  size: 222, 72
+  orig: 222, 72
+  offset: 0, 0
+  index: -1

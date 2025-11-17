@@ -1,0 +1,20 @@
+
+d-langman.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d-langman-1
+  rotate: true
+  xy: 226, 217
+  size: 36, 27
+  orig: 36, 27
+  offset: 0, 0
+  index: -1
+d-langman-2
+  rotate: false
+  xy: 2, 183
+  size: 222, 70
+  orig: 222, 70
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+s-shuizhi.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s-shuizhi
+  rotate: false
+  xy: 2, 60
+  size: 91, 33
+  orig: 91, 33
+  offset: 0, 0
+  index: -1

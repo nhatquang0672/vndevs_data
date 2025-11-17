@@ -1,0 +1,27 @@
+
+z-yingzuiyu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z-yingzuiyu-1
+  rotate: false
+  xy: 158, 147
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+z-yingzuiyu-2
+  rotate: false
+  xy: 2, 100
+  size: 154, 84
+  orig: 154, 84
+  offset: 0, 0
+  index: -1
+z-yingzuiyu-3
+  rotate: true
+  xy: 158, 109
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1

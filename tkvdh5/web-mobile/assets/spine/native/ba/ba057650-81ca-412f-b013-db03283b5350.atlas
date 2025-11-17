@@ -1,0 +1,27 @@
+
+d-longyu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d-longyu-1
+  rotate: true
+  xy: 224, 197
+  size: 57, 30
+  orig: 57, 30
+  offset: 0, 0
+  index: -1
+d-longyu-2
+  rotate: true
+  xy: 224, 162
+  size: 33, 20
+  orig: 33, 20
+  offset: 0, 0
+  index: -1
+d-longyu-3
+  rotate: false
+  xy: 2, 158
+  size: 220, 96
+  orig: 220, 96
+  offset: 0, 0
+  index: -1

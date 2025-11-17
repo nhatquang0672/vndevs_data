@@ -1,0 +1,153 @@
+
+30007.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shilianguai_7
+  rotate: true
+  xy: 422, 170
+  size: 16, 46
+  orig: 21, 51
+  offset: 2, 3
+  index: -1
+shilianguaiheilan_0
+  rotate: true
+  xy: 79, 2
+  size: 73, 50
+  orig: 73, 50
+  offset: 0, 0
+  index: -1
+shilianguaiheilan_1
+  rotate: true
+  xy: 404, 222
+  size: 62, 78
+  orig: 62, 78
+  offset: 0, 0
+  index: -1
+shilianguaiheilan_10
+  rotate: false
+  xy: 401, 69
+  size: 56, 26
+  orig: 56, 26
+  offset: 0, 0
+  index: -1
+shilianguaiheilan_11
+  rotate: false
+  xy: 139, 2
+  size: 71, 90
+  orig: 71, 90
+  offset: 0, 0
+  index: -1
+shilianguaiheilan_12
+  rotate: false
+  xy: 255, 82
+  size: 101, 70
+  orig: 101, 70
+  offset: 0, 0
+  index: -1
+shilianguaiheilan_13
+  rotate: false
+  xy: 219, 76
+  size: 34, 99
+  orig: 34, 99
+  offset: 0, 0
+  index: -1
+shilianguaiheilan_14
+  rotate: false
+  xy: 139, 177
+  size: 115, 171
+  orig: 115, 171
+  offset: 0, 0
+  index: -1
+shilianguaiheilan_15
+  rotate: false
+  xy: 401, 97
+  size: 41, 70
+  orig: 41, 70
+  offset: 0, 0
+  index: -1
+shilianguaiheilan_16
+  rotate: true
+  xy: 324, 216
+  size: 68, 78
+  orig: 68, 78
+  offset: 0, 0
+  index: -1
+shilianguaiheilan_17
+  rotate: true
+  xy: 324, 169
+  size: 45, 96
+  orig: 45, 96
+  offset: 0, 0
+  index: -1
+shilianguaiheilan_18
+  rotate: false
+  xy: 2, 350
+  size: 263, 160
+  orig: 263, 160
+  offset: 0, 0
+  index: -1
+shilianguaiheilan_19
+  rotate: false
+  xy: 267, 286
+  size: 170, 224
+  orig: 170, 224
+  offset: 0, 0
+  index: -1
+shilianguaiheilan_2
+  rotate: true
+  xy: 139, 94
+  size: 81, 78
+  orig: 81, 78
+  offset: 0, 0
+  index: -1
+shilianguaiheilan_3
+  rotate: true
+  xy: 358, 82
+  size: 85, 41
+  orig: 85, 41
+  offset: 0, 0
+  index: -1
+shilianguaiheilan_4
+  rotate: false
+  xy: 444, 132
+  size: 21, 36
+  orig: 21, 36
+  offset: 0, 0
+  index: -1
+shilianguaiheilan_5
+  rotate: true
+  xy: 422, 188
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+shilianguaiheilan_6
+  rotate: true
+  xy: 256, 154
+  size: 130, 66
+  orig: 130, 66
+  offset: 0, 0
+  index: -1
+shilianguaiheilan_8
+  rotate: true
+  xy: 2, 206
+  size: 142, 135
+  orig: 142, 135
+  offset: 0, 0
+  index: -1
+shilianguaiheilan_9
+  rotate: true
+  xy: 79, 77
+  size: 127, 58
+  orig: 127, 58
+  offset: 0, 0
+  index: -1
+touying
+  rotate: true
+  xy: 2, 8
+  size: 196, 75
+  orig: 196, 75
+  offset: 0, 0
+  index: -1

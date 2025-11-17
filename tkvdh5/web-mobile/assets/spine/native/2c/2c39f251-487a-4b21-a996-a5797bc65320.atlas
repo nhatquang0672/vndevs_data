@@ -1,0 +1,20 @@
+
+d-fancheyu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d-fancheyu
+  rotate: true
+  xy: 2, 13
+  size: 181, 223
+  orig: 181, 223
+  offset: 0, 0
+  index: -1
+d-fancheyu-yuqi
+  rotate: false
+  xy: 2, 196
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1

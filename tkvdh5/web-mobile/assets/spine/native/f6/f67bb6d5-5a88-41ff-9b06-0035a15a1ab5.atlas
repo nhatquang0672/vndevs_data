@@ -1,0 +1,20 @@
+
+d-dujiaojing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d-dujiaojing-1
+  rotate: true
+  xy: 264, 261
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+d-dujiaojing-2
+  rotate: false
+  xy: 2, 232
+  size: 260, 73
+  orig: 260, 73
+  offset: 0, 0
+  index: -1

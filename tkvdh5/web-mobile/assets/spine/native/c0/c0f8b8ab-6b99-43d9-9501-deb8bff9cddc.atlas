@@ -1,0 +1,153 @@
+
+effect_dingluup.png
+size: 667,667
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: false
+  xy: 396, 629
+  size: 50, 34
+  orig: 750, 200
+  offset: 77, 83
+  index: -1
+images/0_00002
+  rotate: false
+  xy: 450, 629
+  size: 174, 34
+  orig: 750, 200
+  offset: 77, 83
+  index: -1
+images/0_00004
+  rotate: false
+  xy: 4, 604
+  size: 303, 34
+  orig: 750, 200
+  offset: 77, 83
+  index: -1
+images/0_00006
+  rotate: false
+  xy: 4, 439
+  size: 428, 34
+  orig: 750, 200
+  offset: 77, 83
+  index: -1
+images/0_00008
+  rotate: false
+  xy: 4, 401
+  size: 553, 34
+  orig: 750, 200
+  offset: 77, 83
+  index: -1
+images/0_00010
+  rotate: false
+  xy: 4, 363
+  size: 603, 34
+  orig: 750, 200
+  offset: 77, 83
+  index: -1
+images/0_00012
+  rotate: false
+  xy: 4, 54
+  size: 603, 46
+  orig: 750, 200
+  offset: 77, 77
+  index: -1
+images/0_00014
+  rotate: true
+  xy: 611, 22
+  size: 603, 46
+  orig: 750, 200
+  offset: 77, 77
+  index: -1
+images/0_00016
+  rotate: false
+  xy: 4, 4
+  size: 603, 46
+  orig: 750, 200
+  offset: 77, 78
+  index: -1
+images/0_00018
+  rotate: false
+  xy: 4, 104
+  size: 598, 44
+  orig: 750, 200
+  offset: 82, 79
+  index: -1
+images/0_00020
+  rotate: false
+  xy: 4, 152
+  size: 596, 42
+  orig: 750, 200
+  offset: 84, 80
+  index: -1
+images/0_00022
+  rotate: false
+  xy: 4, 198
+  size: 593, 40
+  orig: 750, 200
+  offset: 87, 81
+  index: -1
+images/0_00024
+  rotate: false
+  xy: 4, 242
+  size: 590, 38
+  orig: 750, 200
+  offset: 90, 83
+  index: -1
+images/0_00026
+  rotate: false
+  xy: 4, 284
+  size: 586, 37
+  orig: 750, 200
+  offset: 94, 83
+  index: -1
+images/0_00028
+  rotate: false
+  xy: 4, 325
+  size: 547, 34
+  orig: 750, 200
+  offset: 98, 85
+  index: -1
+images/0_00030
+  rotate: false
+  xy: 4, 477
+  size: 524, 32
+  orig: 750, 200
+  offset: 118, 86
+  index: -1
+images/0_00032
+  rotate: false
+  xy: 4, 513
+  size: 518, 29
+  orig: 750, 200
+  offset: 121, 88
+  index: -1
+images/0_00034
+  rotate: false
+  xy: 4, 546
+  size: 463, 26
+  orig: 750, 200
+  offset: 173, 90
+  index: -1
+images/0_00036
+  rotate: false
+  xy: 4, 576
+  size: 397, 24
+  orig: 750, 200
+  offset: 175, 91
+  index: -1
+images/0_00038
+  rotate: false
+  xy: 56, 642
+  size: 336, 21
+  orig: 750, 200
+  offset: 177, 93
+  index: -1
+images/0_00040
+  rotate: false
+  xy: 4, 650
+  size: 48, 13
+  orig: 750, 200
+  offset: 179, 100
+  index: -1

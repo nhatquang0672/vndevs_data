@@ -1,0 +1,111 @@
+
+effect_zhuoshao.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: false
+  xy: 2, 361
+  size: 75, 70
+  orig: 250, 250
+  offset: 88, 89
+  index: -1
+images/0_00002
+  rotate: false
+  xy: 89, 361
+  size: 78, 71
+  orig: 250, 250
+  offset: 88, 91
+  index: -1
+images/0_00004
+  rotate: false
+  xy: 341, 431
+  size: 80, 72
+  orig: 250, 250
+  offset: 86, 92
+  index: -1
+images/0_00006
+  rotate: false
+  xy: 423, 357
+  size: 79, 76
+  orig: 250, 250
+  offset: 85, 90
+  index: -1
+images/0_00008
+  rotate: true
+  xy: 174, 359
+  size: 75, 79
+  orig: 250, 250
+  offset: 88, 89
+  index: -1
+images/0_00010
+  rotate: true
+  xy: 89, 434
+  size: 69, 83
+  orig: 250, 250
+  offset: 92, 86
+  index: -1
+images/0_00012
+  rotate: true
+  xy: 258, 436
+  size: 67, 81
+  orig: 250, 250
+  offset: 94, 86
+  index: -1
+images/0_00014
+  rotate: true
+  xy: 255, 365
+  size: 69, 76
+  orig: 250, 250
+  offset: 90, 87
+  index: -1
+images/0_00016
+  rotate: false
+  xy: 332, 304
+  size: 71, 57
+  orig: 250, 250
+  offset: 87, 88
+  index: -1
+images/0_00018
+  rotate: false
+  xy: 405, 296
+  size: 70, 59
+  orig: 250, 250
+  offset: 85, 85
+  index: -1
+images/0_00020
+  rotate: false
+  xy: 255, 301
+  size: 75, 62
+  orig: 250, 250
+  offset: 83, 84
+  index: -1
+images/0_00022
+  rotate: false
+  xy: 174, 436
+  size: 82, 67
+  orig: 250, 250
+  offset: 83, 83
+  index: -1
+images/0_00024
+  rotate: false
+  xy: 2, 433
+  size: 85, 70
+  orig: 250, 250
+  offset: 83, 83
+  index: -1
+images/0_00026
+  rotate: false
+  xy: 423, 435
+  size: 80, 68
+  orig: 250, 250
+  offset: 86, 85
+  index: -1
+images/0_00028
+  rotate: false
+  xy: 333, 363
+  size: 75, 66
+  orig: 250, 250
+  offset: 87, 87
+  index: -1

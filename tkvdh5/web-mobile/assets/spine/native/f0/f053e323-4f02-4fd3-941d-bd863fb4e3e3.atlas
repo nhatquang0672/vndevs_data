@@ -1,0 +1,27 @@
+
+s-shuita.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s-shuita-1
+  rotate: false
+  xy: 2, 192
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+s-shuita-2
+  rotate: false
+  xy: 31, 192
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+s-shuita-3
+  rotate: false
+  xy: 68, 177
+  size: 150, 41
+  orig: 150, 41
+  offset: 0, 0
+  index: -1

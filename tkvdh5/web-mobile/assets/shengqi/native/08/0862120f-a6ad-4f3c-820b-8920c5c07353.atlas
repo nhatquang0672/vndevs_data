@@ -1,0 +1,236 @@
+
+effect_faqi01.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1
+  rotate: true
+  xy: 134, 534
+  size: 202, 205
+  orig: 528, 528
+  offset: 168, 146
+  index: -1
+images/2
+  rotate: true
+  xy: 2, 942
+  size: 50, 56
+  orig: 528, 528
+  offset: 218, 175
+  index: -1
+images/3/0_00000
+  rotate: false
+  xy: 523, 736
+  size: 128, 128
+  orig: 528, 528
+  offset: 201, 202
+  index: -1
+images/3/0_00002
+  rotate: true
+  xy: 709, 865
+  size: 127, 128
+  orig: 528, 528
+  offset: 203, 203
+  index: -1
+images/3/0_00004
+  rotate: false
+  xy: 839, 865
+  size: 128, 127
+  orig: 528, 528
+  offset: 202, 203
+  index: -1
+images/3/0_00006
+  rotate: false
+  xy: 190, 867
+  size: 128, 125
+  orig: 528, 528
+  offset: 202, 203
+  index: -1
+images/3/0_00008
+  rotate: false
+  xy: 60, 868
+  size: 128, 124
+  orig: 528, 528
+  offset: 202, 204
+  index: -1
+images/3/0_00010
+  rotate: false
+  xy: 320, 867
+  size: 127, 125
+  orig: 528, 528
+  offset: 202, 202
+  index: -1
+images/3/0_00012
+  rotate: false
+  xy: 449, 867
+  size: 128, 125
+  orig: 528, 528
+  offset: 202, 202
+  index: -1
+images/3/0_00014
+  rotate: false
+  xy: 579, 866
+  size: 128, 126
+  orig: 528, 528
+  offset: 202, 202
+  index: -1
+images/3/0_00016
+  rotate: false
+  xy: 2, 739
+  size: 128, 127
+  orig: 528, 528
+  offset: 202, 202
+  index: -1
+images/3/0_00018
+  rotate: false
+  xy: 132, 738
+  size: 127, 127
+  orig: 528, 528
+  offset: 202, 202
+  index: -1
+images/3/0_00020
+  rotate: true
+  xy: 261, 738
+  size: 127, 128
+  orig: 528, 528
+  offset: 202, 202
+  index: -1
+images/3/0_00022
+  rotate: true
+  xy: 391, 738
+  size: 127, 130
+  orig: 528, 528
+  offset: 202, 201
+  index: -1
+images/3/0_00024
+  rotate: true
+  xy: 653, 735
+  size: 128, 133
+  orig: 528, 528
+  offset: 201, 199
+  index: -1
+images/3/0_00026
+  rotate: false
+  xy: 2, 606
+  size: 130, 130
+  orig: 528, 528
+  offset: 199, 201
+  index: -1
+images/3/0_00028
+  rotate: false
+  xy: 788, 735
+  size: 132, 128
+  orig: 528, 528
+  offset: 197, 202
+  index: -1
+images/4/0_00000
+  rotate: false
+  xy: 750, 25
+  size: 242, 239
+  orig: 528, 528
+  offset: 76, 216
+  index: -1
+images/4/0_00002
+  rotate: true
+  xy: 240, 31
+  size: 238, 249
+  orig: 528, 528
+  offset: 81, 210
+  index: -1
+images/4/0_00004
+  rotate: true
+  xy: 241, 271
+  size: 233, 254
+  orig: 528, 528
+  offset: 87, 210
+  index: -1
+images/4/0_00006
+  rotate: true
+  xy: 596, 503
+  size: 230, 255
+  orig: 528, 528
+  offset: 90, 210
+  index: -1
+images/4/0_00008
+  rotate: true
+  xy: 341, 506
+  size: 228, 253
+  orig: 528, 528
+  offset: 92, 210
+  index: -1
+images/4/0_00010
+  rotate: true
+  xy: 491, 28
+  size: 236, 257
+  orig: 528, 528
+  offset: 83, 212
+  index: -1
+images/4/0_00022
+  rotate: false
+  xy: 736, 266
+  size: 237, 235
+  orig: 528, 528
+  offset: 81, 216
+  index: -1
+images/4/0_00024
+  rotate: false
+  xy: 2, 300
+  size: 237, 232
+  orig: 528, 528
+  offset: 81, 216
+  index: -1
+images/4/0_00026
+  rotate: false
+  xy: 497, 267
+  size: 237, 234
+  orig: 528, 528
+  offset: 81, 216
+  index: -1
+images/4/0_00028
+  rotate: true
+  xy: 2, 58
+  size: 240, 236
+  orig: 528, 528
+  offset: 78, 216
+  index: -1
+
+effect_faqi012.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/4/0_00012
+  rotate: false
+  xy: 2, 484
+  size: 239, 256
+  orig: 528, 528
+  offset: 80, 214
+  index: -1
+images/4/0_00014
+  rotate: true
+  xy: 2, 234
+  size: 248, 254
+  orig: 528, 528
+  offset: 70, 216
+  index: -1
+images/4/0_00016
+  rotate: false
+  xy: 258, 244
+  size: 247, 247
+  orig: 528, 528
+  offset: 71, 216
+  index: -1
+images/4/0_00018
+  rotate: true
+  xy: 243, 493
+  size: 247, 248
+  orig: 528, 528
+  offset: 71, 215
+  index: -1
+images/4/0_00020
+  rotate: true
+  xy: 493, 496
+  size: 244, 247
+  orig: 528, 528
+  offset: 74, 216
+  index: -1

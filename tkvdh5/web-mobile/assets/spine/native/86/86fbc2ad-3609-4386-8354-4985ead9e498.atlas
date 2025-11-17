@@ -1,0 +1,69 @@
+
+effect_chushou_xianlv5.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0
+  rotate: false
+  xy: 2, 218
+  size: 252, 221
+  orig: 500, 500
+  offset: 122, 157
+  index: -1
+images/0_00000
+  rotate: false
+  xy: 179, 7
+  size: 74, 103
+  orig: 250, 250
+  offset: 88, 73
+  index: -1
+images/0_00002
+  rotate: false
+  xy: 91, 2
+  size: 82, 103
+  orig: 250, 250
+  offset: 82, 72
+  index: -1
+images/0_00004
+  rotate: false
+  xy: 91, 107
+  size: 86, 109
+  orig: 250, 250
+  offset: 79, 69
+  index: -1
+images/0_00006
+  rotate: false
+  xy: 256, 212
+  size: 89, 110
+  orig: 250, 250
+  offset: 76, 69
+  index: -1
+images/0_00008
+  rotate: false
+  xy: 256, 324
+  size: 89, 115
+  orig: 250, 250
+  offset: 76, 68
+  index: -1
+images/0_00010
+  rotate: false
+  xy: 2, 102
+  size: 87, 114
+  orig: 250, 250
+  offset: 78, 68
+  index: -1
+images/0_00012
+  rotate: false
+  xy: 256, 96
+  size: 84, 114
+  orig: 250, 250
+  offset: 79, 70
+  index: -1
+images/0_00014
+  rotate: false
+  xy: 179, 112
+  size: 75, 104
+  orig: 250, 250
+  offset: 83, 75
+  index: -1

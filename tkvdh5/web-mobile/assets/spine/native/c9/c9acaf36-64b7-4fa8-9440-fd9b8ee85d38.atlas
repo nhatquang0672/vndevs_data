@@ -1,0 +1,76 @@
+
+taoshen.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+taoshen_0
+  rotate: false
+  xy: 994, 970
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+taoshen_1
+  rotate: true
+  xy: 994, 993
+  size: 29, 19
+  orig: 33, 19
+  offset: 0, 0
+  index: -1
+taoshen_2
+  rotate: false
+  xy: 631, 890
+  size: 62, 48
+  orig: 62, 48
+  offset: 0, 0
+  index: -1
+taoshen_3
+  rotate: false
+  xy: 982, 887
+  size: 40, 60
+  orig: 40, 60
+  offset: 0, 0
+  index: -1
+taoshen_4
+  rotate: true
+  xy: 994, 949
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+taoshen_5
+  rotate: false
+  xy: 376, 791
+  size: 253, 231
+  orig: 253, 231
+  offset: 0, 0
+  index: -1
+taoshen_6
+  rotate: false
+  xy: 840, 950
+  size: 152, 72
+  orig: 152, 72
+  offset: 0, 0
+  index: -1
+taoshen_7
+  rotate: false
+  xy: 840, 878
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+taoshen_8
+  rotate: false
+  xy: 2, 740
+  size: 372, 282
+  orig: 372, 282
+  offset: 0, 0
+  index: -1
+touying
+  rotate: false
+  xy: 631, 940
+  size: 207, 82
+  orig: 207, 82
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+shouling_xuexiong.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+touying
+  rotate: true
+  xy: 242, 84
+  size: 113, 44
+  orig: 115, 46
+  offset: 1, 1
+  index: -1
+xuexiong_0
+  rotate: false
+  xy: 129, 132
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+xuexiong_1
+  rotate: false
+  xy: 54, 25
+  size: 49, 55
+  orig: 49, 55
+  offset: 0, 0
+  index: -1
+xuexiong_10
+  rotate: false
+  xy: 136, 224
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+xuexiong_11
+  rotate: false
+  xy: 129, 47
+  size: 58, 83
+  orig: 58, 83
+  offset: 0, 0
+  index: -1
+xuexiong_12
+  rotate: false
+  xy: 189, 78
+  size: 47, 52
+  orig: 47, 52
+  offset: 0, 0
+  index: -1
+xuexiong_13
+  rotate: false
+  xy: 174, 199
+  size: 70, 130
+  orig: 70, 130
+  offset: 0, 0
+  index: -1
+xuexiong_14
+  rotate: false
+  xy: 105, 331
+  size: 107, 80
+  orig: 107, 80
+  offset: 0, 0
+  index: -1
+xuexiong_15
+  rotate: true
+  xy: 2, 162
+  size: 108, 132
+  orig: 108, 132
+  offset: 0, 0
+  index: -1
+xuexiong_16
+  rotate: false
+  xy: 2, 2
+  size: 50, 78
+  orig: 50, 78
+  offset: 0, 0
+  index: -1
+xuexiong_17
+  rotate: false
+  xy: 2, 82
+  size: 62, 78
+  orig: 62, 78
+  offset: 0, 0
+  index: -1
+xuexiong_18
+  rotate: false
+  xy: 66, 83
+  size: 61, 77
+  orig: 61, 77
+  offset: 0, 0
+  index: -1
+xuexiong_19
+  rotate: true
+  xy: 246, 297
+  size: 41, 43
+  orig: 41, 43
+  offset: 0, 0
+  index: -1
+xuexiong_2
+  rotate: true
+  xy: 105, 274
+  size: 55, 67
+  orig: 55, 67
+  offset: 0, 0
+  index: -1
+xuexiong_3
+  rotate: false
+  xy: 136, 174
+  size: 24, 48
+  orig: 24, 48
+  offset: 0, 0
+  index: -1
+xuexiong_4
+  rotate: true
+  xy: 105, 33
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+xuexiong_5
+  rotate: true
+  xy: 246, 284
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+xuexiong_6
+  rotate: false
+  xy: 162, 132
+  size: 78, 65
+  orig: 78, 65
+  offset: 0, 0
+  index: -1
+xuexiong_7
+  rotate: false
+  xy: 105, 55
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+xuexiong_8
+  rotate: true
+  xy: 214, 340
+  size: 71, 91
+  orig: 71, 91
+  offset: 0, 0
+  index: -1
+xuexiong_9
+  rotate: false
+  xy: 2, 272
+  size: 101, 139
+  orig: 101, 139
+  offset: 0, 0
+  index: -1

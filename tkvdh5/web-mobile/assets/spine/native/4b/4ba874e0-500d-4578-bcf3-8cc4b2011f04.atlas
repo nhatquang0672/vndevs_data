@@ -1,0 +1,131 @@
+
+effect_xianju.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: true
+  xy: 2, 2
+  size: 314, 374
+  orig: 450, 500
+  offset: 53, 7
+  index: -1
+images/0_00012
+  rotate: true
+  xy: 297, 318
+  size: 300, 357
+  orig: 450, 500
+  offset: 71, 17
+  index: -1
+images/0_00014
+  rotate: false
+  xy: 656, 292
+  size: 334, 326
+  orig: 450, 500
+  offset: 58, 49
+  index: -1
+images/0_00016
+  rotate: true
+  xy: 2, 388
+  size: 267, 293
+  orig: 450, 500
+  offset: 79, 57
+  index: -1
+images/0_00018
+  rotate: true
+  xy: 621, 620
+  size: 227, 296
+  orig: 450, 500
+  offset: 107, 82
+  index: -1
+images/0_00020
+  rotate: true
+  xy: 314, 636
+  size: 219, 305
+  orig: 450, 500
+  offset: 117, 100
+  index: -1
+images/0_00022
+  rotate: true
+  xy: 2, 657
+  size: 212, 310
+  orig: 450, 500
+  offset: 123, 105
+  index: -1
+images/0_00024
+  rotate: true
+  xy: 621, 849
+  size: 160, 243
+  orig: 450, 500
+  offset: 144, 183
+  index: -1
+images/0_00026
+  rotate: true
+  xy: 395, 857
+  size: 152, 224
+  orig: 450, 500
+  offset: 151, 211
+  index: -1
+images/0_00028
+  rotate: true
+  xy: 207, 871
+  size: 138, 186
+  orig: 450, 500
+  offset: 164, 218
+  index: -1
+images/0_00030
+  rotate: true
+  xy: 74, 912
+  size: 97, 131
+  orig: 450, 500
+  offset: 191, 278
+  index: -1
+images/0_00032
+  rotate: true
+  xy: 2, 983
+  size: 26, 70
+  orig: 450, 500
+  offset: 232, 335
+  index: -1
+
+effect_xianju2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00002
+  rotate: false
+  xy: 2, 241
+  size: 333, 381
+  orig: 450, 500
+  offset: 34, 8
+  index: -1
+images/0_00004
+  rotate: false
+  xy: 2, 624
+  size: 359, 385
+  orig: 450, 500
+  offset: 35, 8
+  index: -1
+images/0_00006
+  rotate: false
+  xy: 363, 663
+  size: 363, 346
+  orig: 450, 500
+  offset: 36, 50
+  index: -1
+images/0_00008
+  rotate: false
+  xy: 363, 332
+  size: 346, 329
+  orig: 450, 500
+  offset: 45, 59
+  index: -1
+images/0_00010
+  rotate: true
+  xy: 337, 2
+  size: 328, 346
+  orig: 450, 500
+  offset: 61, 33
+  index: -1

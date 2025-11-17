@@ -1,0 +1,76 @@
+
+taozidawang.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+taozidawang_0
+  rotate: true
+  xy: 341, 211
+  size: 45, 19
+  orig: 45, 20
+  offset: 0, 1
+  index: -1
+taozidawang_1
+  rotate: true
+  xy: 362, 220
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1
+taozidawang_2
+  rotate: false
+  xy: 2, 116
+  size: 280, 197
+  orig: 280, 197
+  offset: 0, 0
+  index: -1
+taozidawang_3
+  rotate: false
+  xy: 284, 117
+  size: 155, 77
+  orig: 155, 77
+  offset: 0, 0
+  index: -1
+taozidawang_4
+  rotate: false
+  xy: 399, 405
+  size: 94, 101
+  orig: 94, 101
+  offset: 0, 0
+  index: -1
+taozidawang_5
+  rotate: true
+  xy: 284, 205
+  size: 108, 55
+  orig: 108, 55
+  offset: 0, 0
+  index: -1
+taozidawang_6
+  rotate: true
+  xy: 441, 54
+  size: 140, 65
+  orig: 140, 65
+  offset: 0, 0
+  index: -1
+taozidawang_7
+  rotate: false
+  xy: 341, 258
+  size: 42, 55
+  orig: 42, 55
+  offset: 0, 0
+  index: -1
+taozidawang_8
+  rotate: false
+  xy: 2, 315
+  size: 395, 191
+  orig: 395, 191
+  offset: 0, 0
+  index: -1
+touying
+  rotate: true
+  xy: 399, 196
+  size: 207, 82
+  orig: 207, 82
+  offset: 0, 0
+  index: -1

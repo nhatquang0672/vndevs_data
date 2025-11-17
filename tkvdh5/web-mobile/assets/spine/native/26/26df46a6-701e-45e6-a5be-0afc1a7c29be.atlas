@@ -1,0 +1,13 @@
+
+x-wanjuyu.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+x-wanjuyu
+  rotate: false
+  xy: 2, 37
+  size: 102, 67
+  orig: 102, 67
+  offset: 0, 0
+  index: -1

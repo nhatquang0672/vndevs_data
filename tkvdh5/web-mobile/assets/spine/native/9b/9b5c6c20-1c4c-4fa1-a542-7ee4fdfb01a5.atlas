@@ -1,0 +1,76 @@
+
+taoxian.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+taoxian_0
+  rotate: true
+  xy: 223, 235
+  size: 128, 201
+  orig: 128, 201
+  offset: 0, 0
+  index: -1
+taoxian_1
+  rotate: true
+  xy: 2, 209
+  size: 86, 206
+  orig: 86, 206
+  offset: 0, 0
+  index: -1
+taoxian_2
+  rotate: false
+  xy: 370, 205
+  size: 47, 28
+  orig: 47, 28
+  offset: 0, 0
+  index: -1
+taoxian_3
+  rotate: true
+  xy: 370, 173
+  size: 30, 32
+  orig: 31, 32
+  offset: 1, 0
+  index: -1
+taoxian_4
+  rotate: false
+  xy: 2, 297
+  size: 219, 211
+  orig: 219, 211
+  offset: 0, 0
+  index: -1
+taoxian_5
+  rotate: false
+  xy: 223, 365
+  size: 273, 143
+  orig: 273, 143
+  offset: 0, 0
+  index: -1
+taoxian_6
+  rotate: true
+  xy: 210, 143
+  size: 90, 96
+  orig: 90, 96
+  offset: 0, 0
+  index: -1
+taoxian_7
+  rotate: true
+  xy: 308, 98
+  size: 135, 60
+  orig: 135, 60
+  offset: 0, 0
+  index: -1
+taoxian_8
+  rotate: false
+  xy: 370, 98
+  size: 102, 56
+  orig: 102, 56
+  offset: 0, 0
+  index: -1
+touying
+  rotate: true
+  xy: 426, 156
+  size: 207, 82
+  orig: 207, 82
+  offset: 0, 0
+  index: -1

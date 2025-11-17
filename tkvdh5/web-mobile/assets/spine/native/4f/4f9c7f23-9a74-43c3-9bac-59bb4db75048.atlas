@@ -1,0 +1,13 @@
+
+d-fufen.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d-fufen
+  rotate: false
+  xy: 2, 3
+  size: 210, 209
+  orig: 210, 209
+  offset: 0, 0
+  index: -1

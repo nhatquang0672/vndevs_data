@@ -1,0 +1,20 @@
+
+x-lanshoujinyu.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+x-lanshoujinyu-1
+  rotate: true
+  xy: 109, 85
+  size: 39, 15
+  orig: 39, 15
+  offset: 0, 0
+  index: -1
+x-lanshoujinyu-2
+  rotate: false
+  xy: 2, 48
+  size: 105, 76
+  orig: 105, 76
+  offset: 0, 0
+  index: -1

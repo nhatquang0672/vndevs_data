@@ -1,0 +1,97 @@
+
+shouling_jukun.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jukun_0
+  rotate: false
+  xy: 399, 449
+  size: 111, 61
+  orig: 111, 61
+  offset: 0, 0
+  index: -1
+jukun_1
+  rotate: false
+  xy: 399, 414
+  size: 99, 33
+  orig: 99, 33
+  offset: 0, 0
+  index: -1
+jukun_10
+  rotate: false
+  xy: 202, 296
+  size: 44, 44
+  orig: 44, 81
+  offset: 0, 0
+  index: -1
+jukun_11
+  rotate: false
+  xy: 2, 311
+  size: 112, 78
+  orig: 112, 78
+  offset: 0, 0
+  index: -1
+jukun_2
+  rotate: true
+  xy: 371, 395
+  size: 33, 15
+  orig: 33, 15
+  offset: 0, 0
+  index: -1
+jukun_3
+  rotate: false
+  xy: 250, 445
+  size: 147, 65
+  orig: 147, 65
+  offset: 0, 0
+  index: -1
+jukun_4
+  rotate: false
+  xy: 250, 374
+  size: 119, 69
+  orig: 119, 69
+  offset: 0, 0
+  index: -1
+jukun_5
+  rotate: false
+  xy: 371, 430
+  size: 24, 13
+  orig: 27, 16
+  offset: 3, 3
+  index: -1
+jukun_6
+  rotate: false
+  xy: 2, 391
+  size: 246, 119
+  orig: 246, 119
+  offset: 0, 0
+  index: -1
+jukun_7
+  rotate: false
+  xy: 202, 342
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+jukun_8
+  rotate: true
+  xy: 116, 313
+  size: 76, 84
+  orig: 76, 84
+  offset: 0, 0
+  index: -1
+jukun_9
+  rotate: false
+  xy: 250, 324
+  size: 57, 48
+  orig: 57, 48
+  offset: 0, 0
+  index: -1
+touying
+  rotate: false
+  xy: 388, 368
+  size: 113, 44
+  orig: 115, 46
+  offset: 1, 1
+  index: -1

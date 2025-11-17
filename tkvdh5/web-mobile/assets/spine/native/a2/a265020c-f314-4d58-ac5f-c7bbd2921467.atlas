@@ -1,0 +1,13 @@
+
+zw-xianyu.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zw-xianyu
+  rotate: false
+  xy: 2, 2
+  size: 70, 100
+  orig: 70, 100
+  offset: 0, 0
+  index: -1

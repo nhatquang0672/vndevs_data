@@ -1,0 +1,20 @@
+
+x-hudieyu.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+x-hudieyu
+  rotate: false
+  xy: 2, 25
+  size: 102, 81
+  orig: 102, 81
+  offset: 0, 0
+  index: -1
+x-hudieyu-yuqi
+  rotate: true
+  xy: 2, 2
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1

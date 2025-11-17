@@ -1,0 +1,153 @@
+
+houjing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+houjing_0
+  rotate: false
+  xy: 449, 265
+  size: 49, 42
+  orig: 51, 45
+  offset: 0, 0
+  index: -1
+houjing_1
+  rotate: true
+  xy: 450, 453
+  size: 55, 58
+  orig: 55, 58
+  offset: 0, 0
+  index: -1
+houjing_10
+  rotate: false
+  xy: 243, 264
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+houjing_11
+  rotate: false
+  xy: 450, 355
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+houjing_12
+  rotate: false
+  xy: 450, 407
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+houjing_13
+  rotate: true
+  xy: 2, 310
+  size: 99, 102
+  orig: 99, 102
+  offset: 0, 0
+  index: -1
+houjing_14
+  rotate: true
+  xy: 200, 344
+  size: 65, 82
+  orig: 65, 82
+  offset: 0, 0
+  index: -1
+houjing_15
+  rotate: false
+  xy: 2, 411
+  size: 280, 97
+  orig: 280, 97
+  offset: 0, 0
+  index: -1
+houjing_16
+  rotate: false
+  xy: 308, 269
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+houjing_17
+  rotate: true
+  xy: 284, 293
+  size: 69, 91
+  orig: 69, 91
+  offset: 0, 0
+  index: -1
+houjing_18
+  rotate: true
+  xy: 106, 335
+  size: 74, 92
+  orig: 74, 92
+  offset: 0, 0
+  index: -1
+houjing_19
+  rotate: true
+  xy: 377, 272
+  size: 90, 70
+  orig: 90, 70
+  offset: 0, 0
+  index: -1
+houjing_2
+  rotate: false
+  xy: 106, 298
+  size: 49, 35
+  orig: 49, 35
+  offset: 0, 0
+  index: -1
+houjing_3
+  rotate: false
+  xy: 276, 268
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+houjing_4
+  rotate: true
+  xy: 196, 283
+  size: 33, 45
+  orig: 33, 45
+  offset: 0, 0
+  index: -1
+houjing_5
+  rotate: false
+  xy: 157, 297
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+houjing_6
+  rotate: false
+  xy: 340, 270
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+houjing_7
+  rotate: true
+  xy: 284, 364
+  size: 144, 164
+  orig: 148, 165
+  offset: 1, 0
+  index: -1
+houjing_8
+  rotate: true
+  xy: 449, 309
+  size: 44, 49
+  orig: 44, 49
+  offset: 0, 0
+  index: -1
+houjing_9
+  rotate: true
+  xy: 243, 294
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+touying
+  rotate: false
+  xy: 200, 318
+  size: 63, 24
+  orig: 65, 26
+  offset: 1, 1
+  index: -1

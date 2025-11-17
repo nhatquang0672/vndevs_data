@@ -1,0 +1,11 @@
+[
+  {"did":"1","tzid":"9901","requiredFavorLv":80,"costItem":[1,1200,1],"rate":1000},
+  {"did":"2","tzid":"9902","requiredFavorLv":80,"costItem":[1,1200,1],"rate":1000},
+  {"did":"3","tzid":"9903","requiredFavorLv":80,"costItem":[1,1200,1],"rate":1000},
+  {"did":"4","tzid":"9904","requiredFavorLv":80,"costItem":[1,1200,1],"rate":1000},
+  {"did":"5","tzid":"9905","requiredFavorLv":80,"costItem":[1,1200,1],"rate":1000},
+  {"did":"6","tzid":"9906","requiredFavorLv":80,"costItem":[1,1200,1],"rate":1000},
+  {"did":"7","tzid":"9907","requiredFavorLv":80,"costItem":[1,1200,1],"rate":1000},
+  {"did":"8","tzid":"9908","requiredFavorLv":80,"costItem":[1,1200,1],"rate":1000},
+  {"did":"9","tzid":"9909","requiredFavorLv":80,"costItem":[1,1200,1],"rate":1000}
+]

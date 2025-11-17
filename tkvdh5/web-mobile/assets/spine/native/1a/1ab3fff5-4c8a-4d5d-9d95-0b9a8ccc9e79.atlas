@@ -1,0 +1,20 @@
+
+x-niqiu.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+x-niqiu
+  rotate: false
+  xy: 2, 86
+  size: 103, 32
+  orig: 103, 32
+  offset: 0, 0
+  index: -1
+x-niqiu-yuqi
+  rotate: true
+  xy: 107, 100
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1

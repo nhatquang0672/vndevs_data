@@ -1,0 +1,20 @@
+
+effect_hit_xianlv1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1
+  rotate: true
+  xy: 2, 2
+  size: 190, 191
+  orig: 300, 300
+  offset: 56, 54
+  index: -1
+images/2
+  rotate: false
+  xy: 2, 194
+  size: 238, 238
+  orig: 300, 300
+  offset: 22, 36
+  index: -1

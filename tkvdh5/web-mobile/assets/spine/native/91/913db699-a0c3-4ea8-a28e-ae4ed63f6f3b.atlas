@@ -1,0 +1,20 @@
+
+z-changheyu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z-changheyu-1
+  rotate: true
+  xy: 157, 154
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+z-changheyu-2
+  rotate: false
+  xy: 2, 123
+  size: 153, 57
+  orig: 153, 57
+  offset: 0, 0
+  index: -1

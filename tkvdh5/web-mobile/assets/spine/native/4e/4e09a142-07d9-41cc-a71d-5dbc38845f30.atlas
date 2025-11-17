@@ -1,0 +1,146 @@
+
+shouling_haima.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+haima_0
+  rotate: true
+  xy: 2, 390
+  size: 51, 56
+  orig: 51, 56
+  offset: 0, 0
+  index: -1
+haima_1
+  rotate: true
+  xy: 192, 365
+  size: 57, 77
+  orig: 57, 77
+  offset: 0, 0
+  index: -1
+haima_10
+  rotate: true
+  xy: 2, 443
+  size: 45, 57
+  orig: 45, 57
+  offset: 0, 0
+  index: -1
+haima_11
+  rotate: false
+  xy: 407, 417
+  size: 78, 50
+  orig: 78, 50
+  offset: 0, 0
+  index: -1
+haima_12
+  rotate: false
+  xy: 271, 343
+  size: 152, 72
+  orig: 152, 72
+  offset: 0, 0
+  index: -1
+haima_13
+  rotate: true
+  xy: 60, 380
+  size: 56, 58
+  orig: 56, 58
+  offset: 0, 0
+  index: -1
+haima_14
+  rotate: false
+  xy: 172, 477
+  size: 56, 32
+  orig: 56, 32
+  offset: 0, 0
+  index: -1
+haima_15
+  rotate: true
+  xy: 61, 438
+  size: 40, 64
+  orig: 40, 64
+  offset: 0, 0
+  index: -1
+haima_16
+  rotate: false
+  xy: 21, 491
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+haima_17
+  rotate: true
+  xy: 120, 373
+  size: 59, 70
+  orig: 59, 70
+  offset: 0, 0
+  index: -1
+haima_18
+  rotate: true
+  xy: 65, 480
+  size: 29, 64
+  orig: 29, 64
+  offset: 0, 0
+  index: -1
+haima_2
+  rotate: true
+  xy: 131, 478
+  size: 31, 39
+  orig: 31, 39
+  offset: 0, 0
+  index: -1
+haima_3
+  rotate: false
+  xy: 2, 492
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+haima_4
+  rotate: true
+  xy: 127, 434
+  size: 41, 69
+  orig: 41, 69
+  offset: 0, 0
+  index: -1
+haima_5
+  rotate: true
+  xy: 324, 469
+  size: 40, 72
+  orig: 40, 73
+  offset: 0, 1
+  index: -1
+haima_6
+  rotate: false
+  xy: 41, 490
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+haima_7
+  rotate: false
+  xy: 398, 469
+  size: 111, 40
+  orig: 111, 40
+  offset: 0, 0
+  index: -1
+haima_8
+  rotate: true
+  xy: 230, 470
+  size: 39, 92
+  orig: 39, 92
+  offset: 0, 0
+  index: -1
+haima_9
+  rotate: false
+  xy: 313, 419
+  size: 92, 48
+  orig: 92, 48
+  offset: 0, 0
+  index: -1
+touying
+  rotate: false
+  xy: 198, 424
+  size: 113, 44
+  orig: 115, 46
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,76 @@
+
+effect_xianfa_hit_85.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: false
+  xy: 477, 248
+  size: 82, 77
+  orig: 352, 352
+  offset: 135, 140
+  index: -1
+images/0_00001
+  rotate: true
+  xy: 492, 108
+  size: 138, 112
+  orig: 352, 352
+  offset: 96, 120
+  index: -1
+images/0_00002
+  rotate: false
+  xy: 488, 327
+  size: 191, 186
+  orig: 352, 352
+  offset: 80, 84
+  index: -1
+images/0_00004
+  rotate: false
+  xy: 2, 2
+  size: 212, 212
+  orig: 352, 352
+  offset: 68, 66
+  index: -1
+images/0_00006
+  rotate: true
+  xy: 252, 6
+  size: 229, 238
+  orig: 352, 352
+  offset: 60, 52
+  index: -1
+images/0_00008
+  rotate: false
+  xy: 2, 462
+  size: 238, 256
+  orig: 352, 352
+  offset: 55, 47
+  index: -1
+images/0_00010
+  rotate: true
+  xy: 2, 216
+  size: 244, 248
+  orig: 352, 352
+  offset: 47, 47
+  index: -1
+images/0_00012
+  rotate: false
+  xy: 242, 486
+  size: 244, 232
+  orig: 352, 352
+  offset: 42, 65
+  index: -1
+images/0_00014
+  rotate: true
+  xy: 252, 237
+  size: 247, 223
+  orig: 352, 352
+  offset: 38, 62
+  index: -1
+images/glow01
+  rotate: false
+  xy: 488, 515
+  size: 203, 203
+  orig: 225, 225
+  offset: 11, 11
+  index: -1

@@ -1,0 +1,132 @@
+
+effect_quan01.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1
+  rotate: false
+  xy: 234, 364
+  size: 146, 146
+  orig: 300, 300
+  offset: 77, 77
+  index: -1
+images/2
+  rotate: false
+  xy: 2, 100
+  size: 178, 178
+  orig: 300, 300
+  offset: 61, 61
+  index: -1
+images/3
+  rotate: false
+  xy: 2, 280
+  size: 230, 230
+  orig: 300, 300
+  offset: 35, 35
+  index: -1
+images/xx/0_00000
+  rotate: false
+  xy: 382, 417
+  size: 111, 93
+  orig: 300, 300
+  offset: 92, 99
+  index: -1
+images/xx/0_00002
+  rotate: false
+  xy: 63, 10
+  size: 115, 88
+  orig: 300, 300
+  offset: 89, 101
+  index: -1
+images/xx/0_00004
+  rotate: false
+  xy: 234, 273
+  size: 110, 89
+  orig: 300, 300
+  offset: 92, 103
+  index: -1
+images/xx/0_00006
+  rotate: false
+  xy: 182, 181
+  size: 100, 90
+  orig: 300, 300
+  offset: 98, 106
+  index: -1
+images/xx/0_00008
+  rotate: false
+  xy: 180, 11
+  size: 91, 84
+  orig: 300, 300
+  offset: 104, 113
+  index: -1
+images/xx/0_00010
+  rotate: false
+  xy: 281, 90
+  size: 80, 82
+  orig: 300, 300
+  offset: 114, 116
+  index: -1
+images/xx/0_00012
+  rotate: false
+  xy: 396, 238
+  size: 79, 78
+  orig: 300, 300
+  offset: 113, 120
+  index: -1
+images/xx/0_00014
+  rotate: false
+  xy: 273, 11
+  size: 80, 77
+  orig: 300, 300
+  offset: 110, 124
+  index: -1
+images/xx/0_00016
+  rotate: false
+  xy: 396, 166
+  size: 78, 70
+  orig: 300, 300
+  offset: 109, 132
+  index: -1
+images/xx/0_00018
+  rotate: false
+  xy: 363, 116
+  size: 60, 48
+  orig: 300, 300
+  offset: 111, 151
+  index: -1
+images/xx/0_00020
+  rotate: false
+  xy: 2, 2
+  size: 59, 96
+  orig: 300, 300
+  offset: 115, 102
+  index: -1
+images/xx/0_00022
+  rotate: false
+  xy: 284, 174
+  size: 56, 97
+  orig: 300, 300
+  offset: 117, 99
+  index: -1
+images/xx/0_00024
+  rotate: false
+  xy: 342, 174
+  size: 52, 97
+  orig: 300, 300
+  offset: 117, 97
+  index: -1
+images/xx/0_00026
+  rotate: true
+  xy: 182, 97
+  size: 82, 97
+  orig: 300, 300
+  offset: 115, 96
+  index: -1
+images/xx/0_00028
+  rotate: false
+  xy: 382, 318
+  size: 101, 97
+  orig: 300, 300
+  offset: 100, 97
+  index: -1

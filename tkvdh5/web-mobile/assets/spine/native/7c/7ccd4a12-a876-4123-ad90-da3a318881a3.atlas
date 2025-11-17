@@ -1,0 +1,20 @@
+
+x-shenxianyu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+x-shenxianyu
+  rotate: false
+  xy: 2, 37
+  size: 78, 92
+  orig: 78, 92
+  offset: 0, 0
+  index: -1
+x-shenxianyu-1
+  rotate: true
+  xy: 2, 2
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1

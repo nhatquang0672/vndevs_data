@@ -1,0 +1,13 @@
+
+effect_atk_mon45.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0
+  rotate: false
+  xy: 2, 3
+  size: 97, 96
+  orig: 150, 150
+  offset: 29, 30
+  index: -1

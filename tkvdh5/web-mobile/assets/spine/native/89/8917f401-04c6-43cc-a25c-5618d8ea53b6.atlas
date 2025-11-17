@@ -1,0 +1,20 @@
+
+z-caoyu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z-caoyu
+  rotate: false
+  xy: 2, 106
+  size: 152, 62
+  orig: 152, 62
+  offset: 0, 0
+  index: -1
+z-caoyu-yuqi
+  rotate: true
+  xy: 156, 145
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1

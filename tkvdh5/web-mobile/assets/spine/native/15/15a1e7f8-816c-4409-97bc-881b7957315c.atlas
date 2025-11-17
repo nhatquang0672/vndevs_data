@@ -1,0 +1,69 @@
+
+taozizhanglao.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+taozizhanglao_0
+  rotate: true
+  xy: 346, 258
+  size: 56, 59
+  orig: 56, 59
+  offset: 0, 0
+  index: -1
+taozizhanglao_1
+  rotate: true
+  xy: 308, 140
+  size: 100, 65
+  orig: 101, 65
+  offset: 0, 0
+  index: -1
+taozizhanglao_2
+  rotate: false
+  xy: 201, 242
+  size: 143, 72
+  orig: 143, 72
+  offset: 0, 0
+  index: -1
+taozizhanglao_3
+  rotate: false
+  xy: 201, 316
+  size: 148, 141
+  orig: 148, 141
+  offset: 0, 0
+  index: -1
+taozizhanglao_4
+  rotate: true
+  xy: 2, 20
+  size: 165, 209
+  orig: 165, 209
+  offset: 0, 0
+  index: -1
+taozizhanglao_5
+  rotate: false
+  xy: 201, 187
+  size: 105, 53
+  orig: 105, 53
+  offset: 0, 0
+  index: -1
+taozizhanglao_6
+  rotate: false
+  xy: 351, 402
+  size: 106, 55
+  orig: 106, 55
+  offset: 0, 0
+  index: -1
+taozizhanglao_7
+  rotate: false
+  xy: 2, 187
+  size: 197, 270
+  orig: 197, 270
+  offset: 0, 0
+  index: -1
+touying
+  rotate: false
+  xy: 351, 376
+  size: 63, 24
+  orig: 65, 26
+  offset: 1, 1
+  index: -1

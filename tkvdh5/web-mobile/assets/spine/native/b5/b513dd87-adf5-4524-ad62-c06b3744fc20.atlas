@@ -1,0 +1,97 @@
+
+s-duozuhou.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s-duozuhou-1
+  rotate: false
+  xy: 2, 31
+  size: 40, 95
+  orig: 40, 95
+  offset: 0, 0
+  index: -1
+s-duozuhou-10
+  rotate: false
+  xy: 73, 18
+  size: 24, 9
+  orig: 24, 9
+  offset: 0, 0
+  index: -1
+s-duozuhou-11
+  rotate: true
+  xy: 63, 50
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+s-duozuhou-12
+  rotate: true
+  xy: 73, 29
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+s-duozuhou-2
+  rotate: true
+  xy: 44, 103
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+s-duozuhou-3
+  rotate: true
+  xy: 68, 77
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+s-duozuhou-4
+  rotate: false
+  xy: 75, 5
+  size: 25, 11
+  orig: 25, 11
+  offset: 0, 0
+  index: -1
+s-duozuhou-5
+  rotate: false
+  xy: 52, 2
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+s-duozuhou-6
+  rotate: true
+  xy: 52, 18
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+s-duozuhou-7
+  rotate: true
+  xy: 2, 11
+  size: 18, 48
+  orig: 18, 48
+  offset: 0, 0
+  index: -1
+s-duozuhou-8
+  rotate: false
+  xy: 44, 72
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+s-duozuhou-9
+  rotate: true
+  xy: 77, 105
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+s-duozuhou13
+  rotate: false
+  xy: 44, 40
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1

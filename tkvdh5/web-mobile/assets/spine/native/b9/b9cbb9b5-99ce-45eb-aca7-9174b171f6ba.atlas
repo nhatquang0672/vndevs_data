@@ -1,0 +1,13 @@
+
+effect_atk_xianlv5.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0
+  rotate: false
+  xy: 2, 4
+  size: 54, 52
+  orig: 64, 64
+  offset: 5, 6
+  index: -1

@@ -1,0 +1,389 @@
+
+effect_jian.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1_1/0_00012
+  rotate: false
+  xy: 213, 18
+  size: 273, 239
+  orig: 600, 600
+  offset: 143, 214
+  index: -1
+images/1_1/0_00014
+  rotate: true
+  xy: 861, 514
+  size: 148, 153
+  orig: 600, 600
+  offset: 217, 246
+  index: -1
+images/1_1/0_00016
+  rotate: false
+  xy: 671, 944
+  size: 101, 70
+  orig: 600, 600
+  offset: 244, 281
+  index: -1
+images/1_1/0_00018
+  rotate: false
+  xy: 546, 978
+  size: 42, 36
+  orig: 600, 600
+  offset: 278, 285
+  index: -1
+images/1_2/0_00001
+  rotate: true
+  xy: 57, 1001
+  size: 13, 27
+  orig: 600, 600
+  offset: 436, 222
+  index: -1
+images/1_2/0_00002
+  rotate: false
+  xy: 280, 261
+  size: 355, 121
+  orig: 600, 600
+  offset: 91, 190
+  index: -1
+images/1_2/0_00010
+  rotate: true
+  xy: 774, 340
+  size: 164, 212
+  orig: 600, 600
+  offset: 203, 223
+  index: -1
+images/1_2/0_00012
+  rotate: false
+  xy: 881, 666
+  size: 120, 145
+  orig: 600, 600
+  offset: 242, 241
+  index: -1
+images/1_2/0_00014
+  rotate: false
+  xy: 862, 934
+  size: 117, 80
+  orig: 600, 600
+  offset: 234, 267
+  index: -1
+images/1_2/0_00016
+  rotate: false
+  xy: 592, 956
+  size: 75, 58
+  orig: 600, 600
+  offset: 260, 287
+  index: -1
+images/1_2/0_00018
+  rotate: false
+  xy: 296, 991
+  size: 24, 23
+  orig: 600, 600
+  offset: 285, 291
+  index: -1
+images/2_1
+  rotate: false
+  xy: 4, 131
+  size: 205, 203
+  orig: 256, 256
+  offset: 26, 26
+  index: -1
+images/2_2
+  rotate: false
+  xy: 835, 815
+  size: 118, 115
+  orig: 256, 256
+  offset: 67, 69
+  index: -1
+images/3_1/0_00020
+  rotate: false
+  xy: 174, 993
+  size: 118, 21
+  orig: 200, 600
+  offset: 46, 259
+  index: -1
+images/3_1/0_00021
+  rotate: false
+  xy: 4, 904
+  size: 118, 90
+  orig: 200, 600
+  offset: 46, 257
+  index: -1
+images/3_1/0_00022
+  rotate: true
+  xy: 225, 681
+  size: 118, 158
+  orig: 200, 600
+  offset: 46, 256
+  index: -1
+images/3_1/0_00024
+  rotate: true
+  xy: 387, 647
+  size: 118, 193
+  orig: 200, 600
+  offset: 46, 255
+  index: -1
+images/3_1/0_00026
+  rotate: true
+  xy: 289, 409
+  size: 118, 228
+  orig: 200, 600
+  offset: 46, 254
+  index: -1
+images/3_1/0_00028
+  rotate: true
+  xy: 521, 386
+  size: 118, 249
+  orig: 200, 600
+  offset: 46, 254
+  index: -1
+images/3_1/0_00030
+  rotate: true
+  xy: 4, 338
+  size: 118, 272
+  orig: 200, 600
+  offset: 46, 253
+  index: -1
+images/3_1/0_00032
+  rotate: true
+  xy: 580, 508
+  size: 117, 277
+  orig: 200, 600
+  offset: 46, 253
+  index: -1
+images/3_1/0_00034
+  rotate: true
+  xy: 4, 460
+  size: 117, 281
+  orig: 200, 600
+  offset: 46, 253
+  index: -1
+images/3_1/0_00036
+  rotate: true
+  xy: 290, 531
+  size: 112, 286
+  orig: 200, 600
+  offset: 46, 253
+  index: -1
+images/3_1/0_00038
+  rotate: true
+  xy: 4, 581
+  size: 96, 282
+  orig: 200, 600
+  offset: 54, 260
+  index: -1
+images/3_1/0_00040
+  rotate: true
+  xy: 324, 982
+  size: 32, 108
+  orig: 200, 600
+  offset: 90, 366
+  index: -1
+images/3_2/0_00040
+  rotate: true
+  xy: 324, 982
+  size: 32, 108
+  orig: 200, 600
+  offset: 90, 366
+  index: -1
+images/3_1/0_00042
+  rotate: true
+  xy: 436, 982
+  size: 32, 106
+  orig: 200, 600
+  offset: 90, 369
+  index: -1
+images/3_2/0_00042
+  rotate: true
+  xy: 436, 982
+  size: 32, 106
+  orig: 200, 600
+  offset: 90, 369
+  index: -1
+images/3_1/0_00044
+  rotate: true
+  xy: 4, 1013
+  size: 1, 49
+  orig: 200, 600
+  offset: 121, 426
+  index: -1
+images/3_2/0_00044
+  rotate: true
+  xy: 4, 1013
+  size: 1, 49
+  orig: 200, 600
+  offset: 121, 426
+  index: -1
+images/3_2/0_00020
+  rotate: false
+  xy: 88, 998
+  size: 82, 16
+  orig: 200, 600
+  offset: 61, 262
+  index: -1
+images/3_2/0_00021
+  rotate: false
+  xy: 776, 943
+  size: 82, 71
+  orig: 200, 600
+  offset: 61, 269
+  index: -1
+images/3_2/0_00022
+  rotate: true
+  xy: 532, 859
+  size: 93, 127
+  orig: 200, 600
+  offset: 55, 274
+  index: -1
+images/3_2/0_00024
+  rotate: true
+  xy: 663, 846
+  size: 93, 168
+  orig: 200, 600
+  offset: 55, 277
+  index: -1
+images/3_2/0_00026
+  rotate: true
+  xy: 126, 900
+  size: 87, 185
+  orig: 200, 600
+  offset: 60, 279
+  index: -1
+images/3_2/0_00028
+  rotate: true
+  xy: 4, 810
+  size: 86, 201
+  orig: 200, 600
+  offset: 61, 282
+  index: -1
+images/3_2/0_00030
+  rotate: true
+  xy: 209, 803
+  size: 86, 219
+  orig: 200, 600
+  offset: 61, 284
+  index: -1
+images/3_2/0_00032
+  rotate: true
+  xy: 432, 769
+  size: 86, 220
+  orig: 200, 600
+  offset: 61, 287
+  index: -1
+images/3_2/0_00034
+  rotate: true
+  xy: 656, 725
+  size: 86, 221
+  orig: 200, 600
+  offset: 61, 290
+  index: -1
+images/3_2/0_00036
+  rotate: true
+  xy: 4, 713
+  size: 86, 217
+  orig: 200, 600
+  offset: 61, 297
+  index: -1
+images/3_2/0_00038
+  rotate: true
+  xy: 315, 893
+  size: 85, 213
+  orig: 200, 600
+  offset: 62, 303
+  index: -1
+images/4_1
+  rotate: true
+  xy: 639, 206
+  size: 130, 307
+  orig: 300, 400
+  offset: 85, 51
+  index: -1
+images/4_2
+  rotate: true
+  xy: 584, 629
+  size: 92, 273
+  orig: 300, 400
+  offset: 104, 66
+  index: -1
+
+effect_jian2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1_1/0_00000
+  rotate: false
+  xy: 453, 17
+  size: 367, 443
+  orig: 600, 600
+  offset: 99, 71
+  index: -1
+images/1_1/0_00001
+  rotate: true
+  xy: 398, 464
+  size: 394, 426
+  orig: 600, 600
+  offset: 73, 77
+  index: -1
+images/1_1/0_00002
+  rotate: true
+  xy: 4, 4
+  size: 396, 445
+  orig: 600, 600
+  offset: 71, 79
+  index: -1
+images/1_1/0_00004
+  rotate: false
+  xy: 4, 404
+  size: 390, 454
+  orig: 600, 600
+  offset: 72, 73
+  index: -1
+
+effect_jian3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1_1/0_00006
+  rotate: false
+  xy: 4, 593
+  size: 381, 409
+  orig: 600, 600
+  offset: 75, 120
+  index: -1
+images/1_1/0_00008
+  rotate: false
+  xy: 4, 202
+  size: 366, 387
+  orig: 600, 600
+  offset: 84, 138
+  index: -1
+images/1_1/0_00010
+  rotate: false
+  xy: 389, 328
+  size: 340, 337
+  orig: 600, 600
+  offset: 101, 176
+  index: -1
+images/1_2/0_00004
+  rotate: false
+  xy: 389, 669
+  size: 348, 333
+  orig: 600, 600
+  offset: 94, 158
+  index: -1
+images/1_2/0_00006
+  rotate: true
+  xy: 741, 667
+  size: 335, 261
+  orig: 600, 600
+  offset: 103, 220
+  index: -1
+images/1_2/0_00008
+  rotate: true
+  xy: 733, 349
+  size: 314, 247
+  orig: 600, 600
+  offset: 119, 227
+  index: -1

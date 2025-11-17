@@ -1,0 +1,111 @@
+
+shouling_taxuetianma.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+touying
+  rotate: false
+  xy: 2, 174
+  size: 113, 44
+  orig: 115, 46
+  offset: 1, 1
+  index: -1
+xiaoma_0
+  rotate: true
+  xy: 34, 8
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+xiaoma_1
+  rotate: false
+  xy: 46, 66
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+xiaoma_10
+  rotate: false
+  xy: 117, 141
+  size: 72, 77
+  orig: 72, 77
+  offset: 0, 0
+  index: -1
+xiaoma_11
+  rotate: true
+  xy: 103, 14
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+xiaoma_12
+  rotate: true
+  xy: 103, 42
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+xiaoma_13
+  rotate: true
+  xy: 74, 70
+  size: 28, 60
+  orig: 28, 60
+  offset: 0, 0
+  index: -1
+xiaoma_2
+  rotate: false
+  xy: 104, 154
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+xiaoma_3
+  rotate: true
+  xy: 104, 105
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+xiaoma_4
+  rotate: true
+  xy: 2, 2
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+xiaoma_5
+  rotate: false
+  xy: 74, 100
+  size: 28, 72
+  orig: 28, 72
+  offset: 0, 0
+  index: -1
+xiaoma_6
+  rotate: false
+  xy: 136, 41
+  size: 33, 62
+  orig: 33, 62
+  offset: 0, 0
+  index: -1
+xiaoma_7
+  rotate: false
+  xy: 2, 98
+  size: 70, 74
+  orig: 70, 74
+  offset: 0, 0
+  index: -1
+xiaoma_8
+  rotate: true
+  xy: 2, 43
+  size: 53, 42
+  orig: 53, 42
+  offset: 0, 0
+  index: -1
+xiaoma_9
+  rotate: false
+  xy: 73, 19
+  size: 28, 49
+  orig: 28, 49
+  offset: 0, 0
+  index: -1

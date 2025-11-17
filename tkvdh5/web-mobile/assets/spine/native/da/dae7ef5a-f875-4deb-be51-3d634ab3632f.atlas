@@ -1,0 +1,20 @@
+
+s-haibao.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s-haibao-1
+  rotate: true
+  xy: 168, 155
+  size: 37, 24
+  orig: 37, 24
+  offset: 0, 0
+  index: -1
+s-haibao-2
+  rotate: false
+  xy: 2, 121
+  size: 164, 71
+  orig: 164, 71
+  offset: 0, 0
+  index: -1

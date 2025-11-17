@@ -1,0 +1,69 @@
+
+shouling_xiejiamozhang.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuanshangjia_0
+  rotate: false
+  xy: 82, 21
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+chuanshangjia_1
+  rotate: true
+  xy: 2, 37
+  size: 82, 101
+  orig: 82, 101
+  offset: 0, 0
+  index: -1
+chuanshangjia_2
+  rotate: false
+  xy: 2, 8
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+chuanshangjia_3
+  rotate: false
+  xy: 2, 121
+  size: 179, 108
+  orig: 179, 108
+  offset: 0, 0
+  index: -1
+chuanshangjia_4
+  rotate: false
+  xy: 105, 79
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+chuanshangjia_5
+  rotate: false
+  xy: 105, 33
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+chuanshangjia_6
+  rotate: true
+  xy: 42, 9
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+chuanshangjia_7
+  rotate: false
+  xy: 142, 73
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+touying
+  rotate: true
+  xy: 183, 114
+  size: 115, 46
+  orig: 115, 46
+  offset: 0, 0
+  index: -1

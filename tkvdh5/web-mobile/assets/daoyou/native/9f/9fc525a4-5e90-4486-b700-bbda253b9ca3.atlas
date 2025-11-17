@@ -1,0 +1,83 @@
+
+effect_chushou_baijing.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1/0_00000
+  rotate: true
+  xy: 596, 428
+  size: 170, 175
+  orig: 352, 352
+  offset: 100, 90
+  index: -1
+images/1/0_00001
+  rotate: false
+  xy: 601, 617
+  size: 181, 165
+  orig: 352, 352
+  offset: 92, 91
+  index: -1
+images/1/0_00002
+  rotate: false
+  xy: 404, 424
+  size: 190, 174
+  orig: 352, 352
+  offset: 85, 87
+  index: -1
+images/1/0_00003
+  rotate: false
+  xy: 400, 199
+  size: 196, 180
+  orig: 352, 352
+  offset: 81, 84
+  index: -1
+images/1/0_00004
+  rotate: true
+  xy: 2, 182
+  size: 196, 185
+  orig: 352, 352
+  offset: 80, 81
+  index: -1
+images/1/0_00005
+  rotate: false
+  xy: 203, 193
+  size: 195, 186
+  orig: 352, 352
+  offset: 79, 80
+  index: -1
+images/1/0_00006
+  rotate: true
+  xy: 2, 380
+  size: 197, 199
+  orig: 352, 352
+  offset: 78, 80
+  index: -1
+images/1/0_00007
+  rotate: true
+  xy: 203, 381
+  size: 196, 198
+  orig: 352, 352
+  offset: 80, 80
+  index: -1
+images/1/0_00008
+  rotate: false
+  xy: 207, 592
+  size: 195, 190
+  orig: 352, 352
+  offset: 79, 84
+  index: -1
+images/1/0_00009
+  rotate: false
+  xy: 404, 600
+  size: 195, 182
+  orig: 352, 352
+  offset: 78, 90
+  index: -1
+images/3
+  rotate: false
+  xy: 2, 579
+  size: 203, 203
+  orig: 225, 225
+  offset: 11, 11
+  index: -1

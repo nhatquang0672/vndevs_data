@@ -1,0 +1,111 @@
+
+effect_hit_xianlv3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1
+  rotate: true
+  xy: 2, 375
+  size: 251, 216
+  orig: 600, 600
+  offset: 172, 210
+  index: -1
+images/2
+  rotate: false
+  xy: 2, 152
+  size: 215, 221
+  orig: 600, 600
+  offset: 189, 191
+  index: -1
+images/3
+  rotate: false
+  xy: 2, 628
+  size: 386, 388
+  orig: 600, 600
+  offset: 104, 99
+  index: -1
+images/tx/0_00000
+  rotate: true
+  xy: 220, 399
+  size: 70, 66
+  orig: 300, 300
+  offset: 107, 117
+  index: -1
+images/tx/0_00001
+  rotate: true
+  xy: 497, 230
+  size: 110, 100
+  orig: 300, 300
+  offset: 93, 103
+  index: -1
+images/tx/0_00003
+  rotate: true
+  xy: 2, 2
+  size: 148, 131
+  orig: 300, 300
+  offset: 80, 90
+  index: -1
+images/tx/0_00005
+  rotate: true
+  xy: 295, 49
+  size: 160, 141
+  orig: 300, 300
+  offset: 76, 85
+  index: -1
+images/tx/0_00007
+  rotate: true
+  xy: 219, 211
+  size: 162, 144
+  orig: 300, 300
+  offset: 76, 82
+  index: -1
+images/tx/0_00009
+  rotate: false
+  xy: 135, 5
+  size: 158, 145
+  orig: 300, 300
+  offset: 78, 79
+  index: -1
+images/tx/0_00011
+  rotate: true
+  xy: 220, 471
+  size: 155, 143
+  orig: 300, 300
+  offset: 79, 79
+  index: -1
+images/tx/0_00013
+  rotate: true
+  xy: 365, 483
+  size: 143, 140
+  orig: 300, 300
+  offset: 89, 80
+  index: -1
+images/tx/0_00015
+  rotate: true
+  xy: 365, 342
+  size: 139, 131
+  orig: 300, 300
+  offset: 90, 86
+  index: -1
+images/tx/0_00017
+  rotate: true
+  xy: 438, 83
+  size: 133, 130
+  orig: 300, 300
+  offset: 92, 86
+  index: -1
+images/tx/0_00019
+  rotate: true
+  xy: 365, 218
+  size: 122, 130
+  orig: 300, 300
+  offset: 93, 85
+  index: -1
+images/tx/0_00021
+  rotate: false
+  xy: 498, 372
+  size: 109, 109
+  orig: 300, 300
+  offset: 101, 106
+  index: -1

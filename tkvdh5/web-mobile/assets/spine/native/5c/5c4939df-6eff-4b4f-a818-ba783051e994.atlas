@@ -1,0 +1,20 @@
+
+d-luotunyu.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d-luotunyu-1
+  rotate: true
+  xy: 265, 258
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+d-luotunyu-2
+  rotate: false
+  xy: 2, 203
+  size: 261, 84
+  orig: 261, 84
+  offset: 0, 0
+  index: -1

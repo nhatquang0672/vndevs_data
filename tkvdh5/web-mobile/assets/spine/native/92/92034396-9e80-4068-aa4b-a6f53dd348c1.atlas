@@ -1,0 +1,132 @@
+
+heiwuchang.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+heiwuchang_0
+  rotate: false
+  xy: 143, 244
+  size: 48, 91
+  orig: 48, 91
+  offset: 0, 0
+  index: -1
+heiwuchang_1
+  rotate: true
+  xy: 96, 124
+  size: 101, 55
+  orig: 101, 55
+  offset: 0, 0
+  index: -1
+heiwuchang_10
+  rotate: true
+  xy: 2, 203
+  size: 129, 92
+  orig: 129, 92
+  offset: 0, 0
+  index: -1
+heiwuchang_11
+  rotate: false
+  xy: 2, 3
+  size: 46, 75
+  orig: 46, 75
+  offset: 0, 0
+  index: -1
+heiwuchang_12
+  rotate: false
+  xy: 122, 409
+  size: 97, 100
+  orig: 97, 100
+  offset: 0, 0
+  index: -1
+heiwuchang_13
+  rotate: true
+  xy: 122, 337
+  size: 70, 59
+  orig: 70, 59
+  offset: 0, 0
+  index: -1
+heiwuchang_14
+  rotate: true
+  xy: 96, 227
+  size: 105, 45
+  orig: 105, 95
+  offset: 0, 50
+  index: -1
+heiwuchang_15
+  rotate: false
+  xy: 221, 423
+  size: 43, 86
+  orig: 43, 86
+  offset: 0, 0
+  index: -1
+heiwuchang_16
+  rotate: true
+  xy: 2, 80
+  size: 121, 92
+  orig: 121, 92
+  offset: 0, 0
+  index: -1
+heiwuchang_2
+  rotate: true
+  xy: 96, 82
+  size: 40, 33
+  orig: 40, 33
+  offset: 0, 0
+  index: -1
+heiwuchang_3
+  rotate: true
+  xy: 154, 103
+  size: 19, 18
+  orig: 24, 18
+  offset: 3, 0
+  index: -1
+heiwuchang_4
+  rotate: true
+  xy: 131, 90
+  size: 32, 21
+  orig: 37, 21
+  offset: 0, 0
+  index: -1
+heiwuchang_5
+  rotate: false
+  xy: 2, 334
+  size: 118, 175
+  orig: 118, 175
+  offset: 0, 0
+  index: -1
+heiwuchang_6
+  rotate: true
+  xy: 114, 2
+  size: 78, 65
+  orig: 78, 65
+  offset: 0, 0
+  index: -1
+heiwuchang_7
+  rotate: true
+  xy: 153, 124
+  size: 51, 62
+  orig: 51, 62
+  offset: 0, 0
+  index: -1
+heiwuchang_8
+  rotate: true
+  xy: 50, 5
+  size: 73, 62
+  orig: 73, 62
+  offset: 0, 0
+  index: -1
+heiwuchang_9
+  rotate: false
+  xy: 183, 339
+  size: 57, 68
+  orig: 57, 68
+  offset: 0, 0
+  index: -1
+touying
+  rotate: true
+  xy: 153, 177
+  size: 65, 26
+  orig: 65, 26
+  offset: 0, 0
+  index: -1

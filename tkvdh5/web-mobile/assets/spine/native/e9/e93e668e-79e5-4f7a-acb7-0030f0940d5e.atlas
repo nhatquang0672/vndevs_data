@@ -1,0 +1,27 @@
+
+x-chunjingyaojingyu.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+x-chunjingyaojingyu-1
+  rotate: false
+  xy: 2, 85
+  size: 37, 19
+  orig: 37, 19
+  offset: 0, 0
+  index: -1
+x-chunjingyaojingyu-2
+  rotate: false
+  xy: 2, 8
+  size: 102, 51
+  orig: 102, 51
+  offset: 0, 0
+  index: -1
+x-chunjingyaojingyu-3
+  rotate: false
+  xy: 41, 61
+  size: 48, 43
+  orig: 48, 43
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+d-duoqiyu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d-duoqiyu
+  rotate: false
+  xy: 2, 187
+  size: 220, 61
+  orig: 220, 61
+  offset: 0, 0
+  index: -1
+d-duoqiyu-1
+  rotate: false
+  xy: 224, 213
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+d-duoqiyu-2
+  rotate: false
+  xy: 224, 190
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1

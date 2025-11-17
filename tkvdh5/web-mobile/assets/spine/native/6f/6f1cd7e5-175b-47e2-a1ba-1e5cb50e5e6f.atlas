@@ -1,0 +1,20 @@
+
+x-duzaoyu.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+x-duzaoyu-1
+  rotate: true
+  xy: 108, 105
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+x-duzaoyu-2
+  rotate: false
+  xy: 2, 82
+  size: 104, 43
+  orig: 104, 43
+  offset: 0, 0
+  index: -1

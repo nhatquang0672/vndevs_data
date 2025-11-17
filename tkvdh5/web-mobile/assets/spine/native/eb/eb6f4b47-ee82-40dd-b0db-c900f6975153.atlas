@@ -1,0 +1,139 @@
+
+shouling_baize.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baize_0_shouling_baize
+  rotate: true
+  xy: 70, 473
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+baize_10_shouling_baize
+  rotate: false
+  xy: 2, 365
+  size: 125, 62
+  orig: 125, 62
+  offset: 0, 0
+  index: -1
+baize_11_shouling_baize
+  rotate: true
+  xy: 177, 468
+  size: 30, 82
+  orig: 30, 82
+  offset: 0, 0
+  index: -1
+baize_12_shouling_baize
+  rotate: true
+  xy: 283, 411
+  size: 48, 102
+  orig: 48, 102
+  offset: 0, 0
+  index: -1
+baize_13_shouling_baize
+  rotate: false
+  xy: 236, 319
+  size: 114, 90
+  orig: 114, 90
+  offset: 0, 0
+  index: -1
+baize_14_shouling_baize
+  rotate: false
+  xy: 352, 308
+  size: 101, 90
+  orig: 101, 90
+  offset: 0, 0
+  index: -1
+baize_15_shouling_baize
+  rotate: false
+  xy: 387, 400
+  size: 95, 56
+  orig: 95, 56
+  offset: 0, 0
+  index: -1
+baize_16_shouling_baize
+  rotate: true
+  xy: 105, 471
+  size: 27, 70
+  orig: 27, 70
+  offset: 0, 0
+  index: -1
+baize_17_shouling_baize
+  rotate: true
+  xy: 319, 461
+  size: 37, 77
+  orig: 37, 77
+  offset: 0, 0
+  index: -1
+baize_1_shouling_baize
+  rotate: false
+  xy: 398, 458
+  size: 100, 40
+  orig: 100, 40
+  offset: 0, 0
+  index: -1
+baize_2_shouling_baize
+  rotate: false
+  xy: 44, 480
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+baize_3_shouling_baize
+  rotate: false
+  xy: 10, 487
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+baize_4_shouling_baize
+  rotate: true
+  xy: 2, 494
+  size: 4, 6
+  orig: 4, 6
+  offset: 0, 0
+  index: -1
+baize_5_shouling_baize
+  rotate: false
+  xy: 261, 467
+  size: 56, 31
+  orig: 56, 31
+  offset: 0, 0
+  index: -1
+baize_6_shouling_baize
+  rotate: true
+  xy: 2, 434
+  size: 44, 59
+  orig: 44, 59
+  offset: 0, 0
+  index: -1
+baize_7_shouling_baize
+  rotate: false
+  xy: 63, 429
+  size: 103, 40
+  orig: 103, 40
+  offset: 0, 0
+  index: -1
+baize_8_shouling_baize
+  rotate: false
+  xy: 25, 482
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+baize_9_shouling_baize
+  rotate: true
+  xy: 129, 350
+  size: 69, 105
+  orig: 69, 105
+  offset: 0, 0
+  index: -1
+touying
+  rotate: false
+  xy: 168, 421
+  size: 113, 44
+  orig: 115, 46
+  offset: 1, 1
+  index: -1

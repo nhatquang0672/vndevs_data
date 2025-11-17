@@ -1,0 +1,55 @@
+
+s-yinghuochongyouyu.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s-yinghuochongyouyu-1
+  rotate: false
+  xy: 83, 76
+  size: 15, 46
+  orig: 15, 46
+  offset: 0, 0
+  index: -1
+s-yinghuochongyouyu-2
+  rotate: false
+  xy: 100, 78
+  size: 15, 44
+  orig: 15, 44
+  offset: 0, 0
+  index: -1
+s-yinghuochongyouyu-3
+  rotate: false
+  xy: 25, 2
+  size: 20, 41
+  orig: 20, 41
+  offset: 0, 0
+  index: -1
+s-yinghuochongyouyu-4
+  rotate: false
+  xy: 2, 2
+  size: 21, 41
+  orig: 21, 41
+  offset: 0, 0
+  index: -1
+s-yinghuochongyouyu-5
+  rotate: false
+  xy: 83, 44
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+s-yinghuochongyouyu-6
+  rotate: false
+  xy: 47, 12
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+s-yinghuochongyouyu-7
+  rotate: false
+  xy: 2, 45
+  size: 79, 77
+  orig: 79, 77
+  offset: 0, 0
+  index: -1

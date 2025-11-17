@@ -1,0 +1,13 @@
+
+z-wucaiman.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z-wucaiman
+  rotate: false
+  xy: 2, 131
+  size: 154, 25
+  orig: 154, 25
+  offset: 0, 0
+  index: -1

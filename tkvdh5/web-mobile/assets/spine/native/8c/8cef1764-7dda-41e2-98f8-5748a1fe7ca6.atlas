@@ -1,0 +1,83 @@
+
+effect_xianfa_139.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: true
+  xy: 510, 556
+  size: 213, 83
+  orig: 451, 451
+  offset: 92, 195
+  index: -1
+images/0_00001
+  rotate: false
+  xy: 626, 857
+  size: 264, 160
+  orig: 451, 451
+  offset: 91, 149
+  index: -1
+images/0_00003
+  rotate: false
+  xy: 318, 771
+  size: 306, 246
+  orig: 451, 451
+  offset: 75, 76
+  index: -1
+images/0_00005
+  rotate: false
+  xy: 2, 800
+  size: 314, 217
+  orig: 451, 451
+  offset: 73, 89
+  index: -1
+images/0_00007
+  rotate: false
+  xy: 2, 590
+  size: 282, 208
+  orig: 451, 451
+  offset: 86, 118
+  index: -1
+images/0_00009
+  rotate: false
+  xy: 626, 674
+  size: 231, 181
+  orig: 451, 451
+  offset: 109, 129
+  index: -1
+images/0_00011
+  rotate: false
+  xy: 286, 598
+  size: 222, 171
+  orig: 451, 451
+  offset: 118, 131
+  index: -1
+images/0_00013
+  rotate: true
+  xy: 859, 493
+  size: 210, 140
+  orig: 451, 451
+  offset: 126, 146
+  index: -1
+images/0_00015
+  rotate: true
+  xy: 892, 705
+  size: 200, 117
+  orig: 451, 451
+  offset: 130, 164
+  index: -1
+images/0_00017
+  rotate: false
+  xy: 892, 907
+  size: 125, 110
+  orig: 451, 451
+  offset: 169, 170
+  index: -1
+images/0_00019
+  rotate: false
+  xy: 286, 561
+  size: 38, 35
+  orig: 451, 451
+  offset: 202, 195
+  index: -1

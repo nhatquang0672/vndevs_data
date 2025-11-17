@@ -1,0 +1,132 @@
+
+effect_kuang01.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1
+  rotate: false
+  xy: 2, 442
+  size: 158, 158
+  orig: 300, 300
+  offset: 71, 72
+  index: -1
+images/2
+  rotate: false
+  xy: 2, 602
+  size: 188, 188
+  orig: 300, 300
+  offset: 56, 57
+  index: -1
+images/3
+  rotate: false
+  xy: 2, 792
+  size: 230, 230
+  orig: 300, 300
+  offset: 35, 35
+  index: -1
+images/xx/0_00000
+  rotate: true
+  xy: 2, 181
+  size: 127, 104
+  orig: 300, 300
+  offset: 86, 96
+  index: -1
+images/xx/0_00002
+  rotate: true
+  xy: 2, 310
+  size: 130, 98
+  orig: 300, 300
+  offset: 83, 99
+  index: -1
+images/xx/0_00004
+  rotate: true
+  xy: 102, 315
+  size: 125, 100
+  orig: 300, 300
+  offset: 86, 101
+  index: -1
+images/xx/0_00006
+  rotate: true
+  xy: 2, 64
+  size: 115, 101
+  orig: 300, 300
+  offset: 92, 103
+  index: -1
+images/xx/0_00008
+  rotate: true
+  xy: 108, 206
+  size: 107, 93
+  orig: 300, 300
+  offset: 97, 113
+  index: -1
+images/xx/0_00010
+  rotate: true
+  xy: 265, 128
+  size: 91, 90
+  orig: 300, 300
+  offset: 112, 116
+  index: -1
+images/xx/0_00012
+  rotate: true
+  xy: 275, 35
+  size: 91, 86
+  orig: 300, 300
+  offset: 110, 120
+  index: -1
+images/xx/0_00014
+  rotate: true
+  xy: 203, 221
+  size: 92, 85
+  orig: 300, 300
+  offset: 107, 124
+  index: -1
+images/xx/0_00016
+  rotate: true
+  xy: 204, 392
+  size: 90, 77
+  orig: 300, 300
+  offset: 106, 133
+  index: -1
+images/xx/0_00018
+  rotate: true
+  xy: 112, 2
+  size: 67, 52
+  orig: 300, 300
+  offset: 108, 156
+  index: -1
+images/xx/0_00020
+  rotate: true
+  xy: 166, 3
+  size: 66, 107
+  orig: 300, 300
+  offset: 112, 100
+  index: -1
+images/xx/0_00022
+  rotate: false
+  xy: 105, 71
+  size: 63, 108
+  orig: 300, 300
+  offset: 114, 97
+  index: -1
+images/xx/0_00024
+  rotate: true
+  xy: 2, 5
+  size: 57, 108
+  orig: 300, 300
+  offset: 115, 95
+  index: -1
+images/xx/0_00026
+  rotate: false
+  xy: 170, 97
+  size: 93, 107
+  orig: 300, 300
+  offset: 113, 94
+  index: -1
+images/xx/0_00028
+  rotate: true
+  xy: 162, 484
+  size: 116, 108
+  orig: 300, 300
+  offset: 94, 94
+  index: -1

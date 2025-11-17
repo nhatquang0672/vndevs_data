@@ -1,0 +1,13 @@
+
+zw-shuzhi.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zw-shuzhi
+  rotate: false
+  xy: 2, 2
+  size: 84, 105
+  orig: 84, 105
+  offset: 0, 0
+  index: -1

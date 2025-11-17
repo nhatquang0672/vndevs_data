@@ -1,0 +1,20 @@
+
+x-lanchunyu.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+x-lanchunyu
+  rotate: false
+  xy: 20, 64
+  size: 101, 57
+  orig: 101, 57
+  offset: 0, 0
+  index: -1
+x-lanchunyu-1
+  rotate: false
+  xy: 2, 105
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1

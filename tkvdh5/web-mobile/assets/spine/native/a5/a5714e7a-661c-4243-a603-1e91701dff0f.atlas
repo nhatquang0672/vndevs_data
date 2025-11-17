@@ -1,0 +1,13 @@
+
+zw-yuye.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zw-yuye
+  rotate: false
+  xy: 2, 2
+  size: 131, 165
+  orig: 131, 165
+  offset: 0, 0
+  index: -1

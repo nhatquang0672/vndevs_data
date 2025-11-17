@@ -1,0 +1,13 @@
+
+zw-beike.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zw-beike
+  rotate: false
+  xy: 2, 17
+  size: 90, 75
+  orig: 90, 75
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+z-manli.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z-manli-1
+  rotate: true
+  xy: 210, 202
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+z-manli-2
+  rotate: false
+  xy: 2, 187
+  size: 206, 40
+  orig: 206, 40
+  offset: 0, 0
+  index: -1

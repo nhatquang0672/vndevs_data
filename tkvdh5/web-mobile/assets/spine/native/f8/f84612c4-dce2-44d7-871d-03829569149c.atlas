@@ -1,0 +1,111 @@
+
+shunfenger.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shunfenger_0
+  rotate: false
+  xy: 157, 141
+  size: 43, 91
+  orig: 43, 91
+  offset: 0, 0
+  index: -1
+shunfenger_1
+  rotate: false
+  xy: 116, 260
+  size: 94, 94
+  orig: 94, 129
+  offset: 0, 0
+  index: -1
+shunfenger_10
+  rotate: false
+  xy: 101, 117
+  size: 54, 114
+  orig: 54, 114
+  offset: 0, 0
+  index: -1
+shunfenger_11
+  rotate: false
+  xy: 139, 428
+  size: 49, 78
+  orig: 49, 78
+  offset: 0, 0
+  index: -1
+shunfenger_12
+  rotate: false
+  xy: 190, 443
+  size: 63, 63
+  orig: 63, 82
+  offset: 0, 0
+  index: -1
+shunfenger_13
+  rotate: true
+  xy: 2, 6
+  size: 102, 112
+  orig: 102, 112
+  offset: 0, 0
+  index: -1
+shunfenger_2
+  rotate: false
+  xy: 2, 233
+  size: 112, 121
+  orig: 112, 121
+  offset: 0, 0
+  index: -1
+shunfenger_3
+  rotate: true
+  xy: 210, 43
+  size: 78, 77
+  orig: 78, 77
+  offset: 0, 0
+  index: -1
+shunfenger_4
+  rotate: false
+  xy: 2, 356
+  size: 135, 150
+  orig: 135, 150
+  offset: 0, 0
+  index: -1
+shunfenger_5
+  rotate: true
+  xy: 2, 110
+  size: 121, 97
+  orig: 121, 97
+  offset: 0, 0
+  index: -1
+shunfenger_6
+  rotate: false
+  xy: 139, 356
+  size: 73, 70
+  orig: 75, 70
+  offset: 2, 0
+  index: -1
+shunfenger_7
+  rotate: false
+  xy: 116, 2
+  size: 92, 113
+  orig: 92, 113
+  offset: 0, 0
+  index: -1
+shunfenger_8
+  rotate: false
+  xy: 202, 177
+  size: 60, 81
+  orig: 60, 81
+  offset: 0, 0
+  index: -1
+shunfenger_9
+  rotate: true
+  xy: 202, 123
+  size: 52, 79
+  orig: 52, 79
+  offset: 0, 0
+  index: -1
+touying
+  rotate: false
+  xy: 116, 234
+  size: 63, 24
+  orig: 65, 26
+  offset: 1, 1
+  index: -1

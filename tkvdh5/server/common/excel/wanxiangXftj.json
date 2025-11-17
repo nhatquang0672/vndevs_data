@@ -1,0 +1,23 @@
+[
+  {"id":"1","xfids":[1,2,3],"eps":{"hp_max_per":200}},
+  {"id":"2","xfids":[4,5,6],"eps":{"rhxianlv":300}},
+  {"id":"3","xfids":[7,8,9],"eps":{"fanji":300}},
+  {"id":"4","xfids":[10,11,12],"eps":{"hsjiyun":300}},
+  {"id":"5","xfids":[13,14,15,16],"eps":{"jianshang":200}},
+  {"id":"6","xfids":[17,18,19,20],"eps":{"hsshanbi":400}},
+  {"id":"7","xfids":[21,22,23],"eps":{"rhzhiliao":400}},
+  {"id":"8","xfids":[24,25,26],"eps":{"lianji":300}},
+  {"id":"9","xfids":[27,28,29,30],"eps":{"baoji":300}},
+  {"id":"10","xfids":[31,32,33],"eps":{"qhteshu":300}},
+  {"id":"11","xfids":[34,35,36,37],"eps":{"hslianji":500}},
+  {"id":"12","xfids":[38,39,40,41],"eps":{"xixue":500}},
+  {"id":"13","xfids":[42,43,44],"eps":{"zengshang":300}},
+  {"id":"14","xfids":[45,46,47,48],"eps":{"qhxianlv":500}},
+  {"id":"15","xfids":[49,50,51,52],"eps":{"baonue":500}},
+  {"id":"16","xfids":[53,54,55,56],"eps":{"qhzhiliao":500}},
+  {"id":"17","xfids":[57,58,59,60],"eps":{"jianshang":300}},
+  {"id":"18","xfids":[61,62,63,64],"eps":{"qhxianlv":400}},
+  {"id":"19","xfids":[65,66,67,68],"eps":{"hsshanbi":300}},
+  {"id":"20","xfids":[69,70,71,72],"eps":{"hp_max_per":200}},
+  {"id":"21","xfids":[73,74,75,76],"eps":{"jiyun":500}}
+]

@@ -1,0 +1,27 @@
+
+d-suoyu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d-suoyu-1
+  rotate: true
+  xy: 224, 175
+  size: 41, 24
+  orig: 41, 24
+  offset: 0, 0
+  index: -1
+d-suoyu-2
+  rotate: false
+  xy: 2, 168
+  size: 220, 86
+  orig: 220, 86
+  offset: 0, 0
+  index: -1
+d-suoyu-3
+  rotate: true
+  xy: 224, 218
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1

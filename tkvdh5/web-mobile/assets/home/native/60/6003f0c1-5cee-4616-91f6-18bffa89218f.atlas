@@ -1,0 +1,97 @@
+
+effect_zhandouli.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: false
+  xy: 696, 175
+  size: 228, 170
+  orig: 1000, 600
+  offset: 77, 225
+  index: -1
+images/0_00001
+  rotate: true
+  xy: 447, 56
+  size: 146, 123
+  orig: 1000, 600
+  offset: 193, 246
+  index: -1
+images/0_00002
+  rotate: false
+  xy: 310, 204
+  size: 204, 119
+  orig: 1000, 600
+  offset: 224, 235
+  index: -1
+images/0_00004
+  rotate: false
+  xy: 2, 197
+  size: 306, 130
+  orig: 1000, 600
+  offset: 239, 231
+  index: -1
+images/0_00006
+  rotate: false
+  xy: 2, 51
+  size: 443, 144
+  orig: 1000, 600
+  offset: 223, 228
+  index: -1
+images/0_00008
+  rotate: true
+  xy: 355, 325
+  size: 515, 162
+  orig: 1000, 600
+  offset: 233, 220
+  index: -1
+images/0_00011
+  rotate: true
+  xy: 180, 329
+  size: 511, 173
+  orig: 1000, 600
+  offset: 243, 217
+  index: -1
+images/0_00014
+  rotate: false
+  xy: 2, 842
+  size: 510, 178
+  orig: 1000, 600
+  offset: 245, 215
+  index: -1
+images/0_00017
+  rotate: true
+  xy: 2, 329
+  size: 511, 176
+  orig: 1000, 600
+  offset: 241, 220
+  index: -1
+images/0_00020
+  rotate: true
+  xy: 519, 344
+  size: 509, 175
+  orig: 1000, 600
+  offset: 242, 223
+  index: -1
+images/0_00023
+  rotate: true
+  xy: 696, 347
+  size: 506, 163
+  orig: 1000, 600
+  offset: 245, 233
+  index: -1
+images/0_00026
+  rotate: false
+  xy: 514, 855
+  size: 506, 165
+  orig: 1000, 600
+  offset: 246, 234
+  index: -1
+images/0_00029
+  rotate: true
+  xy: 861, 347
+  size: 506, 125
+  orig: 1000, 600
+  offset: 246, 234
+  index: -1

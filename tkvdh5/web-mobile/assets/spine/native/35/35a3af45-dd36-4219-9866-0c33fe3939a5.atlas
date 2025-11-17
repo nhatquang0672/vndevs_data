@@ -1,0 +1,20 @@
+
+d-dianman.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d-dianman
+  rotate: false
+  xy: 22, 183
+  size: 219, 58
+  orig: 219, 58
+  offset: 0, 0
+  index: -1
+d-dianman-yuqi
+  rotate: false
+  xy: 2, 223
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+
+effect_bulingbuling01.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/3
+  rotate: false
+  xy: 2, 251
+  size: 230, 230
+  orig: 300, 300
+  offset: 35, 35
+  index: -1
+images/xx/0_00000
+  rotate: false
+  xy: 120, 145
+  size: 127, 104
+  orig: 300, 300
+  offset: 86, 96
+  index: -1
+images/xx/0_00002
+  rotate: false
+  xy: 351, 383
+  size: 130, 98
+  orig: 300, 300
+  offset: 83, 99
+  index: -1
+images/xx/0_00004
+  rotate: false
+  xy: 234, 278
+  size: 125, 100
+  orig: 300, 300
+  offset: 86, 101
+  index: -1
+images/xx/0_00006
+  rotate: false
+  xy: 234, 380
+  size: 115, 101
+  orig: 300, 300
+  offset: 92, 103
+  index: -1
+images/xx/0_00008
+  rotate: true
+  xy: 249, 169
+  size: 107, 93
+  orig: 300, 300
+  offset: 97, 113
+  index: -1
+images/xx/0_00010
+  rotate: false
+  xy: 344, 186
+  size: 91, 90
+  orig: 300, 300
+  offset: 112, 116
+  index: -1
+images/xx/0_00012
+  rotate: false
+  xy: 361, 295
+  size: 91, 86
+  orig: 300, 300
+  offset: 110, 120
+  index: -1
+images/xx/0_00014
+  rotate: true
+  xy: 120, 51
+  size: 92, 85
+  orig: 300, 300
+  offset: 107, 124
+  index: -1
+images/xx/0_00016
+  rotate: true
+  xy: 2, 49
+  size: 90, 77
+  orig: 300, 300
+  offset: 106, 133
+  index: -1
+images/xx/0_00018
+  rotate: true
+  xy: 426, 117
+  size: 67, 52
+  orig: 300, 300
+  offset: 108, 156
+  index: -1
+images/xx/0_00020
+  rotate: false
+  xy: 358, 77
+  size: 66, 107
+  orig: 300, 300
+  offset: 112, 100
+  index: -1
+images/xx/0_00022
+  rotate: true
+  xy: 358, 12
+  size: 63, 108
+  orig: 300, 300
+  offset: 114, 97
+  index: -1
+images/xx/0_00024
+  rotate: true
+  xy: 207, 15
+  size: 57, 108
+  orig: 300, 300
+  offset: 115, 95
+  index: -1
+images/xx/0_00026
+  rotate: true
+  xy: 249, 74
+  size: 93, 107
+  orig: 300, 300
+  offset: 113, 94
+  index: -1
+images/xx/0_00028
+  rotate: false
+  xy: 2, 141
+  size: 116, 108
+  orig: 300, 300
+  offset: 94, 94
+  index: -1

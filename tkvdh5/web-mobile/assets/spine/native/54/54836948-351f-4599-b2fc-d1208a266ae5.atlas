@@ -1,0 +1,48 @@
+
+effect_atk_mon3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: true
+  xy: 390, 186
+  size: 196, 181
+  orig: 250, 250
+  offset: 27, 31
+  index: -1
+images/0_00001
+  rotate: false
+  xy: 2, 389
+  size: 199, 188
+  orig: 250, 250
+  offset: 21, 35
+  index: -1
+images/0_00002
+  rotate: true
+  xy: 203, 384
+  size: 193, 192
+  orig: 250, 250
+  offset: 31, 28
+  index: -1
+images/0_00003
+  rotate: false
+  xy: 189, 212
+  size: 199, 170
+  orig: 250, 250
+  offset: 27, 32
+  index: -1
+images/0_00004
+  rotate: true
+  xy: 2, 196
+  size: 191, 185
+  orig: 250, 250
+  offset: 29, 35
+  index: -1
+images/0_00005
+  rotate: true
+  xy: 397, 425
+  size: 152, 180
+  orig: 250, 250
+  offset: 70, 30
+  index: -1

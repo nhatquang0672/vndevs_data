@@ -1,0 +1,20 @@
+
+d-gulongyu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d-gulongyu-1
+  rotate: true
+  xy: 223, 192
+  size: 62, 31
+  orig: 62, 31
+  offset: 0, 0
+  index: -1
+d-gulongyu-2
+  rotate: false
+  xy: 2, 153
+  size: 219, 101
+  orig: 219, 101
+  offset: 0, 0
+  index: -1

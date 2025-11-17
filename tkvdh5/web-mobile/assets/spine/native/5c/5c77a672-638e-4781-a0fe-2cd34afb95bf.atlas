@@ -1,0 +1,48 @@
+
+s-xiaolongxia.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s-xiaolongxia
+  rotate: false
+  xy: 2, 54
+  size: 99, 89
+  orig: 99, 89
+  offset: 0, 0
+  index: -1
+s-xiaolongxia-1
+  rotate: false
+  xy: 2, 2
+  size: 29, 50
+  orig: 29, 50
+  offset: 0, 0
+  index: -1
+s-xiaolongxia-2
+  rotate: false
+  xy: 103, 13
+  size: 30, 50
+  orig: 34, 50
+  offset: 4, 0
+  index: -1
+s-xiaolongxia-3
+  rotate: false
+  xy: 103, 65
+  size: 33, 78
+  orig: 33, 78
+  offset: 0, 0
+  index: -1
+s-xiaolongxia-4
+  rotate: true
+  xy: 33, 31
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+s-xiaolongxia-5
+  rotate: true
+  xy: 33, 9
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+z-sanwenyu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z-sanwenyu
+  rotate: false
+  xy: 2, 107
+  size: 150, 61
+  orig: 150, 61
+  offset: 0, 0
+  index: -1
+z-sanwenyu-yuqi
+  rotate: true
+  xy: 154, 145
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1

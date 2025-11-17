@@ -1,0 +1,27 @@
+
+z-tongyanyu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z-tongyanyu-1
+  rotate: true
+  xy: 156, 115
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+z-tongyanyu-2
+  rotate: true
+  xy: 156, 152
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+z-tongyanyu-3
+  rotate: false
+  xy: 2, 91
+  size: 152, 92
+  orig: 152, 92
+  offset: 0, 0
+  index: -1

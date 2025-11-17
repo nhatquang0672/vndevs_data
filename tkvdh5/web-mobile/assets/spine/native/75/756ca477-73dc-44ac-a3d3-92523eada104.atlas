@@ -1,0 +1,27 @@
+
+d-yazuiyu.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d-yazuiyu-1
+  rotate: false
+  xy: 2, 216
+  size: 262, 85
+  orig: 262, 85
+  offset: 0, 0
+  index: -1
+d-yazuiyu-2
+  rotate: false
+  xy: 266, 220
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+d-yazuiyu-3
+  rotate: false
+  xy: 266, 259
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1

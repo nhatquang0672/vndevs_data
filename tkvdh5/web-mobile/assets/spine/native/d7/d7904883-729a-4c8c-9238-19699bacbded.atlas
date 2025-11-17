@@ -1,0 +1,27 @@
+
+s-eyu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s-eyu
+  rotate: false
+  xy: 2, 196
+  size: 200, 48
+  orig: 200, 48
+  offset: 0, 0
+  index: -1
+s-eyu-1
+  rotate: false
+  xy: 204, 214
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+s-eyu-2
+  rotate: true
+  xy: 204, 184
+  size: 28, 37
+  orig: 30, 43
+  offset: 0, 0
+  index: -1

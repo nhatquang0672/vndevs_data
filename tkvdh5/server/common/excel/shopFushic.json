@@ -1,0 +1,9 @@
+[
+  {"id":"1","name":"风灵石","need":[1,907,10],"item":[3,1,10],"limit":5,"reset":"day"},
+  {"id":"2","name":"风灵石","need":[1,907,20],"item":[3,2,10],"limit":5,"reset":"day"},
+  {"id":"3","name":"风灵石","need":[1,907,30],"item":[3,3,10],"limit":5,"reset":"day"},
+  {"id":"4","name":"风灵石","need":[1,907,40],"item":[3,4,10],"limit":5,"reset":"week"},
+  {"id":"5","name":"风灵石","need":[1,907,50],"item":[3,5,10],"limit":5,"reset":"week"},
+  {"id":"6","name":"风灵石","need":[1,907,60],"item":[3,6,10],"limit":5,"reset":"week"},
+  {"id":"7","name":"风灵石","need":[1,907,70],"item":[3,7,10],"limit":5,"reset":"0"}
+]

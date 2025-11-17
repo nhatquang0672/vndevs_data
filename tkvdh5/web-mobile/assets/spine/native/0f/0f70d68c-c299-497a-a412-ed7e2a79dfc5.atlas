@@ -1,0 +1,153 @@
+
+guichengxiang.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guichengxiang_0
+  rotate: true
+  xy: 107, 244
+  size: 119, 102
+  orig: 119, 102
+  offset: 0, 0
+  index: -1
+guichengxiang_1
+  rotate: false
+  xy: 166, 105
+  size: 40, 52
+  orig: 40, 52
+  offset: 0, 0
+  index: -1
+guichengxiang_10
+  rotate: false
+  xy: 2, 106
+  size: 99, 134
+  orig: 99, 134
+  offset: 0, 0
+  index: -1
+guichengxiang_11
+  rotate: true
+  xy: 203, 45
+  size: 54, 32
+  orig: 54, 32
+  offset: 0, 0
+  index: -1
+guichengxiang_12
+  rotate: false
+  xy: 302, 181
+  size: 73, 86
+  orig: 73, 86
+  offset: 0, 0
+  index: -1
+guichengxiang_13
+  rotate: false
+  xy: 2, 365
+  size: 240, 106
+  orig: 240, 106
+  offset: 0, 0
+  index: -1
+guichengxiang_14
+  rotate: true
+  xy: 2, 242
+  size: 121, 103
+  orig: 121, 103
+  offset: 0, 0
+  index: -1
+guichengxiang_15
+  rotate: true
+  xy: 107, 97
+  size: 145, 57
+  orig: 145, 57
+  offset: 0, 0
+  index: -1
+guichengxiang_16
+  rotate: false
+  xy: 211, 101
+  size: 89, 166
+  orig: 89, 166
+  offset: 0, 0
+  index: -1
+guichengxiang_17
+  rotate: false
+  xy: 2, 2
+  size: 99, 102
+  orig: 99, 102
+  offset: 0, 0
+  index: -1
+guichengxiang_18
+  rotate: false
+  xy: 103, 30
+  size: 33, 65
+  orig: 33, 65
+  offset: 0, 0
+  index: -1
+guichengxiang_19
+  rotate: false
+  xy: 244, 269
+  size: 183, 202
+  orig: 183, 202
+  offset: 0, 0
+  index: -1
+guichengxiang_2
+  rotate: true
+  xy: 166, 159
+  size: 83, 42
+  orig: 83, 42
+  offset: 0, 0
+  index: -1
+guichengxiang_3
+  rotate: true
+  xy: 211, 294
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+guichengxiang_4
+  rotate: false
+  xy: 302, 68
+  size: 66, 32
+  orig: 66, 32
+  offset: 0, 0
+  index: -1
+guichengxiang_5
+  rotate: false
+  xy: 166, 21
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+guichengxiang_6
+  rotate: true
+  xy: 166, 55
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+guichengxiang_7
+  rotate: false
+  xy: 302, 102
+  size: 64, 77
+  orig: 64, 77
+  offset: 0, 0
+  index: -1
+guichengxiang_8
+  rotate: true
+  xy: 211, 330
+  size: 33, 30
+  orig: 33, 33
+  offset: 0, 3
+  index: -1
+guichengxiang_9
+  rotate: false
+  xy: 211, 272
+  size: 21, 20
+  orig: 23, 26
+  offset: 2, 3
+  index: -1
+touying
+  rotate: true
+  xy: 138, 30
+  size: 65, 26
+  orig: 65, 26
+  offset: 0, 0
+  index: -1

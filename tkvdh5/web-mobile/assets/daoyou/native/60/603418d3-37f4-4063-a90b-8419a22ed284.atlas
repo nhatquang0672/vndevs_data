@@ -1,0 +1,62 @@
+
+effect_chushou_fengling.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: false
+  xy: 64, 710
+  size: 176, 141
+  orig: 440, 440
+  offset: 143, 143
+  index: -1
+images/0_00002
+  rotate: false
+  xy: 433, 670
+  size: 213, 181
+  orig: 440, 440
+  offset: 128, 126
+  index: -1
+images/0_00004
+  rotate: false
+  xy: 2, 508
+  size: 221, 200
+  orig: 440, 440
+  offset: 124, 120
+  index: -1
+images/0_00006
+  rotate: false
+  xy: 225, 476
+  size: 204, 200
+  orig: 440, 440
+  offset: 130, 118
+  index: -1
+images/0_00008
+  rotate: false
+  xy: 648, 663
+  size: 203, 188
+  orig: 440, 440
+  offset: 128, 126
+  index: -1
+images/0_00010
+  rotate: true
+  xy: 242, 678
+  size: 173, 189
+  orig: 440, 440
+  offset: 138, 125
+  index: -1
+images/0_00012
+  rotate: false
+  xy: 2, 808
+  size: 60, 43
+  orig: 440, 440
+  offset: 236, 166
+  index: -1
+images/2
+  rotate: false
+  xy: 431, 465
+  size: 203, 203
+  orig: 225, 225
+  offset: 11, 11
+  index: -1

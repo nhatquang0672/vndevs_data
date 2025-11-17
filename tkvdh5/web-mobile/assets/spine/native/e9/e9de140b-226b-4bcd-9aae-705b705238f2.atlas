@@ -1,0 +1,27 @@
+
+x-huaqiu.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+x-huaqiu-1
+  rotate: true
+  xy: 2, 87
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+x-huaqiu-2
+  rotate: false
+  xy: 2, 45
+  size: 100, 35
+  orig: 100, 35
+  offset: 0, 0
+  index: -1
+x-huaqiu-3
+  rotate: false
+  xy: 20, 82
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1

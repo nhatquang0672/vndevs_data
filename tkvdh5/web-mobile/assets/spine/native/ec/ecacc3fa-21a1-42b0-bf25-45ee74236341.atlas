@@ -1,0 +1,75 @@
+
+effect_xianfa_hit_116.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: true
+  xy: 136, 844
+  size: 107, 427
+  orig: 440, 880
+  offset: 161, 376
+  index: -1
+images/0_00001
+  rotate: true
+  xy: 2, 24
+  size: 298, 696
+  orig: 440, 880
+  offset: 71, 111
+  index: -1
+images/0_00005
+  rotate: false
+  xy: 623, 324
+  size: 328, 627
+  orig: 440, 880
+  offset: 70, 121
+  index: -1
+images/0_00009
+  rotate: true
+  xy: 2, 401
+  size: 264, 619
+  orig: 440, 880
+  offset: 101, 120
+  index: -1
+images/0_00011
+  rotate: true
+  xy: 2, 667
+  size: 175, 572
+  orig: 440, 880
+  offset: 106, 150
+  index: -1
+images/0_00013
+  rotate: false
+  xy: 2, 898
+  size: 132, 53
+  orig: 440, 880
+  offset: 114, 172
+  index: -1
+
+effect_xianfa_hit_1162.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00002
+  rotate: false
+  xy: 357, 322
+  size: 318, 672
+  orig: 440, 880
+  offset: 71, 104
+  index: -1
+images/0_00003
+  rotate: false
+  xy: 677, 352
+  size: 317, 642
+  orig: 440, 880
+  offset: 71, 118
+  index: -1
+images/0_00007
+  rotate: false
+  xy: 2, 345
+  size: 353, 649
+  orig: 440, 880
+  offset: 48, 124
+  index: -1

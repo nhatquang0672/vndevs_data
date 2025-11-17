@@ -1,0 +1,188 @@
+
+xingtian.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+touying
+  rotate: true
+  xy: 2, 199
+  size: 207, 82
+  orig: 207, 82
+  offset: 0, 0
+  index: -1
+xingtian_0
+  rotate: false
+  xy: 329, 347
+  size: 83, 78
+  orig: 83, 78
+  offset: 0, 0
+  index: -1
+xingtian_1
+  rotate: false
+  xy: 86, 279
+  size: 88, 127
+  orig: 88, 127
+  offset: 0, 0
+  index: -1
+xingtian_10
+  rotate: false
+  xy: 414, 399
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+xingtian_11
+  rotate: true
+  xy: 325, 276
+  size: 69, 70
+  orig: 69, 70
+  offset: 0, 0
+  index: -1
+xingtian_12
+  rotate: true
+  xy: 190, 324
+  size: 53, 98
+  orig: 53, 99
+  offset: 0, 0
+  index: -1
+xingtian_13
+  rotate: false
+  xy: 437, 301
+  size: 49, 114
+  orig: 49, 114
+  offset: 0, 0
+  index: -1
+xingtian_14
+  rotate: true
+  xy: 141, 169
+  size: 43, 47
+  orig: 43, 47
+  offset: 0, 0
+  index: -1
+xingtian_15
+  rotate: false
+  xy: 290, 298
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+xingtian_16
+  rotate: false
+  xy: 2, 408
+  size: 187, 97
+  orig: 187, 97
+  offset: 0, 0
+  index: -1
+xingtian_17
+  rotate: true
+  xy: 253, 240
+  size: 56, 65
+  orig: 56, 65
+  offset: 0, 0
+  index: -1
+xingtian_18
+  rotate: true
+  xy: 414, 373
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+xingtian_19
+  rotate: false
+  xy: 149, 214
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+xingtian_2
+  rotate: true
+  xy: 201, 209
+  size: 55, 45
+  orig: 55, 45
+  offset: 0, 0
+  index: -1
+xingtian_20
+  rotate: false
+  xy: 176, 266
+  size: 75, 56
+  orig: 75, 56
+  offset: 0, 0
+  index: -1
+xingtian_21
+  rotate: true
+  xy: 86, 192
+  size: 40, 53
+  orig: 40, 53
+  offset: 0, 0
+  index: -1
+xingtian_22
+  rotate: true
+  xy: 191, 379
+  size: 126, 136
+  orig: 126, 136
+  offset: 0, 0
+  index: -1
+xingtian_23
+  rotate: true
+  xy: 176, 387
+  size: 19, 13
+  orig: 22, 20
+  offset: 1, 4
+  index: -1
+xingtian_24
+  rotate: true
+  xy: 176, 375
+  size: 10, 12
+  orig: 10, 15
+  offset: 0, 2
+  index: -1
+xingtian_3
+  rotate: true
+  xy: 320, 226
+  size: 48, 57
+  orig: 48, 57
+  offset: 0, 0
+  index: -1
+xingtian_4
+  rotate: false
+  xy: 290, 332
+  size: 33, 45
+  orig: 33, 45
+  offset: 0, 0
+  index: -1
+xingtian_5
+  rotate: false
+  xy: 329, 427
+  size: 109, 78
+  orig: 109, 78
+  offset: 0, 0
+  index: -1
+xingtian_6
+  rotate: true
+  xy: 397, 309
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+xingtian_7
+  rotate: true
+  xy: 86, 234
+  size: 43, 61
+  orig: 43, 61
+  offset: 0, 0
+  index: -1
+xingtian_8
+  rotate: false
+  xy: 397, 253
+  size: 104, 46
+  orig: 104, 46
+  offset: 0, 0
+  index: -1
+xingtian_9
+  rotate: true
+  xy: 440, 417
+  size: 88, 65
+  orig: 88, 65
+  offset: 0, 0
+  index: -1

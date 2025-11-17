@@ -1,0 +1,13 @@
+
+z-shibanyu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z-shibanyu-2
+  rotate: false
+  xy: 2, 51
+  size: 152, 103
+  orig: 152, 103
+  offset: 0, 0
+  index: -1

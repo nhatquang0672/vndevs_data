@@ -1,0 +1,13 @@
+
+s-haidan.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s-haidan
+  rotate: false
+  xy: 2, 2
+  size: 82, 91
+  orig: 82, 91
+  offset: 0, 0
+  index: -1

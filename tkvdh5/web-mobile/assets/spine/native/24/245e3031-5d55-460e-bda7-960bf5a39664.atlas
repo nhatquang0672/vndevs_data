@@ -1,0 +1,139 @@
+
+30004.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shilianguai_7
+  rotate: true
+  xy: 2, 468
+  size: 16, 46
+  orig: 21, 51
+  offset: 2, 3
+  index: -1
+shilianguailan_0
+  rotate: true
+  xy: 76, 412
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+shilianguailan_1
+  rotate: false
+  xy: 191, 322
+  size: 80, 77
+  orig: 80, 77
+  offset: 0, 0
+  index: -1
+shilianguailan_10
+  rotate: false
+  xy: 74, 329
+  size: 115, 70
+  orig: 115, 70
+  offset: 0, 0
+  index: -1
+shilianguailan_11
+  rotate: true
+  xy: 259, 446
+  size: 38, 109
+  orig: 38, 109
+  offset: 0, 0
+  index: -1
+shilianguailan_12
+  rotate: true
+  xy: 2, 211
+  size: 116, 170
+  orig: 116, 170
+  offset: 0, 0
+  index: -1
+shilianguailan_13
+  rotate: true
+  xy: 2, 422
+  size: 44, 72
+  orig: 44, 72
+  offset: 0, 0
+  index: -1
+shilianguailan_14
+  rotate: false
+  xy: 2, 343
+  size: 70, 77
+  orig: 70, 77
+  offset: 0, 0
+  index: -1
+shilianguailan_15
+  rotate: true
+  xy: 163, 448
+  size: 36, 94
+  orig: 36, 94
+  offset: 0, 0
+  index: -1
+shilianguailan_16
+  rotate: false
+  xy: 2, 2
+  size: 265, 160
+  orig: 265, 160
+  offset: 0, 0
+  index: -1
+shilianguailan_17
+  rotate: false
+  xy: 314, 60
+  size: 164, 239
+  orig: 164, 239
+  offset: 0, 0
+  index: -1
+shilianguailan_2
+  rotate: false
+  xy: 370, 442
+  size: 92, 42
+  orig: 92, 42
+  offset: 0, 0
+  index: -1
+shilianguailan_3
+  rotate: false
+  xy: 97, 466
+  size: 64, 18
+  orig: 64, 18
+  offset: 0, 0
+  index: -1
+shilianguailan_4
+  rotate: false
+  xy: 148, 401
+  size: 133, 43
+  orig: 133, 43
+  offset: 0, 0
+  index: -1
+shilianguailan_6
+  rotate: false
+  xy: 174, 164
+  size: 138, 135
+  orig: 138, 135
+  offset: 0, 0
+  index: -1
+shilianguailan_7
+  rotate: false
+  xy: 283, 390
+  size: 125, 50
+  orig: 125, 50
+  offset: 0, 0
+  index: -1
+shilianguailan_8
+  rotate: true
+  xy: 50, 468
+  size: 16, 45
+  orig: 16, 45
+  offset: 0, 0
+  index: -1
+shilianguailan_9
+  rotate: true
+  xy: 410, 378
+  size: 62, 74
+  orig: 62, 74
+  offset: 0, 0
+  index: -1
+touying
+  rotate: false
+  xy: 273, 301
+  size: 196, 75
+  orig: 196, 75
+  offset: 0, 0
+  index: -1

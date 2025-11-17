@@ -1,0 +1,20 @@
+
+x-zhujiayu.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+x-zhujiayu
+  rotate: false
+  xy: 2, 67
+  size: 104, 55
+  orig: 104, 55
+  offset: 0, 0
+  index: -1
+x-zhujiayu-yuqi
+  rotate: true
+  xy: 108, 92
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: -1

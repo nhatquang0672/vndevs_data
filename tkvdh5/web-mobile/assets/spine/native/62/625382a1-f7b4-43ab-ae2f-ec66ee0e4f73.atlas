@@ -1,0 +1,48 @@
+
+effect_xianfa_hit_136.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0
+  rotate: false
+  xy: 2, 777
+  size: 183, 164
+  orig: 528, 528
+  offset: 164, 211
+  index: -1
+images/0_00003
+  rotate: false
+  xy: 312, 455
+  size: 311, 248
+  orig: 528, 528
+  offset: 120, 111
+  index: -1
+images/0_00004
+  rotate: false
+  xy: 517, 705
+  size: 313, 236
+  orig: 528, 528
+  offset: 121, 115
+  index: -1
+images/0_00006
+  rotate: false
+  xy: 2, 517
+  size: 308, 239
+  orig: 528, 528
+  offset: 122, 134
+  index: -1
+images/0_00008
+  rotate: false
+  xy: 625, 450
+  size: 316, 253
+  orig: 528, 528
+  offset: 114, 134
+  index: -1
+images/0_00010
+  rotate: false
+  xy: 187, 758
+  size: 328, 183
+  orig: 528, 528
+  offset: 107, 137
+  index: -1

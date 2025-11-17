@@ -1,0 +1,34 @@
+
+z-konglongyu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z-konglongyu-1
+  rotate: false
+  xy: 49, 210
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+z-konglongyu-2
+  rotate: false
+  xy: 2, 216
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+z-konglongyu-3
+  rotate: false
+  xy: 27, 213
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+z-konglongyu-4
+  rotate: false
+  xy: 75, 188
+  size: 153, 40
+  orig: 153, 40
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+
+effect_jiaxue.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1/0_00002
+  rotate: false
+  xy: 617, 814
+  size: 130, 128
+  orig: 352, 352
+  offset: 130, 74
+  index: -1
+images/1/0_00004
+  rotate: false
+  xy: 174, 682
+  size: 145, 141
+  orig: 352, 352
+  offset: 123, 71
+  index: -1
+images/1/0_00006
+  rotate: false
+  xy: 159, 512
+  size: 167, 162
+  orig: 352, 352
+  offset: 101, 54
+  index: -1
+images/1/0_00008
+  rotate: true
+  xy: 328, 508
+  size: 162, 172
+  orig: 352, 352
+  offset: 99, 40
+  index: -1
+images/1/0_00010
+  rotate: true
+  xy: 776, 666
+  size: 146, 166
+  orig: 352, 352
+  offset: 103, 40
+  index: -1
+images/1/0_00012
+  rotate: true
+  xy: 749, 814
+  size: 128, 169
+  orig: 352, 352
+  offset: 116, 48
+  index: -1
+images/1/0_00014
+  rotate: true
+  xy: 617, 669
+  size: 143, 157
+  orig: 352, 352
+  offset: 115, 66
+  index: -1
+images/1/0_00016
+  rotate: false
+  xy: 469, 672
+  size: 146, 145
+  orig: 352, 352
+  offset: 119, 77
+  index: -1
+images/1/0_00018
+  rotate: false
+  xy: 321, 676
+  size: 146, 141
+  orig: 352, 352
+  offset: 118, 76
+  index: -1
+images/1/0_00020
+  rotate: true
+  xy: 2, 564
+  size: 147, 155
+  orig: 352, 352
+  offset: 110, 70
+  index: -1
+images/1/0_00022
+  rotate: true
+  xy: 2, 713
+  size: 128, 170
+  orig: 352, 352
+  offset: 110, 70
+  index: -1
+images/1/0_00024
+  rotate: true
+  xy: 443, 819
+  size: 123, 172
+  orig: 352, 352
+  offset: 117, 73
+  index: -1
+images/1/0_00026
+  rotate: true
+  xy: 274, 825
+  size: 117, 167
+  orig: 352, 352
+  offset: 121, 79
+  index: -1
+images/1/0_00028
+  rotate: true
+  xy: 124, 843
+  size: 99, 148
+  orig: 352, 352
+  offset: 132, 92
+  index: -1
+images/1/0_00030
+  rotate: true
+  xy: 2, 905
+  size: 37, 120
+  orig: 352, 352
+  offset: 180, 110
+  index: -1
+images/glow01
+  rotate: false
+  xy: 502, 464
+  size: 203, 203
+  orig: 225, 225
+  offset: 11, 11
+  index: -1

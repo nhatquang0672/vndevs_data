@@ -1,0 +1,62 @@
+
+effect_hit_linghan.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: false
+  xy: 558, 541
+  size: 213, 203
+  orig: 440, 440
+  offset: 103, 114
+  index: -1
+images/0_00001
+  rotate: true
+  xy: 296, 511
+  size: 242, 260
+  orig: 440, 440
+  offset: 100, 117
+  index: -1
+images/0_00002
+  rotate: true
+  xy: 617, 746
+  size: 272, 276
+  orig: 440, 440
+  offset: 92, 109
+  index: -1
+images/0_00004
+  rotate: false
+  xy: 2, 727
+  size: 292, 291
+  orig: 440, 440
+  offset: 92, 101
+  index: -1
+images/0_00006
+  rotate: true
+  xy: 296, 755
+  size: 263, 319
+  orig: 440, 440
+  offset: 128, 75
+  index: -1
+images/0_00008
+  rotate: true
+  xy: 2, 475
+  size: 250, 251
+  orig: 440, 440
+  offset: 142, 137
+  index: -1
+images/0_00010
+  rotate: true
+  xy: 895, 883
+  size: 135, 123
+  orig: 440, 440
+  offset: 148, 161
+  index: -1
+images/3
+  rotate: false
+  xy: 773, 551
+  size: 221, 193
+  orig: 225, 225
+  offset: 0, 32
+  index: -1

@@ -1,0 +1,20 @@
+
+z-xiangyu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z-xiangyu
+  rotate: false
+  xy: 2, 95
+  size: 151, 84
+  orig: 151, 84
+  offset: 0, 0
+  index: -1
+z-xiangyu-yuqi
+  rotate: true
+  xy: 155, 153
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1

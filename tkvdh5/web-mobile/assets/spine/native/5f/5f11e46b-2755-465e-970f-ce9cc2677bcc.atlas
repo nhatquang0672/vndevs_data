@@ -1,0 +1,111 @@
+
+zixuan_pz_9.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: true
+  xy: 2, 859
+  size: 131, 196
+  orig: 200, 250
+  offset: 34, 27
+  index: -1
+images/0_00002
+  rotate: true
+  xy: 200, 859
+  size: 131, 196
+  orig: 200, 250
+  offset: 34, 27
+  index: -1
+images/0_00004
+  rotate: true
+  xy: 398, 859
+  size: 131, 196
+  orig: 200, 250
+  offset: 34, 27
+  index: -1
+images/0_00006
+  rotate: true
+  xy: 596, 859
+  size: 131, 196
+  orig: 200, 250
+  offset: 34, 27
+  index: -1
+images/0_00008
+  rotate: true
+  xy: 794, 859
+  size: 131, 196
+  orig: 200, 250
+  offset: 34, 27
+  index: -1
+images/0_00010
+  rotate: true
+  xy: 2, 726
+  size: 131, 196
+  orig: 200, 250
+  offset: 34, 27
+  index: -1
+images/0_00012
+  rotate: true
+  xy: 200, 726
+  size: 131, 196
+  orig: 200, 250
+  offset: 34, 27
+  index: -1
+images/0_00014
+  rotate: true
+  xy: 398, 726
+  size: 131, 196
+  orig: 200, 250
+  offset: 34, 27
+  index: -1
+images/0_00016
+  rotate: true
+  xy: 596, 726
+  size: 131, 196
+  orig: 200, 250
+  offset: 34, 27
+  index: -1
+images/0_00018
+  rotate: true
+  xy: 794, 726
+  size: 131, 196
+  orig: 200, 250
+  offset: 34, 27
+  index: -1
+images/0_00020
+  rotate: true
+  xy: 2, 593
+  size: 131, 196
+  orig: 200, 250
+  offset: 34, 27
+  index: -1
+images/0_00022
+  rotate: true
+  xy: 200, 593
+  size: 131, 196
+  orig: 200, 250
+  offset: 34, 27
+  index: -1
+images/0_00024
+  rotate: true
+  xy: 398, 593
+  size: 131, 196
+  orig: 200, 250
+  offset: 34, 27
+  index: -1
+images/0_00026
+  rotate: true
+  xy: 596, 593
+  size: 131, 196
+  orig: 200, 250
+  offset: 34, 27
+  index: -1
+images/0_00028
+  rotate: true
+  xy: 794, 593
+  size: 131, 196
+  orig: 200, 250
+  offset: 34, 27
+  index: -1

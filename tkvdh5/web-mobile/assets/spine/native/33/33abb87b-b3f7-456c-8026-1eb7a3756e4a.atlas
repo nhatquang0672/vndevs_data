@@ -1,0 +1,13 @@
+
+d-zhenzhuhou.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d-zhenzhuhou
+  rotate: false
+  xy: 2, 2
+  size: 152, 212
+  orig: 152, 212
+  offset: 0, 0
+  index: -1

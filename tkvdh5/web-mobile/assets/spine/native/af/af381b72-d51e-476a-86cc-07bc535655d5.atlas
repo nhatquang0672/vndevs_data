@@ -1,0 +1,13 @@
+
+effect_xianfa_68.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0
+  rotate: false
+  xy: 2, 4
+  size: 147, 145
+  orig: 451, 451
+  offset: 152, 213
+  index: -1

@@ -1,0 +1,97 @@
+
+shouling_liaoyuanchihu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chihu_0
+  rotate: true
+  xy: 195, 96
+  size: 33, 55
+  orig: 33, 55
+  offset: 0, 0
+  index: -1
+chihu_1
+  rotate: false
+  xy: 57, 140
+  size: 14, 13
+  orig: 20, 15
+  offset: 4, 0
+  index: -1
+chihu_10
+  rotate: false
+  xy: 87, 159
+  size: 26, 49
+  orig: 26, 49
+  offset: 0, 0
+  index: -1
+chihu_11
+  rotate: true
+  xy: 211, 221
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+chihu_2
+  rotate: true
+  xy: 73, 140
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+chihu_3
+  rotate: true
+  xy: 115, 104
+  size: 72, 78
+  orig: 72, 78
+  offset: 0, 0
+  index: -1
+chihu_4
+  rotate: false
+  xy: 2, 105
+  size: 53, 48
+  orig: 53, 48
+  offset: 0, 0
+  index: -1
+chihu_5
+  rotate: true
+  xy: 195, 131
+  size: 33, 59
+  orig: 33, 59
+  offset: 0, 0
+  index: -1
+chihu_6
+  rotate: false
+  xy: 211, 166
+  size: 39, 53
+  orig: 39, 53
+  offset: 0, 0
+  index: -1
+chihu_7
+  rotate: false
+  xy: 2, 155
+  size: 83, 53
+  orig: 83, 53
+  offset: 0, 0
+  index: -1
+chihu_8
+  rotate: true
+  xy: 117, 178
+  size: 76, 92
+  orig: 76, 92
+  offset: 0, 0
+  index: -1
+chihu_9
+  rotate: false
+  xy: 87, 109
+  size: 23, 48
+  orig: 23, 48
+  offset: 0, 0
+  index: -1
+touying
+  rotate: false
+  xy: 2, 210
+  size: 113, 44
+  orig: 115, 46
+  offset: 1, 1
+  index: -1

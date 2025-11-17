@@ -1,0 +1,139 @@
+
+effect_chongyangshangju.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1/0_00000
+  rotate: true
+  xy: 199, 93
+  size: 230, 174
+  orig: 500, 400
+  offset: 135, 64
+  index: -1
+images/1/0_00001
+  rotate: true
+  xy: 2, 91
+  size: 234, 195
+  orig: 500, 400
+  offset: 131, 68
+  index: -1
+images/1/0_00002
+  rotate: false
+  xy: 408, 350
+  size: 239, 189
+  orig: 500, 400
+  offset: 128, 73
+  index: -1
+images/1/0_00004
+  rotate: true
+  xy: 210, 325
+  size: 233, 196
+  orig: 500, 400
+  offset: 126, 77
+  index: -1
+images/1/0_00006
+  rotate: false
+  xy: 516, 817
+  size: 262, 200
+  orig: 500, 400
+  offset: 120, 90
+  index: -1
+images/1/0_00008
+  rotate: true
+  xy: 2, 577
+  size: 259, 211
+  orig: 500, 400
+  offset: 118, 94
+  index: -1
+images/1/0_00010
+  rotate: true
+  xy: 296, 747
+  size: 270, 218
+  orig: 500, 400
+  offset: 113, 97
+  index: -1
+images/1/0_00012
+  rotate: false
+  xy: 215, 560
+  size: 281, 185
+  orig: 500, 400
+  offset: 110, 100
+  index: -1
+images/1/0_00014
+  rotate: false
+  xy: 2, 838
+  size: 292, 179
+  orig: 500, 400
+  offset: 103, 102
+  index: -1
+images/2/0_00000
+  rotate: true
+  xy: 741, 112
+  size: 196, 159
+  orig: 400, 300
+  offset: 100, 57
+  index: -1
+images/2/0_00001
+  rotate: true
+  xy: 649, 310
+  size: 229, 187
+  orig: 400, 300
+  offset: 84, 41
+  index: -1
+images/2/0_00003
+  rotate: true
+  xy: 2, 327
+  size: 248, 206
+  orig: 400, 300
+  offset: 74, 44
+  index: -1
+images/2/0_00005
+  rotate: false
+  xy: 702, 655
+  size: 251, 160
+  orig: 400, 300
+  offset: 74, 64
+  index: -1
+images/2/0_00007
+  rotate: true
+  xy: 408, 97
+  size: 251, 162
+  orig: 400, 300
+  offset: 74, 79
+  index: -1
+images/2/0_00009
+  rotate: false
+  xy: 780, 859
+  size: 237, 158
+  orig: 400, 300
+  offset: 75, 89
+  index: -1
+images/2/0_00011
+  rotate: true
+  xy: 215, 759
+  size: 77, 38
+  orig: 400, 300
+  offset: 156, 171
+  index: -1
+images/dl
+  rotate: true
+  xy: 498, 541
+  size: 204, 202
+  orig: 256, 256
+  offset: 28, 27
+  index: -1
+images/tz
+  rotate: false
+  xy: 572, 141
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: -1
+images/yb
+  rotate: false
+  xy: 702, 562
+  size: 125, 91
+  orig: 150, 150
+  offset: 12, 31
+  index: -1

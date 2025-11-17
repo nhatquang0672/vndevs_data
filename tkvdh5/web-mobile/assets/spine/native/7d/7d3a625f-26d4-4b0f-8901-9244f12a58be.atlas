@@ -1,0 +1,27 @@
+
+d-qiyu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d-qiyu
+  rotate: false
+  xy: 2, 194
+  size: 53, 32
+  orig: 53, 32
+  offset: 0, 0
+  index: -1
+d-qiyu -1
+  rotate: false
+  xy: 57, 174
+  size: 64, 52
+  orig: 64, 52
+  offset: 0, 0
+  index: -1
+d-qiyu-2
+  rotate: false
+  xy: 2, 39
+  size: 224, 133
+  orig: 224, 133
+  offset: 0, 0
+  index: -1

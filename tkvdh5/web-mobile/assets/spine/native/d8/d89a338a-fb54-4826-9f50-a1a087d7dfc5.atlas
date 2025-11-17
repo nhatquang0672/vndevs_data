@@ -1,0 +1,55 @@
+
+effect_hit_mon45.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: true
+  xy: 375, 3
+  size: 228, 236
+  orig: 500, 500
+  offset: 146, 123
+  index: -1
+images/0_00001
+  rotate: false
+  xy: 2, 559
+  size: 402, 406
+  orig: 500, 500
+  offset: 57, 40
+  index: -1
+images/0_00003
+  rotate: true
+  xy: 2, 191
+  size: 366, 371
+  orig: 500, 500
+  offset: 75, 57
+  index: -1
+images/0_00005
+  rotate: true
+  xy: 375, 233
+  size: 324, 326
+  orig: 500, 500
+  offset: 96, 80
+  index: -1
+images/0_00007
+  rotate: false
+  xy: 406, 737
+  size: 270, 228
+  orig: 500, 500
+  offset: 150, 136
+  index: -1
+images/0_00009
+  rotate: true
+  xy: 678, 696
+  size: 269, 228
+  orig: 500, 500
+  offset: 153, 139
+  index: -1
+images/0_00011
+  rotate: false
+  xy: 2, 2
+  size: 194, 187
+  orig: 500, 500
+  offset: 154, 170
+  index: -1

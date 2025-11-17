@@ -1,0 +1,41 @@
+
+s-zhizhuxie.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s-zhizhuxie
+  rotate: false
+  xy: 44, 62
+  size: 51, 55
+  orig: 51, 55
+  offset: 0, 0
+  index: -1
+s-zhizhuxie1
+  rotate: false
+  xy: 2, 2
+  size: 52, 56
+  orig: 52, 56
+  offset: 0, 0
+  index: -1
+s-zhizhuxie2
+  rotate: true
+  xy: 65, 128
+  size: 54, 36
+  orig: 54, 36
+  offset: 0, 0
+  index: -1
+s-zhizhuxie3
+  rotate: true
+  xy: 2, 60
+  size: 57, 40
+  orig: 57, 40
+  offset: 0, 0
+  index: -1
+s-zhizhuxie4
+  rotate: false
+  xy: 2, 119
+  size: 61, 63
+  orig: 61, 63
+  offset: 0, 0
+  index: -1

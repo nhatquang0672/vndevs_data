@@ -1,0 +1,13 @@
+
+s-haishen.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s-haishen
+  rotate: false
+  xy: 2, 16
+  size: 90, 76
+  orig: 90, 76
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,160 @@
+
+30001.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shilianguai_7
+  rotate: true
+  xy: 159, 86
+  size: 16, 46
+  orig: 21, 51
+  offset: 2, 3
+  index: -1
+shilianguaizong_0
+  rotate: true
+  xy: 282, 30
+  size: 73, 40
+  orig: 73, 40
+  offset: 0, 0
+  index: -1
+shilianguaizong_1
+  rotate: true
+  xy: 151, 4
+  size: 78, 73
+  orig: 78, 73
+  offset: 0, 0
+  index: -1
+shilianguaizong_10
+  rotate: true
+  xy: 79, 80
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+shilianguaizong_11
+  rotate: false
+  xy: 119, 2
+  size: 30, 80
+  orig: 30, 80
+  offset: 0, 0
+  index: -1
+shilianguaizong_12
+  rotate: false
+  xy: 251, 9
+  size: 29, 94
+  orig: 29, 94
+  offset: 0, 0
+  index: -1
+shilianguaizong_13
+  rotate: false
+  xy: 2, 2
+  size: 115, 75
+  orig: 115, 75
+  offset: 0, 0
+  index: -1
+shilianguaizong_14
+  rotate: false
+  xy: 197, 155
+  size: 44, 121
+  orig: 44, 121
+  offset: 0, 0
+  index: -1
+shilianguaizong_15
+  rotate: false
+  xy: 79, 104
+  size: 116, 171
+  orig: 116, 171
+  offset: 0, 0
+  index: -1
+shilianguaizong_16
+  rotate: false
+  xy: 302, 220
+  size: 37, 71
+  orig: 37, 71
+  offset: 0, 0
+  index: -1
+shilianguaizong_17
+  rotate: false
+  xy: 212, 290
+  size: 58, 77
+  orig: 58, 77
+  offset: 0, 0
+  index: -1
+shilianguaizong_18
+  rotate: true
+  xy: 197, 105
+  size: 48, 108
+  orig: 48, 108
+  offset: 0, 0
+  index: -1
+shilianguaizong_19
+  rotate: true
+  xy: 243, 181
+  size: 107, 57
+  orig: 107, 57
+  offset: 0, 0
+  index: -1
+shilianguaizong_2
+  rotate: true
+  xy: 272, 293
+  size: 74, 63
+  orig: 74, 63
+  offset: 0, 0
+  index: -1
+shilianguaizong_20
+  rotate: false
+  xy: 2, 277
+  size: 164, 232
+  orig: 164, 232
+  offset: 0, 0
+  index: -1
+shilianguaizong_3
+  rotate: true
+  xy: 168, 278
+  size: 89, 42
+  orig: 89, 42
+  offset: 0, 0
+  index: -1
+shilianguaizong_4
+  rotate: false
+  xy: 110, 84
+  size: 47, 18
+  orig: 47, 18
+  offset: 0, 0
+  index: -1
+shilianguaizong_5
+  rotate: true
+  xy: 302, 159
+  size: 59, 32
+  orig: 59, 32
+  offset: 0, 0
+  index: -1
+shilianguaizong_7
+  rotate: false
+  xy: 168, 369
+  size: 120, 140
+  orig: 120, 140
+  offset: 0, 0
+  index: -1
+shilianguaizong_8
+  rotate: false
+  xy: 307, 124
+  size: 58, 33
+  orig: 58, 33
+  offset: 0, 0
+  index: -1
+shilianguaizong_9
+  rotate: true
+  xy: 207, 91
+  size: 12, 42
+  orig: 12, 42
+  offset: 0, 0
+  index: -1
+touying
+  rotate: true
+  xy: 2, 79
+  size: 196, 75
+  orig: 196, 75
+  offset: 0, 0
+  index: -1

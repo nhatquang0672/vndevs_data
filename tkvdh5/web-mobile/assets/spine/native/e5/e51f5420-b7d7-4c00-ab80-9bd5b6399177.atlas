@@ -1,0 +1,13 @@
+
+zw-wulonggaoshi.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zw-wulonggaoshi
+  rotate: false
+  xy: 2, 4
+  size: 112, 110
+  orig: 112, 110
+  offset: 0, 0
+  index: -1

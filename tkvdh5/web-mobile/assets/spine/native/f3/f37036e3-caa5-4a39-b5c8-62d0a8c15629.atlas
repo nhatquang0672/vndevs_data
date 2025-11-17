@@ -1,0 +1,83 @@
+
+dataojing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dataojing_0
+  rotate: false
+  xy: 2, 105
+  size: 247, 74
+  orig: 247, 74
+  offset: 0, 0
+  index: -1
+dataojing_1
+  rotate: true
+  xy: 2, 181
+  size: 153, 122
+  orig: 153, 122
+  offset: 0, 0
+  index: -1
+dataojing_2
+  rotate: false
+  xy: 169, 455
+  size: 43, 47
+  orig: 46, 47
+  offset: 1, 0
+  index: -1
+dataojing_3
+  rotate: true
+  xy: 126, 183
+  size: 60, 56
+  orig: 62, 56
+  offset: 2, 0
+  index: -1
+dataojing_4
+  rotate: false
+  xy: 2, 336
+  size: 165, 166
+  orig: 165, 166
+  offset: 0, 0
+  index: -1
+dataojing_5
+  rotate: false
+  xy: 169, 340
+  size: 28, 46
+  orig: 28, 46
+  offset: 0, 0
+  index: -1
+dataojing_6
+  rotate: false
+  xy: 2, 4
+  size: 158, 99
+  orig: 158, 99
+  offset: 0, 0
+  index: -1
+dataojing_7
+  rotate: true
+  xy: 246, 4
+  size: 99, 53
+  orig: 99, 53
+  offset: 0, 0
+  index: -1
+dataojing_8
+  rotate: true
+  xy: 162, 2
+  size: 101, 82
+  orig: 101, 82
+  offset: 0, 0
+  index: -1
+dataojing_9
+  rotate: true
+  xy: 126, 245
+  size: 89, 55
+  orig: 89, 55
+  offset: 0, 0
+  index: -1
+touying
+  rotate: true
+  xy: 169, 388
+  size: 65, 26
+  orig: 65, 26
+  offset: 0, 0
+  index: -1

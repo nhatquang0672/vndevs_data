@@ -1,0 +1,20 @@
+
+z-dongxingban.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z-dongxingban-1
+  rotate: true
+  xy: 156, 152
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+z-dongxingban-2
+  rotate: false
+  xy: 2, 115
+  size: 152, 62
+  orig: 152, 62
+  offset: 0, 0
+  index: -1

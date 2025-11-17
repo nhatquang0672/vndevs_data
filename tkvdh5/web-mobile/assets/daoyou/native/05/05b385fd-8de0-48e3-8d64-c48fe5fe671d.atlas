@@ -1,0 +1,97 @@
+
+effect_hit_baijing.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: true
+  xy: 530, 833
+  size: 157, 170
+  orig: 528, 528
+  offset: 154, 145
+  index: -1
+images/0_00001
+  rotate: true
+  xy: 272, 568
+  size: 263, 290
+  orig: 528, 528
+  offset: 133, 132
+  index: -1
+images/0_00002
+  rotate: true
+  xy: 564, 543
+  size: 263, 334
+  orig: 528, 528
+  offset: 133, 132
+  index: -1
+images/0_00004
+  rotate: true
+  xy: 322, 235
+  size: 306, 341
+  orig: 528, 528
+  offset: 134, 136
+  index: -1
+images/0_00006
+  rotate: true
+  xy: 665, 220
+  size: 321, 325
+  orig: 528, 528
+  offset: 135, 136
+  index: -1
+images/0_00008
+  rotate: false
+  xy: 2, 278
+  size: 318, 288
+  orig: 528, 528
+  offset: 136, 136
+  index: -1
+images/0_00010
+  rotate: true
+  xy: 2, 614
+  size: 246, 268
+  orig: 528, 528
+  offset: 143, 142
+  index: -1
+images/0_00012
+  rotate: true
+  xy: 702, 808
+  size: 182, 254
+  orig: 528, 528
+  offset: 157, 151
+  index: -1
+images/0_00014
+  rotate: false
+  xy: 368, 845
+  size: 160, 145
+  orig: 528, 528
+  offset: 174, 170
+  index: -1
+images/0_00016
+  rotate: false
+  xy: 209, 862
+  size: 157, 128
+  orig: 528, 528
+  offset: 175, 178
+  index: -1
+images/0_00018
+  rotate: false
+  xy: 85, 890
+  size: 122, 100
+  orig: 528, 528
+  offset: 210, 202
+  index: -1
+images/0_00020
+  rotate: false
+  xy: 42, 970
+  size: 41, 20
+  orig: 528, 528
+  offset: 215, 200
+  index: -1
+images/0_00022
+  rotate: false
+  xy: 2, 980
+  size: 38, 10
+  orig: 528, 528
+  offset: 216, 198
+  index: -1

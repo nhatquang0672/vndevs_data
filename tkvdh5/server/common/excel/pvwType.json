@@ -1,0 +1,20 @@
+[
+  {"id":"1","addEp":{"hp_max":1500}},
+  {"id":"2","addEp":{"atk":400}},
+  {"id":"3","addEp":{"def":300}},
+  {"id":"4","addEp":{"speed":200}},
+  {"id":"5","addEp":{"jiyun":200}},
+  {"id":"6","addEp":{"hsjiyun":200}},
+  {"id":"7","addEp":{"shanbi":200}},
+  {"id":"8","addEp":{"hsshanbi":200}},
+  {"id":"9","addEp":{"lianji":200}},
+  {"id":"10","addEp":{"hslianji":200}},
+  {"id":"11","addEp":{"fanji":200}},
+  {"id":"12","addEp":{"hsfanji":200}},
+  {"id":"13","addEp":{"baoji":200}},
+  {"id":"14","addEp":{"hsbaoji":200}},
+  {"id":"15","addEp":{"xixue":200}},
+  {"id":"16","addEp":{"hsxixue":200}},
+  {"id":"17","addEp":{"zengshang":50}},
+  {"id":"18","addEp":{"jianshang":50}}
+]

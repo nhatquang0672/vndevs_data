@@ -1,0 +1,62 @@
+
+shouling_linglongjinli.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jinli_0
+  rotate: true
+  xy: 2, 2
+  size: 117, 93
+  orig: 117, 93
+  offset: 0, 0
+  index: -1
+jinli_1
+  rotate: false
+  xy: 176, 98
+  size: 72, 53
+  orig: 72, 53
+  offset: 0, 0
+  index: -1
+jinli_2
+  rotate: false
+  xy: 128, 128
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+jinli_3
+  rotate: false
+  xy: 2, 121
+  size: 124, 133
+  orig: 124, 133
+  offset: 0, 0
+  index: -1
+jinli_4
+  rotate: true
+  xy: 128, 201
+  size: 53, 106
+  orig: 53, 106
+  offset: 0, 0
+  index: -1
+jinli_5
+  rotate: true
+  xy: 176, 63
+  size: 33, 73
+  orig: 33, 73
+  offset: 0, 0
+  index: -1
+jinli_6
+  rotate: false
+  xy: 97, 25
+  size: 77, 94
+  orig: 77, 94
+  offset: 0, 0
+  index: -1
+touying
+  rotate: false
+  xy: 128, 153
+  size: 115, 46
+  orig: 115, 46
+  offset: 0, 0
+  index: -1

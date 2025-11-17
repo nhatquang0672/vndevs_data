@@ -1,0 +1,83 @@
+
+effect_teshu.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: false
+  xy: 2, 671
+  size: 375, 667
+  orig: 375, 667
+  offset: 0, 0
+  index: -1
+images/0_00002
+  rotate: false
+  xy: 379, 1340
+  size: 375, 667
+  orig: 375, 667
+  offset: 0, 0
+  index: -1
+images/0_00004
+  rotate: false
+  xy: 2, 2
+  size: 375, 667
+  orig: 375, 667
+  offset: 0, 0
+  index: -1
+images/0_00006
+  rotate: false
+  xy: 379, 671
+  size: 375, 667
+  orig: 375, 667
+  offset: 0, 0
+  index: -1
+images/0_00008
+  rotate: false
+  xy: 756, 1340
+  size: 375, 667
+  orig: 375, 667
+  offset: 0, 0
+  index: -1
+images/0_00010
+  rotate: false
+  xy: 379, 2
+  size: 375, 667
+  orig: 375, 667
+  offset: 0, 0
+  index: -1
+images/0_00012
+  rotate: false
+  xy: 756, 671
+  size: 375, 667
+  orig: 375, 667
+  offset: 0, 0
+  index: -1
+images/0_00014
+  rotate: false
+  xy: 1133, 1340
+  size: 375, 667
+  orig: 375, 667
+  offset: 0, 0
+  index: -1
+images/0_00016
+  rotate: false
+  xy: 756, 2
+  size: 375, 667
+  orig: 375, 667
+  offset: 0, 0
+  index: -1
+images/0_00018
+  rotate: false
+  xy: 1133, 671
+  size: 375, 667
+  orig: 375, 667
+  offset: 0, 0
+  index: -1
+images/0_00020
+  rotate: false
+  xy: 2, 1340
+  size: 375, 667
+  orig: 375, 667
+  offset: 0, 0
+  index: -1

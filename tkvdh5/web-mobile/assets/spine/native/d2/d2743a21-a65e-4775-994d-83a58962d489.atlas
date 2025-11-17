@@ -1,0 +1,20 @@
+
+z-jinzun.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z-jinzun
+  rotate: false
+  xy: 2, 115
+  size: 151, 51
+  orig: 151, 51
+  offset: 0, 0
+  index: -1
+z-jinzun-1
+  rotate: true
+  xy: 155, 147
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1

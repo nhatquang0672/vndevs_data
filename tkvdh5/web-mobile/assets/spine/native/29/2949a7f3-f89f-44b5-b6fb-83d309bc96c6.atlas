@@ -1,0 +1,41 @@
+
+effect_atk_mon40.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: false
+  xy: 2, 191
+  size: 270, 92
+  orig: 400, 200
+  offset: 53, 51
+  index: -1
+images/0_00001
+  rotate: true
+  xy: 402, 234
+  size: 267, 99
+  orig: 400, 200
+  offset: 56, 49
+  index: -1
+images/0_00002
+  rotate: false
+  xy: 2, 398
+  size: 280, 103
+  orig: 400, 200
+  offset: 47, 48
+  index: -1
+images/0_00003
+  rotate: false
+  xy: 2, 285
+  size: 277, 111
+  orig: 400, 200
+  offset: 49, 44
+  index: -1
+images/0_00004
+  rotate: true
+  xy: 284, 231
+  size: 270, 116
+  orig: 400, 200
+  offset: 58, 42
+  index: -1

@@ -1,0 +1,76 @@
+
+effect_jiulong.png
+size: 1791,1791
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: false
+  xy: 456, 1341
+  size: 442, 446
+  orig: 800, 800
+  offset: 178, 175
+  index: -1
+images/0_00003
+  rotate: false
+  xy: 902, 1345
+  size: 442, 442
+  orig: 800, 800
+  offset: 178, 179
+  index: -1
+images/0_00006
+  rotate: false
+  xy: 450, 449
+  size: 442, 442
+  orig: 800, 800
+  offset: 178, 179
+  index: -1
+images/0_00009
+  rotate: false
+  xy: 4, 892
+  size: 442, 446
+  orig: 800, 800
+  offset: 178, 179
+  index: -1
+images/0_00012
+  rotate: true
+  xy: 899, 892
+  size: 445, 442
+  orig: 800, 800
+  offset: 178, 179
+  index: -1
+images/0_00015
+  rotate: false
+  xy: 4, 446
+  size: 442, 442
+  orig: 800, 800
+  offset: 178, 179
+  index: -1
+images/0_00018
+  rotate: false
+  xy: 896, 446
+  size: 442, 442
+  orig: 800, 800
+  offset: 178, 179
+  index: -1
+images/0_00021
+  rotate: false
+  xy: 4, 1342
+  size: 448, 445
+  orig: 800, 800
+  offset: 175, 179
+  index: -1
+images/0_00024
+  rotate: false
+  xy: 450, 4
+  size: 439, 441
+  orig: 800, 800
+  offset: 178, 180
+  index: -1
+images/0_00027
+  rotate: false
+  xy: 450, 895
+  size: 445, 442
+  orig: 800, 800
+  offset: 175, 179
+  index: -1

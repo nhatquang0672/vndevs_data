@@ -1,0 +1,90 @@
+
+baigujing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baigujing_1
+  rotate: false
+  xy: 161, 40
+  size: 40, 77
+  orig: 40, 77
+  offset: 0, 0
+  index: -1
+baigujing_10
+  rotate: false
+  xy: 190, 148
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+baigujing_11
+  rotate: false
+  xy: 2, 315
+  size: 163, 187
+  orig: 163, 187
+  offset: 0, 0
+  index: -1
+baigujing_2
+  rotate: true
+  xy: 190, 125
+  size: 21, 15
+  orig: 22, 15
+  offset: 1, 0
+  index: -1
+baigujing_3
+  rotate: true
+  xy: 190, 169
+  size: 29, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+baigujing_4
+  rotate: true
+  xy: 2, 10
+  size: 94, 121
+  orig: 94, 121
+  offset: 0, 0
+  index: -1
+baigujing_5
+  rotate: true
+  xy: 163, 200
+  size: 113, 55
+  orig: 113, 55
+  offset: 0, 0
+  index: -1
+baigujing_6
+  rotate: true
+  xy: 125, 25
+  size: 92, 34
+  orig: 92, 34
+  offset: 0, 0
+  index: -1
+baigujing_7
+  rotate: false
+  xy: 86, 119
+  size: 102, 69
+  orig: 102, 69
+  offset: 0, 0
+  index: -1
+baigujing_8
+  rotate: true
+  xy: 125, 2
+  size: 21, 77
+  orig: 21, 77
+  offset: 0, 0
+  index: -1
+baigujing_9
+  rotate: false
+  xy: 86, 190
+  size: 75, 123
+  orig: 75, 123
+  offset: 0, 0
+  index: -1
+touying
+  rotate: true
+  xy: 2, 106
+  size: 207, 82
+  orig: 207, 82
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+z-jiyu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z-jiyu
+  rotate: false
+  xy: 2, 69
+  size: 151, 104
+  orig: 151, 104
+  offset: 0, 0
+  index: -1
+z-jiyu-yuqi
+  rotate: true
+  xy: 155, 145
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1

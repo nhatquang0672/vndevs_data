@@ -1,0 +1,20 @@
+
+x-xiaochouyu.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+x-xiaochouyu
+  rotate: false
+  xy: 2, 62
+  size: 103, 63
+  orig: 103, 63
+  offset: 0, 0
+  index: -1
+x-xiaochouyu-yuqi
+  rotate: false
+  xy: 107, 105
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1

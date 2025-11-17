@@ -1,0 +1,27 @@
+
+z-sansejinli.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z-sansejinli-1
+  rotate: true
+  xy: 157, 154
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+z-sansejinli-2
+  rotate: true
+  xy: 157, 126
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+z-sansejinli-3
+  rotate: false
+  xy: 2, 103
+  size: 153, 77
+  orig: 153, 77
+  offset: 0, 0
+  index: -1

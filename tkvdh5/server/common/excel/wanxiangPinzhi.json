@@ -1,0 +1,11 @@
+[
+  {"id":"1","jcbase":1,"tsbase":1},
+  {"id":"2","jcbase":1.1,"tsbase":1.05},
+  {"id":"3","jcbase":1.2,"tsbase":1.1},
+  {"id":"4","jcbase":1.3,"tsbase":1.15},
+  {"id":"5","jcbase":1.4,"tsbase":1.2},
+  {"id":"6","jcbase":1.5,"tsbase":1.25},
+  {"id":"7","jcbase":1.6,"tsbase":1.3},
+  {"id":"8","jcbase":1.7,"tsbase":1.35},
+  {"id":"9","jcbase":1.8,"tsbase":1.4}
+]

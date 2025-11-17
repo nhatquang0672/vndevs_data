@@ -1,0 +1,20 @@
+
+x-jiewenyu.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+x-jiewenyu-1
+  rotate: true
+  xy: 2, 2
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+x-jiewenyu-2
+  rotate: false
+  xy: 2, 29
+  size: 99, 89
+  orig: 99, 89
+  offset: 0, 0
+  index: -1

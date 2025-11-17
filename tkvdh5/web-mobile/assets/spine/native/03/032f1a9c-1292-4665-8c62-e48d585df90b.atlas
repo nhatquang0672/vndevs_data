@@ -1,0 +1,27 @@
+
+x-tantuyu.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+x-tantuyu-1
+  rotate: true
+  xy: 2, 89
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+x-tantuyu-2
+  rotate: false
+  xy: 2, 36
+  size: 104, 37
+  orig: 104, 37
+  offset: 0, 0
+  index: -1
+x-tantuyu-3
+  rotate: true
+  xy: 23, 75
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,174 @@
+
+nezha.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nezha_0
+  rotate: false
+  xy: 425, 264
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+nezha_1
+  rotate: true
+  xy: 233, 199
+  size: 25, 41
+  orig: 25, 41
+  offset: 0, 0
+  index: -1
+nezha_10
+  rotate: false
+  xy: 461, 400
+  size: 48, 28
+  orig: 48, 28
+  offset: 0, 0
+  index: -1
+nezha_11
+  rotate: false
+  xy: 461, 430
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+nezha_12
+  rotate: false
+  xy: 2, 239
+  size: 156, 114
+  orig: 156, 114
+  offset: 0, 0
+  index: -1
+nezha_13
+  rotate: false
+  xy: 160, 276
+  size: 80, 77
+  orig: 118, 77
+  offset: 0, 0
+  index: -1
+nezha_14
+  rotate: false
+  xy: 2, 355
+  size: 248, 155
+  orig: 248, 155
+  offset: 0, 0
+  index: -1
+nezha_15
+  rotate: true
+  xy: 457, 258
+  size: 76, 53
+  orig: 76, 53
+  offset: 0, 0
+  index: -1
+nezha_16
+  rotate: true
+  xy: 425, 361
+  size: 65, 33
+  orig: 65, 33
+  offset: 0, 0
+  index: -1
+nezha_17
+  rotate: false
+  xy: 461, 471
+  size: 49, 39
+  orig: 49, 39
+  offset: 0, 0
+  index: -1
+nezha_18
+  rotate: true
+  xy: 460, 336
+  size: 62, 47
+  orig: 62, 47
+  offset: 0, 0
+  index: -1
+nezha_19
+  rotate: true
+  xy: 242, 226
+  size: 51, 78
+  orig: 51, 78
+  offset: 0, 0
+  index: -1
+nezha_2
+  rotate: false
+  xy: 157, 198
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+nezha_20
+  rotate: true
+  xy: 2, 195
+  size: 42, 63
+  orig: 42, 63
+  offset: 0, 0
+  index: -1
+nezha_21
+  rotate: true
+  xy: 393, 203
+  size: 59, 61
+  orig: 59, 61
+  offset: 0, 0
+  index: -1
+nezha_22
+  rotate: true
+  xy: 160, 217
+  size: 57, 71
+  orig: 57, 71
+  offset: 0, 0
+  index: -1
+nezha_3
+  rotate: false
+  xy: 425, 307
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+nezha_4
+  rotate: false
+  xy: 252, 279
+  size: 171, 147
+  orig: 171, 147
+  offset: 0, 0
+  index: -1
+nezha_5
+  rotate: false
+  xy: 425, 332
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+nezha_6
+  rotate: false
+  xy: 113, 212
+  size: 42, 25
+  orig: 42, 25
+  offset: 0, 0
+  index: -1
+nezha_7
+  rotate: true
+  xy: 322, 226
+  size: 51, 69
+  orig: 51, 69
+  offset: 0, 0
+  index: -1
+nezha_8
+  rotate: false
+  xy: 67, 211
+  size: 44, 26
+  orig: 44, 26
+  offset: 0, 0
+  index: -1
+nezha_9
+  rotate: true
+  xy: 456, 195
+  size: 61, 46
+  orig: 61, 46
+  offset: 0, 0
+  index: -1
+touying
+  rotate: false
+  xy: 252, 428
+  size: 207, 82
+  orig: 207, 82
+  offset: 0, 0
+  index: -1

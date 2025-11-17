@@ -1,0 +1,83 @@
+
+50010.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lvyan_0
+  rotate: true
+  xy: 577, 609
+  size: 192, 209
+  orig: 192, 209
+  offset: 0, 0
+  index: -1
+lvyan_1
+  rotate: false
+  xy: 844, 780
+  size: 154, 236
+  orig: 154, 236
+  offset: 0, 0
+  index: -1
+lvyan_10
+  rotate: true
+  xy: 626, 803
+  size: 213, 216
+  orig: 213, 216
+  offset: 0, 0
+  index: -1
+lvyan_2
+  rotate: true
+  xy: 788, 547
+  size: 86, 216
+  orig: 86, 216
+  offset: 0, 0
+  index: -1
+lvyan_3
+  rotate: true
+  xy: 788, 675
+  size: 126, 50
+  orig: 126, 50
+  offset: 0, 0
+  index: -1
+lvyan_4
+  rotate: false
+  xy: 840, 635
+  size: 176, 143
+  orig: 176, 143
+  offset: 0, 0
+  index: -1
+lvyan_5
+  rotate: true
+  xy: 2, 605
+  size: 108, 129
+  orig: 108, 129
+  offset: 0, 0
+  index: -1
+lvyan_6
+  rotate: false
+  xy: 342, 620
+  size: 233, 182
+  orig: 233, 182
+  offset: 0, 0
+  index: -1
+lvyan_7
+  rotate: true
+  xy: 342, 804
+  size: 212, 282
+  orig: 212, 282
+  offset: 0, 0
+  index: -1
+lvyan_8
+  rotate: false
+  xy: 2, 715
+  size: 338, 301
+  orig: 338, 301
+  offset: 0, 0
+  index: -1
+touying
+  rotate: false
+  xy: 133, 641
+  size: 185, 72
+  orig: 196, 75
+  offset: 2, 2
+  index: -1

@@ -1,0 +1,116 @@
+
+effect_choumingge2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: true
+  xy: 2, 679
+  size: 255, 263
+  orig: 440, 440
+  offset: 106, 91
+  index: -1
+images/0_00001
+  rotate: false
+  xy: 267, 653
+  size: 285, 281
+  orig: 440, 440
+  offset: 79, 81
+  index: -1
+images/0_00003
+  rotate: false
+  xy: 2, 355
+  size: 299, 296
+  orig: 440, 440
+  offset: 71, 74
+  index: -1
+images/0_00005
+  rotate: true
+  xy: 303, 346
+  size: 302, 319
+  orig: 440, 440
+  offset: 70, 66
+  index: -1
+images/0_00007
+  rotate: true
+  xy: 2, 20
+  size: 324, 342
+  orig: 440, 440
+  offset: 63, 51
+  index: -1
+images/0_00009
+  rotate: true
+  xy: 346, 2
+  size: 338, 360
+  orig: 440, 440
+  offset: 57, 40
+  index: -1
+images/0_00029
+  rotate: true
+  xy: 624, 342
+  size: 306, 308
+  orig: 440, 440
+  offset: 42, 11
+  index: -1
+images/0_00032
+  rotate: false
+  xy: 554, 650
+  size: 301, 284
+  orig: 440, 440
+  offset: 44, 14
+  index: -1
+
+effect_choumingge22.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00014
+  rotate: false
+  xy: 367, 6
+  size: 354, 381
+  orig: 440, 440
+  offset: 42, 30
+  index: -1
+images/0_00017
+  rotate: false
+  xy: 2, 364
+  size: 359, 383
+  orig: 440, 440
+  offset: 42, 26
+  index: -1
+images/0_00023
+  rotate: false
+  xy: 2, 2
+  size: 363, 360
+  orig: 440, 440
+  offset: 43, 13
+  index: -1
+images/0_00026
+  rotate: false
+  xy: 363, 389
+  size: 363, 358
+  orig: 440, 440
+  offset: 41, 11
+  index: -1
+
+effect_choumingge23.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00011
+  rotate: true
+  xy: 2, 388
+  size: 348, 374
+  orig: 440, 440
+  offset: 49, 33
+  index: -1
+images/0_00020
+  rotate: false
+  xy: 378, 380
+  size: 358, 356
+  orig: 440, 440
+  offset: 47, 19
+  index: -1

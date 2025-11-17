@@ -1,0 +1,13 @@
+
+s-bang.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s-bang
+  rotate: false
+  xy: 2, 2
+  size: 64, 97
+  orig: 64, 97
+  offset: 0, 0
+  index: -1

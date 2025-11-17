@@ -1,0 +1,11 @@
+[
+  {"sid":"1","rate":1,"param":{}},
+  {"sid":"2","rate":1,"param":{}},
+  {"sid":"3","rate":1,"param":{}},
+  {"sid":"4","rate":1,"param":{"item":[1,52,1]}},
+  {"sid":"5","rate":0,"param":{}},
+  {"sid":"6","rate":1,"param":{}},
+  {"sid":"7","rate":1,"param":{}},
+  {"sid":"8","rate":1,"param":{}},
+  {"sid":"9","rate":1,"param":{}}
+]

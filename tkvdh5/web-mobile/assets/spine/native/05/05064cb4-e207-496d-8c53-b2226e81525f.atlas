@@ -1,0 +1,146 @@
+
+donghailongwang.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+donghailongwang_0
+  rotate: false
+  xy: 465, 275
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+donghailongwang_1
+  rotate: true
+  xy: 432, 185
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+donghailongwang_10
+  rotate: false
+  xy: 432, 220
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+donghailongwang_13
+  rotate: false
+  xy: 340, 440
+  size: 155, 68
+  orig: 155, 68
+  offset: 0, 0
+  index: -1
+donghailongwang_14
+  rotate: true
+  xy: 340, 354
+  size: 84, 138
+  orig: 84, 138
+  offset: 0, 0
+  index: -1
+donghailongwang_15
+  rotate: true
+  xy: 2, 265
+  size: 120, 155
+  orig: 120, 155
+  offset: 0, 0
+  index: -1
+donghailongwang_16
+  rotate: false
+  xy: 159, 282
+  size: 127, 99
+  orig: 127, 99
+  offset: 0, 0
+  index: -1
+donghailongwang_17
+  rotate: true
+  xy: 173, 383
+  size: 125, 165
+  orig: 125, 165
+  offset: 0, 0
+  index: -1
+donghailongwang_18
+  rotate: true
+  xy: 340, 262
+  size: 90, 123
+  orig: 90, 123
+  offset: 0, 0
+  index: -1
+donghailongwang_19
+  rotate: false
+  xy: 465, 152
+  size: 38, 62
+  orig: 38, 62
+  offset: 0, 0
+  index: -1
+donghailongwang_2
+  rotate: false
+  xy: 288, 350
+  size: 50, 31
+  orig: 50, 31
+  offset: 0, 0
+  index: -1
+donghailongwang_20
+  rotate: false
+  xy: 465, 216
+  size: 41, 57
+  orig: 41, 57
+  offset: 0, 0
+  index: -1
+donghailongwang_3
+  rotate: true
+  xy: 288, 292
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+donghailongwang_4
+  rotate: false
+  xy: 288, 233
+  size: 46, 57
+  orig: 46, 57
+  offset: 0, 0
+  index: -1
+donghailongwang_5
+  rotate: true
+  xy: 336, 204
+  size: 56, 94
+  orig: 56, 94
+  offset: 0, 0
+  index: -1
+donghailongwang_6
+  rotate: false
+  xy: 159, 247
+  size: 77, 33
+  orig: 77, 33
+  offset: 0, 0
+  index: -1
+donghailongwang_7
+  rotate: true
+  xy: 480, 320
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+donghailongwang_8
+  rotate: false
+  xy: 480, 356
+  size: 22, 15
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+donghailongwang_9
+  rotate: false
+  xy: 2, 387
+  size: 169, 121
+  orig: 169, 121
+  offset: 0, 0
+  index: -1
+touying
+  rotate: true
+  xy: 480, 373
+  size: 65, 26
+  orig: 65, 26
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+s-xia.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s-xia-1
+  rotate: false
+  xy: 2, 73
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+s-xia-2
+  rotate: false
+  xy: 2, 2
+  size: 24, 69
+  orig: 24, 69
+  offset: 0, 0
+  index: -1
+s-xia-3
+  rotate: false
+  xy: 53, 28
+  size: 15, 47
+  orig: 48, 47
+  offset: 33, 0
+  index: -1
+s-xia-4
+  rotate: false
+  xy: 70, 27
+  size: 14, 48
+  orig: 14, 48
+  offset: 0, 0
+  index: -1
+s-xia-5
+  rotate: false
+  xy: 28, 31
+  size: 23, 40
+  orig: 23, 40
+  offset: 0, 0
+  index: -1
+s-xia-6
+  rotate: false
+  xy: 53, 77
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1

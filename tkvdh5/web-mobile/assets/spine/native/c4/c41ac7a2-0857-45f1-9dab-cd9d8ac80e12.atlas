@@ -1,0 +1,125 @@
+
+daotong2.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daotong2_0
+  rotate: true
+  xy: 77, 111
+  size: 61, 35
+  orig: 61, 35
+  offset: 0, 0
+  index: -1
+daotong2_1
+  rotate: false
+  xy: 115, 97
+  size: 42, 18
+  orig: 42, 18
+  offset: 0, 0
+  index: -1
+daotong2_10
+  rotate: true
+  xy: 119, 48
+  size: 47, 26
+  orig: 47, 26
+  offset: 0, 0
+  index: -1
+daotong2_11
+  rotate: true
+  xy: 77, 94
+  size: 15, 36
+  orig: 15, 36
+  offset: 0, 0
+  index: -1
+daotong2_12
+  rotate: false
+  xy: 79, 10
+  size: 74, 33
+  orig: 74, 33
+  offset: 0, 0
+  index: -1
+daotong2_13
+  rotate: false
+  xy: 153, 140
+  size: 62, 32
+  orig: 62, 32
+  offset: 0, 0
+  index: -1
+daotong2_14
+  rotate: true
+  xy: 217, 112
+  size: 60, 29
+  orig: 60, 29
+  offset: 0, 0
+  index: -1
+daotong2_15
+  rotate: false
+  xy: 189, 83
+  size: 26, 55
+  orig: 26, 55
+  offset: 0, 0
+  index: -1
+daotong2_2
+  rotate: false
+  xy: 155, 44
+  size: 25, 51
+  orig: 25, 51
+  offset: 0, 0
+  index: -1
+daotong2_3
+  rotate: false
+  xy: 114, 117
+  size: 37, 55
+  orig: 37, 55
+  offset: 0, 0
+  index: -1
+daotong2_4
+  rotate: false
+  xy: 2, 174
+  size: 79, 73
+  orig: 79, 73
+  offset: 0, 0
+  index: -1
+daotong2_5
+  rotate: false
+  xy: 83, 174
+  size: 79, 73
+  orig: 79, 73
+  offset: 0, 0
+  index: -1
+daotong2_6
+  rotate: false
+  xy: 164, 174
+  size: 79, 73
+  orig: 79, 73
+  offset: 0, 0
+  index: -1
+daotong2_7
+  rotate: true
+  xy: 2, 93
+  size: 79, 73
+  orig: 79, 73
+  offset: 0, 0
+  index: -1
+daotong2_8
+  rotate: false
+  xy: 2, 2
+  size: 75, 41
+  orig: 75, 41
+  offset: 0, 0
+  index: -1
+daotong2_9
+  rotate: true
+  xy: 153, 118
+  size: 20, 34
+  orig: 20, 34
+  offset: 0, 0
+  index: -1
+touying
+  rotate: false
+  xy: 2, 45
+  size: 115, 46
+  orig: 115, 46
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,265 @@
+
+haotiandadi.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+haotiandadi_0
+  rotate: false
+  xy: 103, 206
+  size: 96, 82
+  orig: 96, 82
+  offset: 0, 0
+  index: -1
+haotiandadi_1
+  rotate: true
+  xy: 94, 484
+  size: 17, 45
+  orig: 17, 45
+  offset: 0, 0
+  index: -1
+haotiandadi_10
+  rotate: true
+  xy: 2, 211
+  size: 81, 99
+  orig: 81, 99
+  offset: 0, 0
+  index: -1
+haotiandadi_11
+  rotate: false
+  xy: 286, 471
+  size: 68, 30
+  orig: 68, 30
+  offset: 0, 0
+  index: -1
+haotiandadi_12
+  rotate: false
+  xy: 407, 416
+  size: 69, 51
+  orig: 69, 51
+  offset: 0, 0
+  index: -1
+haotiandadi_13
+  rotate: false
+  xy: 356, 270
+  size: 139, 77
+  orig: 139, 77
+  offset: 0, 0
+  index: -1
+haotiandadi_14
+  rotate: true
+  xy: 2, 443
+  size: 43, 51
+  orig: 43, 51
+  offset: 0, 0
+  index: -1
+haotiandadi_15
+  rotate: false
+  xy: 156, 290
+  size: 77, 69
+  orig: 77, 69
+  offset: 0, 0
+  index: -1
+haotiandadi_16
+  rotate: true
+  xy: 274, 357
+  size: 61, 65
+  orig: 61, 65
+  offset: 0, 0
+  index: -1
+haotiandadi_17
+  rotate: true
+  xy: 208, 472
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+haotiandadi_18
+  rotate: true
+  xy: 240, 472
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+haotiandadi_19
+  rotate: false
+  xy: 2, 114
+  size: 170, 90
+  orig: 170, 90
+  offset: 0, 0
+  index: -1
+haotiandadi_2
+  rotate: true
+  xy: 108, 426
+  size: 45, 62
+  orig: 45, 62
+  offset: 0, 0
+  index: -1
+haotiandadi_20
+  rotate: false
+  xy: 214, 361
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+haotiandadi_21
+  rotate: true
+  xy: 55, 439
+  size: 43, 51
+  orig: 43, 51
+  offset: 0, 0
+  index: -1
+haotiandadi_22
+  rotate: false
+  xy: 20, 490
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+haotiandadi_23
+  rotate: false
+  xy: 172, 423
+  size: 77, 47
+  orig: 77, 47
+  offset: 0, 0
+  index: -1
+haotiandadi_24
+  rotate: true
+  xy: 462, 469
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+haotiandadi_25
+  rotate: false
+  xy: 2, 303
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+haotiandadi_26
+  rotate: false
+  xy: 142, 364
+  size: 70, 57
+  orig: 70, 57
+  offset: 0, 0
+  index: -1
+haotiandadi_27
+  rotate: false
+  xy: 2, 387
+  size: 51, 54
+  orig: 51, 54
+  offset: 0, 0
+  index: -1
+haotiandadi_28
+  rotate: true
+  xy: 416, 470
+  size: 31, 44
+  orig: 31, 44
+  offset: 0, 0
+  index: -1
+haotiandadi_29
+  rotate: false
+  xy: 406, 349
+  size: 73, 65
+  orig: 73, 65
+  offset: 0, 0
+  index: -1
+haotiandadi_3
+  rotate: false
+  xy: 251, 421
+  size: 87, 48
+  orig: 87, 48
+  offset: 0, 0
+  index: -1
+haotiandadi_30
+  rotate: false
+  xy: 55, 371
+  size: 85, 53
+  orig: 85, 53
+  offset: 0, 0
+  index: -1
+haotiandadi_31
+  rotate: false
+  xy: 70, 294
+  size: 84, 68
+  orig: 84, 68
+  offset: 0, 0
+  index: -1
+haotiandadi_32
+  rotate: true
+  xy: 341, 353
+  size: 65, 63
+  orig: 65, 63
+  offset: 0, 0
+  index: -1
+haotiandadi_33
+  rotate: false
+  xy: 235, 275
+  size: 119, 76
+  orig: 119, 76
+  offset: 0, 0
+  index: -1
+haotiandadi_34
+  rotate: false
+  xy: 174, 49
+  size: 144, 135
+  orig: 144, 135
+  offset: 0, 0
+  index: -1
+haotiandadi_35
+  rotate: false
+  xy: 320, 7
+  size: 178, 177
+  orig: 178, 177
+  offset: 0, 0
+  index: -1
+haotiandadi_4
+  rotate: false
+  xy: 356, 470
+  size: 58, 31
+  orig: 58, 32
+  offset: 0, 0
+  index: -1
+haotiandadi_5
+  rotate: false
+  xy: 69, 487
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+haotiandadi_6
+  rotate: false
+  xy: 48, 488
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+haotiandadi_7
+  rotate: false
+  xy: 2, 495
+  size: 16, 6
+  orig: 16, 6
+  offset: 0, 0
+  index: -1
+haotiandadi_8
+  rotate: true
+  xy: 141, 473
+  size: 28, 65
+  orig: 28, 65
+  offset: 0, 0
+  index: -1
+haotiandadi_9
+  rotate: true
+  xy: 340, 420
+  size: 48, 65
+  orig: 48, 65
+  offset: 0, 0
+  index: -1
+touying
+  rotate: false
+  xy: 201, 186
+  size: 207, 82
+  orig: 207, 82
+  offset: 0, 0
+  index: -1

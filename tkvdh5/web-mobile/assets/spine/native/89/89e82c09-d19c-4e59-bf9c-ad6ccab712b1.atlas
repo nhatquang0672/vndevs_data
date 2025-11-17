@@ -1,0 +1,20 @@
+
+z-kuyeyu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z-kuyeyu-1
+  rotate: false
+  xy: 2, 158
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+z-kuyeyu-2
+  rotate: false
+  xy: 38, 82
+  size: 154, 110
+  orig: 154, 110
+  offset: 0, 0
+  index: -1

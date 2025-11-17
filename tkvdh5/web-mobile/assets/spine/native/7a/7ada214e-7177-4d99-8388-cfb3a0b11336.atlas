@@ -1,0 +1,188 @@
+
+daji.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daji_0
+  rotate: false
+  xy: 79, 164
+  size: 32, 27
+  orig: 32, 28
+  offset: 0, 1
+  index: -1
+daji_1
+  rotate: true
+  xy: 322, 351
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+daji_10
+  rotate: true
+  xy: 309, 117
+  size: 57, 72
+  orig: 57, 78
+  offset: 0, 0
+  index: -1
+daji_11
+  rotate: false
+  xy: 79, 193
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+daji_12
+  rotate: false
+  xy: 211, 317
+  size: 109, 90
+  orig: 109, 90
+  offset: 0, 0
+  index: -1
+daji_13
+  rotate: false
+  xy: 479, 406
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+daji_14
+  rotate: true
+  xy: 117, 158
+  size: 67, 88
+  orig: 77, 88
+  offset: 10, 0
+  index: -1
+daji_15
+  rotate: true
+  xy: 322, 235
+  size: 84, 111
+  orig: 84, 111
+  offset: 0, 0
+  index: -1
+daji_16
+  rotate: false
+  xy: 136, 317
+  size: 73, 108
+  orig: 73, 108
+  offset: 0, 0
+  index: -1
+daji_17
+  rotate: true
+  xy: 322, 374
+  size: 33, 19
+  orig: 33, 19
+  offset: 0, 0
+  index: -1
+daji_18
+  rotate: false
+  xy: 221, 238
+  size: 93, 77
+  orig: 93, 77
+  offset: 0, 0
+  index: -1
+daji_19
+  rotate: true
+  xy: 343, 321
+  size: 84, 113
+  orig: 84, 113
+  offset: 0, 0
+  index: -1
+daji_2
+  rotate: true
+  xy: 458, 321
+  size: 83, 51
+  orig: 83, 51
+  offset: 0, 0
+  index: -1
+daji_20
+  rotate: false
+  xy: 349, 407
+  size: 128, 102
+  orig: 128, 102
+  offset: 0, 0
+  index: -1
+daji_21
+  rotate: true
+  xy: 2, 221
+  size: 106, 113
+  orig: 106, 113
+  offset: 0, 0
+  index: -1
+daji_22
+  rotate: true
+  xy: 2, 146
+  size: 73, 75
+  orig: 73, 75
+  offset: 0, 0
+  index: -1
+daji_23
+  rotate: true
+  xy: 435, 226
+  size: 93, 73
+  orig: 93, 73
+  offset: 0, 0
+  index: -1
+daji_24
+  rotate: true
+  xy: 117, 227
+  size: 88, 102
+  orig: 88, 102
+  offset: 0, 0
+  index: -1
+daji_25
+  rotate: true
+  xy: 2, 329
+  size: 96, 132
+  orig: 96, 136
+  offset: 0, 4
+  index: -1
+daji_3
+  rotate: true
+  xy: 432, 169
+  size: 55, 69
+  orig: 55, 69
+  offset: 0, 0
+  index: -1
+daji_4
+  rotate: true
+  xy: 309, 176
+  size: 57, 80
+  orig: 57, 80
+  offset: 0, 0
+  index: -1
+daji_5
+  rotate: false
+  xy: 391, 172
+  size: 39, 61
+  orig: 39, 61
+  offset: 0, 0
+  index: -1
+daji_6
+  rotate: true
+  xy: 221, 158
+  size: 78, 86
+  orig: 78, 86
+  offset: 0, 0
+  index: -1
+daji_7
+  rotate: true
+  xy: 479, 445
+  size: 64, 29
+  orig: 64, 29
+  offset: 0, 0
+  index: -1
+daji_9
+  rotate: true
+  xy: 211, 409
+  size: 100, 136
+  orig: 100, 136
+  offset: 0, 0
+  index: -1
+touying
+  rotate: false
+  xy: 2, 427
+  size: 207, 82
+  orig: 207, 82
+  offset: 0, 0
+  index: -1

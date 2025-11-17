@@ -1,0 +1,37 @@
+
+{
+    "name": "vendor-name/project-name",
+    "description": "A brief description of the project",
+    "require": {
+        "php": "^7.1 || ^8.0",
+        "monolog/monolog": "^4.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit"
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://packagist.org"
+        }
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ans",
+            "email": "1437906671@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",  
+    "prefer-stable": true
+}

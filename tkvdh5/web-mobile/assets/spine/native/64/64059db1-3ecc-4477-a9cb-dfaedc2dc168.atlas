@@ -1,0 +1,48 @@
+
+xiaotaojing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+touying
+  rotate: true
+  xy: 455, 416
+  size: 65, 26
+  orig: 65, 26
+  offset: 0, 0
+  index: -1
+xiaotaojing_0
+  rotate: true
+  xy: 286, 248
+  size: 92, 125
+  orig: 92, 125
+  offset: 0, 0
+  index: -1
+xiaotaojing_1
+  rotate: false
+  xy: 286, 342
+  size: 167, 139
+  orig: 167, 139
+  offset: 0, 0
+  index: -1
+xiaotaojing_2
+  rotate: false
+  xy: 286, 184
+  size: 65, 62
+  orig: 67, 88
+  offset: 2, 26
+  index: -1
+xiaotaojing_3
+  rotate: true
+  xy: 413, 238
+  size: 102, 62
+  orig: 115, 72
+  offset: 13, 10
+  index: -1
+xiaotaojing_4
+  rotate: false
+  xy: 2, 211
+  size: 282, 270
+  orig: 282, 270
+  offset: 0, 0
+  index: -1

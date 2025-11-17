@@ -1,0 +1,62 @@
+
+effect_chushou_mon21.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: false
+  xy: 313, 780
+  size: 305, 218
+  orig: 400, 400
+  offset: 51, 79
+  index: -1
+images/0_00002
+  rotate: false
+  xy: 2, 777
+  size: 309, 221
+  orig: 400, 400
+  offset: 44, 74
+  index: -1
+images/0_00004
+  rotate: false
+  xy: 620, 782
+  size: 304, 216
+  orig: 400, 400
+  offset: 45, 76
+  index: -1
+images/0_00006
+  rotate: false
+  xy: 620, 593
+  size: 289, 187
+  orig: 400, 400
+  offset: 51, 80
+  index: -1
+images/0_00008
+  rotate: false
+  xy: 313, 614
+  size: 273, 164
+  orig: 400, 400
+  offset: 58, 95
+  index: -1
+images/0_00010
+  rotate: false
+  xy: 2, 624
+  size: 264, 151
+  orig: 400, 400
+  offset: 62, 104
+  index: -1
+images/0_00012
+  rotate: true
+  xy: 926, 841
+  size: 157, 42
+  orig: 400, 400
+  offset: 68, 125
+  index: -1
+images/0_00014
+  rotate: true
+  xy: 970, 855
+  size: 143, 28
+  orig: 400, 400
+  offset: 72, 131
+  index: -1

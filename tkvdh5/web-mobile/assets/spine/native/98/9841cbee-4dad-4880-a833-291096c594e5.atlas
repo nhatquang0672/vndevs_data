@@ -1,0 +1,20 @@
+
+d-shusha.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d-shusha-1
+  rotate: false
+  xy: 263, 256
+  size: 50, 57
+  orig: 50, 57
+  offset: 0, 0
+  index: -1
+d-shusha-2
+  rotate: false
+  xy: 2, 199
+  size: 259, 114
+  orig: 259, 114
+  offset: 0, 0
+  index: -1

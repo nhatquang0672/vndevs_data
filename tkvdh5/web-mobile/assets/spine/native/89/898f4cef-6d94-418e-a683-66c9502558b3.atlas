@@ -1,0 +1,76 @@
+
+effect_qigan.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: false
+  xy: 634, 598
+  size: 226, 151
+  orig: 500, 500
+  offset: 136, 210
+  index: -1
+images/0_00001
+  rotate: false
+  xy: 2, 490
+  size: 268, 247
+  orig: 500, 500
+  offset: 109, 196
+  index: -1
+images/0_00002
+  rotate: false
+  xy: 662, 751
+  size: 302, 263
+  orig: 500, 500
+  offset: 92, 197
+  index: -1
+images/0_00004
+  rotate: false
+  xy: 2, 739
+  size: 329, 275
+  orig: 500, 500
+  offset: 79, 199
+  index: -1
+images/0_00006
+  rotate: false
+  xy: 333, 756
+  size: 327, 258
+  orig: 500, 500
+  offset: 72, 203
+  index: -1
+images/0_00008
+  rotate: false
+  xy: 333, 529
+  size: 299, 225
+  orig: 500, 500
+  offset: 70, 219
+  index: -1
+images/0_00010
+  rotate: false
+  xy: 862, 572
+  size: 152, 177
+  orig: 500, 500
+  offset: 176, 235
+  index: -1
+images/0_00012
+  rotate: true
+  xy: 634, 446
+  size: 150, 166
+  orig: 500, 500
+  offset: 182, 239
+  index: -1
+images/0_00014
+  rotate: true
+  xy: 802, 436
+  size: 134, 146
+  orig: 500, 500
+  offset: 195, 246
+  index: -1
+images/0_00016
+  rotate: true
+  xy: 950, 474
+  size: 96, 63
+  orig: 500, 500
+  offset: 230, 319
+  index: -1

@@ -1,0 +1,62 @@
+
+effect_hit_heiyao.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: false
+  xy: 2, 674
+  size: 218, 185
+  orig: 440, 440
+  offset: 114, 133
+  index: -1
+images/0_00001
+  rotate: false
+  xy: 2, 459
+  size: 285, 200
+  orig: 440, 440
+  offset: 94, 128
+  index: -1
+images/0_00002
+  rotate: false
+  xy: 289, 449
+  size: 317, 210
+  orig: 440, 440
+  offset: 79, 121
+  index: -1
+images/0_00003
+  rotate: false
+  xy: 2, 228
+  size: 319, 219
+  orig: 440, 440
+  offset: 83, 121
+  index: -1
+images/0_00004
+  rotate: false
+  xy: 222, 661
+  size: 308, 198
+  orig: 440, 440
+  offset: 95, 138
+  index: -1
+images/0_00005
+  rotate: false
+  xy: 532, 661
+  size: 301, 198
+  orig: 440, 440
+  offset: 102, 138
+  index: -1
+images/0_00006
+  rotate: false
+  xy: 608, 448
+  size: 251, 211
+  orig: 440, 440
+  offset: 120, 123
+  index: -1
+images/0_00008
+  rotate: false
+  xy: 323, 201
+  size: 264, 246
+  orig: 440, 440
+  offset: 110, 102
+  index: -1

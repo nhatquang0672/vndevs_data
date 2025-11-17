@@ -1,0 +1,20 @@
+
+d-guitoudao.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d-guitoudao
+  rotate: false
+  xy: 2, 111
+  size: 224, 115
+  orig: 224, 115
+  offset: 0, 0
+  index: -1
+d-guitoudao-yuqi
+  rotate: false
+  xy: 2, 79
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1

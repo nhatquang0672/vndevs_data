@@ -1,0 +1,13 @@
+
+effect_xianfa_atk_68.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0
+  rotate: false
+  xy: 2, 138
+  size: 220, 84
+  orig: 352, 264
+  offset: 68, 90
+  index: -1

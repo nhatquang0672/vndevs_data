@@ -1,0 +1,48 @@
+
+effect_hit_yunyao.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: false
+  xy: 312, 446
+  size: 216, 182
+  orig: 440, 440
+  offset: 115, 135
+  index: -1
+images/0_00001
+  rotate: false
+  xy: 589, 676
+  size: 288, 201
+  orig: 440, 440
+  offset: 92, 127
+  index: -1
+images/0_00002
+  rotate: false
+  xy: 2, 668
+  size: 317, 209
+  orig: 440, 440
+  offset: 79, 121
+  index: -1
+images/0_00004
+  rotate: false
+  xy: 2, 470
+  size: 308, 196
+  orig: 440, 440
+  offset: 95, 138
+  index: -1
+images/0_00006
+  rotate: false
+  xy: 589, 460
+  size: 253, 214
+  orig: 440, 440
+  offset: 120, 121
+  index: -1
+images/0_00008
+  rotate: false
+  xy: 321, 630
+  size: 266, 247
+  orig: 440, 440
+  offset: 110, 102
+  index: -1

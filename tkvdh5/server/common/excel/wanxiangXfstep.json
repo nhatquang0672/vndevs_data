@@ -1,0 +1,22 @@
+[
+  {"id":"1","maxLv":25,"need":50},
+  {"id":"2","maxLv":50,"need":100},
+  {"id":"3","maxLv":75,"need":150},
+  {"id":"4","maxLv":100,"need":200},
+  {"id":"5","maxLv":125,"need":250},
+  {"id":"6","maxLv":150,"need":300},
+  {"id":"7","maxLv":175,"need":350},
+  {"id":"8","maxLv":200,"need":400},
+  {"id":"9","maxLv":225,"need":450},
+  {"id":"10","maxLv":250,"need":500},
+  {"id":"11","maxLv":275,"need":550},
+  {"id":"12","maxLv":300,"need":600},
+  {"id":"13","maxLv":325,"need":650},
+  {"id":"14","maxLv":350,"need":700},
+  {"id":"15","maxLv":375,"need":750},
+  {"id":"16","maxLv":400,"need":800},
+  {"id":"17","maxLv":425,"need":850},
+  {"id":"18","maxLv":450,"need":900},
+  {"id":"19","maxLv":475,"need":950},
+  {"id":"20","maxLv":500,"need":1000}
+]

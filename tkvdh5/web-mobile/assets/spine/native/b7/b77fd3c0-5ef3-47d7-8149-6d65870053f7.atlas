@@ -1,0 +1,125 @@
+
+effect_xianfa_141.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: false
+  xy: 877, 941
+  size: 84, 75
+  orig: 451, 451
+  offset: 156, 80
+  index: -1
+images/0_00002
+  rotate: false
+  xy: 2, 879
+  size: 108, 104
+  orig: 451, 451
+  offset: 131, 66
+  index: -1
+images/0_00004
+  rotate: false
+  xy: 112, 823
+  size: 164, 160
+  orig: 451, 451
+  offset: 131, 58
+  index: -1
+images/0_00006
+  rotate: false
+  xy: 566, 570
+  size: 214, 213
+  orig: 451, 451
+  offset: 131, 57
+  index: -1
+images/0_00008
+  rotate: true
+  xy: 546, 337
+  size: 231, 233
+  orig: 451, 451
+  offset: 132, 57
+  index: -1
+images/0_00010
+  rotate: true
+  xy: 782, 499
+  size: 223, 228
+  orig: 451, 451
+  offset: 143, 59
+  index: -1
+images/0_00012
+  rotate: false
+  xy: 811, 724
+  size: 205, 215
+  orig: 451, 451
+  offset: 146, 71
+  index: -1
+images/0_00014
+  rotate: true
+  xy: 574, 785
+  size: 176, 235
+  orig: 451, 451
+  offset: 149, 68
+  index: -1
+images/0_00016
+  rotate: true
+  xy: 2, 412
+  size: 206, 262
+  orig: 451, 451
+  offset: 122, 65
+  index: -1
+images/0_00018
+  rotate: false
+  xy: 781, 214
+  size: 212, 283
+  orig: 451, 451
+  offset: 115, 67
+  index: -1
+images/0_00020
+  rotate: true
+  xy: 266, 399
+  size: 209, 278
+  orig: 451, 451
+  offset: 117, 77
+  index: -1
+images/0_00022
+  rotate: true
+  xy: 2, 620
+  size: 201, 273
+  orig: 451, 451
+  offset: 121, 74
+  index: -1
+images/0_00024
+  rotate: true
+  xy: 277, 610
+  size: 190, 287
+  orig: 451, 451
+  offset: 130, 76
+  index: -1
+images/0_00026
+  rotate: true
+  xy: 278, 802
+  size: 173, 294
+  orig: 451, 451
+  offset: 137, 77
+  index: -1
+images/0_00028
+  rotate: true
+  xy: 579, 963
+  size: 53, 296
+  orig: 451, 451
+  offset: 187, 80
+  index: -1
+images/0_00030
+  rotate: true
+  xy: 288, 977
+  size: 39, 289
+  orig: 451, 451
+  offset: 198, 87
+  index: -1
+images/0_00032
+  rotate: true
+  xy: 2, 985
+  size: 31, 284
+  orig: 451, 451
+  offset: 200, 92
+  index: -1

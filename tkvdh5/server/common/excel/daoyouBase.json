@@ -1,0 +1,11 @@
+[
+  {"id":"1","name":"星彩","sex":"0","unlockType":"0","locks":{},"scale":1.2,"posX":0,"sid":"1","maxLv":100,"returnGift":[1,51,10]},
+  {"id":"2","name":"沐渊","sex":"1","unlockType":"1","locks":{"104":6},"scale":1.2,"posX":0,"sid":"2","maxLv":100,"returnGift":[1,902,50]},
+  {"id":"3","name":"云瑶","sex":"0","unlockType":"1","locks":{"114":20},"scale":1.2,"posX":0,"sid":"3","maxLv":100,"returnGift":[1,87,20]},
+  {"id":"4","name":"玄奇","sex":"1","unlockType":"1","locks":{"120":100},"scale":1.2,"posX":0,"sid":"4","maxLv":100,"returnGift":[1,52,1]},
+  {"id":"5","name":"白荆","sex":"0","unlockType":"1","locks":{"199":300},"scale":1.2,"posX":0,"sid":"5","maxLv":100,"returnGift":[1,85,10]},
+  {"id":"6","name":"凌晗","sex":"1","unlockType":"1","locks":{"117":200},"scale":1.2,"posX":0,"sid":"6","maxLv":100,"returnGift":[1,54,20]},
+  {"id":"7","name":"苍葵","sex":"0","unlockType":"1","locks":{"102":80},"scale":1.2,"posX":0,"sid":"7","maxLv":100,"returnGift":[1,90,1]},
+  {"id":"8","name":"黑曜","sex":"1","unlockType":"1","locks":{"162":180},"scale":1.2,"posX":0,"sid":"8","maxLv":100,"returnGift":[1,88,600]},
+  {"id":"9","name":"风凌","sex":"0","unlockType":"2","locks":[1,1209,10],"scale":1.2,"posX":0,"sid":"9","maxLv":100,"returnGift":[1,59,10]}
+]

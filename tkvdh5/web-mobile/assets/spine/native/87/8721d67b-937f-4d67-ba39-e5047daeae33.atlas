@@ -1,0 +1,27 @@
+
+s-luohaidie.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s-luohaidie-1
+  rotate: true
+  xy: 2, 36
+  size: 33, 90
+  orig: 33, 90
+  offset: 0, 0
+  index: -1
+s-luohaidie-2
+  rotate: false
+  xy: 2, 72
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+s-luohaidie-3
+  rotate: false
+  xy: 36, 71
+  size: 31, 21
+  orig: 31, 21
+  offset: 0, 0
+  index: -1

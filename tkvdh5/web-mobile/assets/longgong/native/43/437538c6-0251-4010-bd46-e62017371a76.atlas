@@ -1,0 +1,385 @@
+
+effect_longwangopen.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1
+  rotate: false
+  xy: 4, 234
+  size: 750, 784
+  orig: 750, 1334
+  offset: 0, 384
+  index: -1
+images/4_tx1/0_00002
+  rotate: false
+  xy: 758, 369
+  size: 229, 89
+  orig: 375, 667
+  offset: 60, 258
+  index: -1
+images/4_tx1/0_00010
+  rotate: true
+  xy: 758, 72
+  size: 293, 138
+  orig: 375, 667
+  offset: 44, 247
+  index: -1
+images/4_tx1/0_00012
+  rotate: false
+  xy: 4, 92
+  size: 293, 138
+  orig: 375, 667
+  offset: 44, 248
+  index: -1
+images/4_tx1/0_00014
+  rotate: false
+  xy: 301, 92
+  size: 291, 138
+  orig: 375, 667
+  offset: 45, 248
+  index: -1
+images/4_tx1/0_00028
+  rotate: true
+  xy: 900, 96
+  size: 269, 118
+  orig: 375, 667
+  offset: 55, 257
+  index: -1
+images/4_tx2/0_00018
+  rotate: true
+  xy: 758, 462
+  size: 556, 248
+  orig: 750, 1334
+  offset: 101, 511
+  index: -1
+
+effect_longwangopen2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1_tx/0_00000
+  rotate: false
+  xy: 629, 33
+  size: 321, 292
+  orig: 375, 667
+  offset: 27, 245
+  index: -1
+images/1_tx/0_00002
+  rotate: true
+  xy: 333, 4
+  size: 327, 292
+  orig: 375, 667
+  offset: 21, 245
+  index: -1
+images/1_tx/0_00004
+  rotate: true
+  xy: 645, 665
+  size: 329, 299
+  orig: 375, 667
+  offset: 19, 239
+  index: -1
+images/1_tx/0_00006
+  rotate: true
+  xy: 645, 329
+  size: 332, 298
+  orig: 375, 667
+  offset: 16, 239
+  index: -1
+images/1_tx/0_00022
+  rotate: false
+  xy: 4, 38
+  size: 325, 293
+  orig: 375, 667
+  offset: 23, 238
+  index: -1
+images/3
+  rotate: false
+  xy: 4, 618
+  size: 637, 376
+  orig: 750, 1334
+  offset: 74, 435
+  index: -1
+images/4
+  rotate: false
+  xy: 4, 335
+  size: 585, 279
+  orig: 750, 1334
+  offset: 87, 492
+  index: -1
+
+effect_longwangopen3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1_tx/0_00014
+  rotate: false
+  xy: 4, 73
+  size: 331, 286
+  orig: 375, 667
+  offset: 19, 248
+  index: -1
+images/1_tx/0_00020
+  rotate: false
+  xy: 592, 430
+  size: 330, 285
+  orig: 375, 667
+  offset: 20, 245
+  index: -1
+images/1_tx/0_00024
+  rotate: false
+  xy: 544, 141
+  size: 321, 285
+  orig: 375, 667
+  offset: 26, 246
+  index: -1
+images/4_1
+  rotate: false
+  xy: 4, 363
+  size: 536, 231
+  orig: 750, 1334
+  offset: 111, 518
+  index: -1
+images/4_tx1/0_00004
+  rotate: false
+  xy: 4, 886
+  size: 264, 121
+  orig: 375, 667
+  offset: 56, 248
+  index: -1
+images/4_tx1/0_00006
+  rotate: false
+  xy: 272, 879
+  size: 279, 128
+  orig: 375, 667
+  offset: 46, 246
+  index: -1
+images/4_tx1/0_00008
+  rotate: false
+  xy: 4, 742
+  size: 284, 133
+  orig: 375, 667
+  offset: 46, 246
+  index: -1
+images/4_tx1/0_00016
+  rotate: false
+  xy: 298, 598
+  size: 290, 138
+  orig: 375, 667
+  offset: 45, 246
+  index: -1
+images/4_tx1/0_00018
+  rotate: false
+  xy: 4, 601
+  size: 290, 137
+  orig: 375, 667
+  offset: 45, 247
+  index: -1
+images/4_tx1/0_00020
+  rotate: true
+  xy: 870, 719
+  size: 288, 137
+  orig: 375, 667
+  offset: 46, 247
+  index: -1
+images/4_tx1/0_00022
+  rotate: false
+  xy: 580, 740
+  size: 286, 135
+  orig: 375, 667
+  offset: 47, 248
+  index: -1
+images/4_tx1/0_00024
+  rotate: false
+  xy: 292, 742
+  size: 284, 133
+  orig: 375, 667
+  offset: 48, 248
+  index: -1
+images/4_tx1/0_00026
+  rotate: false
+  xy: 555, 879
+  size: 275, 128
+  orig: 375, 667
+  offset: 52, 249
+  index: -1
+
+effect_longwangopen4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1_tx/0_00010
+  rotate: false
+  xy: 563, 141
+  size: 332, 289
+  orig: 375, 667
+  offset: 17, 248
+  index: -1
+images/2
+  rotate: false
+  xy: 4, 433
+  size: 480, 554
+  orig: 750, 1334
+  offset: 141, 578
+  index: -1
+images/4_tx2/0_00014
+  rotate: true
+  xy: 488, 434
+  size: 553, 248
+  orig: 750, 1334
+  offset: 102, 510
+  index: -1
+images/4_tx2/0_00016
+  rotate: false
+  xy: 4, 181
+  size: 555, 248
+  orig: 750, 1334
+  offset: 101, 510
+  index: -1
+images/4_tx2/0_00022
+  rotate: true
+  xy: 740, 434
+  size: 553, 247
+  orig: 750, 1334
+  offset: 103, 510
+  index: -1
+
+effect_longwangopen5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1_tx/0_00008
+  rotate: true
+  xy: 255, 15
+  size: 332, 288
+  orig: 375, 667
+  offset: 16, 249
+  index: -1
+images/1_tx/0_00012
+  rotate: true
+  xy: 255, 351
+  size: 331, 289
+  orig: 375, 667
+  offset: 18, 248
+  index: -1
+images/1_tx/0_00018
+  rotate: false
+  xy: 547, 4
+  size: 332, 287
+  orig: 375, 667
+  offset: 18, 246
+  index: -1
+images/1_tx/0_00026
+  rotate: true
+  xy: 548, 295
+  size: 317, 289
+  orig: 375, 667
+  offset: 30, 246
+  index: -1
+images/1_tx/0_00028
+  rotate: true
+  xy: 563, 616
+  size: 317, 290
+  orig: 375, 667
+  offset: 30, 246
+  index: -1
+images/4_tx2/0_00012
+  rotate: true
+  xy: 4, 132
+  size: 550, 247
+  orig: 750, 1334
+  offset: 103, 509
+  index: -1
+images/4_tx2/0_00020
+  rotate: false
+  xy: 4, 686
+  size: 555, 247
+  orig: 750, 1334
+  offset: 102, 511
+  index: -1
+
+effect_longwangopen6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1_tx/0_00016
+  rotate: true
+  xy: 554, 107
+  size: 331, 286
+  orig: 375, 667
+  offset: 19, 247
+  index: -1
+images/4_tx2/0_00006
+  rotate: false
+  xy: 4, 4
+  size: 540, 242
+  orig: 750, 1334
+  offset: 111, 507
+  index: -1
+images/4_tx2/0_00010
+  rotate: false
+  xy: 4, 495
+  size: 544, 245
+  orig: 750, 1334
+  offset: 106, 508
+  index: -1
+images/4_tx2/0_00024
+  rotate: false
+  xy: 4, 744
+  size: 550, 246
+  orig: 750, 1334
+  offset: 105, 509
+  index: -1
+images/4_tx2/0_00026
+  rotate: true
+  xy: 558, 442
+  size: 548, 244
+  orig: 750, 1334
+  offset: 106, 509
+  index: -1
+images/4_tx2/0_00028
+  rotate: false
+  xy: 4, 250
+  size: 546, 241
+  orig: 750, 1334
+  offset: 108, 510
+  index: -1
+
+effect_longwangopen7.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/4_tx2/0_00000
+  rotate: false
+  xy: 4, 4
+  size: 542, 238
+  orig: 750, 1334
+  offset: 111, 512
+  index: -1
+images/4_tx2/0_00002
+  rotate: false
+  xy: 4, 246
+  size: 540, 239
+  orig: 750, 1334
+  offset: 112, 510
+  index: -1
+images/4_tx2/0_00004
+  rotate: false
+  xy: 4, 735
+  size: 541, 241
+  orig: 750, 1334
+  offset: 111, 508
+  index: -1
+images/4_tx2/0_00008
+  rotate: false
+  xy: 4, 489
+  size: 540, 242
+  orig: 750, 1334
+  offset: 111, 507
+  index: -1

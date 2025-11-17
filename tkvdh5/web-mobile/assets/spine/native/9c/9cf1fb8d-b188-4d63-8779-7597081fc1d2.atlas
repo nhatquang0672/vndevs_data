@@ -1,0 +1,55 @@
+
+effect_hit_mon3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: false
+  xy: 437, 790
+  size: 152, 222
+  orig: 400, 400
+  offset: 124, 87
+  index: -1
+images/0_00001
+  rotate: false
+  xy: 2, 676
+  size: 244, 336
+  orig: 400, 400
+  offset: 78, 32
+  index: -1
+images/0_00003
+  rotate: false
+  xy: 2, 338
+  size: 242, 336
+  orig: 400, 400
+  offset: 79, 32
+  index: -1
+images/0_00005
+  rotate: false
+  xy: 2, 2
+  size: 236, 334
+  orig: 400, 400
+  offset: 81, 33
+  index: -1
+images/0_00007
+  rotate: false
+  xy: 240, 6
+  size: 226, 330
+  orig: 400, 400
+  offset: 85, 35
+  index: -1
+images/0_00009
+  rotate: false
+  xy: 246, 350
+  size: 191, 324
+  orig: 400, 400
+  offset: 110, 38
+  index: -1
+images/0_00011
+  rotate: false
+  xy: 248, 698
+  size: 187, 314
+  orig: 400, 400
+  offset: 113, 43
+  index: -1

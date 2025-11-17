@@ -1,0 +1,83 @@
+
+xiaoshami.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+touying
+  rotate: false
+  xy: 159, 49
+  size: 63, 24
+  orig: 65, 26
+  offset: 1, 1
+  index: -1
+xiaoshami_0
+  rotate: true
+  xy: 223, 95
+  size: 29, 17
+  orig: 36, 27
+  offset: 3, 7
+  index: -1
+xiaoshami_1
+  rotate: false
+  xy: 101, 6
+  size: 36, 30
+  orig: 46, 39
+  offset: 5, 5
+  index: -1
+xiaoshami_2
+  rotate: false
+  xy: 2, 106
+  size: 140, 143
+  orig: 140, 143
+  offset: 0, 0
+  index: -1
+xiaoshami_3
+  rotate: false
+  xy: 144, 182
+  size: 94, 67
+  orig: 94, 67
+  offset: 0, 0
+  index: -1
+xiaoshami_4
+  rotate: false
+  xy: 139, 3
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+xiaoshami_5
+  rotate: false
+  xy: 2, 5
+  size: 97, 99
+  orig: 97, 99
+  offset: 0, 0
+  index: -1
+xiaoshami_6
+  rotate: false
+  xy: 159, 75
+  size: 62, 49
+  orig: 62, 49
+  offset: 0, 0
+  index: -1
+xiaoshami_7
+  rotate: false
+  xy: 101, 38
+  size: 56, 66
+  orig: 56, 66
+  offset: 0, 0
+  index: -1
+xiaoshami_8
+  rotate: false
+  xy: 174, 14
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+xiaoshami_9
+  rotate: true
+  xy: 144, 126
+  size: 54, 105
+  orig: 54, 105
+  offset: 0, 0
+  index: -1

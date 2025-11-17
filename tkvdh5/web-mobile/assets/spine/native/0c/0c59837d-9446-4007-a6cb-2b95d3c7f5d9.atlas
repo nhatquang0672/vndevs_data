@@ -1,0 +1,104 @@
+
+shouling_linghu.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+linghu_0
+  rotate: true
+  xy: 490, 456
+  size: 52, 18
+  orig: 52, 18
+  offset: 0, 0
+  index: -1
+linghu_1
+  rotate: true
+  xy: 125, 409
+  size: 99, 100
+  orig: 99, 100
+  offset: 0, 0
+  index: -1
+linghu_10
+  rotate: false
+  xy: 227, 426
+  size: 107, 82
+  orig: 107, 82
+  offset: 0, 0
+  index: -1
+linghu_11
+  rotate: false
+  xy: 2, 396
+  size: 121, 112
+  orig: 121, 112
+  offset: 0, 0
+  index: -1
+linghu_12
+  rotate: true
+  xy: 336, 360
+  size: 70, 100
+  orig: 70, 100
+  offset: 0, 0
+  index: -1
+linghu_2
+  rotate: false
+  xy: 438, 347
+  size: 59, 46
+  orig: 59, 46
+  offset: 0, 0
+  index: -1
+linghu_3
+  rotate: true
+  xy: 202, 386
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+linghu_4
+  rotate: true
+  xy: 227, 391
+  size: 33, 53
+  orig: 33, 55
+  offset: 0, 2
+  index: -1
+linghu_5
+  rotate: true
+  xy: 282, 394
+  size: 30, 41
+  orig: 30, 41
+  offset: 0, 0
+  index: -1
+linghu_6
+  rotate: false
+  xy: 336, 432
+  size: 106, 76
+  orig: 112, 76
+  offset: 0, 0
+  index: -1
+linghu_7
+  rotate: true
+  xy: 163, 386
+  size: 21, 37
+  orig: 21, 37
+  offset: 0, 0
+  index: -1
+linghu_8
+  rotate: true
+  xy: 125, 378
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+linghu_9
+  rotate: false
+  xy: 282, 368
+  size: 47, 24
+  orig: 47, 24
+  offset: 0, 0
+  index: -1
+touying
+  rotate: true
+  xy: 444, 395
+  size: 113, 44
+  orig: 115, 46
+  offset: 1, 1
+  index: -1

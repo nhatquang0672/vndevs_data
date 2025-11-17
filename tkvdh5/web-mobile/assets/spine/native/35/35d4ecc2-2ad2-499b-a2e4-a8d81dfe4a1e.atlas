@@ -1,0 +1,41 @@
+
+s-hongyuhaixing.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s-hongyuhaixing-1
+  rotate: true
+  xy: 71, 44
+  size: 24, 39
+  orig: 24, 39
+  offset: 0, 0
+  index: -1
+s-hongyuhaixing-2
+  rotate: false
+  xy: 71, 70
+  size: 23, 40
+  orig: 23, 40
+  offset: 0, 0
+  index: -1
+s-hongyuhaixing-3
+  rotate: true
+  xy: 42, 4
+  size: 35, 42
+  orig: 69, 42
+  offset: 34, 0
+  index: -1
+s-hongyuhaixing-4
+  rotate: true
+  xy: 2, 2
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+s-hongyuhaixing-5
+  rotate: false
+  xy: 2, 41
+  size: 67, 69
+  orig: 67, 69
+  offset: 0, 0
+  index: -1

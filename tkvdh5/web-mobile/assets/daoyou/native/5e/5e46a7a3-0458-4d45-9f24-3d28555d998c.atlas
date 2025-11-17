@@ -1,0 +1,55 @@
+
+effect_chushou_heiyao.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00013
+  rotate: false
+  xy: 553, 673
+  size: 216, 156
+  orig: 792, 528
+  offset: 380, 180
+  index: -1
+images/0_00014
+  rotate: false
+  xy: 531, 283
+  size: 218, 254
+  orig: 792, 528
+  offset: 378, 76
+  index: -1
+images/0_00015
+  rotate: true
+  xy: 297, 539
+  size: 290, 254
+  orig: 792, 528
+  offset: 306, 76
+  index: -1
+images/0_00017
+  rotate: false
+  xy: 2, 582
+  size: 293, 247
+  orig: 792, 528
+  offset: 303, 76
+  index: -1
+images/0_00019
+  rotate: true
+  xy: 2, 289
+  size: 291, 235
+  orig: 792, 528
+  offset: 305, 76
+  index: -1
+images/0_00021
+  rotate: false
+  xy: 239, 360
+  size: 290, 177
+  orig: 792, 528
+  offset: 303, 76
+  index: -1
+images/0_00023
+  rotate: false
+  xy: 553, 568
+  size: 276, 103
+  orig: 792, 528
+  offset: 301, 76
+  index: -1

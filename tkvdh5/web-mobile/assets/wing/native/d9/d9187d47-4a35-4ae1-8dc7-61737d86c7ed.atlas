@@ -1,0 +1,20 @@
+
+effect_jianling01.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/glow01
+  rotate: false
+  xy: 2, 2
+  size: 203, 203
+  orig: 225, 225
+  offset: 11, 11
+  index: -1
+images/quan04
+  rotate: false
+  xy: 2, 207
+  size: 209, 209
+  orig: 225, 225
+  offset: 8, 8
+  index: -1

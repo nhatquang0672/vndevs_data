@@ -1,0 +1,13 @@
+
+zw-duanjian.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zw-duanjian
+  rotate: false
+  xy: 2, 2
+  size: 52, 144
+  orig: 52, 144
+  offset: 0, 0
+  index: -1

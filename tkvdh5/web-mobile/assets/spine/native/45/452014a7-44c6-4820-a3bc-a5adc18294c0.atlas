@@ -1,0 +1,34 @@
+
+s-yueguangshuimu.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s-yueguangshuimu
+  rotate: false
+  xy: 45, 49
+  size: 78, 43
+  orig: 78, 43
+  offset: 0, 0
+  index: -1
+s-yueguangshuimu-1
+  rotate: true
+  xy: 2, 60
+  size: 36, 41
+  orig: 48, 42
+  offset: 0, 1
+  index: -1
+s-yueguangshuimu-2
+  rotate: true
+  xy: 2, 98
+  size: 25, 62
+  orig: 25, 62
+  offset: 0, 0
+  index: -1
+s-yueguangshuimu-3
+  rotate: true
+  xy: 66, 94
+  size: 29, 48
+  orig: 29, 48
+  offset: 0, 0
+  index: -1

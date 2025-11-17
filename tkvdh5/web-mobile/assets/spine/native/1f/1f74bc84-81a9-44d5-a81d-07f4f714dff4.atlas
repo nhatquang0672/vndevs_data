@@ -1,0 +1,20 @@
+
+d-jusha.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d-jusha-1
+  rotate: true
+  xy: 265, 262
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+d-jusha-2
+  rotate: false
+  xy: 2, 236
+  size: 261, 77
+  orig: 261, 77
+  offset: 0, 0
+  index: -1

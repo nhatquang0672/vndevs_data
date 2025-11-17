@@ -1,0 +1,27 @@
+
+x-xueyingwu.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+x-xueyingwu-1
+  rotate: true
+  xy: 30, 81
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+x-xueyingwu-2
+  rotate: false
+  xy: 2, 2
+  size: 103, 77
+  orig: 103, 77
+  offset: 0, 0
+  index: -1
+x-xueyingwu-3
+  rotate: false
+  xy: 2, 86
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1

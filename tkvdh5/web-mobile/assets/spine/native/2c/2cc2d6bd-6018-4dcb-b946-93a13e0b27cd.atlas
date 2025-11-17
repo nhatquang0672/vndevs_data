@@ -1,0 +1,13 @@
+
+zw-xuezi.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zw-xuezi
+  rotate: false
+  xy: 2, 2
+  size: 95, 135
+  orig: 95, 135
+  offset: 0, 0
+  index: -1

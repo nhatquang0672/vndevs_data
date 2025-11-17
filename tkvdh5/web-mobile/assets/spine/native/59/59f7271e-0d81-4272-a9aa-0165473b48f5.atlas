@@ -1,0 +1,76 @@
+
+effect_xianfa_82.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: false
+  xy: 407, 357
+  size: 348, 317
+  orig: 528, 528
+  offset: 118, 121
+  index: -1
+images/0_00001
+  rotate: false
+  xy: 2, 658
+  size: 403, 363
+  orig: 528, 528
+  offset: 72, 86
+  index: -1
+images/0_00003
+  rotate: false
+  xy: 407, 676
+  size: 385, 345
+  orig: 528, 528
+  offset: 80, 86
+  index: -1
+images/0_00005
+  rotate: false
+  xy: 2, 350
+  size: 341, 306
+  orig: 528, 528
+  offset: 104, 111
+  index: -1
+images/0_00007
+  rotate: false
+  xy: 2, 63
+  size: 313, 285
+  orig: 528, 528
+  offset: 110, 125
+  index: -1
+images/0_00009
+  rotate: true
+  xy: 345, 34
+  size: 321, 287
+  orig: 528, 528
+  offset: 102, 121
+  index: -1
+images/0_00011
+  rotate: true
+  xy: 634, 52
+  size: 303, 284
+  orig: 528, 528
+  offset: 109, 119
+  index: -1
+images/0_00013
+  rotate: false
+  xy: 757, 400
+  size: 264, 274
+  orig: 528, 528
+  offset: 111, 121
+  index: -1
+images/0_00015
+  rotate: false
+  xy: 794, 837
+  size: 198, 184
+  orig: 528, 528
+  offset: 158, 198
+  index: -1
+images/0_00017
+  rotate: false
+  xy: 794, 690
+  size: 177, 145
+  orig: 528, 528
+  offset: 171, 208
+  index: -1

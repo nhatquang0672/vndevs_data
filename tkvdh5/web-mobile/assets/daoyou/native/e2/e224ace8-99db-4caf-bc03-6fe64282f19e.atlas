@@ -1,0 +1,76 @@
+
+effect_chushou_xuanqi.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: false
+  xy: 167, 58
+  size: 105, 97
+  orig: 440, 440
+  offset: 165, 166
+  index: -1
+images/0_00002
+  rotate: false
+  xy: 301, 81
+  size: 133, 133
+  orig: 440, 440
+  offset: 149, 146
+  index: -1
+images/0_00004
+  rotate: false
+  xy: 225, 354
+  size: 152, 155
+  orig: 440, 440
+  offset: 137, 135
+  index: -1
+images/0_00006
+  rotate: false
+  xy: 2, 147
+  size: 163, 167
+  orig: 440, 440
+  offset: 126, 132
+  index: -1
+images/0_00008
+  rotate: true
+  xy: 379, 344
+  size: 165, 130
+  orig: 440, 440
+  offset: 118, 175
+  index: -1
+images/0_00010
+  rotate: false
+  xy: 2, 11
+  size: 161, 134
+  orig: 440, 440
+  offset: 114, 174
+  index: -1
+images/0_00012
+  rotate: true
+  xy: 167, 157
+  size: 157, 132
+  orig: 440, 440
+  offset: 113, 175
+  index: -1
+images/0_00014
+  rotate: false
+  xy: 301, 216
+  size: 149, 126
+  orig: 440, 440
+  offset: 115, 178
+  index: -1
+images/0_00016
+  rotate: true
+  xy: 452, 221
+  size: 121, 26
+  orig: 440, 440
+  offset: 120, 183
+  index: -1
+images/3
+  rotate: false
+  xy: 2, 316
+  size: 221, 193
+  orig: 225, 225
+  offset: 0, 32
+  index: -1

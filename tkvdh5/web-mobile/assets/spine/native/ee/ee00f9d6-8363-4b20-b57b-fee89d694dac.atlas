@@ -1,0 +1,258 @@
+
+donghuangtaiyi.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+donghuangtaiyi_0
+  rotate: true
+  xy: 149, 339
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+donghuangtaiyi_1
+  rotate: false
+  xy: 131, 224
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+donghuangtaiyi_10
+  rotate: false
+  xy: 131, 136
+  size: 106, 63
+  orig: 106, 63
+  offset: 0, 0
+  index: -1
+donghuangtaiyi_12
+  rotate: false
+  xy: 124, 6
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+donghuangtaiyi_13
+  rotate: true
+  xy: 131, 201
+  size: 21, 14
+  orig: 21, 17
+  offset: 0, 3
+  index: -1
+donghuangtaiyi_14
+  rotate: false
+  xy: 332, 169
+  size: 29, 13
+  orig: 29, 17
+  offset: 0, 4
+  index: -1
+donghuangtaiyi_15
+  rotate: true
+  xy: 239, 102
+  size: 97, 78
+  orig: 97, 78
+  offset: 0, 0
+  index: -1
+donghuangtaiyi_16
+  rotate: false
+  xy: 211, 337
+  size: 165, 168
+  orig: 165, 168
+  offset: 0, 0
+  index: -1
+donghuangtaiyi_17
+  rotate: true
+  xy: 392, 114
+  size: 68, 55
+  orig: 68, 55
+  offset: 0, 0
+  index: -1
+donghuangtaiyi_18
+  rotate: false
+  xy: 2, 13
+  size: 44, 26
+  orig: 44, 26
+  offset: 0, 0
+  index: -1
+donghuangtaiyi_19
+  rotate: true
+  xy: 48, 10
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+donghuangtaiyi_2
+  rotate: true
+  xy: 82, 50
+  size: 56, 46
+  orig: 56, 46
+  offset: 0, 0
+  index: -1
+donghuangtaiyi_20
+  rotate: false
+  xy: 82, 2
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+donghuangtaiyi_21
+  rotate: false
+  xy: 175, 340
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+donghuangtaiyi_22
+  rotate: true
+  xy: 449, 402
+  size: 103, 55
+  orig: 103, 55
+  offset: 0, 0
+  index: -1
+donghuangtaiyi_23
+  rotate: false
+  xy: 319, 164
+  size: 11, 35
+  orig: 11, 35
+  offset: 0, 0
+  index: -1
+donghuangtaiyi_24
+  rotate: false
+  xy: 149, 359
+  size: 59, 62
+  orig: 59, 62
+  offset: 0, 0
+  index: -1
+donghuangtaiyi_25
+  rotate: true
+  xy: 449, 390
+  size: 10, 26
+  orig: 10, 26
+  offset: 0, 0
+  index: -1
+donghuangtaiyi_26
+  rotate: true
+  xy: 319, 107
+  size: 55, 71
+  orig: 55, 71
+  offset: 0, 0
+  index: -1
+donghuangtaiyi_27
+  rotate: false
+  xy: 239, 28
+  size: 44, 72
+  orig: 44, 72
+  offset: 0, 0
+  index: -1
+donghuangtaiyi_28
+  rotate: false
+  xy: 130, 35
+  size: 52, 28
+  orig: 52, 28
+  offset: 0, 0
+  index: -1
+donghuangtaiyi_29
+  rotate: false
+  xy: 131, 65
+  size: 67, 69
+  orig: 67, 69
+  offset: 0, 0
+  index: -1
+donghuangtaiyi_3
+  rotate: false
+  xy: 2, 41
+  size: 78, 65
+  orig: 78, 65
+  offset: 0, 0
+  index: -1
+donghuangtaiyi_30
+  rotate: false
+  xy: 319, 41
+  size: 55, 64
+  orig: 55, 64
+  offset: 0, 0
+  index: -1
+donghuangtaiyi_31
+  rotate: true
+  xy: 378, 338
+  size: 50, 87
+  orig: 50, 87
+  offset: 0, 0
+  index: -1
+donghuangtaiyi_32
+  rotate: true
+  xy: 2, 251
+  size: 170, 145
+  orig: 170, 145
+  offset: 0, 0
+  index: -1
+donghuangtaiyi_33
+  rotate: true
+  xy: 2, 108
+  size: 141, 127
+  orig: 141, 127
+  offset: 0, 0
+  index: -1
+donghuangtaiyi_34
+  rotate: true
+  xy: 346, 184
+  size: 151, 93
+  orig: 151, 93
+  offset: 0, 0
+  index: -1
+donghuangtaiyi_35
+  rotate: false
+  xy: 149, 201
+  size: 195, 134
+  orig: 195, 134
+  offset: 0, 0
+  index: -1
+donghuangtaiyi_4
+  rotate: false
+  xy: 392, 58
+  size: 75, 54
+  orig: 75, 54
+  offset: 0, 0
+  index: -1
+donghuangtaiyi_5
+  rotate: true
+  xy: 200, 89
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+donghuangtaiyi_6
+  rotate: true
+  xy: 200, 39
+  size: 48, 34
+  orig: 48, 34
+  offset: 0, 0
+  index: -1
+donghuangtaiyi_7
+  rotate: true
+  xy: 157, 7
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+donghuangtaiyi_8
+  rotate: true
+  xy: 184, 4
+  size: 33, 48
+  orig: 33, 48
+  offset: 0, 0
+  index: -1
+donghuangtaiyi_9
+  rotate: false
+  xy: 378, 390
+  size: 69, 115
+  orig: 69, 115
+  offset: 0, 0
+  index: -1
+touying
+  rotate: false
+  xy: 2, 423
+  size: 207, 82
+  orig: 207, 82
+  offset: 0, 0
+  index: -1

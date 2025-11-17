@@ -1,0 +1,20 @@
+
+s-baihaitun.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s-baihaitun
+  rotate: true
+  xy: 205, 197
+  size: 48, 40
+  orig: 48, 40
+  offset: 0, 0
+  index: -1
+s-baihaitun-1
+  rotate: false
+  xy: 2, 138
+  size: 201, 107
+  orig: 201, 107
+  offset: 0, 0
+  index: -1

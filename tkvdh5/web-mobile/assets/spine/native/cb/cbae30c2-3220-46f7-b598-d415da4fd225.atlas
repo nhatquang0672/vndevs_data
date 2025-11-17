@@ -1,0 +1,83 @@
+
+effect_hit_mon43.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: false
+  xy: 603, 389
+  size: 203, 201
+  orig: 500, 500
+  offset: 151, 156
+  index: -1
+images/0_00001
+  rotate: false
+  xy: 595, 72
+  size: 225, 229
+  orig: 500, 500
+  offset: 149, 135
+  index: -1
+images/0_00002
+  rotate: true
+  xy: 318, 592
+  size: 298, 326
+  orig: 500, 500
+  offset: 90, 95
+  index: -1
+images/0_00003
+  rotate: false
+  xy: 2, 564
+  size: 314, 326
+  orig: 500, 500
+  offset: 90, 95
+  index: -1
+images/0_00004
+  rotate: true
+  xy: 2, 252
+  size: 310, 317
+  orig: 500, 500
+  offset: 104, 96
+  index: -1
+images/0_00005
+  rotate: true
+  xy: 321, 303
+  size: 287, 280
+  orig: 500, 500
+  offset: 118, 117
+  index: -1
+images/0_00007
+  rotate: false
+  xy: 321, 39
+  size: 272, 262
+  orig: 500, 500
+  offset: 129, 118
+  index: -1
+images/0_00009
+  rotate: false
+  xy: 2, 2
+  size: 245, 248
+  orig: 500, 500
+  offset: 129, 126
+  index: -1
+images/0_00011
+  rotate: false
+  xy: 646, 755
+  size: 180, 135
+  orig: 500, 500
+  offset: 179, 153
+  index: -1
+images/0_00013
+  rotate: true
+  xy: 249, 112
+  size: 138, 59
+  orig: 500, 500
+  offset: 179, 203
+  index: -1
+images/0_00015
+  rotate: true
+  xy: 249, 34
+  size: 76, 45
+  orig: 500, 500
+  offset: 241, 218
+  index: -1

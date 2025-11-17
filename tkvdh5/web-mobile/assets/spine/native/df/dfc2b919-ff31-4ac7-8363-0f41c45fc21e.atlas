@@ -1,0 +1,104 @@
+
+shouling_zhanxiang.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+touying
+  rotate: false
+  xy: 79, 76
+  size: 113, 44
+  orig: 115, 46
+  offset: 1, 1
+  index: -1
+zhanxiang_0
+  rotate: true
+  xy: 2, 69
+  size: 106, 75
+  orig: 106, 75
+  offset: 0, 0
+  index: -1
+zhanxiang_1
+  rotate: true
+  xy: 2, 3
+  size: 64, 115
+  orig: 64, 115
+  offset: 0, 0
+  index: -1
+zhanxiang_10
+  rotate: false
+  xy: 138, 237
+  size: 55, 86
+  orig: 58, 86
+  offset: 0, 0
+  index: -1
+zhanxiang_11
+  rotate: true
+  xy: 151, 198
+  size: 37, 62
+  orig: 37, 62
+  offset: 0, 0
+  index: -1
+zhanxiang_12
+  rotate: false
+  xy: 84, 183
+  size: 65, 38
+  orig: 65, 38
+  offset: 0, 0
+  index: -1
+zhanxiang_2
+  rotate: false
+  xy: 194, 94
+  size: 70, 27
+  orig: 70, 27
+  offset: 0, 0
+  index: -1
+zhanxiang_3
+  rotate: false
+  xy: 2, 325
+  size: 182, 183
+  orig: 182, 183
+  offset: 0, 0
+  index: -1
+zhanxiang_4
+  rotate: false
+  xy: 119, 2
+  size: 81, 72
+  orig: 81, 72
+  offset: 0, 0
+  index: -1
+zhanxiang_5
+  rotate: true
+  xy: 202, 24
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+zhanxiang_6
+  rotate: false
+  xy: 192, 123
+  size: 59, 73
+  orig: 143, 103
+  offset: 0, 30
+  index: -1
+zhanxiang_7
+  rotate: false
+  xy: 84, 223
+  size: 52, 100
+  orig: 52, 100
+  offset: 0, 0
+  index: -1
+zhanxiang_8
+  rotate: true
+  xy: 79, 122
+  size: 53, 111
+  orig: 53, 111
+  offset: 0, 0
+  index: -1
+zhanxiang_9
+  rotate: true
+  xy: 2, 177
+  size: 146, 80
+  orig: 146, 80
+  offset: 0, 0
+  index: -1

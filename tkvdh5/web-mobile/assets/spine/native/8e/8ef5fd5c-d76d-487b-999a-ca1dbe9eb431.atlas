@@ -1,0 +1,87 @@
+
+effect_hit1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: true
+  xy: 260, 689
+  size: 261, 271
+  orig: 700, 700
+  offset: 231, 204
+  index: -1
+images/0_00007
+  rotate: false
+  xy: 394, 341
+  size: 393, 336
+  orig: 700, 700
+  offset: 204, 180
+  index: -1
+images/0_00009
+  rotate: false
+  xy: 2, 2
+  size: 394, 337
+  orig: 700, 700
+  offset: 210, 184
+  index: -1
+images/0_00011
+  rotate: false
+  xy: 2, 361
+  size: 390, 326
+  orig: 700, 700
+  offset: 211, 192
+  index: -1
+images/0_00013
+  rotate: false
+  xy: 533, 679
+  size: 277, 271
+  orig: 700, 700
+  offset: 213, 235
+  index: -1
+images/c
+  rotate: false
+  xy: 2, 862
+  size: 256, 88
+  orig: 256, 256
+  offset: 0, 84
+  index: -1
+
+effect_hit12.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00005
+  rotate: true
+  xy: 2, 5
+  size: 501, 504
+  orig: 700, 700
+  offset: 111, 88
+  index: -1
+
+effect_hit13.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00003
+  rotate: true
+  xy: 2, 8
+  size: 557, 563
+  orig: 700, 700
+  offset: 83, 58
+  index: -1
+
+effect_hit14.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00001
+  rotate: false
+  xy: 2, 2
+  size: 598, 599
+  orig: 700, 700
+  offset: 62, 43
+  index: -1

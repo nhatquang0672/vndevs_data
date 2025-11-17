@@ -1,0 +1,27 @@
+
+x-kongqueyu.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+x-kongqueyu
+  rotate: false
+  xy: 2, 2
+  size: 105, 72
+  orig: 105, 72
+  offset: 0, 0
+  index: -1
+x-kongqueyu-1
+  rotate: false
+  xy: 22, 76
+  size: 51, 41
+  orig: 51, 41
+  offset: 0, 0
+  index: -1
+x-kongqueyu-2
+  rotate: false
+  xy: 2, 103
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1

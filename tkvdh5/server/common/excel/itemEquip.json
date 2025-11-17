@@ -1,0 +1,15 @@
+[
+  {"id":"1","equipId":"11106","mrhh":"11115","level":10,"eps":{"hp_max":1000,"atk":302,"def":156,"speed":117,"lianji":1200,"xixue":500}},
+  {"id":"2","equipId":"11106","mrhh":"11115","level":15,"eps":{"hp_max":1400,"atk":386,"def":208,"speed":145,"lianji":1200,"xixue":500}},
+  {"id":"3","equipId":"11106","mrhh":"11115","level":20,"eps":{"hp_max":1800,"atk":520,"def":260,"speed":173,"lianji":1200,"xixue":500}},
+  {"id":"4","equipId":"11106","mrhh":"11115","level":21,"eps":{"hp_max":1900,"atk":538,"def":269,"speed":179,"lianji":1200,"xixue":500}},
+  {"id":"5","equipId":"11106","mrhh":"11115","level":22,"eps":{"hp_max":2000,"atk":556,"def":278,"speed":185,"lianji":1200,"xixue":500}},
+  {"id":"6","equipId":"11106","mrhh":"11115","level":23,"eps":{"hp_max":2050,"atk":573,"def":286,"speed":190,"lianji":1200,"xixue":500}},
+  {"id":"7","equipId":"11106","mrhh":"11115","level":24,"eps":{"hp_max":2100,"atk":591,"def":295,"speed":196,"lianji":1200,"xixue":500}},
+  {"id":"8","equipId":"11106","mrhh":"11115","level":25,"eps":{"hp_max":2200,"atk":608,"def":304,"speed":202,"lianji":1200,"xixue":500}},
+  {"id":"9","equipId":"11106","mrhh":"11115","level":26,"eps":{"hp_max":2250,"atk":626,"def":313,"speed":208,"lianji":1200,"xixue":500}},
+  {"id":"10","equipId":"11106","mrhh":"11115","level":27,"eps":{"hp_max":2300,"atk":644,"def":322,"speed":214,"lianji":1200,"xixue":500}},
+  {"id":"11","equipId":"11106","mrhh":"11115","level":28,"eps":{"hp_max":2400,"atk":661,"def":330,"speed":220,"lianji":1200,"xixue":500}},
+  {"id":"12","equipId":"11106","mrhh":"11115","level":29,"eps":{"hp_max":2500,"atk":679,"def":339,"speed":226,"lianji":1200,"xixue":500}},
+  {"id":"13","equipId":"11106","mrhh":"11115","level":30,"eps":{"hp_max":2600,"atk":696,"def":348,"speed":232,"lianji":1200,"xixue":500}}
+]

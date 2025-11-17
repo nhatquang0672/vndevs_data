@@ -1,0 +1,111 @@
+
+effect_bahuangpipei.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: false
+  xy: 747, 486
+  size: 223, 270
+  orig: 352, 352
+  offset: 71, 41
+  index: -1
+images/0_00002
+  rotate: true
+  xy: 2, 2
+  size: 219, 264
+  orig: 352, 352
+  offset: 65, 44
+  index: -1
+images/0_00004
+  rotate: true
+  xy: 691, 260
+  size: 224, 272
+  orig: 352, 352
+  offset: 63, 40
+  index: -1
+images/0_00006
+  rotate: true
+  xy: 268, 2
+  size: 229, 266
+  orig: 352, 352
+  offset: 60, 43
+  index: -1
+images/0_00008
+  rotate: false
+  xy: 763, 767
+  size: 243, 255
+  orig: 352, 352
+  offset: 58, 48
+  index: -1
+images/0_00010
+  rotate: false
+  xy: 260, 496
+  size: 240, 260
+  orig: 352, 352
+  offset: 55, 45
+  index: -1
+images/0_00012
+  rotate: false
+  xy: 514, 758
+  size: 247, 264
+  orig: 352, 352
+  offset: 49, 44
+  index: -1
+images/0_00014
+  rotate: true
+  xy: 257, 233
+  size: 251, 210
+  orig: 352, 352
+  offset: 50, 71
+  index: -1
+images/0_00016
+  rotate: true
+  xy: 469, 246
+  size: 248, 220
+  orig: 352, 352
+  offset: 55, 66
+  index: -1
+images/0_00018
+  rotate: true
+  xy: 536, 6
+  size: 238, 235
+  orig: 352, 352
+  offset: 54, 58
+  index: -1
+images/0_00020
+  rotate: false
+  xy: 502, 502
+  size: 243, 254
+  orig: 352, 352
+  offset: 54, 49
+  index: -1
+images/0_00022
+  rotate: false
+  xy: 2, 486
+  size: 256, 266
+  orig: 352, 352
+  offset: 48, 43
+  index: -1
+images/0_00024
+  rotate: false
+  xy: 2, 223
+  size: 253, 261
+  orig: 352, 352
+  offset: 44, 46
+  index: -1
+images/0_00026
+  rotate: false
+  xy: 260, 758
+  size: 252, 264
+  orig: 352, 352
+  offset: 48, 44
+  index: -1
+images/0_00028
+  rotate: false
+  xy: 2, 754
+  size: 256, 268
+  orig: 352, 352
+  offset: 44, 42
+  index: -1

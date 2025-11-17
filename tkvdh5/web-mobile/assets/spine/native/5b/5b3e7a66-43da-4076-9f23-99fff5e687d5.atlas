@@ -1,0 +1,20 @@
+
+z-xiehuyu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z-xiehuyu-1
+  rotate: true
+  xy: 154, 149
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+z-xiehuyu-2
+  rotate: false
+  xy: 2, 111
+  size: 150, 68
+  orig: 150, 68
+  offset: 0, 0
+  index: -1

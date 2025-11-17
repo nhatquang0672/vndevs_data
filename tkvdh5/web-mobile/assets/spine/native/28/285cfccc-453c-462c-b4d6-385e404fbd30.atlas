@@ -1,0 +1,27 @@
+
+d-gusheyu.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d-gusheyu
+  rotate: false
+  xy: 2, 175
+  size: 219, 89
+  orig: 219, 89
+  offset: 0, 0
+  index: -1
+d-gusheyu-1
+  rotate: true
+  xy: 223, 217
+  size: 47, 41
+  orig: 47, 41
+  offset: 0, 0
+  index: -1
+d-gusheyu-2
+  rotate: false
+  xy: 223, 188
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1

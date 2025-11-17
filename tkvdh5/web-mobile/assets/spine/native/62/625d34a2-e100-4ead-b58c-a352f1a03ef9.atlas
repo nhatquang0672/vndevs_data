@@ -1,0 +1,125 @@
+
+effect_xianlv_kai.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00001
+  rotate: true
+  xy: 2, 1006
+  size: 3, 6
+  orig: 300, 300
+  offset: 151, 154
+  index: -1
+images/0_00003
+  rotate: true
+  xy: 10, 955
+  size: 54, 96
+  orig: 300, 300
+  offset: 123, 110
+  index: -1
+images/0_00005
+  rotate: true
+  xy: 424, 901
+  size: 108, 115
+  orig: 300, 300
+  offset: 97, 98
+  index: -1
+images/0_00007
+  rotate: true
+  xy: 2, 788
+  size: 119, 126
+  orig: 300, 300
+  offset: 92, 90
+  index: -1
+images/0_00009
+  rotate: true
+  xy: 130, 777
+  size: 130, 133
+  orig: 300, 300
+  offset: 85, 84
+  index: -1
+images/0_00011
+  rotate: false
+  xy: 2, 621
+  size: 159, 154
+  orig: 300, 300
+  offset: 67, 68
+  index: -1
+images/0_00013
+  rotate: false
+  xy: 163, 592
+  size: 197, 174
+  orig: 300, 300
+  offset: 47, 60
+  index: -1
+images/0_00015
+  rotate: false
+  xy: 362, 572
+  size: 205, 183
+  orig: 300, 300
+  offset: 34, 52
+  index: -1
+images/0_00017
+  rotate: false
+  xy: 793, 555
+  size: 216, 186
+  orig: 300, 300
+  offset: 26, 48
+  index: -1
+images/0_00019
+  rotate: false
+  xy: 569, 558
+  size: 222, 183
+  orig: 300, 300
+  offset: 22, 48
+  index: -1
+images/0_00021
+  rotate: false
+  xy: 707, 743
+  size: 223, 146
+  orig: 300, 300
+  offset: 20, 53
+  index: -1
+images/0_00023
+  rotate: false
+  xy: 484, 757
+  size: 221, 139
+  orig: 300, 300
+  offset: 19, 59
+  index: -1
+images/0_00025
+  rotate: false
+  xy: 265, 768
+  size: 217, 131
+  orig: 300, 300
+  offset: 19, 65
+  index: -1
+images/0_00027
+  rotate: false
+  xy: 749, 891
+  size: 211, 118
+  orig: 300, 300
+  offset: 19, 73
+  index: -1
+images/0_00029
+  rotate: false
+  xy: 541, 898
+  size: 206, 111
+  orig: 300, 300
+  offset: 19, 78
+  index: -1
+images/0_00031
+  rotate: false
+  xy: 266, 907
+  size: 156, 102
+  orig: 300, 300
+  offset: 22, 85
+  index: -1
+images/0_00033
+  rotate: false
+  xy: 108, 909
+  size: 156, 100
+  orig: 300, 300
+  offset: 22, 85
+  index: -1

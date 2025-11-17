@@ -1,0 +1,20 @@
+
+x-shirenyu.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+x-shirenyu
+  rotate: false
+  xy: 2, 51
+  size: 101, 74
+  orig: 101, 74
+  offset: 0, 0
+  index: -1
+x-shirenyu-yuqi
+  rotate: true
+  xy: 105, 96
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1

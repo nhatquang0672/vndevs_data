@@ -1,0 +1,117 @@
+
+effect_xianlv_landan.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: false
+  xy: 2, 2
+  size: 259, 277
+  orig: 400, 400
+  offset: 70, 59
+  index: -1
+images/0_00002
+  rotate: false
+  xy: 575, 33
+  size: 255, 286
+  orig: 400, 400
+  offset: 75, 54
+  index: -1
+images/0_00006
+  rotate: false
+  xy: 293, 284
+  size: 249, 295
+  orig: 400, 400
+  offset: 80, 48
+  index: -1
+images/0_00008
+  rotate: false
+  xy: 2, 547
+  size: 246, 296
+  orig: 400, 400
+  offset: 83, 48
+  index: -1
+images/0_00020
+  rotate: true
+  xy: 544, 321
+  size: 258, 294
+  orig: 400, 400
+  offset: 71, 58
+  index: -1
+images/0_00022
+  rotate: true
+  xy: 250, 581
+  size: 262, 291
+  orig: 400, 400
+  offset: 69, 57
+  index: -1
+images/0_00024
+  rotate: true
+  xy: 2, 281
+  size: 264, 289
+  orig: 400, 400
+  offset: 66, 56
+  index: -1
+images/0_00026
+  rotate: true
+  xy: 543, 581
+  size: 262, 285
+  orig: 400, 400
+  offset: 67, 56
+  index: -1
+images/0_00028
+  rotate: true
+  xy: 293, 23
+  size: 259, 280
+  orig: 400, 400
+  offset: 70, 58
+  index: -1
+
+effect_xianlv_landan2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00004
+  rotate: true
+  xy: 2, 385
+  size: 250, 292
+  orig: 400, 400
+  offset: 80, 50
+  index: -1
+images/0_00010
+  rotate: true
+  xy: 296, 635
+  size: 247, 293
+  orig: 400, 400
+  offset: 82, 52
+  index: -1
+images/0_00012
+  rotate: true
+  xy: 2, 637
+  size: 245, 292
+  orig: 400, 400
+  offset: 81, 55
+  index: -1
+images/0_00014
+  rotate: true
+  xy: 591, 633
+  size: 249, 291
+  orig: 400, 400
+  offset: 78, 57
+  index: -1
+images/0_00016
+  rotate: true
+  xy: 296, 383
+  size: 250, 291
+  orig: 400, 400
+  offset: 75, 59
+  index: -1
+images/0_00018
+  rotate: true
+  xy: 589, 379
+  size: 252, 290
+  orig: 400, 400
+  offset: 73, 61
+  index: -1

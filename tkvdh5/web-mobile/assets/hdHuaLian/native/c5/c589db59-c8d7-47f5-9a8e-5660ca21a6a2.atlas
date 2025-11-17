@@ -1,0 +1,76 @@
+
+effect_hualian6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: false
+  xy: 2, 738
+  size: 182, 182
+  orig: 300, 300
+  offset: 59, 59
+  index: -1
+images/0_00003
+  rotate: false
+  xy: 186, 738
+  size: 182, 182
+  orig: 300, 300
+  offset: 59, 59
+  index: -1
+images/0_00006
+  rotate: false
+  xy: 370, 738
+  size: 182, 182
+  orig: 300, 300
+  offset: 59, 59
+  index: -1
+images/0_00009
+  rotate: false
+  xy: 554, 738
+  size: 182, 182
+  orig: 300, 300
+  offset: 59, 59
+  index: -1
+images/0_00012
+  rotate: false
+  xy: 738, 738
+  size: 182, 182
+  orig: 300, 300
+  offset: 59, 59
+  index: -1
+images/0_00015
+  rotate: false
+  xy: 2, 554
+  size: 182, 182
+  orig: 300, 300
+  offset: 59, 59
+  index: -1
+images/0_00018
+  rotate: false
+  xy: 186, 554
+  size: 182, 182
+  orig: 300, 300
+  offset: 59, 59
+  index: -1
+images/0_00021
+  rotate: false
+  xy: 370, 554
+  size: 182, 182
+  orig: 300, 300
+  offset: 59, 59
+  index: -1
+images/0_00024
+  rotate: false
+  xy: 554, 554
+  size: 182, 182
+  orig: 300, 300
+  offset: 59, 59
+  index: -1
+images/0_00027
+  rotate: false
+  xy: 738, 554
+  size: 182, 182
+  orig: 300, 300
+  offset: 59, 59
+  index: -1

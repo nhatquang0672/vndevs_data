@@ -1,0 +1,90 @@
+
+shouling_yingxubaihu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baihu_0
+  rotate: true
+  xy: 128, 22
+  size: 38, 68
+  orig: 38, 68
+  offset: 0, 0
+  index: -1
+baihu_1
+  rotate: false
+  xy: 108, 192
+  size: 5, 7
+  orig: 12, 15
+  offset: 4, 4
+  index: -1
+baihu_10
+  rotate: true
+  xy: 2, 111
+  size: 88, 70
+  orig: 88, 70
+  offset: 0, 0
+  index: -1
+baihu_2
+  rotate: true
+  xy: 58, 31
+  size: 51, 68
+  orig: 51, 68
+  offset: 0, 0
+  index: -1
+baihu_3
+  rotate: false
+  xy: 2, 50
+  size: 54, 59
+  orig: 54, 59
+  offset: 0, 0
+  index: -1
+baihu_4
+  rotate: false
+  xy: 153, 62
+  size: 53, 77
+  orig: 53, 77
+  offset: 0, 0
+  index: -1
+baihu_5
+  rotate: false
+  xy: 205, 177
+  size: 42, 70
+  orig: 42, 70
+  offset: 0, 0
+  index: -1
+baihu_6
+  rotate: true
+  xy: 119, 141
+  size: 106, 84
+  orig: 106, 84
+  offset: 0, 0
+  index: -1
+baihu_7
+  rotate: true
+  xy: 74, 84
+  size: 55, 77
+  orig: 55, 77
+  offset: 0, 0
+  index: -1
+baihu_8
+  rotate: false
+  xy: 208, 108
+  size: 37, 67
+  orig: 37, 67
+  offset: 0, 0
+  index: -1
+baihu_9
+  rotate: false
+  xy: 74, 141
+  size: 32, 58
+  orig: 32, 58
+  offset: 0, 0
+  index: -1
+touying
+  rotate: false
+  xy: 2, 201
+  size: 115, 46
+  orig: 115, 46
+  offset: 0, 0
+  index: -1

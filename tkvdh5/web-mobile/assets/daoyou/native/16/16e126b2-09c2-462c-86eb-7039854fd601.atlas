@@ -1,0 +1,55 @@
+
+effect_chushou_linghan.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: true
+  xy: 2, 2
+  size: 109, 94
+  orig: 528, 528
+  offset: 135, 174
+  index: -1
+images/0_00001
+  rotate: false
+  xy: 199, 98
+  size: 287, 149
+  orig: 528, 528
+  offset: 98, 143
+  index: -1
+images/0_00002
+  rotate: false
+  xy: 2, 353
+  size: 320, 223
+  orig: 528, 528
+  offset: 101, 143
+  index: -1
+images/0_00004
+  rotate: true
+  xy: 324, 297
+  size: 279, 214
+  orig: 528, 528
+  offset: 148, 167
+  index: -1
+images/0_00006
+  rotate: true
+  xy: 2, 113
+  size: 238, 195
+  orig: 528, 528
+  offset: 188, 188
+  index: -1
+images/0_00008
+  rotate: true
+  xy: 199, 249
+  size: 102, 100
+  orig: 528, 528
+  offset: 299, 266
+  index: -1
+images/0_00010
+  rotate: true
+  xy: 98, 56
+  size: 55, 39
+  orig: 528, 528
+  offset: 321, 322
+  index: -1

@@ -1,0 +1,55 @@
+
+effect_chushou_cangkui.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00013
+  rotate: false
+  xy: 284, 43
+  size: 199, 170
+  orig: 528, 528
+  offset: 266, 191
+  index: -1
+images/0_00014
+  rotate: false
+  xy: 294, 215
+  size: 227, 276
+  orig: 528, 528
+  offset: 240, 80
+  index: -1
+images/0_00015
+  rotate: false
+  xy: 2, 491
+  size: 290, 279
+  orig: 528, 528
+  offset: 177, 69
+  index: -1
+images/0_00017
+  rotate: true
+  xy: 294, 493
+  size: 277, 261
+  orig: 528, 528
+  offset: 181, 71
+  index: -1
+images/0_00019
+  rotate: true
+  xy: 2, 243
+  size: 246, 241
+  orig: 528, 528
+  offset: 183, 79
+  index: -1
+images/0_00021
+  rotate: true
+  xy: 2, 2
+  size: 239, 181
+  orig: 528, 528
+  offset: 183, 92
+  index: -1
+images/0_00023
+  rotate: true
+  xy: 185, 10
+  size: 231, 97
+  orig: 528, 528
+  offset: 180, 113
+  index: -1

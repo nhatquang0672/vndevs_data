@@ -1,0 +1,12 @@
+[
+  {"id":"1","prob0":5950,"prob1":6500,"prob2":7050,"prob3":7600,"prob4":8150,"prob5":8560,"prob6":8900,"prob7":9010,"prob8":9120,"prob9":9230,"prob10":9340,"prob11":9450,"prob12":9560,"prob13":9670,"prob14":9780,"prob15":9890},
+  {"id":"2","prob0":350,"prob1":300,"prob2":250,"prob3":200,"prob4":150,"prob5":120,"prob6":100,"prob7":90,"prob8":80,"prob9":70,"prob10":60,"prob11":50,"prob12":40,"prob13":30,"prob14":20,"prob15":10},
+  {"id":"3","prob0":350,"prob1":300,"prob2":250,"prob3":200,"prob4":150,"prob5":120,"prob6":100,"prob7":90,"prob8":80,"prob9":70,"prob10":60,"prob11":50,"prob12":40,"prob13":30,"prob14":20,"prob15":10},
+  {"id":"4","prob0":350,"prob1":300,"prob2":250,"prob3":200,"prob4":150,"prob5":120,"prob6":100,"prob7":90,"prob8":80,"prob9":70,"prob10":60,"prob11":50,"prob12":40,"prob13":30,"prob14":20,"prob15":10},
+  {"id":"5","prob0":800,"prob1":700,"prob2":600,"prob3":500,"prob4":400,"prob5":300,"prob6":200,"prob7":180,"prob8":160,"prob9":140,"prob10":120,"prob11":100,"prob12":80,"prob13":60,"prob14":40,"prob15":20},
+  {"id":"6","prob0":350,"prob1":300,"prob2":250,"prob3":200,"prob4":150,"prob5":120,"prob6":100,"prob7":90,"prob8":80,"prob9":70,"prob10":60,"prob11":50,"prob12":40,"prob13":30,"prob14":20,"prob15":10},
+  {"id":"7","prob0":350,"prob1":300,"prob2":250,"prob3":200,"prob4":150,"prob5":120,"prob6":100,"prob7":90,"prob8":80,"prob9":70,"prob10":60,"prob11":50,"prob12":40,"prob13":30,"prob14":20,"prob15":10},
+  {"id":"8","prob0":350,"prob1":300,"prob2":250,"prob3":200,"prob4":150,"prob5":120,"prob6":100,"prob7":90,"prob8":80,"prob9":70,"prob10":60,"prob11":50,"prob12":40,"prob13":30,"prob14":20,"prob15":10},
+  {"id":"9","prob0":350,"prob1":300,"prob2":250,"prob3":200,"prob4":150,"prob5":120,"prob6":100,"prob7":90,"prob8":80,"prob9":70,"prob10":60,"prob11":50,"prob12":40,"prob13":30,"prob14":20,"prob15":10},
+  {"id":"10","prob0":800,"prob1":700,"prob2":600,"prob3":500,"prob4":400,"prob5":300,"prob6":200,"prob7":180,"prob8":160,"prob9":140,"prob10":120,"prob11":100,"prob12":80,"prob13":60,"prob14":40,"prob15":20}
+]

@@ -1,0 +1,27 @@
+
+z-equeshan.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z-equeshan-1
+  rotate: false
+  xy: 205, 192
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+z-equeshan-2
+  rotate: false
+  xy: 2, 176
+  size: 201, 70
+  orig: 201, 70
+  offset: 0, 0
+  index: -1
+z-equeshan-3
+  rotate: false
+  xy: 205, 217
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1

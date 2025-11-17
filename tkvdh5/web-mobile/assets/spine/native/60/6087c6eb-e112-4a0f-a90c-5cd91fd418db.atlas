@@ -1,0 +1,132 @@
+
+effect_mubiao.png
+size: 522,522
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00001
+  rotate: true
+  xy: 473, 44
+  size: 147, 40
+  orig: 400, 200
+  offset: 70, 83
+  index: -1
+images/0_00002
+  rotate: false
+  xy: 268, 357
+  size: 226, 77
+  orig: 400, 200
+  offset: 73, 64
+  index: -1
+images/0_00003
+  rotate: false
+  xy: 4, 186
+  size: 256, 80
+  orig: 400, 200
+  offset: 83, 63
+  index: -1
+images/0_00004
+  rotate: false
+  xy: 4, 438
+  size: 260, 80
+  orig: 400, 200
+  offset: 86, 63
+  index: -1
+images/0_00005
+  rotate: false
+  xy: 4, 354
+  size: 260, 80
+  orig: 400, 200
+  offset: 86, 63
+  index: -1
+images/0_00007
+  rotate: false
+  xy: 4, 270
+  size: 258, 80
+  orig: 400, 200
+  offset: 88, 63
+  index: -1
+images/0_00009
+  rotate: false
+  xy: 268, 438
+  size: 245, 80
+  orig: 400, 200
+  offset: 101, 63
+  index: -1
+images/0_00011
+  rotate: false
+  xy: 4, 114
+  size: 241, 68
+  orig: 400, 200
+  offset: 105, 69
+  index: -1
+images/0_00013
+  rotate: false
+  xy: 4, 52
+  size: 237, 58
+  orig: 400, 200
+  offset: 109, 71
+  index: -1
+images/0_00015
+  rotate: false
+  xy: 268, 300
+  size: 235, 53
+  orig: 400, 200
+  offset: 111, 75
+  index: -1
+images/0_00017
+  rotate: false
+  xy: 266, 247
+  size: 226, 49
+  orig: 400, 200
+  offset: 120, 78
+  index: -1
+images/0_00019
+  rotate: false
+  xy: 264, 195
+  size: 224, 48
+  orig: 400, 200
+  offset: 122, 79
+  index: -1
+images/0_00021
+  rotate: false
+  xy: 4, 4
+  size: 219, 44
+  orig: 400, 200
+  offset: 127, 82
+  index: -1
+images/0_00023
+  rotate: false
+  xy: 264, 148
+  size: 205, 43
+  orig: 400, 200
+  offset: 141, 83
+  index: -1
+images/0_00025
+  rotate: false
+  xy: 249, 101
+  size: 204, 43
+  orig: 400, 200
+  offset: 142, 83
+  index: -1
+images/0_00027
+  rotate: false
+  xy: 245, 57
+  size: 200, 40
+  orig: 400, 200
+  offset: 146, 83
+  index: -1
+images/0_00029
+  rotate: false
+  xy: 245, 15
+  size: 197, 38
+  orig: 400, 200
+  offset: 149, 83
+  index: -1
+images/0_00031
+  rotate: true
+  xy: 498, 377
+  size: 57, 3
+  orig: 400, 200
+  offset: 289, 83
+  index: -1

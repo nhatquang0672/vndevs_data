@@ -1,0 +1,13 @@
+
+zw-gaochangmibao.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zw-gaochangmibao
+  rotate: false
+  xy: 2, 3
+  size: 105, 104
+  orig: 105, 104
+  offset: 0, 0
+  index: -1

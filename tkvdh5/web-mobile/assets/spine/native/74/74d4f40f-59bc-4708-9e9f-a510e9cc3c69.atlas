@@ -1,0 +1,258 @@
+
+diyongfuren.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diyongfuren_0
+  rotate: false
+  xy: 2, 10
+  size: 120, 111
+  orig: 120, 111
+  offset: 0, 0
+  index: -1
+diyongfuren_1
+  rotate: false
+  xy: 159, 345
+  size: 105, 72
+  orig: 105, 72
+  offset: 0, 0
+  index: -1
+diyongfuren_10
+  rotate: false
+  xy: 124, 3
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+diyongfuren_11
+  rotate: false
+  xy: 147, 2
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+diyongfuren_12
+  rotate: false
+  xy: 285, 420
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+diyongfuren_13
+  rotate: true
+  xy: 321, 396
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+diyongfuren_14
+  rotate: false
+  xy: 167, 5
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+diyongfuren_15
+  rotate: false
+  xy: 124, 15
+  size: 103, 114
+  orig: 103, 114
+  offset: 0, 0
+  index: -1
+diyongfuren_16
+  rotate: true
+  xy: 229, 4
+  size: 44, 77
+  orig: 45, 77
+  offset: 0, 0
+  index: -1
+diyongfuren_17
+  rotate: false
+  xy: 250, 420
+  size: 33, 20
+  orig: 33, 20
+  offset: 0, 0
+  index: -1
+diyongfuren_18
+  rotate: true
+  xy: 86, 131
+  size: 62, 161
+  orig: 62, 161
+  offset: 0, 0
+  index: -1
+diyongfuren_19
+  rotate: true
+  xy: 295, 387
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+diyongfuren_2
+  rotate: true
+  xy: 249, 132
+  size: 62, 60
+  orig: 62, 60
+  offset: 0, 0
+  index: -1
+diyongfuren_20
+  rotate: false
+  xy: 311, 156
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+diyongfuren_21
+  rotate: false
+  xy: 308, 3
+  size: 68, 45
+  orig: 68, 45
+  offset: 0, 0
+  index: -1
+diyongfuren_22
+  rotate: true
+  xy: 368, 53
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+diyongfuren_23
+  rotate: false
+  xy: 266, 378
+  size: 27, 40
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+diyongfuren_24
+  rotate: true
+  xy: 266, 351
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+diyongfuren_25
+  rotate: true
+  xy: 311, 131
+  size: 23, 44
+  orig: 23, 44
+  offset: 0, 0
+  index: -1
+diyongfuren_26
+  rotate: false
+  xy: 357, 132
+  size: 36, 22
+  orig: 36, 22
+  offset: 0, 0
+  index: -1
+diyongfuren_27
+  rotate: false
+  xy: 2, 332
+  size: 155, 178
+  orig: 155, 178
+  offset: 0, 0
+  index: -1
+diyongfuren_28
+  rotate: true
+  xy: 250, 442
+  size: 68, 94
+  orig: 68, 94
+  offset: 0, 0
+  index: -1
+diyongfuren_29
+  rotate: false
+  xy: 159, 419
+  size: 89, 91
+  orig: 89, 91
+  offset: 0, 0
+  index: -1
+diyongfuren_3
+  rotate: false
+  xy: 229, 50
+  size: 137, 79
+  orig: 137, 79
+  offset: 0, 0
+  index: -1
+diyongfuren_30
+  rotate: false
+  xy: 262, 208
+  size: 50, 52
+  orig: 50, 52
+  offset: 0, 0
+  index: -1
+diyongfuren_31
+  rotate: false
+  xy: 86, 195
+  size: 93, 135
+  orig: 93, 135
+  offset: 0, 0
+  index: -1
+diyongfuren_32
+  rotate: false
+  xy: 368, 81
+  size: 33, 49
+  orig: 33, 49
+  offset: 0, 0
+  index: -1
+diyongfuren_33
+  rotate: false
+  xy: 253, 262
+  size: 69, 81
+  orig: 69, 81
+  offset: 0, 0
+  index: -1
+diyongfuren_34
+  rotate: false
+  xy: 378, 12
+  size: 36, 39
+  orig: 40, 39
+  offset: 2, 0
+  index: -1
+diyongfuren_4
+  rotate: false
+  xy: 363, 160
+  size: 30, 67
+  orig: 30, 67
+  offset: 0, 0
+  index: -1
+diyongfuren_5
+  rotate: true
+  xy: 305, 355
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+diyongfuren_6
+  rotate: false
+  xy: 319, 420
+  size: 22, 20
+  orig: 55, 22
+  offset: 33, 1
+  index: -1
+diyongfuren_7
+  rotate: true
+  xy: 314, 229
+  size: 31, 77
+  orig: 54, 82
+  offset: 0, 0
+  index: -1
+diyongfuren_8
+  rotate: false
+  xy: 181, 252
+  size: 70, 91
+  orig: 70, 91
+  offset: 0, 0
+  index: -1
+diyongfuren_9
+  rotate: true
+  xy: 181, 196
+  size: 54, 79
+  orig: 54, 79
+  offset: 0, 0
+  index: -1
+touying
+  rotate: true
+  xy: 2, 123
+  size: 207, 82
+  orig: 207, 82
+  offset: 0, 0
+  index: -1

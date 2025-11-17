@@ -1,0 +1,20 @@
+
+d-maoweiyu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d-maoweiyu
+  rotate: false
+  xy: 2, 143
+  size: 222, 111
+  orig: 222, 111
+  offset: 0, 0
+  index: -1
+d-maoweiyu-yuqi
+  rotate: true
+  xy: 226, 208
+  size: 46, 28
+  orig: 46, 28
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+z-nianyu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z-nianyu
+  rotate: false
+  xy: 2, 95
+  size: 150, 77
+  orig: 150, 77
+  offset: 0, 0
+  index: -1
+z-nianyu-yuqi
+  rotate: true
+  xy: 154, 149
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="cn" xmlns:th="http://www.thymeleaf.org" >
+<head>
+    <meta charset="UTF-8">
+    <title>做个游戏</title>
+</head>
+<body  >
+	<form  class="main" action="/s_index/login" method="POST">
+		<font color="#FF0000" ; size = "12px">后台管理系统</font><br>
+		<input   type="text"     class="form-control" id="username" name="username" placeholder="用户名"><br>
+		<input   type="password" class="form-control" id="password" name="password" placeholder="密码"><br>
+		<button  type="submit"   class="form-submit"  >登&nbsp;&nbsp;录</button><br>
+		<font color="#FF0000" ; size = "6px"><%= msg %></font>
+	</form>
+</body>
+
+<style>
+	body{
+		background-image: url("/img/login.png");
+		/* background-size: cover; */
+		background-position: center center;
+		/* 背景图不平铺 */
+		background-repeat: no-repeat;
+		/* 当内容高度大于图片高度时，背景图像的位置相对于viewport固定 */
+		background-attachment: fixed;
+		/* 让背景图基于容器大小伸缩 */
+		background-size: cover;
+		/* 设置背景颜色，背景图加载过程中会显示背景色 */
+		background-color: #464646;
+	} 
+	*{
+		box-sizing: border-box;
+	}
+	.main{
+		text-align: center; /*让div内部文字居中*/
+		background-color: rgb(28, 26, 158);
+		border-radius: 20px;
+		width: 500px;
+		height: 300px;
+		margin: auto;
+		position: absolute;
+		top: 0;
+		left: 0;
+		right: 0;
+		bottom: 0;
+	}
+	.form-control{
+		margin-top: 20px;
+		border: 16px solid white;
+	}
+	.form-submit{
+		width:100px;
+		height:40px;
+		margin-top:20px;
+	}
+</style>
+	
+</html>

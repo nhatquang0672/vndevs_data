@@ -1,0 +1,153 @@
+
+50012.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+touying
+  rotate: true
+  xy: 331, 550
+  size: 185, 72
+  orig: 196, 75
+  offset: 2, 2
+  index: -1
+yanjingshe_0
+  rotate: false
+  xy: 832, 527
+  size: 49, 119
+  orig: 49, 119
+  offset: 0, 0
+  index: -1
+yanjingshe_1
+  rotate: false
+  xy: 786, 374
+  size: 77, 110
+  orig: 77, 110
+  offset: 0, 0
+  index: -1
+yanjingshe_10
+  rotate: true
+  xy: 780, 648
+  size: 365, 102
+  orig: 365, 102
+  offset: 0, 0
+  index: -1
+yanjingshe_11
+  rotate: false
+  xy: 742, 700
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+yanjingshe_12
+  rotate: true
+  xy: 742, 678
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+yanjingshe_13
+  rotate: false
+  xy: 883, 531
+  size: 113, 111
+  orig: 113, 111
+  offset: 0, 0
+  index: -1
+yanjingshe_14
+  rotate: false
+  xy: 616, 484
+  size: 98, 132
+  orig: 98, 132
+  offset: 0, 0
+  index: -1
+yanjingshe_15
+  rotate: true
+  xy: 2, 477
+  size: 258, 327
+  orig: 261, 361
+  offset: 0, 0
+  index: -1
+yanjingshe_16
+  rotate: true
+  xy: 742, 498
+  size: 148, 88
+  orig: 148, 88
+  offset: 0, 0
+  index: -1
+yanjingshe_17
+  rotate: true
+  xy: 716, 353
+  size: 143, 68
+  orig: 143, 68
+  offset: 0, 0
+  index: -1
+yanjingshe_18
+  rotate: false
+  xy: 412, 728
+  size: 366, 285
+  orig: 366, 285
+  offset: 0, 0
+  index: -1
+yanjingshe_19
+  rotate: false
+  xy: 2, 737
+  size: 408, 276
+  orig: 408, 276
+  offset: 0, 0
+  index: -1
+yanjingshe_2
+  rotate: true
+  xy: 786, 302
+  size: 70, 73
+  orig: 70, 73
+  offset: 0, 0
+  index: -1
+yanjingshe_3
+  rotate: false
+  xy: 405, 565
+  size: 209, 161
+  orig: 209, 161
+  offset: 0, 0
+  index: -1
+yanjingshe_4
+  rotate: true
+  xy: 865, 364
+  size: 57, 99
+  orig: 57, 99
+  offset: 0, 0
+  index: -1
+yanjingshe_5
+  rotate: true
+  xy: 884, 762
+  size: 251, 129
+  orig: 251, 129
+  offset: 0, 0
+  index: -1
+yanjingshe_6
+  rotate: false
+  xy: 883, 423
+  size: 114, 106
+  orig: 114, 106
+  offset: 0, 0
+  index: -1
+yanjingshe_7
+  rotate: true
+  xy: 832, 486
+  size: 39, 48
+  orig: 39, 48
+  offset: 0, 0
+  index: -1
+yanjingshe_8
+  rotate: true
+  xy: 884, 644
+  size: 116, 129
+  orig: 116, 129
+  offset: 0, 0
+  index: -1
+yanjingshe_9
+  rotate: false
+  xy: 616, 618
+  size: 124, 108
+  orig: 124, 108
+  offset: 0, 0
+  index: -1

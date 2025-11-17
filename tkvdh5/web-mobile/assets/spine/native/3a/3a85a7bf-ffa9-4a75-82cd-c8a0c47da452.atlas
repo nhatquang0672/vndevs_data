@@ -1,0 +1,27 @@
+
+z-quanyayu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z-quanyayu-1
+  rotate: false
+  xy: 156, 150
+  size: 44, 50
+  orig: 44, 50
+  offset: 0, 0
+  index: -1
+z-quanyayu-2
+  rotate: false
+  xy: 2, 126
+  size: 152, 74
+  orig: 152, 74
+  offset: 0, 0
+  index: -1
+z-quanyayu-3
+  rotate: true
+  xy: 156, 120
+  size: 28, 22
+  orig: 28, 22
+  offset: 0, 0
+  index: -1

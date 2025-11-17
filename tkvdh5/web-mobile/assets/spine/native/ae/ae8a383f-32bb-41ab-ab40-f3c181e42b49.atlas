@@ -1,0 +1,20 @@
+
+z-jinqiangyu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z-jinqiangyu
+  rotate: false
+  xy: 2, 79
+  size: 152, 102
+  orig: 152, 102
+  offset: 0, 0
+  index: -1
+z-jinqiangyu-yuqi
+  rotate: true
+  xy: 156, 144
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1

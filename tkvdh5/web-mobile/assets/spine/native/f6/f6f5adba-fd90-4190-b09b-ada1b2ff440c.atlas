@@ -1,0 +1,27 @@
+
+z-fanxiyu.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z-fanxiyu-1
+  rotate: true
+  xy: 2, 266
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+z-fanxiyu-2
+  rotate: false
+  xy: 34, 245
+  size: 154, 48
+  orig: 154, 48
+  offset: 0, 0
+  index: -1
+z-fanxiyu-3
+  rotate: false
+  xy: 190, 245
+  size: 103, 48
+  orig: 103, 48
+  offset: 0, 0
+  index: -1

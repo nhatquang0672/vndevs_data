@@ -1,0 +1,110 @@
+
+effect_xianfa_hit_120.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: true
+  xy: 360, 829
+  size: 189, 284
+  orig: 704, 704
+  offset: 262, 175
+  index: -1
+images/0_00001
+  rotate: true
+  xy: 345, 566
+  size: 231, 334
+  orig: 704, 704
+  offset: 238, 175
+  index: -1
+images/0_00003
+  rotate: true
+  xy: 646, 799
+  size: 219, 360
+  orig: 704, 704
+  offset: 255, 175
+  index: -1
+images/0_00005
+  rotate: false
+  xy: 681, 428
+  size: 234, 369
+  orig: 704, 704
+  offset: 238, 175
+  index: -1
+images/0_00007
+  rotate: true
+  xy: 2, 324
+  size: 240, 377
+  orig: 704, 704
+  offset: 230, 177
+  index: -1
+images/0_00009
+  rotate: true
+  xy: 637, 175
+  size: 251, 381
+  orig: 704, 704
+  offset: 222, 178
+  index: -1
+images/0_00019
+  rotate: false
+  xy: 381, 191
+  size: 254, 373
+  orig: 704, 704
+  offset: 216, 180
+  index: -1
+images/0_00021
+  rotate: true
+  xy: 2, 635
+  size: 223, 341
+  orig: 704, 704
+  offset: 235, 186
+  index: -1
+images/0_00023
+  rotate: true
+  xy: 54, 860
+  size: 158, 304
+  orig: 704, 704
+  offset: 286, 204
+  index: -1
+images/0_00025
+  rotate: true
+  xy: 2, 971
+  size: 47, 50
+  orig: 704, 704
+  offset: 304, 262
+  index: -1
+
+effect_xianfa_hit_1202.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00011
+  rotate: false
+  xy: 273, 407
+  size: 256, 383
+  orig: 704, 704
+  offset: 224, 175
+  index: -1
+images/0_00013
+  rotate: false
+  xy: 2, 2
+  size: 265, 393
+  orig: 704, 704
+  offset: 215, 175
+  index: -1
+images/0_00015
+  rotate: false
+  xy: 2, 397
+  size: 269, 393
+  orig: 704, 704
+  offset: 211, 175
+  index: -1
+images/0_00017
+  rotate: false
+  xy: 269, 7
+  size: 263, 388
+  orig: 704, 704
+  offset: 210, 176
+  index: -1

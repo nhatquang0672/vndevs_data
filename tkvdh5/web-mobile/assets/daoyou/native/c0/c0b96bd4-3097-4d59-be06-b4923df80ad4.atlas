@@ -1,0 +1,69 @@
+
+effect_chushou_muyuan.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: false
+  xy: 50, 850
+  size: 103, 91
+  orig: 440, 440
+  offset: 153, 167
+  index: -1
+images/0_00001
+  rotate: false
+  xy: 155, 795
+  size: 148, 146
+  orig: 440, 440
+  offset: 145, 147
+  index: -1
+images/0_00003
+  rotate: false
+  xy: 530, 741
+  size: 200, 200
+  orig: 440, 440
+  offset: 117, 120
+  index: -1
+images/0_00005
+  rotate: false
+  xy: 732, 733
+  size: 209, 208
+  orig: 440, 440
+  offset: 112, 116
+  index: -1
+images/0_00007
+  rotate: false
+  xy: 213, 528
+  size: 215, 215
+  orig: 440, 440
+  offset: 110, 113
+  index: -1
+images/0_00009
+  rotate: false
+  xy: 430, 521
+  size: 220, 218
+  orig: 440, 440
+  offset: 108, 113
+  index: -1
+images/0_00011
+  rotate: false
+  xy: 2, 584
+  size: 209, 209
+  orig: 440, 440
+  offset: 109, 122
+  index: -1
+images/0_00013
+  rotate: true
+  xy: 2, 901
+  size: 40, 46
+  orig: 440, 440
+  offset: 221, 223
+  index: -1
+images/3
+  rotate: false
+  xy: 305, 745
+  size: 223, 196
+  orig: 352, 352
+  offset: 63, 93
+  index: -1

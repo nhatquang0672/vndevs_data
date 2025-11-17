@@ -1,0 +1,216 @@
+
+yuanshitianzun.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+touying
+  rotate: false
+  xy: 2, 428
+  size: 207, 82
+  orig: 207, 82
+  offset: 0, 0
+  index: -1
+yuanshitianzhun_0
+  rotate: false
+  xy: 132, 239
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+yuanshitianzhun_1
+  rotate: true
+  xy: 273, 298
+  size: 42, 55
+  orig: 42, 55
+  offset: 0, 0
+  index: -1
+yuanshitianzhun_10
+  rotate: false
+  xy: 492, 355
+  size: 18, 38
+  orig: 18, 38
+  offset: 0, 0
+  index: -1
+yuanshitianzhun_11
+  rotate: true
+  xy: 200, 254
+  size: 16, 33
+  orig: 17, 33
+  offset: 1, 0
+  index: -1
+yuanshitianzhun_12
+  rotate: true
+  xy: 330, 294
+  size: 19, 45
+  orig: 19, 45
+  offset: 0, 0
+  index: -1
+yuanshitianzhun_13
+  rotate: false
+  xy: 83, 239
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+yuanshitianzhun_14
+  rotate: false
+  xy: 62, 239
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+yuanshitianzhun_15
+  rotate: false
+  xy: 416, 395
+  size: 88, 115
+  orig: 88, 115
+  offset: 0, 0
+  index: -1
+yuanshitianzhun_16
+  rotate: true
+  xy: 330, 315
+  size: 25, 46
+  orig: 25, 46
+  offset: 0, 0
+  index: -1
+yuanshitianzhun_17
+  rotate: false
+  xy: 250, 272
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+yuanshitianzhun_18
+  rotate: false
+  xy: 378, 298
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+yuanshitianzhun_19
+  rotate: false
+  xy: 273, 256
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+yuanshitianzhun_2
+  rotate: false
+  xy: 2, 278
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+yuanshitianzhun_20
+  rotate: true
+  xy: 68, 254
+  size: 56, 62
+  orig: 56, 62
+  offset: 0, 0
+  index: -1
+yuanshitianzhun_21
+  rotate: false
+  xy: 132, 386
+  size: 71, 40
+  orig: 71, 40
+  offset: 0, 0
+  index: -1
+yuanshitianzhun_22
+  rotate: true
+  xy: 235, 245
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+yuanshitianzhun_23
+  rotate: true
+  xy: 416, 324
+  size: 69, 74
+  orig: 69, 74
+  offset: 0, 0
+  index: -1
+yuanshitianzhun_24
+  rotate: false
+  xy: 2, 312
+  size: 128, 114
+  orig: 128, 114
+  offset: 0, 0
+  index: -1
+yuanshitianzhun_25
+  rotate: true
+  xy: 492, 333
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+yuanshitianzhun_26
+  rotate: true
+  xy: 164, 220
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+yuanshitianzhun_27
+  rotate: true
+  xy: 492, 307
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+yuanshitianzhun_28
+  rotate: false
+  xy: 211, 342
+  size: 203, 168
+  orig: 203, 168
+  offset: 0, 0
+  index: -1
+yuanshitianzhun_3
+  rotate: false
+  xy: 200, 272
+  size: 48, 30
+  orig: 48, 30
+  offset: 0, 0
+  index: -1
+yuanshitianzhun_4
+  rotate: true
+  xy: 195, 233
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+yuanshitianzhun_5
+  rotate: true
+  xy: 2, 245
+  size: 31, 58
+  orig: 31, 58
+  offset: 0, 0
+  index: -1
+yuanshitianzhun_6
+  rotate: false
+  xy: 132, 324
+  size: 69, 60
+  orig: 69, 60
+  offset: 0, 0
+  index: -1
+yuanshitianzhun_7
+  rotate: true
+  xy: 164, 241
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+yuanshitianzhun_8
+  rotate: false
+  xy: 203, 304
+  size: 68, 36
+  orig: 68, 36
+  offset: 0, 0
+  index: -1
+yuanshitianzhun_9
+  rotate: false
+  xy: 132, 267
+  size: 66, 55
+  orig: 66, 55
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+s-hujing.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s-hujing
+  rotate: false
+  xy: 2, 85
+  size: 249, 166
+  orig: 249, 166
+  offset: 0, 0
+  index: -1

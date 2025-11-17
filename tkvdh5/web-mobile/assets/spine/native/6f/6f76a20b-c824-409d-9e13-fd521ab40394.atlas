@@ -1,0 +1,13 @@
+
+zw-weiguoweimin.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zw-weiguoweimin
+  rotate: false
+  xy: 2, 2
+  size: 130, 165
+  orig: 130, 165
+  offset: 0, 0
+  index: -1

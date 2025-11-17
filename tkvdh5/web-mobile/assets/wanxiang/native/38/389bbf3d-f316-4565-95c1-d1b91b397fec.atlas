@@ -1,0 +1,174 @@
+
+effect_choumifa3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00013
+  rotate: true
+  xy: 161, 224
+  size: 57, 61
+  orig: 375, 667
+  offset: 148, 345
+  index: -1
+images/0_00015
+  rotate: true
+  xy: 161, 283
+  size: 104, 71
+  orig: 375, 667
+  offset: 96, 349
+  index: -1
+images/0_00017
+  rotate: true
+  xy: 161, 389
+  size: 145, 79
+  orig: 375, 667
+  offset: 49, 340
+  index: -1
+images/0_00019
+  rotate: true
+  xy: 2, 110
+  size: 161, 128
+  orig: 375, 667
+  offset: 29, 288
+  index: -1
+images/0_00021
+  rotate: true
+  xy: 454, 209
+  size: 158, 179
+  orig: 375, 667
+  offset: 29, 233
+  index: -1
+images/0_00023
+  rotate: true
+  xy: 234, 216
+  size: 154, 218
+  orig: 375, 667
+  offset: 30, 192
+  index: -1
+images/0_00025
+  rotate: true
+  xy: 758, 227
+  size: 149, 233
+  orig: 375, 667
+  offset: 33, 175
+  index: -1
+images/0_00027
+  rotate: false
+  xy: 794, 527
+  size: 200, 233
+  orig: 375, 667
+  offset: 37, 175
+  index: -1
+images/0_00028
+  rotate: false
+  xy: 274, 539
+  size: 251, 232
+  orig: 375, 667
+  offset: 39, 176
+  index: -1
+images/0_00029
+  rotate: false
+  xy: 2, 536
+  size: 251, 231
+  orig: 375, 667
+  offset: 40, 177
+  index: -1
+images/0_00031
+  rotate: false
+  xy: 538, 531
+  size: 254, 241
+  orig: 375, 667
+  offset: 41, 167
+  index: -1
+images/0_00033
+  rotate: false
+  xy: 274, 773
+  size: 262, 249
+  orig: 375, 667
+  offset: 40, 160
+  index: -1
+images/0_00035
+  rotate: false
+  xy: 2, 769
+  size: 270, 253
+  orig: 375, 667
+  offset: 38, 156
+  index: -1
+images/0_00037
+  rotate: false
+  xy: 538, 774
+  size: 254, 248
+  orig: 375, 667
+  offset: 59, 161
+  index: -1
+images/0_00039
+  rotate: true
+  xy: 794, 762
+  size: 260, 219
+  orig: 375, 667
+  offset: 59, 158
+  index: -1
+images/0_00041
+  rotate: true
+  xy: 2, 273
+  size: 261, 157
+  orig: 375, 667
+  offset: 63, 154
+  index: -1
+images/0_00043
+  rotate: false
+  xy: 255, 372
+  size: 253, 165
+  orig: 375, 667
+  offset: 74, 151
+  index: -1
+images/0_00045
+  rotate: false
+  xy: 510, 369
+  size: 246, 160
+  orig: 375, 667
+  offset: 79, 154
+  index: -1
+images/0_00047
+  rotate: false
+  xy: 787, 419
+  size: 214, 106
+  orig: 375, 667
+  offset: 105, 179
+  index: -1
+images/0_00049
+  rotate: true
+  xy: 758, 378
+  size: 151, 27
+  orig: 375, 667
+  offset: 104, 214
+  index: -1
+images/0_00051
+  rotate: true
+  xy: 996, 707
+  size: 53, 25
+  orig: 375, 667
+  offset: 204, 214
+  index: -1
+images/0_00053
+  rotate: false
+  xy: 996, 686
+  size: 26, 19
+  orig: 375, 667
+  offset: 233, 218
+  index: -1
+images/0_00055
+  rotate: false
+  xy: 1015, 1016
+  size: 6, 6
+  orig: 375, 667
+  offset: 235, 229
+  index: -1
+images/0_00057
+  rotate: false
+  xy: 1015, 1012
+  size: 2, 2
+  orig: 375, 667
+  offset: 237, 231
+  index: -1

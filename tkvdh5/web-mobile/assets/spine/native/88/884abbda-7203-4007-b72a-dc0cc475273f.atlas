@@ -1,0 +1,223 @@
+
+honghaier.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+honghaier_0
+  rotate: true
+  xy: 2, 79
+  size: 40, 34
+  orig: 40, 37
+  offset: 0, 3
+  index: -1
+honghaier_1
+  rotate: true
+  xy: 480, 392
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+honghaier_10
+  rotate: false
+  xy: 2, 314
+  size: 377, 196
+  orig: 377, 196
+  offset: 0, 0
+  index: -1
+honghaier_11
+  rotate: false
+  xy: 480, 471
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+honghaier_12
+  rotate: true
+  xy: 461, 79
+  size: 78, 41
+  orig: 78, 41
+  offset: 0, 0
+  index: -1
+honghaier_13
+  rotate: true
+  xy: 381, 326
+  size: 184, 97
+  orig: 184, 97
+  offset: 0, 0
+  index: -1
+honghaier_14
+  rotate: false
+  xy: 154, 18
+  size: 63, 65
+  orig: 63, 65
+  offset: 0, 0
+  index: -1
+honghaier_15
+  rotate: true
+  xy: 109, 86
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+honghaier_16
+  rotate: true
+  xy: 478, 244
+  size: 74, 32
+  orig: 74, 32
+  offset: 0, 0
+  index: -1
+honghaier_17
+  rotate: true
+  xy: 480, 355
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+honghaier_18
+  rotate: false
+  xy: 259, 101
+  size: 61, 67
+  orig: 61, 67
+  offset: 0, 0
+  index: -1
+honghaier_19
+  rotate: false
+  xy: 38, 81
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+honghaier_2
+  rotate: false
+  xy: 143, 85
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+honghaier_20
+  rotate: true
+  xy: 461, 159
+  size: 83, 46
+  orig: 83, 46
+  offset: 0, 0
+  index: -1
+honghaier_21
+  rotate: true
+  xy: 480, 429
+  size: 40, 27
+  orig: 40, 27
+  offset: 0, 0
+  index: -1
+honghaier_22
+  rotate: false
+  xy: 2, 5
+  size: 150, 72
+  orig: 150, 72
+  offset: 0, 0
+  index: -1
+honghaier_23
+  rotate: true
+  xy: 322, 100
+  size: 68, 55
+  orig: 68, 55
+  offset: 0, 0
+  index: -1
+honghaier_24
+  rotate: false
+  xy: 379, 59
+  size: 65, 60
+  orig: 65, 60
+  offset: 0, 0
+  index: -1
+honghaier_25
+  rotate: true
+  xy: 309, 43
+  size: 55, 57
+  orig: 55, 57
+  offset: 0, 0
+  index: -1
+honghaier_26
+  rotate: false
+  xy: 368, 15
+  size: 58, 42
+  orig: 58, 42
+  offset: 0, 0
+  index: -1
+honghaier_27
+  rotate: false
+  xy: 480, 320
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+honghaier_28
+  rotate: true
+  xy: 196, 99
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+honghaier_29
+  rotate: true
+  xy: 219, 4
+  size: 93, 88
+  orig: 93, 88
+  offset: 0, 0
+  index: -1
+honghaier_3
+  rotate: false
+  xy: 234, 103
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+honghaier_4
+  rotate: true
+  xy: 461, 271
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+honghaier_5
+  rotate: true
+  xy: 74, 85
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+honghaier_6
+  rotate: true
+  xy: 169, 89
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+honghaier_7
+  rotate: true
+  xy: 461, 294
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1
+honghaier_8
+  rotate: false
+  xy: 259, 170
+  size: 118, 142
+  orig: 118, 142
+  offset: 0, 0
+  index: -1
+honghaier_9
+  rotate: false
+  xy: 446, 19
+  size: 63, 58
+  orig: 66, 58
+  offset: 0, 0
+  index: -1
+touying
+  rotate: true
+  xy: 381, 121
+  size: 203, 78
+  orig: 207, 82
+  offset: 2, 2
+  index: -1

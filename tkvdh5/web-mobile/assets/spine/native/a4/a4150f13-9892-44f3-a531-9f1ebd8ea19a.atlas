@@ -1,0 +1,13 @@
+
+zw-jinqianbiao.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zw-jinqianbiao
+  rotate: false
+  xy: 2, 4
+  size: 83, 81
+  orig: 83, 81
+  offset: 0, 0
+  index: -1

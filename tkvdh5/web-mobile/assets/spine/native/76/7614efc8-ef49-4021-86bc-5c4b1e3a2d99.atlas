@@ -1,0 +1,20 @@
+
+x-ebingyu.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+x-ebingyu-1
+  rotate: false
+  xy: 2, 37
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+x-ebingyu-2
+  rotate: false
+  xy: 2, 58
+  size: 104, 48
+  orig: 104, 48
+  offset: 0, 0
+  index: -1

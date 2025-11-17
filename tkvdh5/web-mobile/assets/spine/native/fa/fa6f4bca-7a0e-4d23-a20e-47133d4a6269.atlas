@@ -1,0 +1,13 @@
+
+d-yaoyu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d-yaoyu
+  rotate: false
+  xy: 2, 2
+  size: 188, 209
+  orig: 188, 209
+  offset: 0, 0
+  index: -1

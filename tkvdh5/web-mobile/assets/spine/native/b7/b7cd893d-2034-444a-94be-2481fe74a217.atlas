@@ -1,0 +1,139 @@
+
+xiaoqing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+touying
+  rotate: false
+  xy: 438, 284
+  size: 63, 24
+  orig: 65, 26
+  offset: 1, 1
+  index: -1
+xiaoqing_0
+  rotate: false
+  xy: 298, 340
+  size: 73, 66
+  orig: 73, 66
+  offset: 0, 0
+  index: -1
+xiaoqing_1
+  rotate: true
+  xy: 488, 426
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+xiaoqing_10
+  rotate: true
+  xy: 2, 328
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+xiaoqing_11
+  rotate: false
+  xy: 190, 303
+  size: 106, 103
+  orig: 106, 103
+  offset: 0, 0
+  index: -1
+xiaoqing_12
+  rotate: false
+  xy: 377, 360
+  size: 109, 91
+  orig: 109, 92
+  offset: 0, 1
+  index: -1
+xiaoqing_13
+  rotate: false
+  xy: 190, 408
+  size: 185, 101
+  orig: 185, 101
+  offset: 0, 0
+  index: -1
+xiaoqing_14
+  rotate: false
+  xy: 377, 453
+  size: 119, 56
+  orig: 119, 56
+  offset: 0, 0
+  index: -1
+xiaoqing_15
+  rotate: true
+  xy: 298, 298
+  size: 40, 55
+  orig: 40, 55
+  offset: 0, 0
+  index: -1
+xiaoqing_16
+  rotate: false
+  xy: 92, 332
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+xiaoqing_17
+  rotate: false
+  xy: 2, 294
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+xiaoqing_2
+  rotate: true
+  xy: 410, 266
+  size: 40, 24
+  orig: 40, 24
+  offset: 0, 0
+  index: -1
+xiaoqing_3
+  rotate: false
+  xy: 2, 373
+  size: 186, 136
+  orig: 186, 136
+  offset: 0, 0
+  index: -1
+xiaoqing_4
+  rotate: true
+  xy: 436, 242
+  size: 40, 49
+  orig: 40, 49
+  offset: 0, 0
+  index: -1
+xiaoqing_5
+  rotate: true
+  xy: 373, 308
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+xiaoqing_6
+  rotate: true
+  xy: 48, 304
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+xiaoqing_7
+  rotate: true
+  xy: 355, 258
+  size: 48, 53
+  orig: 48, 53
+  offset: 0, 0
+  index: -1
+xiaoqing_8
+  rotate: true
+  xy: 438, 310
+  size: 48, 63
+  orig: 48, 63
+  offset: 0, 0
+  index: -1
+xiaoqing_9
+  rotate: false
+  xy: 48, 334
+  size: 42, 37
+  orig: 42, 37
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+d-liuxunianyu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d-liuxunianyu-1
+  rotate: false
+  xy: 45, 216
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+d-liuxunianyu-2
+  rotate: false
+  xy: 126, 214
+  size: 66, 28
+  orig: 66, 28
+  offset: 0, 0
+  index: -1
+d-liuxunianyu-3
+  rotate: true
+  xy: 84, 216
+  size: 26, 40
+  orig: 26, 40
+  offset: 0, 0
+  index: -1
+d-liuxunianyu-4
+  rotate: false
+  xy: 2, 187
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+d-liuxunianyu-5
+  rotate: false
+  xy: 2, 100
+  size: 196, 72
+  orig: 196, 72
+  offset: 0, 0
+  index: -1
+d-liuxunianyu-6
+  rotate: true
+  xy: 2, 227
+  size: 15, 41
+  orig: 15, 41
+  offset: 0, 0
+  index: -1
+d-liuxunianyu-7
+  rotate: false
+  xy: 44, 174
+  size: 55, 40
+  orig: 55, 40
+  offset: 0, 0
+  index: -1
+d-liuxunianyu-8
+  rotate: true
+  xy: 194, 210
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1

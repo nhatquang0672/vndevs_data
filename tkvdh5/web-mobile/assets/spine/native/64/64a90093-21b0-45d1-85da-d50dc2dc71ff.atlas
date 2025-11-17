@@ -1,0 +1,20 @@
+
+z-bimuyu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z-bimuyu
+  rotate: false
+  xy: 2, 62
+  size: 153, 119
+  orig: 153, 119
+  offset: 0, 0
+  index: -1
+z-bimuyu-yuqi
+  rotate: true
+  xy: 157, 148
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+effect_jianling02.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1/0_00000
+  rotate: false
+  xy: 570, 741
+  size: 264, 269
+  orig: 528, 528
+  offset: 119, 116
+  index: -1
+images/1/0_00001
+  rotate: false
+  xy: 294, 714
+  size: 274, 296
+  orig: 528, 528
+  offset: 118, 108
+  index: -1
+images/1/0_00003
+  rotate: false
+  xy: 213, 56
+  size: 284, 314
+  orig: 528, 528
+  offset: 113, 109
+  index: -1
+images/1/0_00005
+  rotate: false
+  xy: 2, 690
+  size: 290, 320
+  orig: 528, 528
+  offset: 111, 110
+  index: -1
+images/1/0_00007
+  rotate: false
+  xy: 2, 372
+  size: 289, 316
+  orig: 528, 528
+  offset: 111, 112
+  index: -1
+images/1/0_00009
+  rotate: false
+  xy: 293, 376
+  size: 282, 312
+  orig: 528, 528
+  offset: 114, 115
+  index: -1
+images/1/0_00011
+  rotate: true
+  xy: 499, 108
+  size: 266, 256
+  orig: 528, 528
+  offset: 117, 122
+  index: -1
+images/1/0_00013
+  rotate: false
+  xy: 757, 504
+  size: 253, 235
+  orig: 528, 528
+  offset: 121, 132
+  index: -1
+images/1/0_00015
+  rotate: false
+  xy: 757, 291
+  size: 243, 211
+  orig: 528, 528
+  offset: 125, 149
+  index: -1
+images/1/0_00017
+  rotate: false
+  xy: 757, 86
+  size: 222, 203
+  orig: 528, 528
+  offset: 136, 153
+  index: -1
+images/1/0_00019
+  rotate: false
+  xy: 836, 816
+  size: 172, 194
+  orig: 528, 528
+  offset: 140, 161
+  index: -1
+images/2
+  rotate: false
+  xy: 2, 55
+  size: 209, 315
+  orig: 308, 352
+  offset: 49, 32
+  index: -1

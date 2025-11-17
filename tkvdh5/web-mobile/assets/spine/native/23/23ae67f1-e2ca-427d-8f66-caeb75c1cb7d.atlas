@@ -1,0 +1,251 @@
+
+kongquemingwang.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kongquemingwang_0
+  rotate: false
+  xy: 84, 177
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+kongquemingwang_1
+  rotate: true
+  xy: 44, 177
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+kongquemingwang_10
+  rotate: false
+  xy: 244, 154
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+kongquemingwang_11
+  rotate: false
+  xy: 127, 340
+  size: 81, 86
+  orig: 81, 86
+  offset: 0, 0
+  index: -1
+kongquemingwang_12
+  rotate: true
+  xy: 284, 198
+  size: 51, 45
+  orig: 51, 45
+  offset: 0, 0
+  index: -1
+kongquemingwang_13
+  rotate: true
+  xy: 2, 214
+  size: 83, 94
+  orig: 83, 94
+  offset: 0, 0
+  index: -1
+kongquemingwang_16
+  rotate: true
+  xy: 2, 182
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+kongquemingwang_17
+  rotate: true
+  xy: 206, 272
+  size: 55, 85
+  orig: 55, 85
+  offset: 0, 0
+  index: -1
+kongquemingwang_18
+  rotate: false
+  xy: 293, 251
+  size: 36, 76
+  orig: 36, 76
+  offset: 0, 0
+  index: -1
+kongquemingwang_19
+  rotate: false
+  xy: 199, 200
+  size: 83, 70
+  orig: 83, 70
+  offset: 0, 0
+  index: -1
+kongquemingwang_2
+  rotate: true
+  xy: 127, 290
+  size: 48, 77
+  orig: 48, 77
+  offset: 0, 0
+  index: -1
+kongquemingwang_20
+  rotate: false
+  xy: 398, 388
+  size: 100, 122
+  orig: 100, 122
+  offset: 0, 0
+  index: -1
+kongquemingwang_21
+  rotate: true
+  xy: 98, 229
+  size: 46, 21
+  orig: 46, 21
+  offset: 0, 0
+  index: -1
+kongquemingwang_22
+  rotate: false
+  xy: 398, 340
+  size: 100, 46
+  orig: 100, 46
+  offset: 0, 0
+  index: -1
+kongquemingwang_23
+  rotate: false
+  xy: 2, 166
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+kongquemingwang_24
+  rotate: false
+  xy: 169, 211
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+kongquemingwang_25
+  rotate: true
+  xy: 331, 217
+  size: 73, 57
+  orig: 73, 57
+  offset: 0, 0
+  index: -1
+kongquemingwang_26
+  rotate: false
+  xy: 123, 249
+  size: 74, 39
+  orig: 74, 41
+  offset: 0, 2
+  index: -1
+kongquemingwang_27
+  rotate: true
+  xy: 397, 254
+  size: 84, 98
+  orig: 84, 98
+  offset: 0, 0
+  index: -1
+kongquemingwang_28
+  rotate: true
+  xy: 99, 277
+  size: 33, 22
+  orig: 33, 22
+  offset: 0, 0
+  index: -1
+kongquemingwang_29
+  rotate: true
+  xy: 198, 157
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+kongquemingwang_3
+  rotate: false
+  xy: 332, 350
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+kongquemingwang_30
+  rotate: true
+  xy: 169, 177
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+kongquemingwang_31
+  rotate: false
+  xy: 2, 299
+  size: 95, 28
+  orig: 95, 28
+  offset: 0, 0
+  index: -1
+kongquemingwang_32
+  rotate: false
+  xy: 210, 329
+  size: 120, 69
+  orig: 120, 69
+  offset: 0, 0
+  index: -1
+kongquemingwang_33
+  rotate: false
+  xy: 332, 292
+  size: 63, 56
+  orig: 63, 56
+  offset: 0, 0
+  index: -1
+kongquemingwang_34
+  rotate: false
+  xy: 211, 400
+  size: 185, 110
+  orig: 185, 110
+  offset: 0, 0
+  index: -1
+kongquemingwang_35
+  rotate: false
+  xy: 2, 329
+  size: 123, 97
+  orig: 123, 97
+  offset: 0, 0
+  index: -1
+kongquemingwang_4
+  rotate: true
+  xy: 121, 205
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+kongquemingwang_5
+  rotate: true
+  xy: 500, 485
+  size: 25, 10
+  orig: 25, 10
+  offset: 0, 0
+  index: -1
+kongquemingwang_6
+  rotate: true
+  xy: 500, 465
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+kongquemingwang_7
+  rotate: false
+  xy: 99, 312
+  size: 24, 15
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+kongquemingwang_8
+  rotate: false
+  xy: 98, 213
+  size: 18, 14
+  orig: 18, 15
+  offset: 0, 1
+  index: -1
+kongquemingwang_9
+  rotate: true
+  xy: 500, 450
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+touying
+  rotate: false
+  xy: 2, 428
+  size: 207, 82
+  orig: 207, 82
+  offset: 0, 0
+  index: -1

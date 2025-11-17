@@ -1,0 +1,20 @@
+
+x-sheshuiyu.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+x-sheshuiyu-1
+  rotate: false
+  xy: 2, 71
+  size: 102, 53
+  orig: 102, 53
+  offset: 0, 0
+  index: -1
+x-sheshuiyu-2
+  rotate: true
+  xy: 106, 99
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1

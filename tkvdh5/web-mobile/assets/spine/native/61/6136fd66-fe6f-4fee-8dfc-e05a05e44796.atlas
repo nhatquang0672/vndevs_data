@@ -1,0 +1,90 @@
+
+shouling_lingxianfuzhu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dalu_0
+  rotate: false
+  xy: 82, 152
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+dalu_1
+  rotate: false
+  xy: 199, 94
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+dalu_10
+  rotate: false
+  xy: 220, 13
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+dalu_2
+  rotate: true
+  xy: 82, 13
+  size: 77, 98
+  orig: 77, 98
+  offset: 0, 0
+  index: -1
+dalu_3
+  rotate: false
+  xy: 2, 185
+  size: 120, 69
+  orig: 120, 69
+  offset: 0, 0
+  index: -1
+dalu_4
+  rotate: true
+  xy: 2, 42
+  size: 37, 70
+  orig: 37, 70
+  offset: 0, 0
+  index: -1
+dalu_5
+  rotate: false
+  xy: 182, 18
+  size: 36, 72
+  orig: 36, 72
+  offset: 0, 0
+  index: -1
+dalu_6
+  rotate: false
+  xy: 124, 140
+  size: 91, 114
+  orig: 91, 114
+  offset: 0, 0
+  index: -1
+dalu_7
+  rotate: true
+  xy: 199, 110
+  size: 28, 55
+  orig: 28, 55
+  offset: 0, 0
+  index: -1
+dalu_8
+  rotate: false
+  xy: 220, 42
+  size: 31, 66
+  orig: 31, 66
+  offset: 0, 0
+  index: -1
+dalu_9
+  rotate: true
+  xy: 2, 81
+  size: 102, 78
+  orig: 102, 78
+  offset: 0, 0
+  index: -1
+touying
+  rotate: false
+  xy: 82, 92
+  size: 115, 46
+  orig: 115, 46
+  offset: 0, 0
+  index: -1

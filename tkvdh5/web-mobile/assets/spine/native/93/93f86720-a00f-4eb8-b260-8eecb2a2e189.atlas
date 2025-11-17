@@ -1,0 +1,111 @@
+
+effect_libao.png
+size: 644,644
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: false
+  xy: 488, 10
+  size: 143, 86
+  orig: 400, 200
+  offset: 42, 57
+  index: -1
+images/0_00002
+  rotate: false
+  xy: 324, 190
+  size: 315, 86
+  orig: 400, 200
+  offset: 42, 57
+  index: -1
+images/0_00004
+  rotate: false
+  xy: 324, 280
+  size: 315, 87
+  orig: 400, 200
+  offset: 42, 56
+  index: -1
+images/0_00006
+  rotate: false
+  xy: 4, 553
+  size: 316, 87
+  orig: 400, 200
+  offset: 42, 56
+  index: -1
+images/0_00008
+  rotate: false
+  xy: 4, 462
+  size: 316, 87
+  orig: 400, 200
+  offset: 42, 56
+  index: -1
+images/0_00010
+  rotate: false
+  xy: 324, 553
+  size: 316, 87
+  orig: 400, 200
+  offset: 42, 56
+  index: -1
+images/0_00012
+  rotate: false
+  xy: 4, 371
+  size: 316, 87
+  orig: 400, 200
+  offset: 42, 56
+  index: -1
+images/0_00014
+  rotate: false
+  xy: 324, 462
+  size: 316, 87
+  orig: 400, 200
+  offset: 42, 56
+  index: -1
+images/0_00016
+  rotate: false
+  xy: 4, 280
+  size: 316, 87
+  orig: 400, 200
+  offset: 42, 56
+  index: -1
+images/0_00018
+  rotate: false
+  xy: 324, 371
+  size: 316, 87
+  orig: 400, 200
+  offset: 42, 56
+  index: -1
+images/0_00020
+  rotate: false
+  xy: 4, 189
+  size: 316, 87
+  orig: 400, 200
+  offset: 42, 56
+  index: -1
+images/0_00022
+  rotate: false
+  xy: 4, 99
+  size: 316, 86
+  orig: 400, 200
+  offset: 42, 57
+  index: -1
+images/0_00024
+  rotate: false
+  xy: 4, 9
+  size: 315, 86
+  orig: 400, 200
+  offset: 42, 57
+  index: -1
+images/0_00026
+  rotate: false
+  xy: 324, 100
+  size: 304, 86
+  orig: 400, 200
+  offset: 53, 57
+  index: -1
+images/0_00028
+  rotate: false
+  xy: 324, 10
+  size: 160, 86
+  orig: 400, 200
+  offset: 197, 57
+  index: -1

@@ -1,0 +1,20 @@
+
+effect_xianfa_85.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1
+  rotate: true
+  xy: 2, 301
+  size: 174, 214
+  orig: 451, 451
+  offset: 135, 121
+  index: -1
+images/2
+  rotate: false
+  xy: 218, 299
+  size: 257, 176
+  orig: 451, 451
+  offset: 97, 138
+  index: -1

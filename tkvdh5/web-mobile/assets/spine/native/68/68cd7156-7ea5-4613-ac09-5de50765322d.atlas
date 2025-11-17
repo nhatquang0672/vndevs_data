@@ -1,0 +1,20 @@
+
+d-daqingsha.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d-daqingsha-1
+  rotate: false
+  xy: 265, 264
+  size: 55, 56
+  orig: 55, 56
+  offset: 0, 0
+  index: -1
+d-daqingsha-2
+  rotate: false
+  xy: 2, 215
+  size: 261, 105
+  orig: 261, 105
+  offset: 0, 0
+  index: -1

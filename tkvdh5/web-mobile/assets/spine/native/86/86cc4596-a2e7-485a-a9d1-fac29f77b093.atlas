@@ -1,0 +1,153 @@
+
+taibaijinxing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+taibaijinxing_0
+  rotate: true
+  xy: 236, 174
+  size: 84, 56
+  orig: 84, 56
+  offset: 0, 0
+  index: -1
+taibaijinxing_1
+  rotate: false
+  xy: 2, 286
+  size: 115, 86
+  orig: 115, 86
+  offset: 0, 0
+  index: -1
+taibaijinxing_10
+  rotate: true
+  xy: 361, 340
+  size: 170, 92
+  orig: 170, 92
+  offset: 0, 0
+  index: -1
+taibaijinxing_11
+  rotate: false
+  xy: 455, 452
+  size: 48, 58
+  orig: 48, 58
+  offset: 0, 0
+  index: -1
+taibaijinxing_12
+  rotate: true
+  xy: 304, 246
+  size: 92, 129
+  orig: 92, 129
+  offset: 0, 0
+  index: -1
+taibaijinxing_13
+  rotate: false
+  xy: 2, 374
+  size: 148, 136
+  orig: 148, 136
+  offset: 0, 0
+  index: -1
+taibaijinxing_14
+  rotate: true
+  xy: 100, 166
+  size: 81, 96
+  orig: 81, 96
+  offset: 0, 0
+  index: -1
+taibaijinxing_15
+  rotate: true
+  xy: 294, 185
+  size: 59, 66
+  orig: 59, 66
+  offset: 0, 0
+  index: -1
+taibaijinxing_16
+  rotate: true
+  xy: 119, 249
+  size: 85, 115
+  orig: 85, 115
+  offset: 0, 0
+  index: -1
+taibaijinxing_17
+  rotate: false
+  xy: 455, 333
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+taibaijinxing_18
+  rotate: true
+  xy: 2, 108
+  size: 83, 91
+  orig: 83, 91
+  offset: 0, 0
+  index: -1
+taibaijinxing_19
+  rotate: true
+  xy: 236, 260
+  size: 74, 65
+  orig: 74, 65
+  offset: 0, 0
+  index: -1
+taibaijinxing_2
+  rotate: false
+  xy: 493, 416
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+taibaijinxing_3
+  rotate: true
+  xy: 493, 429
+  size: 21, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+taibaijinxing_4
+  rotate: true
+  xy: 455, 375
+  size: 75, 36
+  orig: 75, 69
+  offset: 0, 0
+  index: -1
+taibaijinxing_5
+  rotate: false
+  xy: 304, 373
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+taibaijinxing_6
+  rotate: false
+  xy: 304, 403
+  size: 41, 23
+  orig: 41, 23
+  offset: 0, 0
+  index: -1
+taibaijinxing_7
+  rotate: false
+  xy: 2, 193
+  size: 96, 91
+  orig: 96, 91
+  offset: 0, 0
+  index: -1
+taibaijinxing_8
+  rotate: true
+  xy: 152, 336
+  size: 90, 150
+  orig: 90, 150
+  offset: 0, 0
+  index: -1
+taibaijinxing_9
+  rotate: true
+  xy: 435, 176
+  size: 155, 64
+  orig: 155, 64
+  offset: 0, 0
+  index: -1
+touying
+  rotate: false
+  xy: 152, 428
+  size: 207, 82
+  orig: 207, 82
+  offset: 0, 0
+  index: -1

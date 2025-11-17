@@ -1,0 +1,13 @@
+[
+  {"id":"1","type":"1","desc1":"宝鼎已升级至{0}级","desc2":"宝鼎升级完成，竟发出如此异象！","tmplId":"XG3HwPHt0kMt3P_VWuV1djZsWCD3eCzSzYDwymO00_s","geshi":["thing1","thing3"]},
+  {"id":"2","type":"2","desc1":"签到","desc2":"丰厚的签到奖励已准备好，快来领取吧！","tmplId":"VfnVLnhUOJIwV949d1pBKdNEzsRE0JKhwcbJTEYvoh8","geshi":["thing1","thing2"]},
+  {"id":"3","type":"3","desc1":"版本更新","desc2":"快来领取更新奖励，探索新的玩法和内容吧！","tmplId":"4_nYf_P-J-WwW9j2njXgwQhKNNig-hoB1JTCgdNXK3s","geshi":["thing2","character_string1"]},
+  {"id":"4","type":"4","desc1":"{0}","desc2":"有人发起了斗法挑战，快去看看谁功力深厚！","tmplId":"IzfPYFoK37hEq5v8RI71ZaJr3MhEdBkwi6LdTi7JTEI","geshi":["thing1","thing2"]},
+  {"id":"5","type":"4","desc1":"斗法排行榜","desc2":"当前排名{0},来领取您的斗法奖励吧！","tmplId":"Vc4zYW21i3iQM3qJGMXmmYyG4IxqBj2pnSqSMKWd9-Q","geshi":["thing2","thing1"]},
+  {"id":"6","type":"5","desc1":"仙盟BOSS已开启","desc2":"擎天自古非单手,来仙盟BOSS一起帮忙吧！","tmplId":"rCa-4RzwkbT2iDorPwaDzU443sTvqqUetm-pHBbVikA","geshi":["thing4","thing2"]},
+  {"id":"7","type":"6","desc1":"3级及以上资源刷新","desc2":"洞天刷新了高级资源，小心贼人盯上！","tmplId":"J6nE6jhe55Pt33ZVcrAhlrG-P_CHHG8VhLuPxrLHyyE","geshi":["thing1","thing2"]},
+  {"id":"8","type":"6","desc1":"{0}级资源","desc2":"有人在您的洞天抢掠，这可如何是好？","tmplId":"NAshDeeMUHy8SglrHgDhJo5IpU7tq9acuWnKiwxqee0","geshi":["thing1","thing2"]},
+  {"id":"9","type":"6","desc1":"{0}级资源","desc2":"有人在与你争夺宝物，请速速查看！","tmplId":"ZiHreWkEI87bi_8TuenYpEKl2MeK9_NVg2kIZsX8W_A","geshi":["thing1","thing2"]},
+  {"id":"10","type":"7","desc1":"兽灵炼魂已满","desc2":"再不领炼魂奖励兽灵要罢工啦。","tmplId":"DnUeX6Aq4Ct1ULtWtnVKLYDsNKQVSaokH4-mNqjl-Tw","geshi":["thing4","thing5"]},
+  {"id":"11","type":"8","desc1":"钓鱼体力恢复已满","desc2":"体力已全部恢复，可继续钓鱼!","tmplId":"YLmeyaiYaSVg1eGPEFMN8ys5zrpy2jQ-1Ug-fDiXwvU","geshi":["thing1","thing2"]}
+]

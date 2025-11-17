@@ -1,0 +1,104 @@
+
+heixiongjing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+heixiongjing_0
+  rotate: true
+  xy: 145, 2
+  size: 57, 61
+  orig: 57, 61
+  offset: 0, 0
+  index: -1
+heixiongjing_1
+  rotate: true
+  xy: 176, 335
+  size: 20, 18
+  orig: 22, 19
+  offset: 2, 1
+  index: -1
+heixiongjing_10
+  rotate: false
+  xy: 177, 170
+  size: 62, 48
+  orig: 62, 48
+  offset: 0, 0
+  index: -1
+heixiongjing_11
+  rotate: false
+  xy: 171, 220
+  size: 65, 92
+  orig: 65, 92
+  offset: 0, 0
+  index: -1
+heixiongjing_12
+  rotate: false
+  xy: 99, 203
+  size: 70, 109
+  orig: 70, 109
+  offset: 0, 0
+  index: -1
+heixiongjing_2
+  rotate: true
+  xy: 151, 173
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+heixiongjing_3
+  rotate: true
+  xy: 2, 15
+  size: 145, 141
+  orig: 145, 141
+  offset: 0, 0
+  index: -1
+heixiongjing_4
+  rotate: false
+  xy: 2, 314
+  size: 172, 196
+  orig: 172, 196
+  offset: 0, 0
+  index: -1
+heixiongjing_5
+  rotate: false
+  xy: 2, 162
+  size: 95, 150
+  orig: 95, 150
+  offset: 0, 0
+  index: -1
+heixiongjing_6
+  rotate: false
+  xy: 176, 422
+  size: 87, 88
+  orig: 87, 88
+  offset: 0, 0
+  index: -1
+heixiongjing_7
+  rotate: false
+  xy: 145, 61
+  size: 96, 101
+  orig: 96, 101
+  offset: 0, 0
+  index: -1
+heixiongjing_8
+  rotate: true
+  xy: 208, 11
+  size: 48, 75
+  orig: 48, 75
+  offset: 0, 0
+  index: -1
+heixiongjing_9
+  rotate: true
+  xy: 99, 164
+  size: 37, 50
+  orig: 37, 50
+  offset: 0, 0
+  index: -1
+touying
+  rotate: true
+  xy: 176, 357
+  size: 63, 24
+  orig: 65, 26
+  offset: 1, 1
+  index: -1

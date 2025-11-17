@@ -1,0 +1,20 @@
+
+x-jinyu.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+x-jinyu
+  rotate: false
+  xy: 2, 33
+  size: 103, 72
+  orig: 103, 72
+  offset: 0, 0
+  index: -1
+x-jinyu-1
+  rotate: false
+  xy: 2, 3
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1

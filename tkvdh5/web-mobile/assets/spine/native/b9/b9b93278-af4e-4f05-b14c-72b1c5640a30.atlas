@@ -1,0 +1,111 @@
+
+effect_dongshang.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: false
+  xy: 92, 236
+  size: 85, 100
+  orig: 250, 250
+  offset: 84, 66
+  index: -1
+images/0_00002
+  rotate: false
+  xy: 177, 134
+  size: 85, 100
+  orig: 250, 250
+  offset: 84, 64
+  index: -1
+images/0_00004
+  rotate: true
+  xy: 179, 252
+  size: 84, 101
+  orig: 250, 250
+  offset: 86, 62
+  index: -1
+images/0_00006
+  rotate: false
+  xy: 181, 341
+  size: 84, 101
+  orig: 250, 250
+  offset: 87, 60
+  index: -1
+images/0_00008
+  rotate: false
+  xy: 2, 2
+  size: 84, 107
+  orig: 250, 250
+  offset: 87, 59
+  index: -1
+images/0_00010
+  rotate: false
+  xy: 2, 111
+  size: 85, 107
+  orig: 250, 250
+  offset: 86, 59
+  index: -1
+images/0_00012
+  rotate: false
+  xy: 89, 117
+  size: 86, 101
+  orig: 250, 250
+  offset: 86, 63
+  index: -1
+images/0_00014
+  rotate: false
+  xy: 2, 331
+  size: 87, 111
+  orig: 250, 250
+  offset: 85, 63
+  index: -1
+images/0_00016
+  rotate: false
+  xy: 2, 220
+  size: 88, 109
+  orig: 250, 250
+  offset: 84, 64
+  index: -1
+images/0_00018
+  rotate: false
+  xy: 91, 338
+  size: 88, 104
+  orig: 250, 250
+  offset: 84, 69
+  index: -1
+images/0_00020
+  rotate: false
+  xy: 88, 7
+  size: 88, 102
+  orig: 250, 250
+  offset: 84, 70
+  index: -1
+images/0_00022
+  rotate: true
+  xy: 282, 254
+  size: 87, 95
+  orig: 250, 250
+  offset: 84, 75
+  index: -1
+images/0_00024
+  rotate: false
+  xy: 178, 35
+  size: 86, 97
+  orig: 250, 250
+  offset: 84, 72
+  index: -1
+images/0_00026
+  rotate: false
+  xy: 264, 152
+  size: 85, 98
+  orig: 250, 250
+  offset: 84, 70
+  index: -1
+images/0_00028
+  rotate: false
+  xy: 267, 343
+  size: 85, 99
+  orig: 250, 250
+  offset: 84, 68
+  index: -1

@@ -1,0 +1,20 @@
+
+z-zuanshiyu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z-zuanshiyu-1
+  rotate: false
+  xy: 153, 148
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+z-zuanshiyu-2
+  rotate: false
+  xy: 2, 86
+  size: 149, 93
+  orig: 149, 93
+  offset: 0, 0
+  index: -1

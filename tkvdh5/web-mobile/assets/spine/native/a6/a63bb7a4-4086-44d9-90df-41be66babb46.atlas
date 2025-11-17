@@ -1,0 +1,69 @@
+
+effect_xianfa_116.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: false
+  xy: 668, 690
+  size: 219, 197
+  orig: 440, 880
+  offset: 115, 345
+  index: -1
+images/0_00001
+  rotate: false
+  xy: 2, 165
+  size: 253, 236
+  orig: 440, 880
+  offset: 105, 319
+  index: -1
+images/0_00002
+  rotate: true
+  xy: 622, 475
+  size: 213, 217
+  orig: 440, 880
+  offset: 114, 326
+  index: -1
+images/0_00003
+  rotate: true
+  xy: 446, 250
+  size: 223, 371
+  orig: 440, 880
+  offset: 109, 330
+  index: -1
+images/0_00004
+  rotate: true
+  xy: 2, 403
+  size: 209, 442
+  orig: 440, 880
+  offset: 109, 367
+  index: -1
+images/0_00005
+  rotate: true
+  xy: 207, 614
+  size: 164, 413
+  orig: 440, 880
+  offset: 112, 401
+  index: -1
+images/0_00007
+  rotate: true
+  xy: 244, 780
+  size: 107, 422
+  orig: 440, 880
+  offset: 175, 397
+  index: -1
+images/0_00009
+  rotate: true
+  xy: 2, 836
+  size: 51, 240
+  orig: 440, 880
+  offset: 202, 571
+  index: -1
+images/glow01
+  rotate: false
+  xy: 2, 631
+  size: 203, 203
+  orig: 225, 225
+  offset: 11, 11
+  index: -1

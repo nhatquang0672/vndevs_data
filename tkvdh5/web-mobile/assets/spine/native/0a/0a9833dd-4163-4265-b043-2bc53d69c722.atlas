@@ -1,0 +1,83 @@
+
+10001.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+putongguai01_0
+  rotate: false
+  xy: 2, 20
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+putongguai01_1
+  rotate: false
+  xy: 161, 99
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+putongguai01_2
+  rotate: false
+  xy: 2, 40
+  size: 60, 96
+  orig: 60, 96
+  offset: 0, 0
+  index: -1
+putongguai01_3
+  rotate: false
+  xy: 197, 76
+  size: 70, 31
+  orig: 70, 31
+  offset: 0, 0
+  index: -1
+putongguai01_4
+  rotate: true
+  xy: 64, 54
+  size: 82, 48
+  orig: 82, 48
+  offset: 0, 0
+  index: -1
+putongguai01_5
+  rotate: true
+  xy: 22, 17
+  size: 21, 11
+  orig: 40, 28
+  offset: 13, 1
+  index: -1
+putongguai01_6
+  rotate: false
+  xy: 2, 2
+  size: 10, 16
+  orig: 14, 31
+  offset: 4, 0
+  index: -1
+putongguai01_7
+  rotate: false
+  xy: 2, 138
+  size: 196, 167
+  orig: 204, 168
+  offset: 0, 1
+  index: -1
+putongguai01_8
+  rotate: false
+  xy: 161, 34
+  size: 23, 63
+  orig: 23, 63
+  offset: 0, 0
+  index: -1
+putongguai01_9
+  rotate: true
+  xy: 114, 74
+  size: 62, 45
+  orig: 62, 45
+  offset: 0, 0
+  index: -1
+touying
+  rotate: true
+  xy: 200, 109
+  size: 196, 75
+  orig: 196, 75
+  offset: 0, 0
+  index: -1

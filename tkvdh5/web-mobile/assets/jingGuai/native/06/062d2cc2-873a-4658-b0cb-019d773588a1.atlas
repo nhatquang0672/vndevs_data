@@ -1,0 +1,103 @@
+
+effect_jingguailevel.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00001
+  rotate: true
+  xy: 668, 98
+  size: 205, 304
+  orig: 330, 587
+  offset: 39, 96
+  index: -1
+images/0_00003
+  rotate: true
+  xy: 2, 24
+  size: 248, 335
+  orig: 330, 587
+  offset: 37, 98
+  index: -1
+images/0_00010
+  rotate: false
+  xy: 600, 305
+  size: 253, 408
+  orig: 330, 587
+  offset: 34, 128
+  index: -1
+images/0_00013
+  rotate: false
+  xy: 343, 285
+  size: 255, 427
+  orig: 330, 587
+  offset: 33, 129
+  index: -1
+images/0_00016
+  rotate: false
+  xy: 2, 534
+  size: 256, 438
+  orig: 330, 587
+  offset: 32, 129
+  index: -1
+images/0_00019
+  rotate: true
+  xy: 581, 715
+  size: 257, 369
+  orig: 330, 587
+  offset: 31, 129
+  index: -1
+images/0_00022
+  rotate: true
+  xy: 2, 274
+  size: 258, 339
+  orig: 330, 587
+  offset: 30, 128
+  index: -1
+images/0_00025
+  rotate: true
+  xy: 260, 714
+  size: 258, 319
+  orig: 330, 587
+  offset: 30, 126
+  index: -1
+images/0_00028
+  rotate: true
+  xy: 343, 28
+  size: 255, 323
+  orig: 330, 587
+  offset: 32, 126
+  index: -1
+images/0_00031
+  rotate: false
+  xy: 668, 10
+  size: 113, 86
+  orig: 330, 587
+  offset: 173, 126
+  index: -1
+images/0_00034
+  rotate: false
+  xy: 600, 300
+  size: 3, 3
+  orig: 330, 587
+  offset: 184, 133
+  index: -1
+
+effect_jingguailevel2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00005
+  rotate: false
+  xy: 255, 148
+  size: 250, 357
+  orig: 330, 587
+  offset: 36, 112
+  index: -1
+images/0_00007
+  rotate: false
+  xy: 2, 127
+  size: 251, 378
+  orig: 330, 587
+  offset: 35, 125
+  index: -1

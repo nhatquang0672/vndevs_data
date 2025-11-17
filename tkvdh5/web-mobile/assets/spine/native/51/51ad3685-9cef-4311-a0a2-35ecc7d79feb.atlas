@@ -1,0 +1,83 @@
+
+shouling_chanchu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chanchu_0
+  rotate: false
+  xy: 112, 17
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+chanchu_1
+  rotate: false
+  xy: 48, 24
+  size: 62, 39
+  orig: 62, 39
+  offset: 0, 0
+  index: -1
+chanchu_10
+  rotate: true
+  xy: 148, 130
+  size: 114, 89
+  orig: 114, 95
+  offset: 0, 6
+  index: -1
+chanchu_11
+  rotate: false
+  xy: 2, 2
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+chanchu_2
+  rotate: false
+  xy: 2, 152
+  size: 144, 92
+  orig: 144, 92
+  offset: 0, 0
+  index: -1
+chanchu_3
+  rotate: true
+  xy: 150, 20
+  size: 33, 20
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+chanchu_4
+  rotate: false
+  xy: 127, 55
+  size: 53, 73
+  orig: 53, 73
+  offset: 0, 0
+  index: -1
+chanchu_7
+  rotate: true
+  xy: 48, 65
+  size: 85, 77
+  orig: 85, 77
+  offset: 0, 0
+  index: -1
+chanchu_8
+  rotate: true
+  xy: 182, 35
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+chanchu_9
+  rotate: true
+  xy: 182, 76
+  size: 52, 48
+  orig: 52, 48
+  offset: 0, 0
+  index: -1
+touying
+  rotate: true
+  xy: 2, 37
+  size: 113, 44
+  orig: 115, 46
+  offset: 1, 1
+  index: -1

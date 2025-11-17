@@ -1,0 +1,20 @@
+
+z-jingli.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z-jingli
+  rotate: false
+  xy: 2, 92
+  size: 150, 84
+  orig: 150, 84
+  offset: 0, 0
+  index: -1
+z-jingli-yuqi
+  rotate: true
+  xy: 154, 149
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+z-gouyu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z-gouyu
+  rotate: false
+  xy: 2, 116
+  size: 150, 56
+  orig: 150, 56
+  offset: 0, 0
+  index: -1
+z-gouyu-1
+  rotate: false
+  xy: 154, 132
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+z-gouyu-2
+  rotate: true
+  xy: 154, 152
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1

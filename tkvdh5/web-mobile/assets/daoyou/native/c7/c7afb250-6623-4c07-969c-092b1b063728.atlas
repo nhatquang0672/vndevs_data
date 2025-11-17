@@ -1,0 +1,97 @@
+
+effect_hit_muyuan.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: true
+  xy: 163, 852
+  size: 167, 191
+  orig: 704, 704
+  offset: 264, 261
+  index: -1
+images/0_00001
+  rotate: true
+  xy: 628, 620
+  size: 202, 237
+  orig: 704, 704
+  offset: 247, 241
+  index: -1
+images/0_00003
+  rotate: true
+  xy: 526, 383
+  size: 235, 254
+  orig: 704, 704
+  offset: 232, 241
+  index: -1
+images/0_00005
+  rotate: true
+  xy: 241, 392
+  size: 232, 283
+  orig: 704, 704
+  offset: 248, 219
+  index: -1
+images/0_00007
+  rotate: false
+  xy: 782, 327
+  size: 237, 291
+  orig: 704, 704
+  offset: 244, 218
+  index: -1
+images/0_00009
+  rotate: false
+  xy: 2, 394
+  size: 237, 231
+  orig: 704, 704
+  offset: 246, 210
+  index: -1
+images/0_00011
+  rotate: false
+  xy: 356, 825
+  size: 209, 194
+  orig: 704, 704
+  offset: 250, 248
+  index: -1
+images/0_00013
+  rotate: false
+  xy: 227, 627
+  size: 200, 196
+  orig: 704, 704
+  offset: 250, 247
+  index: -1
+images/0_00015
+  rotate: false
+  xy: 567, 824
+  size: 199, 195
+  orig: 704, 704
+  offset: 250, 247
+  index: -1
+images/0_00017
+  rotate: false
+  xy: 429, 626
+  size: 197, 196
+  orig: 704, 704
+  offset: 251, 247
+  index: -1
+images/0_00019
+  rotate: true
+  xy: 768, 824
+  size: 195, 199
+  orig: 704, 704
+  offset: 251, 248
+  index: -1
+images/0_00021
+  rotate: true
+  xy: 2, 880
+  size: 139, 159
+  orig: 704, 704
+  offset: 305, 249
+  index: -1
+images/3
+  rotate: false
+  xy: 2, 654
+  size: 223, 196
+  orig: 352, 352
+  offset: 63, 93
+  index: -1

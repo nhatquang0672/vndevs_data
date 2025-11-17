@@ -1,0 +1,13 @@
+
+x-yingxingyu.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+x-yingxingyu
+  rotate: false
+  xy: 2, 54
+  size: 104, 52
+  orig: 104, 52
+  offset: 0, 0
+  index: -1

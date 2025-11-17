@@ -1,0 +1,83 @@
+
+effect_xianlv_chi.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1
+  rotate: false
+  xy: 347, 815
+  size: 204, 204
+  orig: 600, 600
+  offset: 198, 198
+  index: -1
+images/2
+  rotate: true
+  xy: 800, 768
+  size: 251, 219
+  orig: 600, 600
+  offset: 172, 209
+  index: -1
+images/3
+  rotate: false
+  xy: 228, 583
+  size: 230, 230
+  orig: 600, 600
+  offset: 185, 185
+  index: -1
+images/4
+  rotate: false
+  xy: 2, 604
+  size: 224, 224
+  orig: 300, 300
+  offset: 38, 38
+  index: -1
+images/gs/0_00000
+  rotate: false
+  xy: 2, 304
+  size: 279, 277
+  orig: 600, 600
+  offset: 151, 154
+  index: -1
+images/gs/0_00002
+  rotate: true
+  xy: 283, 260
+  size: 277, 285
+  orig: 600, 600
+  offset: 150, 154
+  index: -1
+images/gs/0_00004
+  rotate: true
+  xy: 728, 499
+  size: 267, 276
+  orig: 600, 600
+  offset: 151, 154
+  index: -1
+images/gs/0_00006
+  rotate: true
+  xy: 460, 539
+  size: 263, 266
+  orig: 600, 600
+  offset: 151, 155
+  index: -1
+images/gs/0_00008
+  rotate: true
+  xy: 553, 804
+  size: 215, 245
+  orig: 600, 600
+  offset: 185, 158
+  index: -1
+images/gs/0_00010
+  rotate: true
+  xy: 137, 830
+  size: 189, 208
+  orig: 600, 600
+  offset: 198, 163
+  index: -1
+images/gs/0_00012
+  rotate: true
+  xy: 2, 922
+  size: 97, 133
+  orig: 600, 600
+  offset: 220, 207
+  index: -1

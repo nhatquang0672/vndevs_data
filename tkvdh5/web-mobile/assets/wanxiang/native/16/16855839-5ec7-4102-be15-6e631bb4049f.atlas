@@ -1,0 +1,130 @@
+
+effect_choumifa.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00022
+  rotate: true
+  xy: 429, 438
+  size: 422, 391
+  orig: 450, 450
+  offset: 22, 24
+  index: -1
+images/0_00024
+  rotate: true
+  xy: 425, 2
+  size: 430, 411
+  orig: 450, 450
+  offset: 19, 20
+  index: -1
+images/0_00026
+  rotate: true
+  xy: 2, 6
+  size: 426, 421
+  orig: 450, 450
+  offset: 24, 18
+  index: -1
+images/0_00028
+  rotate: false
+  xy: 2, 434
+  size: 425, 426
+  orig: 450, 450
+  offset: 25, 17
+  index: -1
+
+effect_choumifa2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: true
+  xy: 304, 741
+  size: 263, 299
+  orig: 450, 450
+  offset: 78, 58
+  index: -1
+images/0_00002
+  rotate: true
+  xy: 2, 746
+  size: 258, 300
+  orig: 450, 450
+  offset: 78, 58
+  index: -1
+images/0_00004
+  rotate: true
+  xy: 2, 470
+  size: 269, 314
+  orig: 450, 450
+  offset: 61, 58
+  index: -1
+images/0_00006
+  rotate: false
+  xy: 318, 143
+  size: 327, 303
+  orig: 450, 450
+  offset: 61, 58
+  index: -1
+images/0_00008
+  rotate: false
+  xy: 633, 448
+  size: 313, 291
+  orig: 450, 450
+  offset: 61, 86
+  index: -1
+images/0_00010
+  rotate: false
+  xy: 605, 741
+  size: 286, 263
+  orig: 450, 450
+  offset: 98, 106
+  index: -1
+images/0_00012
+  rotate: true
+  xy: 318, 451
+  size: 288, 313
+  orig: 450, 450
+  offset: 98, 64
+  index: -1
+images/0_00014
+  rotate: false
+  xy: 2, 177
+  size: 314, 291
+  orig: 450, 450
+  offset: 73, 71
+  index: -1
+images/0_00016
+  rotate: false
+  xy: 647, 105
+  size: 357, 341
+  orig: 450, 450
+  offset: 37, 36
+  index: -1
+
+effect_choumifa3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00018
+  rotate: false
+  xy: 2, 114
+  size: 376, 383
+  orig: 450, 450
+  offset: 39, 13
+  index: -1
+images/0_00020
+  rotate: true
+  xy: 426, 417
+  size: 404, 395
+  orig: 450, 450
+  offset: 27, 9
+  index: -1
+images/0_00030
+  rotate: false
+  xy: 2, 499
+  size: 422, 322
+  orig: 450, 450
+  offset: 21, 46
+  index: -1

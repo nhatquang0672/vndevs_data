@@ -1,0 +1,27 @@
+
+x-tiyu.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+x-tiyu-1
+  rotate: false
+  xy: 2, 93
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+x-tiyu-2
+  rotate: false
+  xy: 2, 39
+  size: 103, 40
+  orig: 103, 40
+  offset: 0, 0
+  index: -1
+x-tiyu-3
+  rotate: false
+  xy: 23, 81
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1

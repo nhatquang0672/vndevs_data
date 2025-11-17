@@ -1,0 +1,117 @@
+
+effect_mifa2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00006
+  rotate: false
+  xy: 2, 48
+  size: 325, 311
+  orig: 500, 500
+  offset: 87, 96
+  index: -1
+images/0_00008
+  rotate: false
+  xy: 652, 359
+  size: 323, 309
+  orig: 500, 500
+  offset: 88, 97
+  index: -1
+images/0_00010
+  rotate: false
+  xy: 2, 363
+  size: 323, 307
+  orig: 500, 500
+  offset: 88, 98
+  index: -1
+images/0_00012
+  rotate: false
+  xy: 323, 672
+  size: 321, 303
+  orig: 500, 500
+  offset: 89, 100
+  index: -1
+images/0_00014
+  rotate: false
+  xy: 329, 46
+  size: 319, 313
+  orig: 500, 500
+  offset: 90, 95
+  index: -1
+images/0_00022
+  rotate: true
+  xy: 650, 46
+  size: 311, 325
+  orig: 500, 500
+  offset: 94, 89
+  index: -1
+images/0_00024
+  rotate: true
+  xy: 327, 361
+  size: 307, 323
+  orig: 500, 500
+  offset: 96, 90
+  index: -1
+images/0_00026
+  rotate: true
+  xy: 646, 670
+  size: 305, 321
+  orig: 500, 500
+  offset: 97, 91
+  index: -1
+images/0_00028
+  rotate: true
+  xy: 2, 672
+  size: 303, 319
+  orig: 500, 500
+  offset: 98, 92
+  index: -1
+
+effect_mifa22.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: false
+  xy: 660, 350
+  size: 326, 319
+  orig: 500, 500
+  offset: 87, 92
+  index: -1
+images/0_00002
+  rotate: false
+  xy: 2, 352
+  size: 327, 317
+  orig: 500, 500
+  offset: 86, 93
+  index: -1
+images/0_00004
+  rotate: false
+  xy: 329, 671
+  size: 325, 315
+  orig: 500, 500
+  offset: 87, 94
+  index: -1
+images/0_00016
+  rotate: true
+  xy: 331, 352
+  size: 317, 327
+  orig: 500, 500
+  offset: 91, 88
+  index: -1
+images/0_00018
+  rotate: true
+  xy: 656, 671
+  size: 315, 327
+  orig: 500, 500
+  offset: 92, 88
+  index: -1
+images/0_00020
+  rotate: true
+  xy: 2, 673
+  size: 313, 325
+  orig: 500, 500
+  offset: 93, 89
+  index: -1

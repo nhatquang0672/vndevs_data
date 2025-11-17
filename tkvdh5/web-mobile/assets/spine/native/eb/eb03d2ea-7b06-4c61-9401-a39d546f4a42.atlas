@@ -1,0 +1,139 @@
+
+tuxingsun.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+touying
+  rotate: true
+  xy: 126, 374
+  size: 63, 24
+  orig: 65, 26
+  offset: 1, 1
+  index: -1
+tuxingsun_0
+  rotate: true
+  xy: 152, 408
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+tuxingsun_1
+  rotate: false
+  xy: 170, 197
+  size: 46, 31
+  orig: 46, 31
+  offset: 0, 0
+  index: -1
+tuxingsun_10
+  rotate: true
+  xy: 117, 230
+  size: 92, 85
+  orig: 92, 85
+  offset: 0, 0
+  index: -1
+tuxingsun_11
+  rotate: false
+  xy: 2, 324
+  size: 122, 186
+  orig: 122, 186
+  offset: 0, 0
+  index: -1
+tuxingsun_12
+  rotate: true
+  xy: 112, 2
+  size: 54, 48
+  orig: 54, 48
+  offset: 0, 0
+  index: -1
+tuxingsun_13
+  rotate: true
+  xy: 117, 190
+  size: 38, 51
+  orig: 38, 51
+  offset: 0, 0
+  index: -1
+tuxingsun_14
+  rotate: true
+  xy: 2, 57
+  size: 130, 61
+  orig: 130, 61
+  offset: 0, 0
+  index: -1
+tuxingsun_15
+  rotate: false
+  xy: 224, 4
+  size: 48, 56
+  orig: 48, 56
+  offset: 0, 0
+  index: -1
+tuxingsun_16
+  rotate: false
+  xy: 188, 114
+  size: 51, 81
+  orig: 51, 81
+  offset: 0, 0
+  index: -1
+tuxingsun_17
+  rotate: false
+  xy: 2, 2
+  size: 108, 53
+  orig: 108, 53
+  offset: 0, 0
+  index: -1
+tuxingsun_2
+  rotate: false
+  xy: 126, 439
+  size: 66, 71
+  orig: 66, 71
+  offset: 0, 0
+  index: -1
+tuxingsun_3
+  rotate: false
+  xy: 188, 62
+  size: 70, 50
+  orig: 70, 50
+  offset: 0, 0
+  index: -1
+tuxingsun_4
+  rotate: true
+  xy: 172, 391
+  size: 15, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+tuxingsun_5
+  rotate: true
+  xy: 152, 377
+  size: 29, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+tuxingsun_6
+  rotate: true
+  xy: 65, 58
+  size: 129, 121
+  orig: 129, 121
+  offset: 0, 0
+  index: -1
+tuxingsun_7
+  rotate: false
+  xy: 2, 189
+  size: 113, 133
+  orig: 113, 133
+  offset: 0, 0
+  index: -1
+tuxingsun_8
+  rotate: false
+  xy: 126, 324
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1
+tuxingsun_9
+  rotate: true
+  xy: 162, 3
+  size: 53, 60
+  orig: 53, 60
+  offset: 0, 0
+  index: -1

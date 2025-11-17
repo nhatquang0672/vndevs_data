@@ -1,0 +1,69 @@
+
+shouling_caoyao.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caoyao_0
+  rotate: true
+  xy: 147, 207
+  size: 41, 84
+  orig: 41, 84
+  offset: 0, 0
+  index: -1
+caoyao_1
+  rotate: false
+  xy: 83, 220
+  size: 62, 28
+  orig: 62, 28
+  offset: 0, 0
+  index: -1
+caoyao_2
+  rotate: true
+  xy: 22, 229
+  size: 19, 35
+  orig: 19, 35
+  offset: 0, 0
+  index: -1
+caoyao_3
+  rotate: false
+  xy: 2, 232
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+caoyao_4
+  rotate: false
+  xy: 59, 228
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+caoyao_5
+  rotate: true
+  xy: 2, 97
+  size: 75, 84
+  orig: 75, 84
+  offset: 0, 0
+  index: -1
+caoyao_6
+  rotate: false
+  xy: 117, 151
+  size: 108, 54
+  orig: 108, 54
+  offset: 0, 0
+  index: -1
+caoyao_7
+  rotate: false
+  xy: 88, 84
+  size: 160, 65
+  orig: 160, 65
+  offset: 0, 0
+  index: -1
+touying
+  rotate: false
+  xy: 2, 174
+  size: 113, 44
+  orig: 115, 46
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,118 @@
+
+shouling_fushanlonggui.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gui_0
+  rotate: true
+  xy: 33, 474
+  size: 22, 64
+  orig: 22, 64
+  offset: 0, 0
+  index: -1
+gui_1
+  rotate: false
+  xy: 254, 383
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+gui_10
+  rotate: true
+  xy: 2, 417
+  size: 55, 63
+  orig: 55, 65
+  offset: 0, 0
+  index: -1
+gui_11
+  rotate: false
+  xy: 2, 301
+  size: 114, 92
+  orig: 114, 92
+  offset: 0, 0
+  index: -1
+gui_12
+  rotate: false
+  xy: 364, 445
+  size: 56, 51
+  orig: 56, 51
+  offset: 0, 0
+  index: -1
+gui_13
+  rotate: true
+  xy: 313, 448
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+gui_14
+  rotate: false
+  xy: 118, 295
+  size: 100, 92
+  orig: 100, 92
+  offset: 0, 0
+  index: -1
+gui_2
+  rotate: false
+  xy: 99, 454
+  size: 95, 42
+  orig: 95, 42
+  offset: 0, 0
+  index: -1
+gui_3
+  rotate: false
+  xy: 422, 443
+  size: 71, 53
+  orig: 71, 53
+  offset: 0, 0
+  index: -1
+gui_4
+  rotate: true
+  xy: 16, 484
+  size: 12, 15
+  orig: 16, 15
+  offset: 2, 0
+  index: -1
+gui_5
+  rotate: true
+  xy: 2, 490
+  size: 6, 12
+  orig: 6, 12
+  offset: 0, 0
+  index: -1
+gui_6
+  rotate: true
+  xy: 320, 373
+  size: 70, 91
+  orig: 70, 91
+  offset: 0, 0
+  index: -1
+gui_7
+  rotate: true
+  xy: 413, 363
+  size: 78, 83
+  orig: 78, 83
+  offset: 0, 0
+  index: -1
+gui_8
+  rotate: true
+  xy: 67, 395
+  size: 57, 113
+  orig: 57, 113
+  offset: 0, 0
+  index: -1
+gui_9
+  rotate: true
+  xy: 182, 389
+  size: 59, 70
+  orig: 59, 70
+  offset: 0, 0
+  index: -1
+touying
+  rotate: false
+  xy: 196, 450
+  size: 115, 46
+  orig: 115, 46
+  offset: 0, 0
+  index: -1

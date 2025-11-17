@@ -1,0 +1,20 @@
+
+z-shanyu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z-shanyu
+  rotate: false
+  xy: 2, 127
+  size: 153, 43
+  orig: 153, 43
+  offset: 0, 0
+  index: -1
+z-shanyu-yuqi
+  rotate: true
+  xy: 157, 152
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1

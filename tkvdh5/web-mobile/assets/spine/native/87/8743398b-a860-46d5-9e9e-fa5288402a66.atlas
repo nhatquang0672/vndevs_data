@@ -1,0 +1,13 @@
+
+d-chihou.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d-chihou
+  rotate: false
+  xy: 2, 2
+  size: 157, 216
+  orig: 157, 216
+  offset: 0, 0
+  index: -1

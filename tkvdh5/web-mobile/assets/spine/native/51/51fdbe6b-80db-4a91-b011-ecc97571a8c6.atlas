@@ -1,0 +1,27 @@
+
+z-baibangouyu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z-baibangouyu
+  rotate: true
+  xy: 154, 120
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+z-baibangouyu-1
+  rotate: false
+  xy: 2, 114
+  size: 150, 58
+  orig: 150, 58
+  offset: 0, 0
+  index: -1
+z-baibangouyu-2
+  rotate: false
+  xy: 154, 145
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1

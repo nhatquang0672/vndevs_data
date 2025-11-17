@@ -1,0 +1,146 @@
+
+fozu.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fozu_0
+  rotate: false
+  xy: 413, 883
+  size: 199, 55
+  orig: 199, 55
+  offset: 0, 0
+  index: -1
+fozu_1
+  rotate: false
+  xy: 945, 871
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+fozu_10
+  rotate: false
+  xy: 614, 872
+  size: 60, 59
+  orig: 60, 59
+  offset: 0, 0
+  index: -1
+fozu_11
+  rotate: true
+  xy: 676, 879
+  size: 52, 63
+  orig: 52, 63
+  offset: 0, 0
+  index: -1
+fozu_12
+  rotate: true
+  xy: 676, 831
+  size: 46, 56
+  orig: 46, 56
+  offset: 0, 0
+  index: -1
+fozu_13
+  rotate: true
+  xy: 986, 852
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+fozu_14
+  rotate: true
+  xy: 880, 881
+  size: 62, 63
+  orig: 62, 63
+  offset: 0, 0
+  index: -1
+fozu_15
+  rotate: true
+  xy: 988, 902
+  size: 120, 29
+  orig: 120, 29
+  offset: 0, 0
+  index: -1
+fozu_16
+  rotate: false
+  xy: 750, 916
+  size: 128, 50
+  orig: 128, 50
+  offset: 0, 0
+  index: -1
+fozu_17
+  rotate: true
+  xy: 228, 840
+  size: 182, 183
+  orig: 182, 183
+  offset: 0, 0
+  index: -1
+fozu_18
+  rotate: false
+  xy: 2, 810
+  size: 224, 212
+  orig: 224, 212
+  offset: 0, 0
+  index: -1
+fozu_2
+  rotate: true
+  xy: 971, 868
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+fozu_3
+  rotate: true
+  xy: 741, 864
+  size: 50, 52
+  orig: 50, 52
+  offset: 0, 0
+  index: -1
+fozu_4
+  rotate: true
+  xy: 795, 868
+  size: 46, 55
+  orig: 46, 55
+  offset: 0, 0
+  index: -1
+fozu_5
+  rotate: true
+  xy: 622, 933
+  size: 89, 126
+  orig: 89, 126
+  offset: 0, 0
+  index: -1
+fozu_6
+  rotate: false
+  xy: 750, 968
+  size: 142, 54
+  orig: 142, 54
+  offset: 0, 0
+  index: -1
+fozu_7
+  rotate: true
+  xy: 945, 888
+  size: 55, 41
+  orig: 55, 49
+  offset: 0, 5
+  index: -1
+fozu_8
+  rotate: false
+  xy: 894, 945
+  size: 92, 77
+  orig: 92, 79
+  offset: 0, 0
+  index: -1
+fozu_9
+  rotate: true
+  xy: 988, 872
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+touying
+  rotate: false
+  xy: 413, 940
+  size: 207, 82
+  orig: 207, 82
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+z-leilongyu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z-leilongyu-1
+  rotate: true
+  xy: 157, 153
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+z-leilongyu-2
+  rotate: false
+  xy: 2, 114
+  size: 153, 64
+  orig: 153, 64
+  offset: 0, 0
+  index: -1

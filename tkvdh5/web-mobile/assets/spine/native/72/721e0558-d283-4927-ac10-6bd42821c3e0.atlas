@@ -1,0 +1,97 @@
+
+yuanhun.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+touying
+  rotate: true
+  xy: 481, 442
+  size: 63, 24
+  orig: 65, 26
+  offset: 1, 1
+  index: -1
+yuanhun_0
+  rotate: true
+  xy: 459, 392
+  size: 29, 19
+  orig: 30, 22
+  offset: 1, 2
+  index: -1
+yuanhun_1
+  rotate: true
+  xy: 481, 407
+  size: 33, 22
+  orig: 38, 26
+  offset: 1, 1
+  index: -1
+yuanhun_10
+  rotate: false
+  xy: 302, 246
+  size: 102, 78
+  orig: 102, 78
+  offset: 0, 0
+  index: -1
+yuanhun_11
+  rotate: false
+  xy: 2, 362
+  size: 197, 143
+  orig: 197, 143
+  offset: 0, 0
+  index: -1
+yuanhun_2
+  rotate: true
+  xy: 459, 350
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+yuanhun_3
+  rotate: true
+  xy: 201, 375
+  size: 130, 144
+  orig: 130, 144
+  offset: 0, 0
+  index: -1
+yuanhun_4
+  rotate: false
+  xy: 201, 291
+  size: 99, 82
+  orig: 99, 82
+  offset: 0, 0
+  index: -1
+yuanhun_5
+  rotate: true
+  xy: 89, 295
+  size: 65, 73
+  orig: 65, 73
+  offset: 0, 0
+  index: -1
+yuanhun_6
+  rotate: true
+  xy: 406, 244
+  size: 80, 94
+  orig: 80, 94
+  offset: 0, 0
+  index: -1
+yuanhun_7
+  rotate: true
+  xy: 347, 326
+  size: 95, 110
+  orig: 95, 110
+  offset: 0, 0
+  index: -1
+yuanhun_8
+  rotate: true
+  xy: 2, 279
+  size: 81, 85
+  orig: 81, 85
+  offset: 0, 0
+  index: -1
+yuanhun_9
+  rotate: false
+  xy: 347, 423
+  size: 132, 82
+  orig: 132, 82
+  offset: 0, 0
+  index: -1

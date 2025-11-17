@@ -1,0 +1,110 @@
+
+effect_kaishizhandou.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/e/0_00006
+  rotate: false
+  xy: 2, 637
+  size: 477, 148
+  orig: 660, 440
+  offset: 91, 145
+  index: -1
+images/e/0_00007
+  rotate: true
+  xy: 686, 241
+  size: 544, 241
+  orig: 660, 440
+  offset: 47, 91
+  index: -1
+images/e/0_00013
+  rotate: false
+  xy: 406, 787
+  size: 454, 140
+  orig: 660, 440
+  offset: 129, 146
+  index: -1
+images/glow01
+  rotate: false
+  xy: 481, 582
+  size: 203, 203
+  orig: 225, 225
+  offset: 11, 11
+  index: -1
+images/zdks_1_1
+  rotate: false
+  xy: 187, 836
+  size: 103, 91
+  orig: 660, 208
+  offset: 114, 30
+  index: -1
+images/zdks_1_2
+  rotate: true
+  xy: 2, 850
+  size: 77, 92
+  orig: 660, 208
+  offset: 232, 46
+  index: -1
+images/zdks_1_3
+  rotate: true
+  xy: 96, 846
+  size: 81, 89
+  orig: 660, 208
+  offset: 338, 67
+  index: -1
+images/zdks_1_4
+  rotate: false
+  xy: 292, 836
+  size: 112, 91
+  orig: 660, 208
+  offset: 434, 84
+  index: -1
+images/zdks_2
+  rotate: false
+  xy: 2, 432
+  size: 660, 148
+  orig: 660, 208
+  offset: 0, 59
+  index: -1
+images/zdks_3
+  rotate: false
+  xy: 2, 281
+  size: 660, 149
+  orig: 660, 208
+  offset: 0, 0
+  index: -1
+images/zdks_4
+  rotate: false
+  xy: 2, 71
+  size: 660, 208
+  orig: 660, 208
+  offset: 0, 0
+  index: -1
+
+effect_kaishizhandou2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/e/0_00008
+  rotate: true
+  xy: 309, 8
+  size: 559, 254
+  orig: 660, 440
+  offset: 47, 91
+  index: -1
+images/e/0_00009
+  rotate: true
+  xy: 2, 2
+  size: 565, 305
+  orig: 660, 440
+  offset: 44, 78
+  index: -1
+images/e/0_00011
+  rotate: false
+  xy: 2, 569
+  size: 560, 331
+  orig: 660, 440
+  offset: 60, 70
+  index: -1

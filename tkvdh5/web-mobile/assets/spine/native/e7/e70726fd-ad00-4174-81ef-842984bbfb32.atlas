@@ -1,0 +1,124 @@
+
+effect_xianfa_106.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00006
+  rotate: false
+  xy: 275, 213
+  size: 322, 302
+  orig: 528, 528
+  offset: 76, 142
+  index: -1
+images/0_00010
+  rotate: true
+  xy: 599, 199
+  size: 297, 341
+  orig: 528, 528
+  offset: 99, 129
+  index: -1
+images/0_00012
+  rotate: false
+  xy: 2, 256
+  size: 271, 308
+  orig: 528, 528
+  offset: 114, 155
+  index: -1
+images/0_00014
+  rotate: true
+  xy: 609, 498
+  size: 255, 297
+  orig: 528, 528
+  offset: 129, 158
+  index: -1
+images/0_00016
+  rotate: true
+  xy: 303, 517
+  size: 254, 304
+  orig: 528, 528
+  offset: 131, 156
+  index: -1
+images/0_00018
+  rotate: true
+  xy: 2, 566
+  size: 216, 299
+  orig: 528, 528
+  offset: 165, 155
+  index: -1
+images/0_00020
+  rotate: true
+  xy: 688, 755
+  size: 214, 281
+  orig: 528, 528
+  offset: 167, 166
+  index: -1
+images/0_00022
+  rotate: true
+  xy: 427, 773
+  size: 196, 259
+  orig: 528, 528
+  offset: 167, 167
+  index: -1
+images/0_00024
+  rotate: true
+  xy: 192, 784
+  size: 185, 233
+  orig: 528, 528
+  offset: 179, 188
+  index: -1
+images/0_00026
+  rotate: false
+  xy: 10, 886
+  size: 180, 83
+  orig: 528, 528
+  offset: 180, 291
+  index: -1
+images/0_00028
+  rotate: true
+  xy: 2, 965
+  size: 4, 6
+  orig: 528, 528
+  offset: 356, 323
+  index: -1
+
+effect_xianfa_1062.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: false
+  xy: 2, 577
+  size: 365, 383
+  orig: 528, 528
+  offset: 53, 120
+  index: -1
+images/0_00002
+  rotate: false
+  xy: 2, 230
+  size: 363, 345
+  orig: 528, 528
+  offset: 62, 135
+  index: -1
+images/0_00003
+  rotate: false
+  xy: 369, 632
+  size: 352, 328
+  orig: 528, 528
+  offset: 65, 142
+  index: -1
+images/0_00004
+  rotate: false
+  xy: 369, 320
+  size: 336, 310
+  orig: 528, 528
+  offset: 71, 148
+  index: -1
+images/0_00008
+  rotate: true
+  xy: 367, 2
+  size: 316, 326
+  orig: 528, 528
+  offset: 81, 137
+  index: -1

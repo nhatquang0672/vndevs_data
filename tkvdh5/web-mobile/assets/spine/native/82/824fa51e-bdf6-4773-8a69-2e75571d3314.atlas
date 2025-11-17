@@ -1,0 +1,90 @@
+
+shouling_xiangyunjiaolong.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+long_0
+  rotate: true
+  xy: 2, 43
+  size: 102, 57
+  orig: 102, 57
+  offset: 0, 0
+  index: -1
+long_1
+  rotate: true
+  xy: 28, 25
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+long_10
+  rotate: true
+  xy: 61, 39
+  size: 65, 36
+  orig: 65, 36
+  offset: 0, 0
+  index: -1
+long_2
+  rotate: false
+  xy: 61, 134
+  size: 5, 11
+  orig: 5, 11
+  offset: 0, 0
+  index: -1
+long_3
+  rotate: false
+  xy: 73, 152
+  size: 62, 77
+  orig: 62, 77
+  offset: 0, 0
+  index: -1
+long_4
+  rotate: true
+  xy: 2, 147
+  size: 82, 69
+  orig: 82, 69
+  offset: 0, 0
+  index: -1
+long_5
+  rotate: true
+  xy: 137, 164
+  size: 49, 72
+  orig: 49, 72
+  offset: 0, 0
+  index: -1
+long_6
+  rotate: false
+  xy: 2, 2
+  size: 24, 39
+  orig: 24, 39
+  offset: 0, 0
+  index: -1
+long_7
+  rotate: true
+  xy: 188, 67
+  size: 95, 35
+  orig: 95, 35
+  offset: 0, 0
+  index: -1
+long_8
+  rotate: false
+  xy: 137, 215
+  size: 77, 121
+  orig: 119, 121
+  offset: 0, 0
+  index: -1
+long_9
+  rotate: false
+  xy: 2, 231
+  size: 133, 105
+  orig: 140, 105
+  offset: 0, 0
+  index: -1
+touying
+  rotate: false
+  xy: 73, 106
+  size: 113, 44
+  orig: 115, 46
+  offset: 1, 1
+  index: -1

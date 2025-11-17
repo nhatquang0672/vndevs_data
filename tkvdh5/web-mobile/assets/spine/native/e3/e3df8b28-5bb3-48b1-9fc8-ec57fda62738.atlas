@@ -1,0 +1,130 @@
+
+effect_xianfa_110.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00010
+  rotate: true
+  xy: 603, 247
+  size: 333, 337
+  orig: 528, 528
+  offset: 85, 119
+  index: -1
+images/0_00012
+  rotate: false
+  xy: 298, 277
+  size: 303, 303
+  orig: 528, 528
+  offset: 114, 116
+  index: -1
+images/0_00014
+  rotate: false
+  xy: 2, 357
+  size: 294, 291
+  orig: 528, 528
+  offset: 119, 121
+  index: -1
+images/0_00016
+  rotate: true
+  xy: 278, 650
+  size: 222, 247
+  orig: 528, 528
+  offset: 172, 152
+  index: -1
+images/0_00018
+  rotate: true
+  xy: 527, 582
+  size: 224, 261
+  orig: 528, 528
+  offset: 176, 150
+  index: -1
+images/0_00020
+  rotate: true
+  xy: 2, 700
+  size: 183, 274
+  orig: 528, 528
+  offset: 184, 149
+  index: -1
+images/0_00022
+  rotate: true
+  xy: 738, 808
+  size: 159, 229
+  orig: 528, 528
+  offset: 209, 148
+  index: -1
+images/0_00024
+  rotate: true
+  xy: 502, 874
+  size: 93, 234
+  orig: 528, 528
+  offset: 273, 149
+  index: -1
+images/0_00026
+  rotate: true
+  xy: 256, 885
+  size: 82, 244
+  orig: 528, 528
+  offset: 283, 148
+  index: -1
+images/0_00028
+  rotate: true
+  xy: 2, 889
+  size: 78, 252
+  orig: 528, 528
+  offset: 285, 149
+  index: -1
+
+effect_xianfa_1102.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: true
+  xy: 2, 449
+  size: 335, 400
+  orig: 528, 528
+  offset: 77, 59
+  index: -1
+images/0_00004
+  rotate: true
+  xy: 373, 81
+  size: 357, 411
+  orig: 528, 528
+  offset: 55, 60
+  index: -1
+images/0_00006
+  rotate: true
+  xy: 2, 99
+  size: 348, 369
+  orig: 528, 528
+  offset: 59, 104
+  index: -1
+images/0_00008
+  rotate: false
+  xy: 404, 440
+  size: 346, 344
+  orig: 528, 528
+  offset: 68, 122
+  index: -1
+
+effect_xianfa_1103.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00001
+  rotate: false
+  xy: 2, 2
+  size: 361, 398
+  orig: 528, 528
+  offset: 56, 60
+  index: -1
+images/0_00002
+  rotate: false
+  xy: 2, 402
+  size: 361, 406
+  orig: 528, 528
+  offset: 54, 60
+  index: -1

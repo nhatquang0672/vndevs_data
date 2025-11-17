@@ -1,0 +1,20 @@
+
+z-taiyangyu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z-taiyangyu
+  rotate: false
+  xy: 2, 75
+  size: 148, 103
+  orig: 148, 103
+  offset: 0, 0
+  index: -1
+z-taiyangyu-yuqi
+  rotate: true
+  xy: 152, 142
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1

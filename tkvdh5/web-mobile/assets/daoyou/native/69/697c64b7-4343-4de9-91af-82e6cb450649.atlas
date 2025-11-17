@@ -1,0 +1,48 @@
+
+effect_chushou_xingcai.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: true
+  xy: 199, 158
+  size: 138, 165
+  orig: 528, 528
+  offset: 106, 209
+  index: -1
+images/0_00001
+  rotate: true
+  xy: 365, 298
+  size: 281, 214
+  orig: 528, 528
+  offset: 91, 139
+  index: -1
+images/0_00003
+  rotate: false
+  xy: 2, 400
+  size: 361, 179
+  orig: 528, 528
+  offset: 84, 128
+  index: -1
+images/0_00005
+  rotate: true
+  xy: 2, 109
+  size: 289, 195
+  orig: 528, 528
+  offset: 161, 138
+  index: -1
+images/0_00006
+  rotate: false
+  xy: 366, 145
+  size: 138, 151
+  orig: 528, 528
+  offset: 309, 163
+  index: -1
+images/0_00008
+  rotate: true
+  xy: 199, 303
+  size: 95, 112
+  orig: 528, 528
+  offset: 349, 209
+  index: -1

@@ -1,0 +1,125 @@
+
+niumowang.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+niumowang_0
+  rotate: false
+  xy: 59, 23
+  size: 16, 13
+  orig: 17, 14
+  offset: 0, 1
+  index: -1
+niumowang_1
+  rotate: false
+  xy: 153, 64
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+niumowang_10
+  rotate: true
+  xy: 177, 91
+  size: 262, 96
+  orig: 262, 96
+  offset: 0, 0
+  index: -1
+niumowang_11
+  rotate: false
+  xy: 359, 291
+  size: 60, 96
+  orig: 60, 96
+  offset: 0, 0
+  index: -1
+niumowang_12
+  rotate: false
+  xy: 85, 2
+  size: 66, 76
+  orig: 66, 76
+  offset: 0, 0
+  index: -1
+niumowang_13
+  rotate: false
+  xy: 369, 81
+  size: 62, 69
+  orig: 62, 69
+  offset: 0, 0
+  index: -1
+niumowang_14
+  rotate: false
+  xy: 85, 80
+  size: 88, 77
+  orig: 88, 77
+  offset: 0, 0
+  index: -1
+niumowang_15
+  rotate: false
+  xy: 2, 355
+  size: 311, 155
+  orig: 311, 155
+  offset: 0, 0
+  index: -1
+niumowang_2
+  rotate: false
+  xy: 2, 159
+  size: 173, 194
+  orig: 173, 194
+  offset: 0, 0
+  index: -1
+niumowang_3
+  rotate: true
+  xy: 275, 88
+  size: 56, 92
+  orig: 56, 92
+  offset: 0, 0
+  index: -1
+niumowang_4
+  rotate: false
+  xy: 421, 313
+  size: 55, 74
+  orig: 55, 74
+  offset: 0, 0
+  index: -1
+niumowang_5
+  rotate: false
+  xy: 359, 152
+  size: 68, 51
+  orig: 68, 51
+  offset: 0, 0
+  index: -1
+niumowang_6
+  rotate: true
+  xy: 359, 205
+  size: 84, 55
+  orig: 84, 55
+  offset: 0, 0
+  index: -1
+niumowang_7
+  rotate: false
+  xy: 2, 38
+  size: 81, 119
+  orig: 81, 119
+  offset: 0, 0
+  index: -1
+niumowang_8
+  rotate: false
+  xy: 2, 2
+  size: 55, 34
+  orig: 55, 34
+  offset: 0, 0
+  index: -1
+niumowang_9
+  rotate: true
+  xy: 315, 389
+  size: 121, 156
+  orig: 121, 156
+  offset: 0, 0
+  index: -1
+touying
+  rotate: true
+  xy: 275, 146
+  size: 207, 82
+  orig: 207, 82
+  offset: 0, 0
+  index: -1

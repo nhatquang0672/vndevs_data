@@ -1,0 +1,125 @@
+
+shouling_fuzhu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fuzhu_0
+  rotate: true
+  xy: 117, 160
+  size: 93, 89
+  orig: 93, 89
+  offset: 0, 0
+  index: -1
+fuzhu_1
+  rotate: true
+  xy: 2, 15
+  size: 89, 55
+  orig: 89, 55
+  offset: 0, 0
+  index: -1
+fuzhu_10
+  rotate: false
+  xy: 136, 16
+  size: 34, 56
+  orig: 34, 56
+  offset: 0, 0
+  index: -1
+fuzhu_11
+  rotate: true
+  xy: 2, 106
+  size: 101, 84
+  orig: 101, 84
+  offset: 0, 0
+  index: -1
+fuzhu_12
+  rotate: true
+  xy: 59, 34
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+fuzhu_13
+  rotate: false
+  xy: 225, 51
+  size: 28, 46
+  orig: 28, 46
+  offset: 0, 0
+  index: -1
+fuzhu_14
+  rotate: false
+  xy: 59, 68
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+fuzhu_15
+  rotate: true
+  xy: 88, 179
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+fuzhu_2
+  rotate: true
+  xy: 86, 37
+  size: 35, 48
+  orig: 35, 48
+  offset: 0, 0
+  index: -1
+fuzhu_3
+  rotate: false
+  xy: 208, 174
+  size: 41, 79
+  orig: 41, 79
+  offset: 0, 0
+  index: -1
+fuzhu_4
+  rotate: false
+  xy: 85, 17
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+fuzhu_5
+  rotate: true
+  xy: 208, 161
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+fuzhu_6
+  rotate: false
+  xy: 88, 161
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+fuzhu_7
+  rotate: false
+  xy: 88, 74
+  size: 96, 84
+  orig: 96, 84
+  offset: 0, 0
+  index: -1
+fuzhu_8
+  rotate: false
+  xy: 186, 99
+  size: 54, 59
+  orig: 54, 59
+  offset: 0, 0
+  index: -1
+fuzhu_9
+  rotate: false
+  xy: 186, 54
+  size: 37, 43
+  orig: 37, 43
+  offset: 0, 0
+  index: -1
+touying
+  rotate: false
+  xy: 2, 209
+  size: 113, 44
+  orig: 115, 46
+  offset: 1, 1
+  index: -1

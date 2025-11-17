@@ -1,0 +1,34 @@
+
+x-jianweiyu.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+x-jianweiyu-1
+  rotate: false
+  xy: 2, 95
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+x-jianweiyu-2
+  rotate: false
+  xy: 2, 54
+  size: 104, 27
+  orig: 104, 27
+  offset: 0, 0
+  index: -1
+x-jianweiyu-3
+  rotate: false
+  xy: 44, 83
+  size: 33, 23
+  orig: 33, 23
+  offset: 0, 0
+  index: -1
+x-jianweiyu-4
+  rotate: false
+  xy: 22, 88
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1

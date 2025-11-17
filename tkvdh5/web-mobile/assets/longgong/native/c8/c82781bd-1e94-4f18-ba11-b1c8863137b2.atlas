@@ -1,0 +1,13 @@
+
+effect_longwang.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0
+  rotate: false
+  xy: 4, 4
+  size: 380, 880
+  orig: 380, 880
+  offset: 0, 0
+  index: -1

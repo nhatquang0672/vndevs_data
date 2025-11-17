@@ -1,0 +1,125 @@
+
+zhizhujing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+touying
+  rotate: false
+  xy: 2, 417
+  size: 207, 82
+  orig: 207, 82
+  offset: 0, 0
+  index: -1
+zhizhujing_0
+  rotate: true
+  xy: 357, 257
+  size: 30, 22
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+zhizhujing_1
+  rotate: true
+  xy: 357, 238
+  size: 17, 20
+  orig: 18, 23
+  offset: 0, 1
+  index: -1
+zhizhujing_10
+  rotate: true
+  xy: 133, 232
+  size: 56, 62
+  orig: 56, 62
+  offset: 0, 0
+  index: -1
+zhizhujing_11
+  rotate: true
+  xy: 2, 253
+  size: 102, 129
+  orig: 102, 129
+  offset: 0, 0
+  index: -1
+zhizhujing_12
+  rotate: true
+  xy: 137, 342
+  size: 73, 69
+  orig: 73, 69
+  offset: 0, 0
+  index: -1
+zhizhujing_13
+  rotate: true
+  xy: 384, 212
+  size: 149, 110
+  orig: 149, 110
+  offset: 0, 0
+  index: -1
+zhizhujing_14
+  rotate: false
+  xy: 384, 363
+  size: 112, 86
+  orig: 112, 86
+  offset: 0, 0
+  index: -1
+zhizhujing_15
+  rotate: true
+  xy: 133, 290
+  size: 50, 64
+  orig: 50, 64
+  offset: 0, 0
+  index: -1
+zhizhujing_2
+  rotate: false
+  xy: 211, 352
+  size: 171, 147
+  orig: 171, 147
+  offset: 0, 0
+  index: -1
+zhizhujing_3
+  rotate: true
+  xy: 299, 255
+  size: 32, 56
+  orig: 32, 56
+  offset: 0, 0
+  index: -1
+zhizhujing_4
+  rotate: true
+  xy: 197, 253
+  size: 27, 50
+  orig: 27, 50
+  offset: 0, 0
+  index: -1
+zhizhujing_5
+  rotate: true
+  xy: 2, 357
+  size: 58, 133
+  orig: 58, 133
+  offset: 0, 0
+  index: -1
+zhizhujing_6
+  rotate: true
+  xy: 384, 451
+  size: 48, 115
+  orig: 48, 115
+  offset: 0, 0
+  index: -1
+zhizhujing_7
+  rotate: true
+  xy: 249, 247
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+zhizhujing_8
+  rotate: false
+  xy: 208, 282
+  size: 89, 68
+  orig: 89, 68
+  offset: 0, 0
+  index: -1
+zhizhujing_9
+  rotate: true
+  xy: 299, 289
+  size: 61, 79
+  orig: 64, 79
+  offset: 3, 0
+  index: -1

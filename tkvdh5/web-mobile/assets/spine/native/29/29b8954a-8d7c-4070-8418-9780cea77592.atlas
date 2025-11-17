@@ -1,0 +1,41 @@
+
+s-qingwa.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s-qingwa
+  rotate: true
+  xy: 49, 32
+  size: 49, 60
+  orig: 49, 60
+  offset: 0, 0
+  index: -1
+s-qingwa-1
+  rotate: false
+  xy: 2, 85
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+s-qingwa-2
+  rotate: false
+  xy: 37, 85
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+s-qingwa-3
+  rotate: true
+  xy: 70, 83
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+s-qingwa-4
+  rotate: true
+  xy: 2, 51
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1

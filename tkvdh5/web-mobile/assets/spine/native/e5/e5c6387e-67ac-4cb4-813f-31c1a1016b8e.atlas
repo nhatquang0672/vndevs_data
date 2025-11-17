@@ -1,0 +1,20 @@
+
+x-shadingyu.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+x-shadingyu
+  rotate: false
+  xy: 2, 83
+  size: 105, 37
+  orig: 105, 37
+  offset: 0, 0
+  index: -1
+x-shadingyu-yuqi
+  rotate: true
+  xy: 109, 102
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1

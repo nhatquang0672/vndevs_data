@@ -1,0 +1,13 @@
+
+zw-zhongjian.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zw-zhongjian
+  rotate: false
+  xy: 2, 2
+  size: 114, 172
+  orig: 114, 172
+  offset: 0, 0
+  index: -1

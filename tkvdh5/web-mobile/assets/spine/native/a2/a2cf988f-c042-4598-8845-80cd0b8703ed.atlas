@@ -1,0 +1,146 @@
+
+jinjiaodawang.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jinjiaodawang_0
+  rotate: true
+  xy: 226, 257
+  size: 43, 32
+  orig: 43, 34
+  offset: 0, 2
+  index: -1
+jinjiaodawang_1
+  rotate: true
+  xy: 220, 371
+  size: 55, 50
+  orig: 55, 50
+  offset: 0, 0
+  index: -1
+jinjiaodawang_10
+  rotate: false
+  xy: 184, 269
+  size: 40, 87
+  orig: 40, 87
+  offset: 0, 0
+  index: -1
+jinjiaodawang_11
+  rotate: true
+  xy: 168, 96
+  size: 53, 90
+  orig: 53, 90
+  offset: 0, 0
+  index: -1
+jinjiaodawang_12
+  rotate: false
+  xy: 86, 246
+  size: 96, 100
+  orig: 96, 100
+  offset: 0, 0
+  index: -1
+jinjiaodawang_13
+  rotate: false
+  xy: 2, 348
+  size: 128, 160
+  orig: 143, 166
+  offset: 15, 6
+  index: -1
+jinjiaodawang_14
+  rotate: true
+  xy: 172, 173
+  size: 71, 64
+  orig: 71, 64
+  offset: 0, 0
+  index: -1
+jinjiaodawang_15
+  rotate: true
+  xy: 132, 358
+  size: 67, 86
+  orig: 67, 86
+  offset: 0, 0
+  index: -1
+jinjiaodawang_16
+  rotate: false
+  xy: 207, 446
+  size: 89, 62
+  orig: 89, 62
+  offset: 0, 0
+  index: -1
+jinjiaodawang_17
+  rotate: true
+  xy: 102, 2
+  size: 62, 79
+  orig: 62, 79
+  offset: 0, 0
+  index: -1
+jinjiaodawang_18
+  rotate: false
+  xy: 102, 66
+  size: 64, 83
+  orig: 64, 83
+  offset: 0, 0
+  index: -1
+jinjiaodawang_2
+  rotate: false
+  xy: 238, 220
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+jinjiaodawang_3
+  rotate: true
+  xy: 183, 20
+  size: 56, 84
+  orig: 56, 84
+  offset: 0, 0
+  index: -1
+jinjiaodawang_4
+  rotate: true
+  xy: 226, 302
+  size: 67, 40
+  orig: 67, 40
+  offset: 0, 0
+  index: -1
+jinjiaodawang_5
+  rotate: true
+  xy: 132, 427
+  size: 81, 73
+  orig: 81, 73
+  offset: 0, 0
+  index: -1
+jinjiaodawang_6
+  rotate: true
+  xy: 2, 7
+  size: 130, 98
+  orig: 130, 98
+  offset: 0, 0
+  index: -1
+jinjiaodawang_7
+  rotate: false
+  xy: 168, 78
+  size: 15, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+jinjiaodawang_8
+  rotate: false
+  xy: 207, 428
+  size: 23, 16
+  orig: 25, 19
+  offset: 2, 1
+  index: -1
+jinjiaodawang_9
+  rotate: true
+  xy: 86, 151
+  size: 93, 84
+  orig: 93, 84
+  offset: 0, 0
+  index: -1
+touying
+  rotate: true
+  xy: 2, 139
+  size: 207, 82
+  orig: 207, 82
+  offset: 0, 0
+  index: -1

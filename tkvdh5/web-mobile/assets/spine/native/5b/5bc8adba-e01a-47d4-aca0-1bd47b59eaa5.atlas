@@ -1,0 +1,20 @@
+
+d-husha.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d-husha
+  rotate: false
+  xy: 2, 54
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+d-husha-1
+  rotate: false
+  xy: 2, 98
+  size: 220, 124
+  orig: 220, 124
+  offset: 0, 0
+  index: -1

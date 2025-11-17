@@ -1,0 +1,55 @@
+
+effect_chushou_yunyao.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00014
+  rotate: false
+  xy: 2, 521
+  size: 201, 198
+  orig: 616, 528
+  offset: 327, 163
+  index: -1
+images/0_00015
+  rotate: true
+  xy: 637, 533
+  size: 211, 300
+  orig: 616, 528
+  offset: 318, 78
+  index: -1
+images/0_00016
+  rotate: true
+  xy: 316, 741
+  size: 279, 319
+  orig: 616, 528
+  offset: 250, 58
+  index: -1
+images/0_00018
+  rotate: false
+  xy: 2, 721
+  size: 312, 299
+  orig: 616, 528
+  offset: 215, 56
+  index: -1
+images/0_00020
+  rotate: false
+  xy: 637, 746
+  size: 303, 274
+  orig: 616, 528
+  offset: 207, 62
+  index: -1
+images/0_00022
+  rotate: false
+  xy: 316, 540
+  size: 277, 199
+  orig: 616, 528
+  offset: 206, 68
+  index: -1
+images/0_00024
+  rotate: true
+  xy: 942, 782
+  size: 238, 78
+  orig: 616, 528
+  offset: 205, 87
+  index: -1

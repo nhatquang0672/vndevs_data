@@ -1,0 +1,41 @@
+
+x-fanyouyu.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+x-fanyouyu-1
+  rotate: false
+  xy: 27, 109
+  size: 30, 13
+  orig: 30, 13
+  offset: 0, 0
+  index: -1
+x-fanyouyu-2
+  rotate: true
+  xy: 59, 109
+  size: 13, 23
+  orig: 13, 23
+  offset: 0, 0
+  index: -1
+x-fanyouyu-3
+  rotate: false
+  xy: 2, 57
+  size: 98, 39
+  orig: 98, 39
+  offset: 0, 0
+  index: -1
+x-fanyouyu-4
+  rotate: false
+  xy: 84, 98
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+x-fanyouyu-5
+  rotate: true
+  xy: 2, 112
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+s-baoyu.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s-baoyu
+  rotate: false
+  xy: 2, 17
+  size: 84, 69
+  orig: 84, 69
+  offset: 0, 0
+  index: -1

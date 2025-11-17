@@ -1,0 +1,41 @@
+
+s-hongyanchanchu.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s-hongyanchanchu-1
+  rotate: false
+  xy: 2, 30
+  size: 45, 61
+  orig: 45, 61
+  offset: 0, 0
+  index: -1
+s-hongyanchanchu-2
+  rotate: false
+  xy: 2, 2
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+s-hongyanchanchu-3
+  rotate: false
+  xy: 2, 2
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+s-hongyanchanchu-4
+  rotate: true
+  xy: 38, 3
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+s-hongyanchanchu-5
+  rotate: false
+  xy: 49, 66
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1

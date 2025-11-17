@@ -1,0 +1,90 @@
+
+effect_qishou.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: true
+  xy: 2, 388
+  size: 72, 104
+  orig: 500, 500
+  offset: 212, 239
+  index: -1
+images/0_00001
+  rotate: true
+  xy: 220, 331
+  size: 104, 163
+  orig: 500, 500
+  offset: 201, 237
+  index: -1
+images/0_00003
+  rotate: true
+  xy: 157, 202
+  size: 127, 189
+  orig: 500, 500
+  offset: 185, 220
+  index: -1
+images/0_00005
+  rotate: true
+  xy: 2, 70
+  size: 130, 192
+  orig: 500, 500
+  offset: 184, 219
+  index: -1
+images/0_00007
+  rotate: false
+  xy: 348, 132
+  size: 131, 183
+  orig: 500, 500
+  offset: 182, 221
+  index: -1
+images/0_00009
+  rotate: true
+  xy: 2, 246
+  size: 123, 153
+  orig: 500, 500
+  offset: 185, 225
+  index: -1
+images/0_00011
+  rotate: false
+  xy: 385, 317
+  size: 122, 118
+  orig: 500, 500
+  offset: 188, 229
+  index: -1
+images/0_00013
+  rotate: false
+  xy: 108, 371
+  size: 110, 89
+  orig: 500, 500
+  offset: 194, 223
+  index: -1
+images/0_00015
+  rotate: false
+  xy: 330, 437
+  size: 116, 70
+  orig: 500, 500
+  offset: 191, 222
+  index: -1
+images/0_00017
+  rotate: false
+  xy: 102, 462
+  size: 116, 45
+  orig: 500, 500
+  offset: 192, 228
+  index: -1
+images/0_00019
+  rotate: false
+  xy: 220, 462
+  size: 108, 45
+  orig: 500, 500
+  offset: 193, 236
+  index: -1
+images/0_00021
+  rotate: false
+  xy: 2, 468
+  size: 98, 39
+  orig: 500, 500
+  offset: 200, 238
+  index: -1

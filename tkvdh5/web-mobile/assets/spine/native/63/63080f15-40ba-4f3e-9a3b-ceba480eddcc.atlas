@@ -1,0 +1,48 @@
+
+effect_atk_mon43.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: false
+  xy: 2, 172
+  size: 214, 95
+  orig: 300, 200
+  offset: 40, 51
+  index: -1
+images/0_00001
+  rotate: false
+  xy: 2, 269
+  size: 216, 92
+  orig: 300, 200
+  offset: 38, 52
+  index: -1
+images/0_00002
+  rotate: false
+  xy: 218, 168
+  size: 219, 95
+  orig: 300, 200
+  offset: 35, 45
+  index: -1
+images/0_00003
+  rotate: false
+  xy: 229, 360
+  size: 222, 91
+  orig: 300, 200
+  offset: 32, 55
+  index: -1
+images/0_00004
+  rotate: false
+  xy: 2, 363
+  size: 225, 88
+  orig: 300, 200
+  offset: 29, 54
+  index: -1
+images/0_00005
+  rotate: false
+  xy: 220, 265
+  size: 213, 93
+  orig: 300, 200
+  offset: 41, 54
+  index: -1

@@ -1,0 +1,192 @@
+
+effect_bahuangsheng.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: false
+  xy: 2, 864
+  size: 158, 158
+  orig: 440, 440
+  offset: 138, 142
+  index: -1
+images/0_00001
+  rotate: false
+  xy: 2, 579
+  size: 254, 238
+  orig: 440, 440
+  offset: 96, 103
+  index: -1
+images/0_00003
+  rotate: false
+  xy: 258, 545
+  size: 292, 272
+  orig: 440, 440
+  offset: 80, 81
+  index: -1
+images/0_00005
+  rotate: false
+  xy: 552, 512
+  size: 321, 299
+  orig: 440, 440
+  offset: 67, 67
+  index: -1
+images/0_00008
+  rotate: true
+  xy: 716, 162
+  size: 348, 306
+  orig: 440, 440
+  offset: 55, 68
+  index: -1
+images/0_00029
+  rotate: false
+  xy: 2, 241
+  size: 325, 302
+  orig: 440, 440
+  offset: 60, 83
+  index: -1
+images/0_00032
+  rotate: false
+  xy: 652, 813
+  size: 287, 209
+  orig: 440, 440
+  offset: 61, 92
+  index: -1
+images/0_00034
+  rotate: false
+  xy: 162, 819
+  size: 283, 203
+  orig: 440, 440
+  offset: 64, 94
+  index: -1
+images/8
+  rotate: true
+  xy: 329, 207
+  size: 303, 385
+  orig: 303, 385
+  offset: 0, 0
+  index: -1
+images/glow01
+  rotate: false
+  xy: 447, 819
+  size: 203, 203
+  orig: 225, 225
+  offset: 11, 11
+  index: -1
+
+effect_bahuangsheng2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/3
+  rotate: false
+  xy: 2, 364
+  size: 315, 387
+  orig: 315, 389
+  offset: 0, 0
+  index: -1
+images/5
+  rotate: true
+  xy: 2, 2
+  size: 360, 385
+  orig: 360, 385
+  offset: 0, 0
+  index: -1
+images/6
+  rotate: false
+  xy: 389, 16
+  size: 342, 386
+  orig: 342, 386
+  offset: 0, 0
+  index: -1
+images/9
+  rotate: true
+  xy: 319, 404
+  size: 347, 385
+  orig: 347, 385
+  offset: 0, 0
+  index: -1
+
+effect_bahuangsheng3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00020
+  rotate: false
+  xy: 349, 641
+  size: 376, 334
+  orig: 440, 440
+  offset: 48, 51
+  index: -1
+images/1
+  rotate: true
+  xy: 349, 323
+  size: 316, 385
+  orig: 316, 385
+  offset: 0, 0
+  index: -1
+images/2
+  rotate: true
+  xy: 339, 2
+  size: 319, 386
+  orig: 319, 386
+  offset: 0, 0
+  index: -1
+images/4
+  rotate: false
+  xy: 2, 590
+  size: 345, 385
+  orig: 347, 385
+  offset: 1, 0
+  index: -1
+images/7
+  rotate: false
+  xy: 2, 203
+  size: 335, 385
+  orig: 335, 386
+  offset: 0, 1
+  index: -1
+
+effect_bahuangsheng4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00011
+  rotate: false
+  xy: 331, 324
+  size: 363, 321
+  orig: 440, 440
+  offset: 49, 59
+  index: -1
+images/0_00014
+  rotate: true
+  xy: 2, 298
+  size: 371, 327
+  orig: 440, 440
+  offset: 47, 55
+  index: -1
+images/0_00017
+  rotate: false
+  xy: 2, 671
+  size: 375, 332
+  orig: 440, 440
+  offset: 46, 52
+  index: -1
+images/0_00023
+  rotate: true
+  xy: 379, 647
+  size: 356, 332
+  orig: 440, 440
+  offset: 45, 53
+  index: -1
+images/0_00026
+  rotate: true
+  xy: 696, 295
+  size: 350, 307
+  orig: 440, 440
+  offset: 59, 78
+  index: -1

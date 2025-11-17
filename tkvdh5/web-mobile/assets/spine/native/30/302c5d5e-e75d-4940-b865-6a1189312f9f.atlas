@@ -1,0 +1,41 @@
+
+effect_xianfa_atk_69.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: false
+  xy: 2, 56
+  size: 242, 144
+  orig: 352, 264
+  offset: 55, 47
+  index: -1
+images/0_00002
+  rotate: false
+  xy: 251, 349
+  size: 245, 147
+  orig: 352, 264
+  offset: 54, 48
+  index: -1
+images/0_00004
+  rotate: false
+  xy: 250, 200
+  size: 239, 147
+  orig: 352, 264
+  offset: 56, 47
+  index: -1
+images/0_00006
+  rotate: false
+  xy: 2, 350
+  size: 247, 146
+  orig: 352, 264
+  offset: 55, 47
+  index: -1
+images/0_00008
+  rotate: false
+  xy: 2, 202
+  size: 246, 146
+  orig: 352, 264
+  offset: 54, 48
+  index: -1

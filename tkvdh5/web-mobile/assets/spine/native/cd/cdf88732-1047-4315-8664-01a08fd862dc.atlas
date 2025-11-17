@@ -1,0 +1,27 @@
+
+d-shuangqiyu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d-shuangqiyu
+  rotate: false
+  xy: 2, 76
+  size: 221, 104
+  orig: 221, 104
+  offset: 0, 0
+  index: -1
+d-shuangqiyu-1
+  rotate: true
+  xy: 39, 182
+  size: 41, 51
+  orig: 41, 51
+  offset: 0, 0
+  index: -1
+d-shuangqiyu-2
+  rotate: false
+  xy: 2, 188
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+effect_atk_muyuan.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: true
+  xy: 35, 71
+  size: 67, 31
+  orig: 225, 225
+  offset: 79, 97
+  index: -1
+images/0_00001
+  rotate: false
+  xy: 68, 72
+  size: 67, 31
+  orig: 225, 225
+  offset: 79, 97
+  index: -1
+images/0_00002
+  rotate: false
+  xy: 2, 140
+  size: 67, 32
+  orig: 225, 225
+  offset: 79, 97
+  index: -1
+images/0_00003
+  rotate: true
+  xy: 71, 105
+  size: 67, 32
+  orig: 225, 225
+  offset: 79, 97
+  index: -1
+images/0_00004
+  rotate: false
+  xy: 105, 142
+  size: 67, 30
+  orig: 225, 225
+  offset: 79, 98
+  index: -1
+images/0_00005
+  rotate: false
+  xy: 105, 110
+  size: 67, 30
+  orig: 225, 225
+  offset: 79, 98
+  index: -1
+images/0_00006
+  rotate: false
+  xy: 68, 40
+  size: 67, 30
+  orig: 225, 225
+  offset: 79, 98
+  index: -1
+images/0_00007
+  rotate: true
+  xy: 2, 71
+  size: 67, 31
+  orig: 225, 225
+  offset: 79, 97
+  index: -1

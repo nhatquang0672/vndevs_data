@@ -1,0 +1,104 @@
+
+tudi.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+touying
+  rotate: true
+  xy: 482, 336
+  size: 65, 26
+  orig: 65, 26
+  offset: 0, 0
+  index: -1
+tudi_0
+  rotate: false
+  xy: 2, 260
+  size: 79, 70
+  orig: 79, 70
+  offset: 0, 0
+  index: -1
+tudi_1
+  rotate: false
+  xy: 360, 240
+  size: 100, 83
+  orig: 100, 83
+  offset: 0, 0
+  index: -1
+tudi_10
+  rotate: true
+  xy: 2, 227
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+tudi_11
+  rotate: true
+  xy: 197, 365
+  size: 144, 170
+  orig: 144, 170
+  offset: 0, 0
+  index: -1
+tudi_12
+  rotate: true
+  xy: 83, 240
+  size: 44, 52
+  orig: 55, 70
+  offset: 0, 18
+  index: -1
+tudi_2
+  rotate: true
+  xy: 197, 286
+  size: 77, 109
+  orig: 77, 109
+  offset: 0, 0
+  index: -1
+tudi_3
+  rotate: false
+  xy: 369, 403
+  size: 120, 106
+  orig: 120, 106
+  offset: 0, 0
+  index: -1
+tudi_4
+  rotate: false
+  xy: 462, 240
+  size: 47, 83
+  orig: 47, 83
+  offset: 0, 0
+  index: -1
+tudi_5
+  rotate: true
+  xy: 369, 325
+  size: 76, 111
+  orig: 106, 111
+  offset: 0, 0
+  index: -1
+tudi_6
+  rotate: true
+  xy: 146, 261
+  size: 69, 38
+  orig: 69, 38
+  offset: 0, 0
+  index: -1
+tudi_7
+  rotate: true
+  xy: 308, 276
+  size: 87, 50
+  orig: 87, 55
+  offset: 0, 0
+  index: -1
+tudi_8
+  rotate: false
+  xy: 2, 332
+  size: 193, 177
+  orig: 193, 177
+  offset: 0, 0
+  index: -1
+tudi_9
+  rotate: true
+  xy: 83, 286
+  size: 44, 61
+  orig: 44, 61
+  offset: 0, 0
+  index: -1

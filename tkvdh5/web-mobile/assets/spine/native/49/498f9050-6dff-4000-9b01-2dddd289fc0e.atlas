@@ -1,0 +1,13 @@
+
+s-kedou.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s-kedou
+  rotate: false
+  xy: 2, 64
+  size: 95, 33
+  orig: 95, 33
+  offset: 0, 0
+  index: -1

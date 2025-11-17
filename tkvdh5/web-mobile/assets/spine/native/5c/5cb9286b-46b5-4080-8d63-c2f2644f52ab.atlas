@@ -1,0 +1,96 @@
+
+effect_xianfa_109.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: false
+  xy: 410, 110
+  size: 336, 399
+  orig: 528, 528
+  offset: 77, 60
+  index: -1
+images/0_00001
+  rotate: true
+  xy: 362, 511
+  size: 361, 398
+  orig: 528, 528
+  offset: 56, 60
+  index: -1
+images/0_00002
+  rotate: true
+  xy: 2, 98
+  size: 361, 406
+  orig: 528, 528
+  offset: 54, 60
+  index: -1
+images/0_00004
+  rotate: false
+  xy: 2, 461
+  size: 358, 411
+  orig: 528, 528
+  offset: 55, 60
+  index: -1
+images/0_00016
+  rotate: true
+  xy: 410, 2
+  size: 106, 132
+  orig: 528, 528
+  offset: 215, 202
+  index: -1
+images/0_00018
+  rotate: true
+  xy: 2, 25
+  size: 71, 97
+  orig: 528, 528
+  offset: 225, 223
+  index: -1
+images/0_00020
+  rotate: true
+  xy: 101, 58
+  size: 38, 51
+  orig: 528, 528
+  offset: 235, 231
+  index: -1
+
+effect_xianfa_1092.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00006
+  rotate: true
+  xy: 348, 256
+  size: 348, 367
+  orig: 528, 528
+  offset: 59, 105
+  index: -1
+images/0_00008
+  rotate: false
+  xy: 2, 293
+  size: 344, 344
+  orig: 528, 528
+  offset: 68, 122
+  index: -1
+images/0_00010
+  rotate: true
+  xy: 600, 606
+  size: 329, 335
+  orig: 528, 528
+  offset: 85, 121
+  index: -1
+images/0_00012
+  rotate: true
+  xy: 300, 639
+  size: 296, 298
+  orig: 528, 528
+  offset: 117, 121
+  index: -1
+images/0_00014
+  rotate: false
+  xy: 2, 649
+  size: 296, 286
+  orig: 528, 528
+  offset: 117, 126
+  index: -1

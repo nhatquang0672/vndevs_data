@@ -1,0 +1,153 @@
+
+50009.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hongfeng_0
+  rotate: true
+  xy: 379, 64
+  size: 41, 92
+  orig: 41, 92
+  offset: 0, 0
+  index: -1
+hongfeng_1
+  rotate: false
+  xy: 347, 319
+  size: 90, 51
+  orig: 90, 51
+  offset: 0, 0
+  index: -1
+hongfeng_10
+  rotate: true
+  xy: 439, 346
+  size: 35, 62
+  orig: 35, 62
+  offset: 0, 0
+  index: -1
+hongfeng_11
+  rotate: true
+  xy: 423, 383
+  size: 52, 68
+  orig: 52, 68
+  offset: 0, 0
+  index: -1
+hongfeng_12
+  rotate: true
+  xy: 453, 152
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+hongfeng_13
+  rotate: false
+  xy: 211, 177
+  size: 114, 114
+  orig: 114, 114
+  offset: 0, 0
+  index: -1
+hongfeng_14
+  rotate: true
+  xy: 358, 382
+  size: 53, 63
+  orig: 53, 63
+  offset: 0, 0
+  index: -1
+hongfeng_15
+  rotate: false
+  xy: 2, 78
+  size: 60, 48
+  orig: 60, 48
+  offset: 0, 0
+  index: -1
+hongfeng_16
+  rotate: true
+  xy: 291, 372
+  size: 63, 65
+  orig: 63, 65
+  offset: 0, 0
+  index: -1
+hongfeng_17
+  rotate: true
+  xy: 149, 370
+  size: 138, 140
+  orig: 138, 140
+  offset: 0, 0
+  index: -1
+hongfeng_18
+  rotate: true
+  xy: 291, 437
+  size: 71, 203
+  orig: 71, 203
+  offset: 0, 0
+  index: -1
+hongfeng_19
+  rotate: false
+  xy: 327, 73
+  size: 50, 113
+  orig: 50, 113
+  offset: 0, 0
+  index: -1
+hongfeng_2
+  rotate: false
+  xy: 432, 204
+  size: 76, 38
+  orig: 76, 38
+  offset: 0, 0
+  index: -1
+hongfeng_3
+  rotate: false
+  xy: 211, 79
+  size: 85, 96
+  orig: 85, 96
+  offset: 0, 0
+  index: -1
+hongfeng_4
+  rotate: false
+  xy: 2, 128
+  size: 207, 154
+  orig: 207, 154
+  offset: 0, 0
+  index: -1
+hongfeng_5
+  rotate: false
+  xy: 2, 284
+  size: 145, 224
+  orig: 145, 224
+  offset: 0, 0
+  index: -1
+hongfeng_6
+  rotate: false
+  xy: 327, 188
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1
+hongfeng_7
+  rotate: false
+  xy: 432, 244
+  size: 69, 73
+  orig: 69, 73
+  offset: 0, 0
+  index: -1
+hongfeng_8
+  rotate: false
+  xy: 379, 107
+  size: 72, 79
+  orig: 72, 79
+  offset: 0, 0
+  index: -1
+hongfeng_9
+  rotate: true
+  xy: 453, 113
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+touying
+  rotate: false
+  xy: 149, 293
+  size: 196, 75
+  orig: 196, 75
+  offset: 0, 0
+  index: -1

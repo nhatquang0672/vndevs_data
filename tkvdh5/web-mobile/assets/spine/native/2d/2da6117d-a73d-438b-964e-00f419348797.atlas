@@ -1,0 +1,13 @@
+
+zw-yinlinbiao.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zw-yinlinbiao
+  rotate: false
+  xy: 2, 18
+  size: 121, 105
+  orig: 121, 105
+  offset: 0, 0
+  index: -1

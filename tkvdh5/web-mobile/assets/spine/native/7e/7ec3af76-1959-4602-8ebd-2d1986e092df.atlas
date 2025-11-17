@@ -1,0 +1,62 @@
+
+effect_hit_mon31.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: true
+  xy: 575, 472
+  size: 177, 166
+  orig: 500, 500
+  offset: 161, 171
+  index: -1
+images/0_00001
+  rotate: true
+  xy: 311, 359
+  size: 290, 262
+  orig: 500, 500
+  offset: 97, 120
+  index: -1
+images/0_00003
+  rotate: true
+  xy: 2, 2
+  size: 313, 274
+  orig: 500, 500
+  offset: 91, 116
+  index: -1
+images/0_00005
+  rotate: true
+  xy: 309, 651
+  size: 316, 295
+  orig: 500, 500
+  offset: 99, 107
+  index: -1
+images/0_00007
+  rotate: true
+  xy: 2, 317
+  size: 322, 307
+  orig: 500, 500
+  offset: 95, 99
+  index: -1
+images/0_00009
+  rotate: false
+  xy: 2, 641
+  size: 305, 326
+  orig: 500, 500
+  offset: 101, 84
+  index: -1
+images/0_00011
+  rotate: true
+  xy: 278, 22
+  size: 293, 227
+  orig: 500, 500
+  offset: 113, 162
+  index: -1
+images/0_00013
+  rotate: true
+  xy: 507, 107
+  size: 250, 210
+  orig: 500, 500
+  offset: 121, 163
+  index: -1

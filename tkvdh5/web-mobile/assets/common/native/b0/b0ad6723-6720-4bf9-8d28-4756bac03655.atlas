@@ -1,0 +1,76 @@
+
+effect_gongxihuode.png
+size: 762,762
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 514, 20
+  size: 506, 141
+  orig: 506, 141
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 467, 530
+  size: 228, 228
+  orig: 228, 228
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 4, 299
+  size: 459, 459
+  orig: 520, 520
+  offset: 30, 32
+  index: -1
+4
+  rotate: false
+  xy: 4, 48
+  size: 506, 247
+  orig: 600, 400
+  offset: 63, 110
+  index: -1
+L
+  rotate: true
+  xy: 699, 564
+  size: 194, 46
+  orig: 194, 47
+  offset: 0, 1
+  index: -1
+R
+  rotate: false
+  xy: 4, 4
+  size: 242, 40
+  orig: 242, 40
+  offset: 0, 0
+  index: -1
+d
+  rotate: false
+  xy: 659, 416
+  size: 96, 110
+  orig: 308, 112
+  offset: 212, 0
+  index: -1
+g
+  rotate: false
+  xy: 659, 302
+  size: 99, 110
+  orig: 308, 112
+  offset: 0, 2
+  index: -1
+h
+  rotate: false
+  xy: 659, 136
+  size: 61, 73
+  orig: 308, 112
+  offset: 159, 16
+  index: -1
+x
+  rotate: false
+  xy: 659, 213
+  size: 75, 85
+  orig: 308, 112
+  offset: 88, 14
+  index: -1

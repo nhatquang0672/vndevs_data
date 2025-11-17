@@ -1,0 +1,83 @@
+
+effect_hit_fengling.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: true
+  xy: 543, 552
+  size: 209, 190
+  orig: 528, 528
+  offset: 161, 88
+  index: -1
+images/0_00001
+  rotate: false
+  xy: 360, 2
+  size: 263, 311
+  orig: 528, 528
+  offset: 133, 88
+  index: -1
+images/0_00003
+  rotate: true
+  xy: 2, 13
+  size: 264, 356
+  orig: 528, 528
+  offset: 134, 88
+  index: -1
+images/0_00005
+  rotate: false
+  xy: 2, 279
+  size: 264, 369
+  orig: 528, 528
+  offset: 133, 88
+  index: -1
+images/0_00007
+  rotate: false
+  xy: 2, 650
+  size: 268, 364
+  orig: 528, 528
+  offset: 136, 88
+  index: -1
+images/0_00009
+  rotate: false
+  xy: 268, 315
+  size: 273, 333
+  orig: 528, 528
+  offset: 136, 102
+  index: -1
+images/0_00011
+  rotate: false
+  xy: 272, 730
+  size: 263, 284
+  orig: 528, 528
+  offset: 142, 119
+  index: -1
+images/0_00013
+  rotate: false
+  xy: 537, 763
+  size: 219, 251
+  orig: 528, 528
+  offset: 140, 141
+  index: -1
+images/0_00015
+  rotate: true
+  xy: 543, 370
+  size: 180, 177
+  orig: 528, 528
+  offset: 170, 158
+  index: -1
+images/0_00017
+  rotate: false
+  xy: 625, 217
+  size: 117, 151
+  orig: 528, 528
+  offset: 208, 182
+  index: -1
+images/0_00019
+  rotate: true
+  xy: 272, 682
+  size: 46, 87
+  orig: 528, 528
+  offset: 250, 205
+  index: -1

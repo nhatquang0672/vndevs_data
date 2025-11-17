@@ -1,0 +1,14 @@
+[
+  {"id":"1","prob":100,"gdep":"baoji","locklv":[6,11,21]},
+  {"id":"2","prob":100,"gdep":"lianji","locklv":[6,11,21]},
+  {"id":"3","prob":100,"gdep":"fanji","locklv":[6,11,21]},
+  {"id":"4","prob":100,"gdep":"jiyun","locklv":[6,11,21]},
+  {"id":"5","prob":100,"gdep":"shanbi","locklv":[6,11,21]},
+  {"id":"6","prob":100,"gdep":"xixue","locklv":[6,11,21]},
+  {"id":"7","prob":100,"gdep":"hp_max","locklv":[6,11,21]},
+  {"id":"8","prob":100,"gdep":"hp_max","locklv":[6,11,21]},
+  {"id":"9","prob":100,"gdep":"atk","locklv":[6,11,21]},
+  {"id":"10","prob":100,"gdep":"atk","locklv":[6,11,21]},
+  {"id":"11","prob":100,"gdep":"def","locklv":[6,11,21]},
+  {"id":"12","prob":100,"gdep":"def","locklv":[6,11,21]}
+]

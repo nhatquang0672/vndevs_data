@@ -1,0 +1,20 @@
+
+x-mangyu.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+x-mangyu-1
+  rotate: true
+  xy: 104, 95
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+x-mangyu-2
+  rotate: false
+  xy: 2, 72
+  size: 100, 47
+  orig: 100, 47
+  offset: 0, 0
+  index: -1

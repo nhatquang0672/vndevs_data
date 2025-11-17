@@ -1,0 +1,69 @@
+
+effect_jianshuaxin.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1/0_00000
+  rotate: false
+  xy: 230, 251
+  size: 189, 200
+  orig: 300, 300
+  offset: 66, 52
+  index: -1
+images/1/0_00001
+  rotate: true
+  xy: 420, 43
+  size: 204, 185
+  orig: 300, 300
+  offset: 54, 56
+  index: -1
+images/1/0_00003
+  rotate: true
+  xy: 214, 4
+  size: 221, 202
+  orig: 300, 300
+  offset: 42, 48
+  index: -1
+images/1/0_00005
+  rotate: true
+  xy: 238, 692
+  size: 221, 208
+  orig: 300, 300
+  offset: 40, 44
+  index: -1
+images/1/0_00007
+  rotate: false
+  xy: 4, 455
+  size: 221, 224
+  orig: 300, 300
+  offset: 41, 43
+  index: -1
+images/1/0_00009
+  rotate: false
+  xy: 4, 229
+  size: 222, 222
+  orig: 300, 300
+  offset: 41, 44
+  index: -1
+images/1/0_00011
+  rotate: true
+  xy: 229, 455
+  size: 224, 213
+  orig: 300, 300
+  offset: 39, 49
+  index: -1
+images/1/0_00013
+  rotate: true
+  xy: 4, 4
+  size: 221, 206
+  orig: 300, 300
+  offset: 39, 53
+  index: -1
+images/2
+  rotate: false
+  xy: 4, 683
+  size: 230, 230
+  orig: 300, 300
+  offset: 35, 35
+  index: -1

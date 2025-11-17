@@ -1,0 +1,104 @@
+
+effect_chushou4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: true
+  xy: 41, 873
+  size: 87, 118
+  orig: 600, 600
+  offset: 258, 246
+  index: -1
+images/0_00002
+  rotate: true
+  xy: 161, 798
+  size: 162, 165
+  orig: 600, 600
+  offset: 219, 219
+  index: -1
+images/0_00004
+  rotate: true
+  xy: 2, 602
+  size: 194, 196
+  orig: 600, 600
+  offset: 203, 203
+  index: -1
+images/0_00006
+  rotate: true
+  xy: 200, 596
+  size: 196, 203
+  orig: 600, 600
+  offset: 202, 202
+  index: -1
+images/0_00008
+  rotate: true
+  xy: 463, 361
+  size: 218, 223
+  orig: 600, 600
+  offset: 191, 191
+  index: -1
+images/0_00010
+  rotate: true
+  xy: 405, 590
+  size: 197, 212
+  orig: 600, 600
+  offset: 204, 204
+  index: -1
+images/0_00012
+  rotate: true
+  xy: 619, 581
+  size: 201, 216
+  orig: 600, 600
+  offset: 201, 201
+  index: -1
+images/0_00014
+  rotate: true
+  xy: 2, 385
+  size: 209, 228
+  orig: 600, 600
+  offset: 198, 193
+  index: -1
+images/0_00016
+  rotate: true
+  xy: 232, 371
+  size: 217, 229
+  orig: 600, 600
+  offset: 202, 189
+  index: -1
+images/0_00018
+  rotate: false
+  xy: 328, 794
+  size: 229, 166
+  orig: 600, 600
+  offset: 198, 220
+  index: -1
+images/0_00020
+  rotate: false
+  xy: 738, 784
+  size: 222, 176
+  orig: 600, 600
+  offset: 201, 219
+  index: -1
+images/0_00022
+  rotate: true
+  xy: 559, 789
+  size: 171, 177
+  orig: 600, 600
+  offset: 223, 223
+  index: -1
+images/0_00024
+  rotate: true
+  xy: 2, 944
+  size: 16, 37
+  orig: 600, 600
+  offset: 362, 355
+  index: -1
+images/glow01
+  rotate: false
+  xy: 688, 349
+  size: 230, 230
+  orig: 256, 256
+  offset: 13, 13
+  index: -1

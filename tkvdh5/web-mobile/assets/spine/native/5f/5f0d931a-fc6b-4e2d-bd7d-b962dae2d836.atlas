@@ -1,0 +1,153 @@
+
+baiwuchang.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baiwuchang_0
+  rotate: true
+  xy: 377, 455
+  size: 46, 67
+  orig: 46, 67
+  offset: 0, 0
+  index: -1
+baiwuchang_1
+  rotate: true
+  xy: 24, 480
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+baiwuchang_10
+  rotate: true
+  xy: 195, 471
+  size: 30, 39
+  orig: 31, 39
+  offset: 1, 0
+  index: -1
+baiwuchang_11
+  rotate: false
+  xy: 149, 475
+  size: 44, 26
+  orig: 44, 26
+  offset: 0, 0
+  index: -1
+baiwuchang_12
+  rotate: true
+  xy: 81, 419
+  size: 54, 75
+  orig: 54, 75
+  offset: 0, 0
+  index: -1
+baiwuchang_13
+  rotate: false
+  xy: 2, 428
+  size: 77, 48
+  orig: 77, 48
+  offset: 0, 0
+  index: -1
+baiwuchang_14
+  rotate: false
+  xy: 188, 295
+  size: 148, 100
+  orig: 148, 100
+  offset: 0, 0
+  index: -1
+baiwuchang_15
+  rotate: false
+  xy: 446, 454
+  size: 55, 47
+  orig: 55, 47
+  offset: 0, 0
+  index: -1
+baiwuchang_16
+  rotate: true
+  xy: 2, 356
+  size: 70, 76
+  orig: 70, 76
+  offset: 0, 0
+  index: -1
+baiwuchang_17
+  rotate: true
+  xy: 357, 386
+  size: 66, 96
+  orig: 66, 130
+  offset: 0, 34
+  index: -1
+baiwuchang_18
+  rotate: true
+  xy: 317, 459
+  size: 42, 58
+  orig: 42, 58
+  offset: 0, 0
+  index: -1
+baiwuchang_19
+  rotate: false
+  xy: 338, 279
+  size: 150, 105
+  orig: 150, 105
+  offset: 0, 0
+  index: -1
+baiwuchang_2
+  rotate: true
+  xy: 2, 482
+  size: 19, 20
+  orig: 21, 20
+  offset: 1, 0
+  index: -1
+baiwuchang_3
+  rotate: false
+  xy: 53, 478
+  size: 29, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+baiwuchang_4
+  rotate: true
+  xy: 2, 216
+  size: 122, 165
+  orig: 122, 165
+  offset: 0, 0
+  index: -1
+baiwuchang_5
+  rotate: false
+  xy: 236, 468
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+baiwuchang_6
+  rotate: false
+  xy: 158, 410
+  size: 92, 56
+  orig: 92, 56
+  offset: 0, 0
+  index: -1
+baiwuchang_7
+  rotate: true
+  xy: 80, 340
+  size: 68, 106
+  orig: 68, 106
+  offset: 0, 0
+  index: -1
+baiwuchang_8
+  rotate: false
+  xy: 275, 462
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+baiwuchang_9
+  rotate: true
+  xy: 252, 397
+  size: 60, 103
+  orig: 82, 103
+  offset: 0, 0
+  index: -1
+touying
+  rotate: false
+  xy: 84, 477
+  size: 63, 24
+  orig: 65, 26
+  offset: 1, 1
+  index: -1

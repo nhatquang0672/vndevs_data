@@ -1,0 +1,27 @@
+
+z-xunyu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z-xunyu
+  rotate: false
+  xy: 2, 124
+  size: 153, 53
+  orig: 153, 53
+  offset: 0, 0
+  index: -1
+z-xunyu-1
+  rotate: true
+  xy: 157, 151
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+z-xunyu-2
+  rotate: true
+  xy: 157, 129
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+niutou.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+niutou_0
+  rotate: true
+  xy: 212, 84
+  size: 55, 34
+  orig: 55, 34
+  offset: 0, 0
+  index: -1
+niutou_1
+  rotate: true
+  xy: 140, 400
+  size: 107, 84
+  orig: 107, 84
+  offset: 0, 0
+  index: -1
+niutou_10
+  rotate: false
+  xy: 2, 327
+  size: 136, 180
+  orig: 136, 180
+  offset: 0, 0
+  index: -1
+niutou_11
+  rotate: false
+  xy: 212, 235
+  size: 84, 100
+  orig: 84, 100
+  offset: 0, 0
+  index: -1
+niutou_12
+  rotate: true
+  xy: 123, 204
+  size: 121, 87
+  orig: 121, 87
+  offset: 0, 0
+  index: -1
+niutou_13
+  rotate: true
+  xy: 228, 346
+  size: 58, 71
+  orig: 58, 71
+  offset: 0, 0
+  index: -1
+niutou_14
+  rotate: false
+  xy: 212, 141
+  size: 78, 92
+  orig: 78, 92
+  offset: 0, 0
+  index: -1
+niutou_15
+  rotate: false
+  xy: 226, 406
+  size: 86, 101
+  orig: 86, 101
+  offset: 0, 0
+  index: -1
+niutou_16
+  rotate: false
+  xy: 2, 22
+  size: 113, 53
+  orig: 113, 54
+  offset: 0, 0
+  index: -1
+niutou_2
+  rotate: false
+  xy: 109, 81
+  size: 101, 112
+  orig: 101, 112
+  offset: 0, 0
+  index: -1
+niutou_3
+  rotate: true
+  xy: 117, 2
+  size: 77, 115
+  orig: 77, 115
+  offset: 0, 0
+  index: -1
+niutou_4
+  rotate: true
+  xy: 140, 337
+  size: 61, 86
+  orig: 61, 86
+  offset: 0, 0
+  index: -1
+niutou_5
+  rotate: true
+  xy: 2, 77
+  size: 116, 105
+  orig: 116, 106
+  offset: 0, 1
+  index: -1
+niutou_6
+  rotate: true
+  xy: 260, 56
+  size: 43, 30
+  orig: 43, 31
+  offset: 0, 1
+  index: -1
+niutou_7
+  rotate: false
+  xy: 285, 111
+  size: 25, 28
+  orig: 26, 28
+  offset: 1, 0
+  index: -1
+niutou_8
+  rotate: true
+  xy: 2, 195
+  size: 130, 119
+  orig: 130, 119
+  offset: 0, 0
+  index: -1
+niutou_9
+  rotate: true
+  xy: 248, 101
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+touying
+  rotate: true
+  xy: 234, 19
+  size: 63, 24
+  orig: 65, 26
+  offset: 1, 1
+  index: -1

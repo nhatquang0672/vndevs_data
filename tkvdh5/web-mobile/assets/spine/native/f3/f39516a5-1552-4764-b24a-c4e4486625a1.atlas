@@ -1,0 +1,27 @@
+
+d-baixun.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d-baixun-1
+  rotate: false
+  xy: 2, 226
+  size: 261, 63
+  orig: 261, 63
+  offset: 0, 0
+  index: -1
+d-baixun-2
+  rotate: false
+  xy: 265, 253
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+d-baixun-3
+  rotate: true
+  xy: 265, 223
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1

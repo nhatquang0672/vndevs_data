@@ -1,0 +1,111 @@
+
+effect_liuxue.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: true
+  xy: 283, 416
+  size: 77, 91
+  orig: 250, 250
+  offset: 88, 71
+  index: -1
+images/0_00002
+  rotate: true
+  xy: 376, 416
+  size: 77, 92
+  orig: 250, 250
+  offset: 89, 68
+  index: -1
+images/0_00004
+  rotate: true
+  xy: 2, 417
+  size: 76, 93
+  orig: 250, 250
+  offset: 90, 66
+  index: -1
+images/0_00006
+  rotate: true
+  xy: 97, 417
+  size: 76, 92
+  orig: 250, 250
+  offset: 90, 65
+  index: -1
+images/0_00008
+  rotate: true
+  xy: 2, 338
+  size: 77, 101
+  orig: 250, 250
+  offset: 90, 63
+  index: -1
+images/0_00010
+  rotate: true
+  xy: 105, 337
+  size: 77, 100
+  orig: 250, 250
+  offset: 90, 63
+  index: -1
+images/0_00012
+  rotate: true
+  xy: 390, 336
+  size: 78, 95
+  orig: 250, 250
+  offset: 90, 67
+  index: -1
+images/0_00014
+  rotate: true
+  xy: 2, 257
+  size: 78, 104
+  orig: 250, 250
+  offset: 90, 67
+  index: -1
+images/0_00016
+  rotate: true
+  xy: 108, 256
+  size: 79, 103
+  orig: 250, 250
+  offset: 89, 67
+  index: -1
+images/0_00018
+  rotate: true
+  xy: 213, 256
+  size: 79, 95
+  orig: 250, 250
+  offset: 89, 74
+  index: -1
+images/0_00020
+  rotate: true
+  xy: 310, 255
+  size: 79, 94
+  orig: 250, 250
+  offset: 89, 74
+  index: -1
+images/0_00022
+  rotate: true
+  xy: 406, 255
+  size: 79, 87
+  orig: 250, 250
+  offset: 89, 80
+  index: -1
+images/0_00024
+  rotate: true
+  xy: 207, 337
+  size: 77, 89
+  orig: 250, 250
+  offset: 89, 77
+  index: -1
+images/0_00026
+  rotate: true
+  xy: 298, 337
+  size: 77, 90
+  orig: 250, 250
+  offset: 88, 75
+  index: -1
+images/0_00028
+  rotate: true
+  xy: 191, 416
+  size: 77, 90
+  orig: 250, 250
+  offset: 88, 73
+  index: -1

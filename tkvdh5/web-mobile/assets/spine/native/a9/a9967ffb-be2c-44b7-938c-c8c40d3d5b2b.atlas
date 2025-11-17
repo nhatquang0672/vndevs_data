@@ -1,0 +1,55 @@
+
+effect_bowen.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: false
+  xy: 268, 272
+  size: 259, 140
+  orig: 500, 500
+  offset: 123, 173
+  index: -1
+images/0_00002
+  rotate: false
+  xy: 2, 533
+  size: 269, 149
+  orig: 500, 500
+  offset: 119, 164
+  index: -1
+images/0_00004
+  rotate: true
+  xy: 273, 414
+  size: 268, 155
+  orig: 500, 500
+  offset: 123, 159
+  index: -1
+images/0_00006
+  rotate: true
+  xy: 2, 279
+  size: 252, 145
+  orig: 500, 500
+  offset: 139, 161
+  index: -1
+images/0_00008
+  rotate: true
+  xy: 149, 302
+  size: 229, 117
+  orig: 500, 500
+  offset: 136, 188
+  index: -1
+images/0_00010
+  rotate: false
+  xy: 430, 414
+  size: 247, 130
+  orig: 500, 500
+  offset: 131, 181
+  index: -1
+images/0_00012
+  rotate: false
+  xy: 430, 546
+  size: 252, 136
+  orig: 500, 500
+  offset: 128, 175
+  index: -1

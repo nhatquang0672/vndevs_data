@@ -1,0 +1,62 @@
+
+effect_hit_cangkui.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: false
+  xy: 2, 679
+  size: 214, 178
+  orig: 440, 440
+  offset: 116, 139
+  index: -1
+images/0_00001
+  rotate: false
+  xy: 2, 461
+  size: 284, 198
+  orig: 440, 440
+  offset: 95, 129
+  index: -1
+images/0_00002
+  rotate: false
+  xy: 540, 450
+  size: 317, 209
+  orig: 440, 440
+  offset: 79, 121
+  index: -1
+images/0_00003
+  rotate: false
+  xy: 2, 233
+  size: 319, 217
+  orig: 440, 440
+  offset: 83, 121
+  index: -1
+images/0_00004
+  rotate: false
+  xy: 218, 661
+  size: 307, 196
+  orig: 440, 440
+  offset: 96, 138
+  index: -1
+images/0_00005
+  rotate: false
+  xy: 527, 661
+  size: 300, 196
+  orig: 440, 440
+  offset: 103, 138
+  index: -1
+images/0_00006
+  rotate: false
+  xy: 288, 452
+  size: 250, 207
+  orig: 440, 440
+  offset: 120, 123
+  index: -1
+images/0_00008
+  rotate: false
+  xy: 323, 205
+  size: 263, 243
+  orig: 440, 440
+  offset: 110, 102
+  index: -1

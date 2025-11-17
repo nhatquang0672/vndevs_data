@@ -1,0 +1,13 @@
+
+zw-pojiudaopao.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zw-pojiudaopao
+  rotate: false
+  xy: 2, 2
+  size: 124, 128
+  orig: 124, 128
+  offset: 0, 0
+  index: -1

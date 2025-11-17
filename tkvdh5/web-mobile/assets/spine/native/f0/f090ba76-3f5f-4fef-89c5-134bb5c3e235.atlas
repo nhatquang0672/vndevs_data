@@ -1,0 +1,69 @@
+
+shouling_zhenesuanni.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+touying
+  rotate: false
+  xy: 2, 171
+  size: 113, 44
+  orig: 115, 46
+  offset: 1, 1
+  index: -1
+xiezhi_0
+  rotate: false
+  xy: 2, 232
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+xiezhi_1
+  rotate: true
+  xy: 2, 80
+  size: 89, 92
+  orig: 89, 92
+  offset: 0, 0
+  index: -1
+xiezhi_2
+  rotate: true
+  xy: 190, 206
+  size: 46, 62
+  orig: 46, 62
+  offset: 0, 0
+  index: -1
+xiezhi_3
+  rotate: true
+  xy: 133, 215
+  size: 37, 55
+  orig: 37, 55
+  offset: 0, 0
+  index: -1
+xiezhi_4
+  rotate: false
+  xy: 96, 36
+  size: 139, 129
+  orig: 139, 129
+  offset: 0, 0
+  index: -1
+xiezhi_5
+  rotate: false
+  xy: 117, 167
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+xiezhi_6
+  rotate: true
+  xy: 26, 218
+  size: 34, 57
+  orig: 34, 57
+  offset: 0, 0
+  index: -1
+xiezhi_7
+  rotate: true
+  xy: 85, 217
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1

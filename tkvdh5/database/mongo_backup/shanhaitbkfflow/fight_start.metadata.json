@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"4c0b42b1195e412da74d709f11ff62c8","collectionName":"fight_start","type":"collection"}

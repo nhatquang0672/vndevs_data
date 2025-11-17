@@ -1,0 +1,27 @@
+
+z-lanqiyu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z-lanqiyu-1
+  rotate: true
+  xy: 157, 134
+  size: 45, 22
+  orig: 45, 22
+  offset: 0, 0
+  index: -1
+z-lanqiyu-2
+  rotate: false
+  xy: 2, 98
+  size: 153, 81
+  orig: 153, 81
+  offset: 0, 0
+  index: -1
+z-lanqiyu-3
+  rotate: false
+  xy: 157, 109
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1

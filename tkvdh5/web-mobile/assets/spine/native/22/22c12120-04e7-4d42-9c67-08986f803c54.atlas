@@ -1,0 +1,55 @@
+
+s-jijuxie.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s-jijuxie-1
+  rotate: false
+  xy: 37, 25
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+s-jijuxie-2
+  rotate: false
+  xy: 67, 24
+  size: 23, 40
+  orig: 23, 40
+  offset: 0, 0
+  index: -1
+s-jijuxie-3
+  rotate: true
+  xy: 92, 62
+  size: 25, 34
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+s-jijuxie-4
+  rotate: false
+  xy: 92, 36
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+s-jijuxie-5
+  rotate: false
+  xy: 2, 22
+  size: 33, 42
+  orig: 43, 55
+  offset: 0, 0
+  index: -1
+s-jijuxie-6
+  rotate: true
+  xy: 92, 89
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+s-jijuxie7
+  rotate: false
+  xy: 2, 66
+  size: 88, 60
+  orig: 88, 60
+  offset: 0, 0
+  index: -1

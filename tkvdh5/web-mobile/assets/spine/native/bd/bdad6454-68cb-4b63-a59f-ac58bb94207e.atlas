@@ -1,0 +1,125 @@
+
+laolao.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+laolao_0
+  rotate: true
+  xy: 481, 337
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+laolao_1
+  rotate: false
+  xy: 481, 351
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+laolao_10
+  rotate: true
+  xy: 365, 417
+  size: 90, 134
+  orig: 90, 134
+  offset: 0, 0
+  index: -1
+laolao_11
+  rotate: true
+  xy: 297, 282
+  size: 74, 50
+  orig: 74, 50
+  offset: 0, 0
+  index: -1
+laolao_12
+  rotate: true
+  xy: 2, 307
+  size: 68, 101
+  orig: 68, 101
+  offset: 0, 0
+  index: -1
+laolao_13
+  rotate: false
+  xy: 211, 301
+  size: 84, 55
+  orig: 87, 55
+  offset: 0, 0
+  index: -1
+laolao_14
+  rotate: false
+  xy: 2, 377
+  size: 112, 46
+  orig: 112, 48
+  offset: 0, 2
+  index: -1
+laolao_15
+  rotate: false
+  xy: 184, 250
+  size: 72, 49
+  orig: 72, 49
+  offset: 0, 0
+  index: -1
+laolao_2
+  rotate: true
+  xy: 485, 388
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+laolao_3
+  rotate: false
+  xy: 211, 358
+  size: 152, 149
+  orig: 152, 149
+  offset: 0, 0
+  index: -1
+laolao_4
+  rotate: true
+  xy: 485, 371
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+laolao_5
+  rotate: true
+  xy: 2, 237
+  size: 68, 72
+  orig: 68, 72
+  offset: 0, 0
+  index: -1
+laolao_6
+  rotate: false
+  xy: 105, 258
+  size: 77, 71
+  orig: 77, 71
+  offset: 0, 0
+  index: -1
+laolao_7
+  rotate: true
+  xy: 116, 331
+  size: 92, 93
+  orig: 92, 93
+  offset: 0, 0
+  index: -1
+laolao_8
+  rotate: true
+  xy: 365, 287
+  size: 89, 114
+  orig: 89, 114
+  offset: 0, 0
+  index: -1
+laolao_9
+  rotate: true
+  xy: 365, 378
+  size: 37, 118
+  orig: 37, 118
+  offset: 0, 0
+  index: -1
+touying
+  rotate: false
+  xy: 2, 425
+  size: 207, 82
+  orig: 207, 82
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+effect_dianji01.png
+size: 305,1014
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/glow01
+  rotate: false
+  xy: 2, 782
+  size: 230, 230
+  orig: 256, 256
+  offset: 13, 13
+  index: -1
+images/lz/0_00001
+  rotate: true
+  xy: 162, 135
+  size: 134, 140
+  orig: 250, 250
+  offset: 56, 57
+  index: -1
+images/lz/0_00002
+  rotate: true
+  xy: 2, 150
+  size: 157, 158
+  orig: 250, 250
+  offset: 44, 47
+  index: -1
+images/lz/0_00003
+  rotate: false
+  xy: 2, 460
+  size: 167, 163
+  orig: 250, 250
+  offset: 39, 44
+  index: -1
+images/lz/0_00004
+  rotate: false
+  xy: 2, 625
+  size: 168, 155
+  orig: 250, 250
+  offset: 39, 48
+  index: -1
+images/lz/0_00005
+  rotate: false
+  xy: 2, 309
+  size: 165, 149
+  orig: 250, 250
+  offset: 38, 58
+  index: -1
+images/lz/0_00006
+  rotate: false
+  xy: 2, 2
+  size: 157, 146
+  orig: 250, 250
+  offset: 38, 61
+  index: -1
+images/lz/0_00007
+  rotate: true
+  xy: 169, 271
+  size: 143, 134
+  orig: 250, 250
+  offset: 45, 72
+  index: -1
+images/lz/0_00008
+  rotate: false
+  xy: 172, 657
+  size: 129, 123
+  orig: 250, 250
+  offset: 54, 78
+  index: -1
+images/lz/0_00009
+  rotate: true
+  xy: 171, 416
+  size: 113, 114
+  orig: 250, 250
+  offset: 62, 87
+  index: -1
+images/lz/0_00010
+  rotate: false
+  xy: 234, 1004
+  size: 40, 8
+  orig: 250, 250
+  offset: 102, 87
+  index: -1
+images/quan
+  rotate: false
+  xy: 172, 531
+  size: 124, 124
+  orig: 300, 300
+  offset: 88, 88
+  index: -1
+images/star
+  rotate: false
+  xy: 161, 26
+  size: 108, 107
+  orig: 300, 300
+  offset: 96, 96
+  index: -1

@@ -1,0 +1,139 @@
+
+tuotatianwang.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+touying
+  rotate: false
+  xy: 2, 287
+  size: 207, 82
+  orig: 207, 82
+  offset: 0, 0
+  index: -1
+tuotatianwang_0
+  rotate: true
+  xy: 229, 425
+  size: 35, 50
+  orig: 35, 52
+  offset: 0, 0
+  index: -1
+tuotatianwang_1
+  rotate: false
+  xy: 22, 443
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+tuotatianwang_10
+  rotate: true
+  xy: 184, 428
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: -1
+tuotatianwang_11
+  rotate: true
+  xy: 169, 371
+  size: 52, 95
+  orig: 52, 95
+  offset: 0, 0
+  index: -1
+tuotatianwang_12
+  rotate: true
+  xy: 2, 383
+  size: 49, 93
+  orig: 121, 194
+  offset: 0, 0
+  index: -1
+tuotatianwang_13
+  rotate: false
+  xy: 345, 423
+  size: 65, 37
+  orig: 65, 37
+  offset: 0, 0
+  index: -1
+tuotatianwang_14
+  rotate: true
+  xy: 70, 434
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+tuotatianwang_15
+  rotate: false
+  xy: 50, 443
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+tuotatianwang_16
+  rotate: false
+  xy: 211, 249
+  size: 202, 99
+  orig: 202, 99
+  offset: 0, 0
+  index: -1
+tuotatianwang_17
+  rotate: false
+  xy: 181, 45
+  size: 221, 202
+  orig: 221, 202
+  offset: 0, 0
+  index: -1
+tuotatianwang_2
+  rotate: false
+  xy: 2, 446
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+tuotatianwang_3
+  rotate: true
+  xy: 2, 133
+  size: 152, 177
+  orig: 152, 177
+  offset: 0, 0
+  index: -1
+tuotatianwang_4
+  rotate: true
+  xy: 266, 363
+  size: 58, 100
+  orig: 58, 100
+  offset: 0, 0
+  index: -1
+tuotatianwang_5
+  rotate: false
+  xy: 102, 431
+  size: 80, 29
+  orig: 80, 29
+  offset: 0, 0
+  index: -1
+tuotatianwang_6
+  rotate: true
+  xy: 412, 415
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+tuotatianwang_7
+  rotate: true
+  xy: 368, 350
+  size: 63, 77
+  orig: 63, 77
+  offset: 0, 0
+  index: -1
+tuotatianwang_8
+  rotate: true
+  xy: 281, 424
+  size: 36, 62
+  orig: 36, 62
+  offset: 0, 0
+  index: -1
+tuotatianwang_9
+  rotate: false
+  xy: 97, 379
+  size: 70, 50
+  orig: 70, 55
+  offset: 0, 2
+  index: -1

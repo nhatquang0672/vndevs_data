@@ -1,0 +1,20 @@
+
+x-fengweiyu.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+x-fengweiyu
+  rotate: false
+  xy: 2, 84
+  size: 104, 39
+  orig: 104, 39
+  offset: 0, 0
+  index: -1
+x-fengweiyu-2
+  rotate: true
+  xy: 108, 106
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1

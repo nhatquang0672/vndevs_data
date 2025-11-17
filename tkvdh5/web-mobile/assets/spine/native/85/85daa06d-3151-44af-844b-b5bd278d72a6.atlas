@@ -1,0 +1,118 @@
+
+xiaodaotong.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+touying
+  rotate: false
+  xy: 159, 463
+  size: 74, 29
+  orig: 74, 29
+  offset: 0, 0
+  index: -1
+xiaodaotong_0
+  rotate: false
+  xy: 75, 466
+  size: 31, 26
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+xiaodaotong_1
+  rotate: false
+  xy: 235, 463
+  size: 50, 29
+  orig: 50, 29
+  offset: 0, 0
+  index: -1
+xiaodaotong_10
+  rotate: true
+  xy: 242, 352
+  size: 102, 106
+  orig: 102, 106
+  offset: 0, 0
+  index: -1
+xiaodaotong_11
+  rotate: true
+  xy: 319, 456
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+xiaodaotong_12
+  rotate: false
+  xy: 102, 409
+  size: 64, 52
+  orig: 64, 52
+  offset: 0, 0
+  index: -1
+xiaodaotong_13
+  rotate: false
+  xy: 168, 403
+  size: 72, 58
+  orig: 74, 58
+  offset: 0, 0
+  index: -1
+xiaodaotong_14
+  rotate: false
+  xy: 2, 258
+  size: 226, 143
+  orig: 226, 143
+  offset: 0, 0
+  index: -1
+xiaodaotong_2
+  rotate: true
+  xy: 108, 466
+  size: 26, 49
+  orig: 26, 49
+  offset: 0, 0
+  index: -1
+xiaodaotong_3
+  rotate: false
+  xy: 2, 472
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+xiaodaotong_4
+  rotate: false
+  xy: 287, 463
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+xiaodaotong_5
+  rotate: true
+  xy: 350, 272
+  size: 176, 142
+  orig: 176, 142
+  offset: 0, 0
+  index: -1
+xiaodaotong_6
+  rotate: true
+  xy: 30, 468
+  size: 24, 43
+  orig: 24, 43
+  offset: 0, 0
+  index: -1
+xiaodaotong_7
+  rotate: false
+  xy: 2, 417
+  size: 98, 47
+  orig: 98, 47
+  offset: 0, 0
+  index: -1
+xiaodaotong_8
+  rotate: true
+  xy: 411, 450
+  size: 42, 49
+  orig: 42, 49
+  offset: 0, 0
+  index: -1
+xiaodaotong_9
+  rotate: false
+  xy: 361, 455
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1

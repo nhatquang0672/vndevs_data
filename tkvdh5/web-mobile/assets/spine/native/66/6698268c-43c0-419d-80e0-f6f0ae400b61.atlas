@@ -1,0 +1,97 @@
+
+qianliyan.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qianliyan_0
+  rotate: false
+  xy: 80, 31
+  size: 58, 77
+  orig: 58, 77
+  offset: 0, 0
+  index: -1
+qianliyan_1
+  rotate: false
+  xy: 140, 41
+  size: 38, 54
+  orig: 38, 55
+  offset: 0, 1
+  index: -1
+qianliyan_10
+  rotate: false
+  xy: 2, 25
+  size: 76, 83
+  orig: 76, 83
+  offset: 0, 0
+  index: -1
+qianliyan_11
+  rotate: false
+  xy: 2, 220
+  size: 163, 117
+  orig: 163, 117
+  offset: 0, 0
+  index: -1
+qianliyan_2
+  rotate: true
+  xy: 218, 43
+  size: 52, 32
+  orig: 54, 41
+  offset: 2, 8
+  index: -1
+qianliyan_3
+  rotate: false
+  xy: 167, 176
+  size: 148, 161
+  orig: 148, 161
+  offset: 0, 0
+  index: -1
+qianliyan_4
+  rotate: true
+  xy: 94, 125
+  size: 93, 66
+  orig: 93, 66
+  offset: 0, 0
+  index: -1
+qianliyan_5
+  rotate: false
+  xy: 254, 107
+  size: 58, 67
+  orig: 58, 67
+  offset: 0, 0
+  index: -1
+qianliyan_6
+  rotate: false
+  xy: 2, 110
+  size: 90, 108
+  orig: 90, 108
+  offset: 0, 0
+  index: -1
+qianliyan_7
+  rotate: true
+  xy: 218, 2
+  size: 39, 24
+  orig: 39, 24
+  offset: 0, 0
+  index: -1
+qianliyan_8
+  rotate: true
+  xy: 180, 41
+  size: 54, 36
+  orig: 54, 36
+  offset: 0, 0
+  index: -1
+qianliyan_9
+  rotate: true
+  xy: 162, 97
+  size: 77, 90
+  orig: 77, 90
+  offset: 0, 0
+  index: -1
+touying
+  rotate: true
+  xy: 254, 42
+  size: 63, 24
+  orig: 65, 26
+  offset: 1, 1
+  index: -1

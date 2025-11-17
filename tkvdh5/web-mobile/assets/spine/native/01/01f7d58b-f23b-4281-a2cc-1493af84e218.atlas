@@ -1,0 +1,13 @@
+
+z-tiaoshidiao.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z-tiaoshidiao
+  rotate: false
+  xy: 2, 46
+  size: 150, 106
+  orig: 150, 106
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+x-hupiyu.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+x-hupiyu-1
+  rotate: false
+  xy: 2, 35
+  size: 99, 75
+  orig: 99, 75
+  offset: 0, 0
+  index: -1
+x-hupiyu-2
+  rotate: false
+  xy: 2, 2
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1

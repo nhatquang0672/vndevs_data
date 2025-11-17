@@ -1,0 +1,172 @@
+
+effect_zhandoushengli.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/e/0_00000
+  rotate: true
+  xy: 875, 868
+  size: 154, 140
+  orig: 528, 528
+  offset: 188, 195
+  index: -1
+images/e/0_00002
+  rotate: true
+  xy: 778, 542
+  size: 269, 237
+  orig: 528, 528
+  offset: 132, 147
+  index: -1
+images/e/0_00006
+  rotate: true
+  xy: 437, 416
+  size: 387, 339
+  orig: 528, 528
+  offset: 72, 92
+  index: -1
+images/e/0_00012
+  rotate: false
+  xy: 2, 422
+  size: 433, 381
+  orig: 528, 528
+  offset: 45, 61
+  index: -1
+images/e/0_00014
+  rotate: false
+  xy: 2, 37
+  size: 431, 383
+  orig: 528, 528
+  offset: 42, 55
+  index: -1
+images/e/0_00016
+  rotate: false
+  xy: 435, 36
+  size: 431, 378
+  orig: 528, 528
+  offset: 42, 54
+  index: -1
+images/e/0_00028
+  rotate: true
+  xy: 1017, 1020
+  size: 2, 5
+  orig: 528, 528
+  offset: 416, 94
+  index: -1
+images/quan04
+  rotate: false
+  xy: 664, 813
+  size: 209, 209
+  orig: 225, 225
+  offset: 8, 8
+  index: -1
+images/sl_2
+  rotate: false
+  xy: 2, 805
+  size: 660, 217
+  orig: 660, 444
+  offset: 0, 117
+  index: -1
+images/tzjs
+  rotate: true
+  xy: 868, 99
+  size: 441, 120
+  orig: 444, 120
+  offset: 1, 0
+  index: -1
+
+effect_zhandoushengli2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/e/0_00001
+  rotate: true
+  xy: 790, 158
+  size: 219, 193
+  orig: 528, 528
+  offset: 157, 169
+  index: -1
+images/e/0_00008
+  rotate: false
+  xy: 373, 219
+  size: 415, 363
+  orig: 528, 528
+  offset: 58, 77
+  index: -1
+images/e/0_00010
+  rotate: false
+  xy: 2, 618
+  size: 428, 375
+  orig: 528, 528
+  offset: 50, 68
+  index: -1
+images/e/0_00018
+  rotate: true
+  xy: 2, 192
+  size: 424, 369
+  orig: 528, 528
+  offset: 45, 54
+  index: -1
+images/glow01
+  rotate: false
+  xy: 790, 379
+  size: 203, 203
+  orig: 225, 225
+  offset: 11, 11
+  index: -1
+images/sl_3
+  rotate: true
+  xy: 432, 584
+  size: 409, 398
+  orig: 660, 444
+  offset: 140, 35
+  index: -1
+
+effect_zhandoushengli3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/e/0_00004
+  rotate: true
+  xy: 709, 294
+  size: 342, 300
+  orig: 528, 528
+  offset: 95, 114
+  index: -1
+images/e/0_00020
+  rotate: false
+  xy: 2, 653
+  size: 387, 356
+  orig: 528, 528
+  offset: 50, 57
+  index: -1
+images/e/0_00022
+  rotate: true
+  xy: 391, 638
+  size: 371, 348
+  orig: 528, 528
+  offset: 57, 57
+  index: -1
+images/e/0_00024
+  rotate: true
+  xy: 2, 285
+  size: 366, 344
+  orig: 528, 528
+  offset: 60, 55
+  index: -1
+images/e/0_00026
+  rotate: false
+  xy: 348, 296
+  size: 359, 340
+  orig: 528, 528
+  offset: 64, 55
+  index: -1
+images/sl_1
+  rotate: false
+  xy: 348, 42
+  size: 257, 252
+  orig: 660, 444
+  offset: 213, 116
+  index: -1

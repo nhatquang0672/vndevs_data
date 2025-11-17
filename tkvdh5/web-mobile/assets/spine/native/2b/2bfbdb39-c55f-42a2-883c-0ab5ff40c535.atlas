@@ -1,0 +1,20 @@
+
+z-diwangsanjianyu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z-diwangsanjianyu-1
+  rotate: true
+  xy: 154, 142
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+z-diwangsanjianyu-2
+  rotate: false
+  xy: 2, 102
+  size: 150, 77
+  orig: 150, 77
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+shouling_lieyujindiao.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jindiao_0
+  rotate: true
+  xy: 2, 349
+  size: 80, 145
+  orig: 80, 145
+  offset: 0, 0
+  index: -1
+jindiao_1
+  rotate: false
+  xy: 149, 367
+  size: 38, 62
+  orig: 38, 62
+  offset: 0, 0
+  index: -1
+jindiao_2
+  rotate: false
+  xy: 316, 422
+  size: 136, 84
+  orig: 136, 84
+  offset: 0, 0
+  index: -1
+jindiao_3
+  rotate: true
+  xy: 454, 487
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+jindiao_4
+  rotate: false
+  xy: 200, 392
+  size: 114, 114
+  orig: 114, 114
+  offset: 0, 0
+  index: -1
+jindiao_5
+  rotate: true
+  xy: 189, 329
+  size: 61, 109
+  orig: 61, 122
+  offset: 0, 13
+  index: -1
+jindiao_6
+  rotate: false
+  xy: 316, 342
+  size: 112, 78
+  orig: 112, 78
+  offset: 0, 0
+  index: -1
+jindiao_7
+  rotate: true
+  xy: 430, 324
+  size: 96, 76
+  orig: 96, 76
+  offset: 0, 0
+  index: -1
+touying
+  rotate: false
+  xy: 2, 431
+  size: 196, 75
+  orig: 196, 75
+  offset: 0, 0
+  index: -1

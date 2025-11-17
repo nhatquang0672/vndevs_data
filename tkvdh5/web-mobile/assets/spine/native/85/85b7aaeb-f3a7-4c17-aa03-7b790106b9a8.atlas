@@ -1,0 +1,34 @@
+
+effect_zhandoushibai.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/sb_1_1
+  rotate: true
+  xy: 2, 118
+  size: 129, 148
+  orig: 176, 352
+  offset: 29, 176
+  index: -1
+images/sb_1_2
+  rotate: false
+  xy: 152, 116
+  size: 133, 131
+  orig: 176, 352
+  offset: 21, 176
+  index: -1
+images/sb_2
+  rotate: true
+  xy: 427, 2
+  size: 660, 218
+  orig: 660, 463
+  offset: 0, 123
+  index: -1
+images/sb_3
+  rotate: false
+  xy: 2, 249
+  size: 423, 413
+  orig: 660, 463
+  offset: 132, 35
+  index: -1

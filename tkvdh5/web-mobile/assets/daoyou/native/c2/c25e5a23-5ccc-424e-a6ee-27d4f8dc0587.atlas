@@ -1,0 +1,62 @@
+
+effect_hit_xingcai.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: false
+  xy: 173, 3
+  size: 161, 165
+  orig: 563, 563
+  offset: 208, 193
+  index: -1
+images/0_00001
+  rotate: false
+  xy: 2, 513
+  size: 366, 366
+  orig: 563, 563
+  offset: 106, 94
+  index: -1
+images/0_00003
+  rotate: true
+  xy: 2, 170
+  size: 341, 345
+  orig: 563, 563
+  offset: 118, 103
+  index: -1
+images/0_00005
+  rotate: true
+  xy: 349, 204
+  size: 307, 308
+  orig: 563, 563
+  offset: 135, 121
+  index: -1
+images/0_00007
+  rotate: false
+  xy: 612, 674
+  size: 239, 205
+  orig: 563, 563
+  offset: 193, 178
+  index: -1
+images/0_00009
+  rotate: false
+  xy: 370, 673
+  size: 240, 206
+  orig: 563, 563
+  offset: 196, 180
+  index: -1
+images/0_00011
+  rotate: false
+  xy: 349, 3
+  size: 238, 199
+  orig: 563, 563
+  offset: 197, 185
+  index: -1
+images/0_00013
+  rotate: false
+  xy: 2, 2
+  size: 169, 166
+  orig: 563, 563
+  offset: 198, 211
+  index: -1

@@ -1,0 +1,76 @@
+
+effect_atk_mon1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: false
+  xy: 107, 355
+  size: 359, 103
+  orig: 500, 150
+  offset: 111, 25
+  index: -1
+images/0_00001
+  rotate: true
+  xy: 429, 460
+  size: 392, 103
+  orig: 500, 150
+  offset: 78, 25
+  index: -1
+images/0_00002
+  rotate: false
+  xy: 2, 750
+  size: 425, 102
+  orig: 500, 150
+  offset: 45, 25
+  index: -1
+images/0_00003
+  rotate: false
+  xy: 107, 542
+  size: 313, 102
+  orig: 500, 150
+  offset: 157, 25
+  index: -1
+images/0_00004
+  rotate: false
+  xy: 107, 646
+  size: 317, 102
+  orig: 500, 150
+  offset: 153, 25
+  index: -1
+images/0_00005
+  rotate: true
+  xy: 106, 8
+  size: 345, 102
+  orig: 500, 150
+  offset: 125, 25
+  index: -1
+images/0_00006
+  rotate: true
+  xy: 2, 374
+  size: 374, 103
+  orig: 500, 150
+  offset: 96, 25
+  index: -1
+images/0_00007
+  rotate: true
+  xy: 468, 112
+  size: 346, 102
+  orig: 500, 150
+  offset: 124, 25
+  index: -1
+images/0_00008
+  rotate: true
+  xy: 2, 2
+  size: 370, 102
+  orig: 500, 150
+  offset: 100, 25
+  index: -1
+images/0_00009
+  rotate: true
+  xy: 210, 44
+  size: 309, 102
+  orig: 500, 150
+  offset: 161, 25
+  index: -1

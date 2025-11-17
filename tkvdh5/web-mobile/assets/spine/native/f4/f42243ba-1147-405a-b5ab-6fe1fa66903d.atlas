@@ -1,0 +1,55 @@
+
+effect_diao.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: false
+  xy: 2, 871
+  size: 264, 147
+  orig: 500, 500
+  offset: 125, 193
+  index: -1
+images/0_00002
+  rotate: false
+  xy: 507, 681
+  size: 255, 172
+  orig: 500, 500
+  offset: 131, 183
+  index: -1
+images/0_00004
+  rotate: false
+  xy: 260, 684
+  size: 245, 170
+  orig: 500, 500
+  offset: 135, 181
+  index: -1
+images/0_00006
+  rotate: false
+  xy: 779, 834
+  size: 239, 184
+  orig: 500, 500
+  offset: 132, 176
+  index: -1
+images/0_00008
+  rotate: false
+  xy: 531, 855
+  size: 246, 163
+  orig: 500, 500
+  offset: 131, 203
+  index: -1
+images/0_00010
+  rotate: false
+  xy: 2, 706
+  size: 256, 163
+  orig: 500, 500
+  offset: 124, 205
+  index: -1
+images/0_00012
+  rotate: false
+  xy: 268, 856
+  size: 261, 162
+  orig: 500, 500
+  offset: 121, 206
+  index: -1

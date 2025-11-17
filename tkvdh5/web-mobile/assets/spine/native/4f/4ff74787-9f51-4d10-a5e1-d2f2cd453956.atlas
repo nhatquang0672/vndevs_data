@@ -1,0 +1,48 @@
+
+effect_chushou_mon42.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_00000
+  rotate: false
+  xy: 317, 189
+  size: 167, 129
+  orig: 500, 500
+  offset: 166, 171
+  index: -1
+images/0_00001
+  rotate: false
+  xy: 2, 320
+  size: 181, 185
+  orig: 500, 500
+  offset: 152, 151
+  index: -1
+images/0_00002
+  rotate: false
+  xy: 185, 320
+  size: 150, 185
+  orig: 500, 500
+  offset: 163, 159
+  index: -1
+images/0_00003
+  rotate: false
+  xy: 2, 111
+  size: 159, 207
+  orig: 500, 500
+  offset: 143, 152
+  index: -1
+images/0_00005
+  rotate: false
+  xy: 163, 103
+  size: 152, 215
+  orig: 500, 500
+  offset: 137, 149
+  index: -1
+images/0_00007
+  rotate: true
+  xy: 337, 390
+  size: 115, 168
+  orig: 500, 500
+  offset: 141, 193
+  index: -1

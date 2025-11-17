@@ -1,0 +1,13 @@
+
+s-haishe.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s-haishe
+  rotate: false
+  xy: 2, 175
+  size: 196, 23
+  orig: 196, 23
+  offset: 0, 0
+  index: -1

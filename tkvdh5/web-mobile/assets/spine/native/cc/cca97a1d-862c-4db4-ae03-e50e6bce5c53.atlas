@@ -1,0 +1,48 @@
+
+s-dawangwuzei.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s-dawangwuzei
+  rotate: false
+  xy: 2, 101
+  size: 99, 114
+  orig: 99, 114
+  offset: 0, 0
+  index: -1
+s-dawangwuzei-2
+  rotate: false
+  xy: 103, 106
+  size: 26, 57
+  orig: 26, 57
+  offset: 0, 0
+  index: -1
+s-dawangwuzei-4
+  rotate: false
+  xy: 156, 157
+  size: 49, 58
+  orig: 49, 58
+  offset: 0, 0
+  index: -1
+s-dawangwuzei-6
+  rotate: false
+  xy: 103, 165
+  size: 51, 50
+  orig: 124, 127
+  offset: 0, 0
+  index: -1
+s-dawangwuzei-7
+  rotate: false
+  xy: 2, 2
+  size: 98, 97
+  orig: 98, 97
+  offset: 0, 0
+  index: -1
+s-dawangwuzei-8
+  rotate: true
+  xy: 102, 4
+  size: 95, 97
+  orig: 95, 97
+  offset: 0, 0
+  index: -1

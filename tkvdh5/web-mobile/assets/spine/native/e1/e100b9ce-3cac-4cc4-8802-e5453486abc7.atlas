@@ -1,0 +1,167 @@
+
+30005.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shilianguai_7
+  rotate: true
+  xy: 46, 493
+  size: 16, 46
+  orig: 21, 51
+  offset: 2, 3
+  index: -1
+shilianguailv_0
+  rotate: true
+  xy: 0, 396
+  size: 51, 70
+  orig: 51, 70
+  offset: 0, 0
+  index: -1
+shilianguailv_1
+  rotate: false
+  xy: 339, 341
+  size: 81, 77
+  orig: 81, 77
+  offset: 0, 0
+  index: -1
+shilianguailv_10
+  rotate: false
+  xy: 303, 420
+  size: 124, 49
+  orig: 124, 49
+  offset: 0, 0
+  index: -1
+shilianguailv_11
+  rotate: true
+  xy: 446, 470
+  size: 39, 62
+  orig: 39, 62
+  offset: 0, 0
+  index: -1
+shilianguailv_12
+  rotate: true
+  xy: 191, 475
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+shilianguailv_13
+  rotate: true
+  xy: 72, 385
+  size: 62, 74
+  orig: 62, 74
+  offset: 0, 0
+  index: -1
+shilianguailv_14
+  rotate: false
+  xy: 148, 356
+  size: 113, 70
+  orig: 113, 70
+  offset: 0, 0
+  index: -1
+shilianguailv_15
+  rotate: true
+  xy: 336, 471
+  size: 38, 108
+  orig: 38, 108
+  offset: 0, 0
+  index: -1
+shilianguailv_16
+  rotate: true
+  xy: 198, 223
+  size: 116, 171
+  orig: 116, 171
+  offset: 0, 0
+  index: -1
+shilianguailv_17
+  rotate: true
+  xy: 92, 449
+  size: 42, 73
+  orig: 42, 73
+  offset: 0, 0
+  index: -1
+shilianguailv_18
+  rotate: false
+  xy: 263, 344
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+shilianguailv_19
+  rotate: true
+  xy: 238, 474
+  size: 35, 96
+  orig: 35, 96
+  offset: 0, 0
+  index: -1
+shilianguailv_2
+  rotate: false
+  xy: 0, 449
+  size: 90, 42
+  orig: 90, 42
+  offset: 0, 0
+  index: -1
+shilianguailv_20
+  rotate: false
+  xy: 0, 61
+  size: 265, 160
+  orig: 265, 160
+  offset: 0, 0
+  index: -1
+shilianguailv_21
+  rotate: true
+  xy: 267, 35
+  size: 167, 235
+  orig: 167, 235
+  offset: 0, 0
+  index: -1
+shilianguailv_3
+  rotate: true
+  xy: 429, 418
+  size: 50, 70
+  orig: 50, 70
+  offset: 0, 0
+  index: -1
+shilianguailv_4
+  rotate: true
+  xy: 94, 493
+  size: 16, 48
+  orig: 16, 48
+  offset: 0, 0
+  index: -1
+shilianguailv_5
+  rotate: true
+  xy: 0, 496
+  size: 13, 44
+  orig: 13, 44
+  offset: 0, 0
+  index: -1
+shilianguailv_6
+  rotate: true
+  xy: 144, 493
+  size: 16, 45
+  orig: 16, 45
+  offset: 0, 0
+  index: -1
+shilianguailv_7
+  rotate: false
+  xy: 167, 428
+  size: 134, 44
+  orig: 134, 44
+  offset: 0, 0
+  index: -1
+shilianguailv_9
+  rotate: false
+  xy: 371, 204
+  size: 138, 135
+  orig: 138, 135
+  offset: 0, 0
+  index: -1
+touying
+  rotate: false
+  xy: 0, 279
+  size: 196, 75
+  orig: 196, 75
+  offset: 0, 0
+  index: -1

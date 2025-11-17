@@ -1,0 +1,14 @@
+[
+  {"id":1,"num":1,"rate":1000,"getItem":[1,902,50],"costItem":[1,2,1000],"time":600,"favor":3,"kaiqi":"0"},
+  {"id":2,"num":1,"rate":1200,"getItem":[1,52,2],"costItem":[1,902,30],"time":600,"favor":3,"kaiqi":"5200"},
+  {"id":3,"num":2,"rate":1400,"getItem":[1,54,40],"costItem":[1,902,20],"time":900,"favor":3,"kaiqi":"7200"},
+  {"id":8,"num":2,"rate":2400,"getItem":[1,55,400],"costItem":[1,902,40],"time":1500,"favor":3,"kaiqi":"7200"},
+  {"id":4,"num":3,"rate":1600,"getItem":[1,59,6],"costItem":[1,902,10],"time":900,"favor":3,"kaiqi":"7400"},
+  {"id":7,"num":4,"rate":2200,"getItem":[1,1150,10],"costItem":[1,2,6000],"time":1500,"favor":3,"kaiqi":"6700"},
+  {"id":12,"num":4,"rate":1800,"getItem":[1,90,2],"costItem":[1,85,20],"time":1200,"favor":3,"kaiqi":"7700"},
+  {"id":5,"num":5,"rate":1800,"getItem":[1,85,20],"costItem":[1,2,3000],"time":1200,"favor":3,"kaiqi":"7350"},
+  {"id":9,"num":6,"rate":2600,"getItem":[1,87,40],"costItem":[1,88,40],"time":1800,"favor":3,"kaiqi":"7351"},
+  {"id":6,"num":7,"rate":2000,"getItem":[1,88,2000],"costItem":[1,85,10],"time":1200,"favor":3,"kaiqi":"7351"},
+  {"id":10,"num":8,"rate":2800,"getItem":[1,1300,6],"costItem":[1,85,40],"time":1800,"favor":3,"kaiqi":"0"},
+  {"id":11,"num":8,"rate":3000,"getItem":[1,1151,4],"costItem":[1,2,10000],"time":2100,"favor":3,"kaiqi":"6700"}
+]

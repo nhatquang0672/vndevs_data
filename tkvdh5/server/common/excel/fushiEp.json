@@ -1,0 +1,23 @@
+[
+  {"key":"1","isPer":1,"only":0,"isXilian":0,"prob":0},
+  {"key":"2","isPer":1,"only":0,"isXilian":1,"prob":100},
+  {"key":"3","isPer":1,"only":0,"isXilian":0,"prob":0},
+  {"key":"4","isPer":1,"only":0,"isXilian":1,"prob":80},
+  {"key":"5","isPer":1,"only":0,"isXilian":0,"prob":0},
+  {"key":"6","isPer":1,"only":0,"isXilian":1,"prob":100},
+  {"key":"7","isPer":1,"only":0,"isXilian":0,"prob":0},
+  {"key":"8","isPer":1,"only":0,"isXilian":1,"prob":80},
+  {"key":"9","isPer":1,"only":0,"isXilian":1,"prob":80},
+  {"key":"10","isPer":1,"only":0,"isXilian":1,"prob":80},
+  {"key":"11","isPer":1,"only":0,"isXilian":1,"prob":80},
+  {"key":"12","isPer":1,"only":0,"isXilian":0,"prob":0},
+  {"key":"13","isPer":1,"only":0,"isXilian":1,"prob":80},
+  {"key":"14","isPer":1,"only":0,"isXilian":1,"prob":80},
+  {"key":"15","isPer":1,"only":0,"isXilian":1,"prob":80},
+  {"key":"16","isPer":1,"only":0,"isXilian":1,"prob":80},
+  {"key":"17","isPer":0,"only":0,"isXilian":0,"prob":0},
+  {"key":"18","isPer":1,"only":1,"isXilian":1,"prob":1},
+  {"key":"19","isPer":1,"only":1,"isXilian":1,"prob":1},
+  {"key":"20","isPer":1,"only":1,"isXilian":1,"prob":1},
+  {"key":"21","isPer":1,"only":1,"isXilian":1,"prob":1}
+]

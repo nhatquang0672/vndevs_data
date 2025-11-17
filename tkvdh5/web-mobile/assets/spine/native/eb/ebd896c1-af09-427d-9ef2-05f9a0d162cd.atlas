@@ -1,0 +1,20 @@
+
+s-woniu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s-woniu
+  rotate: false
+  xy: 98, 100
+  size: 59, 57
+  orig: 59, 57
+  offset: 0, 0
+  index: -1
+s-woniu-1
+  rotate: true
+  xy: 2, 116
+  size: 41, 94
+  orig: 41, 94
+  offset: 0, 0
+  index: -1
