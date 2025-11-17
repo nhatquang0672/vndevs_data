@@ -1,13 +1,13 @@
 FROM node:22-alpine
-
-
 WORKDIR /app
 
-# Copy your prebuilt files
-COPY . .
+# Copy prebuilt code and package files
+COPY package*.json ./ 
+COPY dist ./dist
+COPY start.sh ./
 
-# Make start.sh executable
-RUN chmod +x ./start.sh
+# Install only production deps & make start.sh executable
+RUN npm install --production && chmod +x ./start.sh
 
-# Default command
+# Start app
 CMD ["sh", "./start.sh"]
