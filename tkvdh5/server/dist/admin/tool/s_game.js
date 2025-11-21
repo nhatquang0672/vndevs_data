@@ -22,8 +22,8 @@ exports.menu = {
         "/s_qufu": { "name": "区服配置" },
         "/s_setting": { "name": "setting配置" },
         "/s_huodong": { "name": "活动配置" },
-        "/s_mail": { "name": "邮件" },
         "/s_gmMail": { "name": "GM Mail Item" },
+        "/s_mail": { "name": "邮件" },
         "/s_code": { "name": "兑换码" },
     },
     "游戏数据": {

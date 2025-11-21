@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Danh Sách Item</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body.dark-mode {
+            background-color: #343a40;
+            color: white;
+        }
+        .dark-mode .table {
+            background-color: #495057;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <div class="container mt-5">
+        <h1 class="text-center">Danh Sách Item</h1>
+        <div class="mb-3">
+            <input type="text" id="searchInput" class="form-control" placeholder="Tìm kiếm theo tên...">
+        </div>
+        <button id="toggleMode" class="btn btn-secondary mb-3">Chuyển Đổi Ngày/Đêm</button>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Tên</th>
+                    <th>Mô Tả</th>
+                </tr>
+            </thead>
+            <tbody id="itemList"></tbody>
+        </table>
+    </div>
+
+    <script>
+        function displayItems(items) {
+            const itemList = document.getElementById('itemList');
+            itemList.innerHTML = '';
+            items.forEach(item => {
+                const row = `
+                    <tr>
+                        <td>${item.id}</td>
+                        <td>${item.name}</td>
+                        <td>${item.desc}</td>
+                    </tr>
+                `;
+                itemList.innerHTML += row;
+            });
+        }
+        fetch('item.json')
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Network response was not ok');
+                }
+                return response.json();
+            })
+            .then(data => {
+                displayItems(data);
+                setupSearch(data);
+            })
+            .catch(error => {
+                console.error('Có lỗi xảy ra khi tải dữ liệu:', error);
+            });
+
+        function setupSearch(items) {
+            const searchInput = document.getElementById('searchInput');
+            searchInput.addEventListener('input', () => {
+                const searchTerm = searchInput.value.toLowerCase();
+                const filteredItems = items.filter(item => item.name.toLowerCase().includes(searchTerm));
+                displayItems(filteredItems);
+            });
+        }
+        const toggleModeButton = document.getElementById('toggleMode');
+        toggleModeButton.addEventListener('click', () => {
+            document.body.classList.toggle('dark-mode');
+            toggleModeButton.textContent = document.body.classList.contains('dark-mode') ? 'Chuyển Đổi Ngày' : 'Chuyển Đổi Đêm';
+        });
+    </script>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

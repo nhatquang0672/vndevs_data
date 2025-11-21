@@ -153,7 +153,7 @@ class HdChouModel extends AModel_1.AModel {
     async getRed() {
         let cfg = await this.getHdCfg();
         if (cfg == null || this.ctx.state.newTime > cfg.info.eAt) {
-            this.ctx.throw("活动已结束");
+            this.ctx.throw("HdChouModel.getRed  活动已结束");
         }
         let info = await this.getInfo();
         if (info.phRed == 1) {
@@ -190,7 +190,7 @@ class HdChouModel extends AModel_1.AModel {
     async checkUp(dc) {
         let cfg = await this.getHdCfg();
         if (cfg == null || this.ctx.state.newTime > cfg.info.eAt) {
-            this.ctx.throw("活动已结束");
+            this.ctx.throw("HdChouModel.checkUp  活动已结束");
         }
         if (cfg.data.gift[dc] == null) {
             this.ctx.throw("参数错误");
@@ -281,7 +281,7 @@ class HdChouModel extends AModel_1.AModel {
     async chou(num) {
         let cfg = await this.getHdCfg();
         if (cfg == null || this.ctx.state.newTime > cfg.info.eAt) {
-            this.ctx.throw("活动已结束");
+            this.ctx.throw("HdChouModel.chou  活动已结束");
         }
         if (cfg.data.dajiang == null) {
             this.ctx.throw("大奖配置缺失");
@@ -366,7 +366,7 @@ class HdChouModel extends AModel_1.AModel {
     async hdcGift(dc) {
         let cfg = await this.getHdCfg();
         if (cfg == null || this.ctx.state.newTime > cfg.info.eAt) {
-            this.ctx.throw("活动已结束");
+            this.ctx.throw("HdChouModel.hdcGift  活动已结束");
         }
         if (cfg.data.gift[dc] == null) {
             this.ctx.throw("参数错误");
@@ -391,7 +391,7 @@ class HdChouModel extends AModel_1.AModel {
     async hdcScore(dc) {
         let cfg = await this.getHdCfg();
         if (cfg == null || this.ctx.state.newTime > cfg.info.eAt) {
-            this.ctx.throw("活动已结束");
+            this.ctx.throw("HdChouModel.hdcScore  活动已结束");
         }
         if (cfg.data.jifen[dc] == null) {
             this.ctx.throw("参数错误");

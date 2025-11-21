@@ -18,7 +18,6 @@ router.all('/', async (ctx) => {
 router.post('/login', async (ctx) => {
     let params = tool_1.tool.getParamsAdmin(ctx);
     let back = await A_UserModel_1.a_UserModel.findOneByAccount(params.username, params.password);
-    console.log(JSON.stringify(back));
     if (back == null || back.status == "已申请") {
         await A_UserModel_1.a_UserModel.apply(ctx, params.username, params.password);
         await ctx.render('a_index', {

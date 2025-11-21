@@ -179,7 +179,7 @@ class HdHefuqdModel extends AModel_1.AModel {
     async signRwd(dc) {
         let cfg = (await this.getHdCfg());
         if (cfg == null || this.ctx.state.newTime > cfg.info.eAt) {
-            this.ctx.throw("活动已结束");
+            this.ctx.throw("HdHefuqdModel  活动已结束");
         }
         if (cfg.data.sign[dc] == null) {
             this.ctx.throw("参数错误");
@@ -232,7 +232,7 @@ class HdHefuqdModel extends AModel_1.AModel {
     async taskRwd(dc) {
         let cfg = (await this.getHdCfg());
         if (cfg == null || this.ctx.state.newTime > cfg.info.eAt) {
-            this.ctx.throw("活动已结束");
+            this.ctx.throw("HdHefuqdModel  活动已结束");
         }
         if (cfg.data.task[dc] == null) {
             this.ctx.throw("参数错误");
@@ -259,7 +259,7 @@ class HdHefuqdModel extends AModel_1.AModel {
     async tehuiRwd(dc) {
         let cfg = (await this.getHdCfg());
         if (cfg == null || this.ctx.state.newTime > cfg.info.eAt) {
-            this.ctx.throw("活动已结束");
+            this.ctx.throw("HdHefuqdModel  活动已结束");
         }
         if (cfg.data.tehui[dc] == null) {
             this.ctx.throw("参数错误");
@@ -284,7 +284,7 @@ class HdHefuqdModel extends AModel_1.AModel {
     async ShopRef() {
         let cfg = (await this.getHdCfg());
         if (cfg == null || this.ctx.state.newTime > cfg.info.eAt) {
-            this.ctx.throw("活动已结束");
+            this.ctx.throw("HdHefuqdModel  活动已结束");
         }
         let info = await this.getInfo();
         let min = Math.min(info.shopRef, cfg.data.shop.refNeed.length - 1);
@@ -301,7 +301,7 @@ class HdHefuqdModel extends AModel_1.AModel {
     async ShopBuy(dc) {
         let cfg = (await this.getHdCfg());
         if (cfg == null || this.ctx.state.newTime > cfg.info.eAt) {
-            this.ctx.throw("活动已结束");
+            this.ctx.throw("HdHefuqdModel  活动已结束");
         }
         let info = await this.getInfo();
         if (info.shopList[dc] == null) {
@@ -323,7 +323,7 @@ class HdHefuqdModel extends AModel_1.AModel {
     async checkUp(dc) {
         let cfg = await this.getHdCfg();
         if (cfg == null || this.ctx.state.newTime > cfg.info.eAt) {
-            this.ctx.throw("活动已结束");
+            this.ctx.throw("HdHefuqdModel  活动已结束");
         }
         if (cfg.data.tehui[dc] == null) {
             this.ctx.throw("参数错误");
@@ -376,7 +376,7 @@ class HdHefuqdModel extends AModel_1.AModel {
     async checkUp1() {
         let cfg = await this.getHdCfg();
         if (cfg == null || this.ctx.state.newTime > cfg.info.eAt) {
-            this.ctx.throw("活动已结束");
+            this.ctx.throw("HdHefuqdModel  活动已结束");
         }
         let info = await this.getInfo();
         if (info.superCard != 0) {

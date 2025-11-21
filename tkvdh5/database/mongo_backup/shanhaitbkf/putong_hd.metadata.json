@@ -1,1 +1,1 @@
-{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"sid":{"$numberInt":"1"},"zuid":{"$numberInt":"1"}},"name":"sid_1_zuid_1"}],"uuid":"73aa5630445f4efcb3044dabcf419d77","collectionName":"putong_hd","type":"collection"}
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"sid":{"$numberInt":"1"},"zuid":{"$numberInt":"1"}},"name":"sid_1_zuid_1"}],"uuid":"2396f0bab8ad4913ac50c27fc1a942ae","collectionName":"putong_hd","type":"collection"}

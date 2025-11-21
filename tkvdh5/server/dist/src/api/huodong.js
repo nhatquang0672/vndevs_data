@@ -1182,6 +1182,7 @@ router.all("/hdZixuanRwd", async (ctx) => {
 router.all("/hdLunHuiInfo", async (ctx) => {
     ctx.state.apidesc = "活动-天道轮回进入";
     const { uuid, hdcid } = tool_1.tool.getParams(ctx);
+    console.log('### hdlunhuiinfo: ', uuid, hdcid);
     let hdLunHuiModel = HdLunHuiModel_1.HdLunHuiModel.getInstance(ctx, uuid, hdcid);
     await hdLunHuiModel.backData();
 });
@@ -1627,6 +1628,7 @@ router.all("/douLuoCj", async (ctx) => {
 router.all("/hdTianGongInfo", async (ctx) => {
     ctx.state.apidesc = "活动-天宫乐舞 进入";
     const { uuid, hdcid } = tool_1.tool.getParams(ctx);
+    console.log('### hdTianGongInfo: ', uuid, hdcid);
     let hdTianGongModel = HdTianGongModel_1.HdTianGongModel.getInstance(ctx, uuid, hdcid);
     await hdTianGongModel.backData();
 });

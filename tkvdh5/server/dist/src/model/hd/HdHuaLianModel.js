@@ -138,7 +138,7 @@ class HdHuaLianModel extends AModel_1.AModel {
     async checkUp(dc) {
         let cfg = await this.getHdCfg();
         if (cfg == null || this.ctx.state.newTime > cfg.info.eAt) {
-            this.ctx.throw("活动已结束");
+            this.ctx.throw("HdHuaLianModel  活动已结束");
         }
         if (cfg.data.gift[dc] == null) {
             this.ctx.throw("参数错误");
@@ -191,7 +191,7 @@ class HdHuaLianModel extends AModel_1.AModel {
     async hdHlTask(dc) {
         let cfg = await this.getHdCfg();
         if (cfg == null || this.ctx.state.newTime >= cfg.info.eAt) {
-            this.ctx.throw("活动已结束");
+            this.ctx.throw("HdHuaLianModel  活动已结束");
         }
         if (cfg.data.task[dc] == null) {
             this.ctx.throw("参数错误");
@@ -214,7 +214,7 @@ class HdHuaLianModel extends AModel_1.AModel {
     async hdHlGift(dc) {
         let cfg = await this.getHdCfg();
         if (cfg == null || this.ctx.state.newTime >= cfg.info.eAt) {
-            this.ctx.throw("活动已结束");
+            this.ctx.throw("HdHuaLianModel  活动已结束");
         }
         if (cfg.data.gift[dc] == null) {
             this.ctx.throw("参数错误");
@@ -239,7 +239,7 @@ class HdHuaLianModel extends AModel_1.AModel {
     async hdHlChou(num) {
         let cfg = await this.getHdCfg();
         if (cfg == null || this.ctx.state.newTime >= cfg.info.eAt) {
-            this.ctx.throw("活动已结束");
+            this.ctx.throw("HdHuaLianModel  活动已结束");
         }
         if (num < 1) {
             this.ctx.throw("参数错误");
@@ -337,7 +337,7 @@ class HdHuaLianModel extends AModel_1.AModel {
     async hdHlJifen(dc) {
         let cfg = await this.getHdCfg();
         if (cfg == null) {
-            this.ctx.throw("活动已结束");
+            this.ctx.throw("HdHuaLianModel  活动已结束");
         }
         if (cfg.data.jifen[dc] == null) {
             this.ctx.throw("参数错误");

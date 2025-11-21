@@ -182,7 +182,7 @@ class HdChargeTotalModel extends AModel_1.AModel {
         }
         let info = await this.getInfo();
         if (info.endTime < this.ctx.state.newTime) {
-            this.ctx.throw("活动已结束");
+            this.ctx.throw("HdChargeTotal 活动已结束");
         }
         //已领取
         if (info.dayRwd > 0) {
@@ -205,7 +205,7 @@ class HdChargeTotalModel extends AModel_1.AModel {
         }
         let info = await this.getInfo();
         if (info.endTime < this.ctx.state.newTime) {
-            this.ctx.throw("活动已结束");
+            this.ctx.throw("HdChargeTotal 活动已结束");
         }
         //已领取
         if (info.rwd[id] != null) {

@@ -317,6 +317,7 @@ class HdTianGongModel extends AModel {
     //单例模式
     static getInstance(ctx, uuid, hdcid = "1") {
         let dlKey = this.name + "_" + uuid + "_" + hdcid; //单例模式key
+        console.log('### dlkey: ', dlKey);
         if (!ctx.state.model[dlKey]) {
             ctx.state.model[dlKey] = new this(ctx, uuid, hdcid);
         }
