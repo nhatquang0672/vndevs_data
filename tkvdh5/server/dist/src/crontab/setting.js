@@ -335,7 +335,11 @@ class Setting {
         }
         let sidstr = {};
         //活动时间普通配置
+        console.log('===vndevs: HUODONG CONFIGURATION');
         for (const id in Setting.a_huodongs) {
+            console.log();
+            console.log('##########');
+            console.log('#### HDID: ', id, Setting.a_huodongs[id].key);
             //活动生效区服
             let qufustr = Setting.a_huodongs[id].qufu;
             let sevs = [];
@@ -354,6 +358,7 @@ class Setting {
                 }
                 let hdkey = Setting.a_huodongs[id].key; //活动key
                 let hdHdcid = Setting.a_huodongs[id].hdcid; //活动分组
+                console.log();
                 let isSx = false; //活动是否已经生效
                 let sAt = 0; //活动开始时间
                 let eAt = 0; //活动绝对时间
@@ -363,6 +368,9 @@ class Setting {
                     }
                     if (hfHuodong1.indexOf(hdkey) != -1) { //合服活动列表1  以最新一次合服时间判定
                         let openDay = game_1.default.passDayByTimes(newTime, cfgSysHefu.list[sid].lastAt);
+                        console.log('check index hdkey != -1  : ');
+                        console.log(openDay, Setting.a_huodongs[id].s_qf, Setting.a_huodongs[id].e_qf, Setting.a_huodongs[id].s_at, Setting.a_huodongs[id].e_at);
+                        // console.log(openDay, JSON.stringify(Setting.a_huodongs[id]))
                         if (Setting.a_huodongs[id].s_qf != 0 || Setting.a_huodongs[id].e_qf != 0) {
                             //优先区服
                             if (Setting.a_huodongs[id].s_qf <= openDay && Setting.a_huodongs[id].e_qf >= openDay) {
@@ -370,28 +378,36 @@ class Setting {
                                 sAt = game_1.default.getToDay_0(cfgSysHefu.list[sid].lastAt) + (Setting.a_huodongs[id].s_qf - 1) * 86400;
                                 eAt = game_1.default.getToDay_0(cfgSysHefu.list[sid].lastAt) + Setting.a_huodongs[id].e_qf * 86400 - 1;
                                 isSx = true;
+                                console.log('1111 ', sAt, eAt);
                             }
                         }
                         //绝对时间
                         if (isSx == false && (Setting.a_huodongs[id].s_at != 0 || Setting.a_huodongs[id].e_at != 0)) {
+                            console.log('isSx == false: ', JSON.stringify(Setting.a_huodongs[id]));
                             if (Setting.a_huodongs[id].s_at >= cfgSysHefu.list[sid].lastAt && Setting.a_huodongs[id].s_at <= newTime && Setting.a_huodongs[id].e_at > newTime) {
                                 //活动生效了
                                 sAt = Setting.a_huodongs[id].s_at;
                                 eAt = Setting.a_huodongs[id].e_at;
                                 isSx = true;
+                                console.log('22222 ', sAt, eAt);
                             }
                         }
                     }
                 }
                 else {
                     let openDay = game_1.default.passDayByTimes(newTime, this.qufus[sid].openAt);
+                    console.log('### without indexxx');
+                    console.log(openDay, Setting.a_huodongs[id].s_qf, Setting.a_huodongs[id].e_qf, Setting.a_huodongs[id].s_at, Setting.a_huodongs[id].e_at);
                     if (Setting.a_huodongs[id].s_qf != 0 || Setting.a_huodongs[id].e_qf != 0) {
+                        console.log(typeof Setting.a_huodongs[id].s_qf);
+                        console.log(typeof Setting.a_huodongs[id].e_qf);
                         //优先区服
                         if (Setting.a_huodongs[id].s_qf <= openDay && Setting.a_huodongs[id].e_qf >= openDay) {
                             //活动生效了
                             sAt = game_1.default.getToDay_0(this.qufus[sid].openAt) + (Setting.a_huodongs[id].s_qf - 1) * 86400;
                             eAt = game_1.default.getToDay_0(this.qufus[sid].openAt) + Setting.a_huodongs[id].e_qf * 86400;
                             isSx = true;
+                            console.log('33333  ', sAt, eAt);
                         }
                     }
                     //绝对时间
@@ -401,6 +417,7 @@ class Setting {
                             sAt = Setting.a_huodongs[id].s_at;
                             eAt = Setting.a_huodongs[id].e_at;
                             isSx = true;
+                            console.log('444444  ', sAt, eAt);
                         }
                     }
                 }
@@ -424,6 +441,7 @@ class Setting {
                         sAt = ptHds[sid][hdkey][hdHdcid].sAt;
                         eAt = ptHds[sid][hdkey][hdHdcid].eAt;
                         isSx = true;
+                        console.log('oh no lunhui');
                     }
                 }
                 if (isSx == false) {
@@ -446,6 +464,7 @@ class Setting {
                 if (_value.info == null) {
                     continue;
                 }
+                console.log('---- reach here, input houdong data');
                 if (_huodongs[sid][hdkey][hdHdcid] == null) {
                     _huodongs[sid][hdkey][hdHdcid] = _value;
                 }

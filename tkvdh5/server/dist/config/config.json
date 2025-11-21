@@ -3,14 +3,13 @@
         {"host":"127.0.0.1"}
     ],
     "mongoDb":{
-        "data" : { "host": "mongodb6:27017,mongodb6","port": "27017","name": "shanhaitbkf","user":"","pwd":"" },
-        "flow" : { "host": "mongodb6:27017,mongodb6","port": "27017","name": "shanhaitbkfflow","user":"","pwd":"" }
+        "data" : { "host": "127.0.0.1:27017,127.0.0.1","port": "27017","name": "shanhaitbkf","user":"","pwd":"" },
+        "flow" : { "host": "127.0.0.1:27017,127.0.0.1","port": "27017","name": "shanhaitbkfflow","user":"","pwd":"" }
     },
     "redis": {
-        "ph":{"host": "redis7","port": "6379","passwd": "vndevs"},
-        "yw1":{"host": "redis7","port": "6379","passwd": "vndevs"}
+        "ph":{"host": "127.0.0.1","port": "6379","passwd": "vndevs"},
+        "yw1":{"host": "127.0.0.1","port": "6379","passwd": "vndevs"}
     },
     "gamePort":3030,
     "adminPort":4030
 }
-

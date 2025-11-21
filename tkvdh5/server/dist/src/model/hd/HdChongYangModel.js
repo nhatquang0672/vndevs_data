@@ -163,7 +163,7 @@ class HdChongYangModel extends AModel_1.AModel {
     async hdCyTask(dc) {
         let cfg = await this.getHdCfg();
         if (cfg == null || this.ctx.state.newTime >= cfg.info.eAt) {
-            this.ctx.throw("活动已结束");
+            this.ctx.throw("HdChongYang 活动已结束");
         }
         if (cfg.data.task[dc] == null) {
             this.ctx.throw("参数错误");
@@ -186,7 +186,7 @@ class HdChongYangModel extends AModel_1.AModel {
     async hdCyCj(dc) {
         let cfg = await this.getHdCfg();
         if (cfg == null || this.ctx.state.newTime >= cfg.info.eAt) {
-            this.ctx.throw("活动已结束");
+            this.ctx.throw("HdChongYang 活动已结束");
         }
         if (cfg.data.chengjiu[dc] == null) {
             this.ctx.throw("参数错误");
@@ -208,7 +208,7 @@ class HdChongYangModel extends AModel_1.AModel {
     async hdCyGift(dc) {
         let cfg = await this.getHdCfg();
         if (cfg == null || this.ctx.state.newTime >= cfg.info.eAt) {
-            this.ctx.throw("活动已结束");
+            this.ctx.throw("HdChongYang 活动已结束");
         }
         if (cfg.data.gift[dc] == null) {
             this.ctx.throw("参数错误");
@@ -233,7 +233,7 @@ class HdChongYangModel extends AModel_1.AModel {
     async hdCyXuan(dc, xb) {
         let cfg = await this.getHdCfg();
         if (cfg == null || this.ctx.state.newTime > cfg.info.eAt) {
-            this.ctx.throw("活动已结束");
+            this.ctx.throw("HdChongYang 活动已结束");
         }
         if (cfg.data.dajiang[dc] == null) {
             this.ctx.throw("参数错误");
@@ -260,7 +260,7 @@ class HdChongYangModel extends AModel_1.AModel {
     async hdCyChou() {
         let cfg = await this.getHdCfg();
         if (cfg == null || this.ctx.state.newTime > cfg.info.eAt) {
-            this.ctx.throw("活动已结束");
+            this.ctx.throw("HdChongYang 活动已结束");
         }
         //出游消耗道具茱萸。
         await this.ctx.state.master.subItem1(cfg.data.need); //扣除道具
@@ -424,7 +424,7 @@ class HdChongYangModel extends AModel_1.AModel {
     async hdCyNext() {
         let cfg = await this.getHdCfg();
         if (cfg == null || this.ctx.state.newTime > cfg.info.eAt) {
-            this.ctx.throw("活动已结束");
+            this.ctx.throw("HdChongYang 活动已结束");
         }
         let info = await this.getInfo();
         if (info.isShow != 1) {
@@ -445,7 +445,7 @@ class HdChongYangModel extends AModel_1.AModel {
     async checkUp(dc) {
         let cfg = await this.getHdCfg();
         if (cfg == null || this.ctx.state.newTime > cfg.info.eAt) {
-            this.ctx.throw("活动已结束");
+            this.ctx.throw("HdChongYang 活动已结束");
         }
         if (cfg.data.gift[dc] == null) {
             this.ctx.throw("参数错误");
@@ -498,7 +498,7 @@ class HdChongYangModel extends AModel_1.AModel {
     async checkUp11(dc) {
         let cfg = await this.getHdCfg();
         if (cfg == null || this.ctx.state.newTime > cfg.info.eAt) {
-            this.ctx.throw("活动已结束");
+            this.ctx.throw("HdChongYang 活动已结束");
         }
         if (cfg.data.gift[dc] == null) {
             this.ctx.throw("参数错误");

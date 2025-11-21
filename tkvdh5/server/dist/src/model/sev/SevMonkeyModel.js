@@ -53,7 +53,7 @@ class SevMonkeyModel extends AModel_1.AModel {
         const cfg = (await this.getHdCfg());
         const info = await this.getInfo();
         if (cfg == null || this.ctx.state.newTime > cfg.info.eAt) {
-            this.ctx.throw("活动已结束");
+            this.ctx.throw("SevMonkeyModel 活动已结束");
         }
         return { info, cfg };
     }

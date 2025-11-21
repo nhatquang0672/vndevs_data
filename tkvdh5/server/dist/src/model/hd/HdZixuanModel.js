@@ -82,7 +82,7 @@ class HdZixuanModel extends AModel_1.AModel {
     async select(cs) {
         let cfg = await this.getHdCfg();
         if (cfg == null) {
-            this.ctx.throw("活动已结束");
+            this.ctx.throw("HdZixuanModel  活动已结束");
         }
         let info = await this.getInfo();
         for (const c of cs) {
@@ -118,7 +118,7 @@ class HdZixuanModel extends AModel_1.AModel {
     async mianfei(dc) {
         let cfg = await this.getHdCfg();
         if (cfg == null || this.ctx.state.newTime > cfg.info.eAt) {
-            this.ctx.throw("活动已结束");
+            this.ctx.throw("HdZixuanModel  活动已结束");
         }
         if (cfg.data.list[dc].need.length > 0) {
             await this.ctx.state.master.subItem1(cfg.data.list[dc].need);
@@ -154,7 +154,7 @@ class HdZixuanModel extends AModel_1.AModel {
     async checkUp(dc) {
         let cfg = await this.getHdCfg();
         if (cfg == null || this.ctx.state.newTime > cfg.info.eAt) {
-            this.ctx.throw("活动已结束");
+            this.ctx.throw("HdZixuanModel  活动已结束");
         }
         if (cfg.data.list[dc] == null || cfg.data.list[dc].need[0] != 10) {
             this.ctx.throw("不是充值档次");

@@ -138,7 +138,7 @@ class HdChumoModel extends AModel_1.AModel {
     async giftRwd(dc) {
         let cfg = (await this.getHdCfg());
         if (cfg == null || this.ctx.state.newTime > cfg.info.eAt) {
-            this.ctx.throw("活动已结束");
+            this.ctx.throw("HdChumoModel  活动已结束");
         }
         if (cfg.data.gift[dc] == null) {
             this.ctx.throw("参数错误");
@@ -166,7 +166,7 @@ class HdChumoModel extends AModel_1.AModel {
     async fight_one() {
         let cfg = (await this.getHdCfg());
         if (cfg == null || this.ctx.state.newTime > cfg.info.eAt) {
-            this.ctx.throw("活动已结束");
+            this.ctx.throw("HdChumoModel  活动已结束");
         }
         let info = await this.getInfo();
         if (cfg.data.list[info.nowId] == null) {
@@ -240,7 +240,7 @@ class HdChumoModel extends AModel_1.AModel {
     async checkUp(dc) {
         let cfg = await this.getHdCfg();
         if (cfg == null || this.ctx.state.newTime > cfg.info.eAt) {
-            this.ctx.throw("活动已结束");
+            this.ctx.throw("HdChumoModel  活动已结束");
         }
         if (cfg.data.gift[dc] == null) {
             this.ctx.throw("参数错误");

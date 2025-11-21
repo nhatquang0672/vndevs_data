@@ -150,7 +150,7 @@ class HdShanheModel extends AModel_1.AModel {
     async hdShLeiji(dc) {
         let cfg = await this.getHdCfg();
         if (cfg == null || this.ctx.state.newTime >= cfg.info.eAt) {
-            this.ctx.throw("活动已结束");
+            this.ctx.throw("HdShanhelModel  活动已结束");
         }
         if (cfg.data.leiji[dc] == null) {
             this.ctx.throw("参数错误");
@@ -178,7 +178,7 @@ class HdShanheModel extends AModel_1.AModel {
     async hdShGift(dc) {
         let cfg = await this.getHdCfg();
         if (cfg == null || this.ctx.state.newTime >= cfg.info.eAt) {
-            this.ctx.throw("活动已结束");
+            this.ctx.throw("HdShanhelModel  活动已结束");
         }
         if (cfg.data.gift[dc] == null) {
             this.ctx.throw("参数错误");
@@ -203,7 +203,7 @@ class HdShanheModel extends AModel_1.AModel {
     async hdShSign(dc) {
         let cfg = await this.getHdCfg();
         if (cfg == null || this.ctx.state.newTime >= cfg.info.eAt) {
-            this.ctx.throw("活动已结束");
+            this.ctx.throw("HdShanhelModel  活动已结束");
         }
         let info = await this.getInfo();
         let passDay = game_1.default.passDay(cfg.info.sAt);
@@ -226,7 +226,7 @@ class HdShanheModel extends AModel_1.AModel {
     async checkUp(dc) {
         let cfg = await this.getHdCfg();
         if (cfg == null || this.ctx.state.newTime > cfg.info.eAt) {
-            this.ctx.throw("活动已结束");
+            this.ctx.throw("HdShanhelModel  活动已结束");
         }
         if (cfg.data.gift[dc] == null) {
             this.ctx.throw("参数错误");
@@ -279,7 +279,7 @@ class HdShanheModel extends AModel_1.AModel {
     async checkUp11(dc) {
         let cfg = await this.getHdCfg();
         if (cfg == null || this.ctx.state.newTime > cfg.info.eAt) {
-            this.ctx.throw("活动已结束");
+            this.ctx.throw("HdShanhelModel  活动已结束");
         }
         if (cfg.data.gift[dc] == null) {
             this.ctx.throw("参数错误");
@@ -334,7 +334,7 @@ class HdShanheModel extends AModel_1.AModel {
     async fight_one() {
         let cfg = (await this.getHdCfg());
         if (cfg == null || this.ctx.state.newTime > cfg.info.eAt) {
-            this.ctx.throw("活动已结束");
+            this.ctx.throw("HdShanhelModel  活动已结束");
         }
         let info = await this.getInfo();
         if (cfg.data.chumo[info.nowId] == null) {
@@ -407,7 +407,7 @@ class HdShanheModel extends AModel_1.AModel {
     async choujiang(num) {
         let cfg = (await this.getHdCfg());
         if (cfg == null || this.ctx.state.newTime > cfg.info.eAt) {
-            this.ctx.throw("活动已结束");
+            this.ctx.throw("HdShanhelModel  活动已结束");
         }
         let subItemid = cfg.data.qingdian.need[1].toString();
         let actItemModel = ActItemModel_1.ActItemModel.getInstance(this.ctx, this.id);
