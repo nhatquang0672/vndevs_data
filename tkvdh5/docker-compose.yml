@@ -1,4 +1,4 @@
-name: tkvdh5-pod
+name: tkvdh5
 
 services:
   mongodb:
