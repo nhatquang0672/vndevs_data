@@ -1,0 +1,43 @@
+name: tkvdh5-pod
+
+services:
+  mongodb:
+    image: mongo:6.0.10
+    container_name: mongodb
+    restart: always
+    ports:
+      - "27017:27017"
+    # environment:
+    #   MONGO_INITDB_ROOT_USERNAME: root
+    #   MONGO_INITDB_ROOT_PASSWORD: root
+    volumes:
+      - mongo_data:/data/db
+
+  redis:
+    image: redis:7.2
+    container_name: redis
+    restart: always
+    ports:
+      - "6379:6379"
+    command: ["redis-server", "--appendonly", "yes"]
+    volumes:
+      - redis_data:/data
+
+  backend:
+    image: tkvdh5-backend
+    container_name: tkvdh5-backend
+    restart: always
+    ports:
+      - "3030:3030"             # backend port
+      - "4030:4030"             # admin port
+    depends_on:
+      - mongodb
+      - redis
+    # environment:
+    #   MONGO_URL: "mongodb://root:root@mongodb:27017"
+    #   REDIS_HOST: "redis"
+    #   REDIS_PORT: 6379
+
+volumes:
+  mongo_data:
+  redis_data:
