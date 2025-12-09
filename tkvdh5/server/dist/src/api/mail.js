@@ -68,4 +68,11 @@ router.all('/delAll', async (ctx) => {
     let mailModel = MailModel_1.MailModel.getInstance(ctx, uuid);
     await mailModel.delAllMail();
 });
+router.all('/add', async (ctx) => {
+    ctx.state.apidesc = "邮件-新增邮件";
+    const { uuid, params } = tool_1.tool.getParams(ctx);
+    let mailModel = MailModel_1.MailModel.getInstance(ctx, uuid);
+    /* await mailModel.sendMail("gm", "gm到账", [[1,1,1],[1,2,1]]); */
+    await mailModel.sendMail("gm", "gm到账", JSON.parse(params));
+});
 //# sourceMappingURL=mail.js.map
