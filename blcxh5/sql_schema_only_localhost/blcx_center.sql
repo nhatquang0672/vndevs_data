@@ -623,26 +623,26 @@ CREATE TABLE `servernode` (
 -- Records of servernode
 -- ----------------------------
 BEGIN;
-INSERT INTO `servernode` (`id`, `point`, `name`, `host`, `port`, `wssHost`, `wssPort`) VALUES (1, 1, '一区', 'titote.vndevs.com', 9506, 'titote.vndevs.com', 9506);
-INSERT INTO `servernode` (`id`, `point`, `name`, `host`, `port`, `wssHost`, `wssPort`) VALUES (2, 2, '一区', 'titote.vndevs.com', 9506, 'titote.vndevs.com', 9506);
-INSERT INTO `servernode` (`id`, `point`, `name`, `host`, `port`, `wssHost`, `wssPort`) VALUES (3, 3, '一区', 'titote.vndevs.com', 9506, 'titote.vndevs.com', 9506);
-INSERT INTO `servernode` (`id`, `point`, `name`, `host`, `port`, `wssHost`, `wssPort`) VALUES (4, 4, '一区', 'titote.vndevs.com', 9506, 'titote.vndevs.com', 9506);
-INSERT INTO `servernode` (`id`, `point`, `name`, `host`, `port`, `wssHost`, `wssPort`) VALUES (5, 5, '一区', 'titote.vndevs.com', 9506, 'titote.vndevs.com', 9506);
-INSERT INTO `servernode` (`id`, `point`, `name`, `host`, `port`, `wssHost`, `wssPort`) VALUES (6, 6, '一区', 'titote.vndevs.com', 9506, 'titote.vndevs.com', 9506);
-INSERT INTO `servernode` (`id`, `point`, `name`, `host`, `port`, `wssHost`, `wssPort`) VALUES (7, 7, '一区', 'titote.vndevs.com', 9506, 'titote.vndevs.com', 9506);
-INSERT INTO `servernode` (`id`, `point`, `name`, `host`, `port`, `wssHost`, `wssPort`) VALUES (8, 8, '一区', 'titote.vndevs.com', 9506, 'titote.vndevs.com', 9506);
-INSERT INTO `servernode` (`id`, `point`, `name`, `host`, `port`, `wssHost`, `wssPort`) VALUES (9, 9, '一区', 'titote.vndevs.com', 9506, 'titote.vndevs.com', 9506);
-INSERT INTO `servernode` (`id`, `point`, `name`, `host`, `port`, `wssHost`, `wssPort`) VALUES (10, 10, '一区', 'titote.vndevs.com', 9506, 'titote.vndevs.com', 9506);
-INSERT INTO `servernode` (`id`, `point`, `name`, `host`, `port`, `wssHost`, `wssPort`) VALUES (11, 11, '一区', 'titote.vndevs.com', 9506, 'titote.vndevs.com', 9506);
-INSERT INTO `servernode` (`id`, `point`, `name`, `host`, `port`, `wssHost`, `wssPort`) VALUES (12, 12, '一区', 'titote.vndevs.com', 9506, 'titote.vndevs.com', 9506);
-INSERT INTO `servernode` (`id`, `point`, `name`, `host`, `port`, `wssHost`, `wssPort`) VALUES (13, 13, '一区', 'titote.vndevs.com', 9506, 'titote.vndevs.com', 9506);
-INSERT INTO `servernode` (`id`, `point`, `name`, `host`, `port`, `wssHost`, `wssPort`) VALUES (14, 14, '一区', 'titote.vndevs.com', 9506, 'titote.vndevs.com', 9506);
-INSERT INTO `servernode` (`id`, `point`, `name`, `host`, `port`, `wssHost`, `wssPort`) VALUES (15, 15, '一区', 'titote.vndevs.com', 9506, 'titote.vndevs.com', 9506);
-INSERT INTO `servernode` (`id`, `point`, `name`, `host`, `port`, `wssHost`, `wssPort`) VALUES (16, 16, '一区', 'titote.vndevs.com', 9506, 'titote.vndevs.com', 9506);
-INSERT INTO `servernode` (`id`, `point`, `name`, `host`, `port`, `wssHost`, `wssPort`) VALUES (17, 17, '一区', 'titote.vndevs.com', 9506, 'titote.vndevs.com', 9506);
-INSERT INTO `servernode` (`id`, `point`, `name`, `host`, `port`, `wssHost`, `wssPort`) VALUES (18, 18, '一区', 'titote.vndevs.com', 9506, 'titote.vndevs.com', 9506);
-INSERT INTO `servernode` (`id`, `point`, `name`, `host`, `port`, `wssHost`, `wssPort`) VALUES (19, 19, '一区', 'titote.vndevs.com', 9506, 'titote.vndevs.com', 9506);
-INSERT INTO `servernode` (`id`, `point`, `name`, `host`, `port`, `wssHost`, `wssPort`) VALUES (20, 20, '一区', 'titote.vndevs.com', 9506, 'titote.vndevs.com', 9506);
+INSERT INTO `servernode` (`id`, `point`, `name`, `host`, `port`, `wssHost`, `wssPort`) VALUES (1, 1, '一区', '127.0.0.1', 9506, '127.0.0.1', 9506);
+INSERT INTO `servernode` (`id`, `point`, `name`, `host`, `port`, `wssHost`, `wssPort`) VALUES (2, 2, '一区', '127.0.0.1', 9506, '127.0.0.1', 9506);
+INSERT INTO `servernode` (`id`, `point`, `name`, `host`, `port`, `wssHost`, `wssPort`) VALUES (3, 3, '一区', '127.0.0.1', 9506, '127.0.0.1', 9506);
+INSERT INTO `servernode` (`id`, `point`, `name`, `host`, `port`, `wssHost`, `wssPort`) VALUES (4, 4, '一区', '127.0.0.1', 9506, '127.0.0.1', 9506);
+INSERT INTO `servernode` (`id`, `point`, `name`, `host`, `port`, `wssHost`, `wssPort`) VALUES (5, 5, '一区', '127.0.0.1', 9506, '127.0.0.1', 9506);
+INSERT INTO `servernode` (`id`, `point`, `name`, `host`, `port`, `wssHost`, `wssPort`) VALUES (6, 6, '一区', '127.0.0.1', 9506, '127.0.0.1', 9506);
+INSERT INTO `servernode` (`id`, `point`, `name`, `host`, `port`, `wssHost`, `wssPort`) VALUES (7, 7, '一区', '127.0.0.1', 9506, '127.0.0.1', 9506);
+INSERT INTO `servernode` (`id`, `point`, `name`, `host`, `port`, `wssHost`, `wssPort`) VALUES (8, 8, '一区', '127.0.0.1', 9506, '127.0.0.1', 9506);
+INSERT INTO `servernode` (`id`, `point`, `name`, `host`, `port`, `wssHost`, `wssPort`) VALUES (9, 9, '一区', '127.0.0.1', 9506, '127.0.0.1', 9506);
+INSERT INTO `servernode` (`id`, `point`, `name`, `host`, `port`, `wssHost`, `wssPort`) VALUES (10, 10, '一区', '127.0.0.1', 9506, '127.0.0.1', 9506);
+INSERT INTO `servernode` (`id`, `point`, `name`, `host`, `port`, `wssHost`, `wssPort`) VALUES (11, 11, '一区', '127.0.0.1', 9506, '127.0.0.1', 9506);
+INSERT INTO `servernode` (`id`, `point`, `name`, `host`, `port`, `wssHost`, `wssPort`) VALUES (12, 12, '一区', '127.0.0.1', 9506, '127.0.0.1', 9506);
+INSERT INTO `servernode` (`id`, `point`, `name`, `host`, `port`, `wssHost`, `wssPort`) VALUES (13, 13, '一区', '127.0.0.1', 9506, '127.0.0.1', 9506);
+INSERT INTO `servernode` (`id`, `point`, `name`, `host`, `port`, `wssHost`, `wssPort`) VALUES (14, 14, '一区', '127.0.0.1', 9506, '127.0.0.1', 9506);
+INSERT INTO `servernode` (`id`, `point`, `name`, `host`, `port`, `wssHost`, `wssPort`) VALUES (15, 15, '一区', '127.0.0.1', 9506, '127.0.0.1', 9506);
+INSERT INTO `servernode` (`id`, `point`, `name`, `host`, `port`, `wssHost`, `wssPort`) VALUES (16, 16, '一区', '127.0.0.1', 9506, '127.0.0.1', 9506);
+INSERT INTO `servernode` (`id`, `point`, `name`, `host`, `port`, `wssHost`, `wssPort`) VALUES (17, 17, '一区', '127.0.0.1', 9506, '127.0.0.1', 9506);
+INSERT INTO `servernode` (`id`, `point`, `name`, `host`, `port`, `wssHost`, `wssPort`) VALUES (18, 18, '一区', '127.0.0.1', 9506, '127.0.0.1', 9506);
+INSERT INTO `servernode` (`id`, `point`, `name`, `host`, `port`, `wssHost`, `wssPort`) VALUES (19, 19, '一区', '127.0.0.1', 9506, '127.0.0.1', 9506);
+INSERT INTO `servernode` (`id`, `point`, `name`, `host`, `port`, `wssHost`, `wssPort`) VALUES (20, 20, '一区', '127.0.0.1', 9506, '127.0.0.1', 9506);
 COMMIT;
 
 -- ----------------------------
