@@ -7,8 +7,8 @@ echo "[INFO] Starting blcx-center on port ${CENTER_PORT}..."
 cd /app/blcx-center
 nohup java -jar blcx-center.jar > /app/blcx-center.log 2>&1 &
 
-echo "[INFO] Waiting 5 seconds for blcx-center to initialize..."
-sleep 5
+echo "[INFO] Waiting 10 seconds for blcx-center to initialize..."
+sleep 10 
 
 echo "[INFO] Starting blcx-server on port ${SERVER_PORT}..."
 cd /app/blcx-server
